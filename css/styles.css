@@ -1844,6 +1844,36 @@ h2 {
   margin-top: 0.5rem;
 }
 
+.footer-social-list {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.footer-social-link {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.65rem;
+  color: var(--blue);
+  font-weight: 500;
+}
+
+.footer-social-link:hover {
+  text-decoration: underline;
+}
+
+.footer-social-icon {
+  display: inline-flex;
+  width: 36px;
+  height: 36px;
+  flex-shrink: 0;
+  align-items: center;
+  justify-content: center;
+  border-radius: 50%;
+  background: var(--white);
+  color: var(--text-dark);
+}
+
 .footer-social a {
   display: inline-flex;
   width: 36px;
@@ -1866,7 +1896,7 @@ h2 {
   color: var(--text-muted);
 }
 
-/* WhatsApp */
+/* WhatsApp float */
 .whatsapp-float {
   position: fixed;
   bottom: 1.25rem;
@@ -1874,23 +1904,29 @@ h2 {
   z-index: 150;
   display: flex;
   align-items: center;
-  gap: 0.65rem;
+  justify-content: center;
+  width: 48px;
+  height: 48px;
   background: var(--whatsapp);
   color: var(--white);
-  padding: 0.8rem 1.15rem;
-  border-radius: 999px;
-  font-weight: 600;
-  font-size: 0.88rem;
-  box-shadow: 0 4px 16px rgba(37, 211, 102, 0.4);
-  transition: transform 0.2s;
+  border-radius: 50%;
+  box-shadow: var(--shadow-lg);
+  transition: transform 0.2s, box-shadow 0.2s;
 }
 
-.whatsapp-float:hover { transform: translateY(-2px); }
+.whatsapp-float:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 14px 32px rgba(37, 211, 102, 0.35);
+}
 
 .whatsapp-float svg {
-  width: 22px;
-  height: 22px;
+  width: 24px;
+  height: 24px;
   flex-shrink: 0;
+}
+
+body.has-sticky-cta .whatsapp-float {
+  bottom: calc(var(--sticky-cta-h) + 0.75rem);
 }
 
 /* Scroll top */
@@ -2008,13 +2044,6 @@ body.has-sticky-cta .scroll-top {
   .gallery-masonry { columns: 1; }
   .gallery-carousel-btn { display: none; }
   .gallery-carousel-slide { aspect-ratio: 3/4; }
-
-  .whatsapp-float span { display: none; }
-
-  .whatsapp-float {
-    padding: 0.85rem;
-    border-radius: 50%;
-  }
 
   .distances-grid { grid-template-columns: 1fr 1fr; }
 
