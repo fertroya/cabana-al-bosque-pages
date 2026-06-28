@@ -25,13 +25,13 @@
   const LINKS = {
     es: {
       airbnb: "https://www.airbnb.com.ar/rooms/1107341934099853545",
-      booking: "https://www.booking.com/hotel/ar/hermosa-cabana-al-bosque-en-bariloche.html",
+      booking: "https://www.booking.com/hotel/ar/family-cabin-facing-the-woods.es-ar.html",
       whatsapp:
         "https://wa.me/5492944148173?text=Hola%2C%20quiero%20reservar%20directamente%20con%20ustedes",
     },
     en: {
       airbnb: "https://www.airbnb.com/rooms/1107341934099853545",
-      booking: "https://www.booking.com/hotel/ar/hermosa-cabana-al-bosque-en-bariloche.html",
+      booking: "https://www.booking.com/hotel/ar/family-cabin-facing-the-woods.es-ar.html",
       whatsapp:
         "https://wa.me/5492944148173?text=Hi%2C%20I%27d%20like%20to%20book%20directly%20with%20you",
     },
