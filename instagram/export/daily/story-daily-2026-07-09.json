@@ -1,0 +1,19 @@
+{
+  "id": "story-daily-2026-07-09",
+  "format": "video",
+  "hasAudio": false,
+  "musicTrack": null,
+  "musicSource": "none",
+  "musicReason": "Dado que el copy menciona 'refugio de descanso', 'desconectar' y 'silencio del bosque', una melodía de piano suave es la que mejor acompaña visualmente un detalle de baño y la sensación de calma matutina en la montaña.",
+  "copySource": "ollama",
+  "mode": "para-quien",
+  "usesWeather": false,
+  "photo": "galeria/img-9247.jpg",
+  "theme": "cabaña",
+  "weather": null,
+  "weatherBadge": null,
+  "title": "Tu refugio de descanso",
+  "subtitle": "La comodidad de nuestras camas blancas te invita a desconectar y disfrutar del silencio del bosque.",
+  "eyebrow": "Cabaña al Bosque · jueves 9 jul",
+  "cta": "Reservá → link en bio"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "story-daily-2026-07-07",
+  "format": "video",
+  "hasAudio": true,
+  "musicTrack": "ambient-cabin-piano.mp3",
+  "musicSource": "ollama",
+  "musicReason": "El piano suave y cálido combina perfectamente con la calma de la cocina, el interior acogedor y el momento del desayuno.",
+  "copySource": "ollama",
+  "mode": "detalle",
+  "usesWeather": false,
+  "photo": "galeria/img-9312.jpg",
+  "theme": "cabaña",
+  "weather": null,
+  "weatherBadge": null,
+  "title": "Desayunos con vista al bosque",
+  "subtitle": "La luz que entra por el ventanal convierte cada mañana en la cocina en un momento de calma absoluta.",
+  "eyebrow": "Cabaña al Bosque · martes 7 jul",
+  "cta": "Reservá → link en bio"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "story-daily-2026-07-05",
+  "format": "video",
+  "hasAudio": true,
+  "musicTrack": "cozy-evening.mp3",
+  "musicSource": "fallback",
+  "musicReason": "fallback por tema y clima",
+  "copySource": "fallback",
+  "mode": "micro-historia",
+  "usesWeather": false,
+  "photo": "galeria/cuarto-chicos.jpg",
+  "theme": "cabaña",
+  "weather": null,
+  "weatherBadge": null,
+  "title": "Un instante",
+  "subtitle": "Dejás la valija en el living y, por un segundo, Bariloche entero puede esperar.",
+  "eyebrow": "Cabaña al Bosque · domingo, 5 jul",
+  "cta": "Reservá → link en bio"
+}
