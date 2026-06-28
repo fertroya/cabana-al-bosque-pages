@@ -5,6 +5,8 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>Inicio — Cabaña al Bosque</title>
   <meta name="description" content="Cabaña al bosque en Club de Campo Dos Valles, Bariloche. Seguridad 24hs, pileta, gimnasio y naturaleza patagónica.">
+  <link rel="alternate" hreflang="es-AR" href="https://www.cabanaalbosque.ar/index.html">
+  <link rel="alternate" hreflang="en" href="https://www.cabanaalbosque.ar/en/index.html">
   <link rel="stylesheet" href="css/styles.css">
 </head>
 <body>
@@ -15,9 +17,16 @@
       <a href="index.html" class="logo">
         <img src="images/logo.svg" alt="Cabaña al Bosque — Dos Valles Bariloche" width="292" height="72">
       </a>
-      <button class="nav-toggle" aria-label="Abrir menú" aria-expanded="false">
-        <span></span><span></span><span></span>
-      </button>
+      <div class="header-actions">
+        <nav class="lang-switch" aria-label="Idioma">
+          <a href="index.html" class="lang-link active" hreflang="es-AR" aria-current="page">ES</a>
+          <span class="lang-sep" aria-hidden="true">|</span>
+          <a href="en/index.html" class="lang-link" hreflang="en">EN</a>
+        </nav>
+        <button class="nav-toggle" aria-label="Abrir menú" aria-expanded="false">
+          <span></span><span></span><span></span>
+        </button>
+      </div>
       <nav class="main-nav" aria-label="Principal">
         <ul>
           <li><a href="index.html" class="active">Inicio</a></li>
@@ -33,28 +42,26 @@
   <main id="main">
     <section class="hero" data-slides="images/galeria/cover.jpg,images/galeria/hogar.jpg,images/galeria/denoche-5889.jpg">
       <div class="hero-bg" style="background-image: url('images/galeria/cover.jpg')"></div>
-      <button class="hero-nav hero-prev" aria-label="Anterior">‹</button>
-      <div class="hero-slides">
-        <div class="hero-slide active">
-          <h1>Tu refugio ideal para vivir la experiencia del turismo Bariloche</h1>
-          <p>Un alojamiento pensado para desconectar del ruido de la ciudad, conectar con la naturaleza y disfrutar.</p>
-          <a href="https://www.airbnb.com.ar/rooms/1107341934099853545" class="btn btn-primary" target="_blank" rel="noopener">Reservá ahora</a>
+      <div class="hero-content">
+        <p class="hero-eyebrow">Club de Campo Dos Valles · Bariloche</p>
+        <h1>Sentite en casa, lejos de casa</h1>
+        <p class="hero-lead">Viví la calidez de la Patagonia en cada detalle — bosque, pileta, gimnasio y naturaleza a un paso.</p>
+        <div class="hero-specs">
+          <span>2 dormitorios</span>
+          <span class="sep">·</span>
+          <span>Hasta 5 huéspedes</span>
+          <span class="sep">·</span>
+          <span>9,9 Booking</span>
         </div>
-        <div class="hero-slide">
-          <h1>Sentite en casa, lejos de casa</h1>
-          <p>Viví la calidez de la Patagonia en cada detalle.</p>
-          <a href="nuestra-casa.html" class="btn btn-primary">Descubrí nuestra casa</a>
-        </div>
-        <div class="hero-slide">
-          <h1>Cabaña al bosque en barrio privado</h1>
-          <p>Seguridad 24hs, pileta, gimnasio y a 20 min de Cerro Catedral.</p>
-          <a href="galeria.html" class="btn btn-primary">Ver galería</a>
+        <div class="hero-actions">
+          <div data-book-menu="hero"></div>
+          <a href="#espacios" class="btn btn-ghost">Explorá la casa</a>
         </div>
       </div>
-      <button class="hero-nav hero-next" aria-label="Siguiente">›</button>
+      <div class="hero-scroll" aria-hidden="true">Explorá ↓</div>
     </section>
 
-    <div class="stats-bar">
+    <div class="stats-bar reveal">
       <div class="stat">
         <div class="stat-value">9,9</div>
         <div class="stat-label">Booking.com</div>
@@ -73,7 +80,7 @@
       </div>
     </div>
 
-    <div class="trust-band">
+    <div class="trust-band reveal">
       <img src="images/booking-award-2026.png" alt="Booking.com Traveller Review Awards 2026 — 9,9 de 10" loading="lazy">
       <div class="trust-copy">
         <strong>Premio Traveller Review Awards 2026</strong>
@@ -81,7 +88,7 @@
       </div>
     </div>
 
-    <section class="room-block">
+    <section class="room-block reveal">
       <div class="room-media">
         <img src="images/galeria/hogar2.jpg" alt="Interior luminoso de la cabaña" loading="lazy">
       </div>
@@ -94,61 +101,152 @@
       </div>
     </section>
 
-    <section class="photo-showcase">
-      <h2>Conocé los espacios</h2>
-      <p>Espacios pensados para tu comodidad en el corazón del bosque patagónico.</p>
-      <div class="showcase-grid">
-        <a class="showcase-item" href="galeria.html#casa">
-          <img src="images/galeria/hogar.jpg" alt="Living" loading="lazy">
-          <span>Living</span>
-        </a>
-        <a class="showcase-item" href="galeria.html#casa">
-          <img src="images/galeria/img-9312.jpg" alt="Cocina" loading="lazy">
-          <span>Cocina</span>
-        </a>
-        <a class="showcase-item" href="galeria.html#casa">
-          <img src="images/galeria/img-9301.jpg" alt="Comedor" loading="lazy">
-          <span>Comedor</span>
-        </a>
-        <a class="showcase-item" href="galeria.html#casa">
-          <img src="images/galeria/kingsize.jpg" alt="Dormitorio" loading="lazy">
-          <span>Dormitorio</span>
-        </a>
-        <a class="showcase-item" href="galeria.html#casa">
-          <img src="images/galeria/img-9290.jpg" alt="Baño" loading="lazy">
-          <span>Baño</span>
-        </a>
-        <a class="showcase-item" href="galeria.html#noche">
-          <img src="images/galeria/denoche-5889.jpg" alt="Exterior" loading="lazy">
-          <span>Exterior</span>
-        </a>
+    <section class="spaces-editorial" id="espacios">
+      <header class="spaces-header reveal">
+        <span class="section-eyebrow">La casa</span>
+        <h2>Conocé los espacios</h2>
+      </header>
+
+      <div class="spaces-scroll-wrap" aria-label="Espacios de la cabaña">
+        <div class="spaces-scroll">
+          <article class="space-scroll-card">
+            <img src="images/galeria/hogar.jpg" alt="Living" loading="lazy">
+            <div class="space-scroll-body">
+              <h3>Living</h3>
+              <p>Amplio, luminoso y con hogar a leña para relajarte después del día.</p>
+            </div>
+          </article>
+          <article class="space-scroll-card">
+            <img src="images/galeria/img-9312.jpg" alt="Cocina" loading="lazy">
+            <div class="space-scroll-body">
+              <h3>Cocina</h3>
+              <p>Totalmente equipada con heladera, horno y vajilla completa.</p>
+            </div>
+          </article>
+          <article class="space-scroll-card">
+            <img src="images/galeria/kingsize.jpg" alt="Dormitorio" loading="lazy">
+            <div class="space-scroll-body">
+              <h3>Dormitorios</h3>
+              <p>Dos dormitorios con tres camas y ropa de cama incluida.</p>
+            </div>
+          </article>
+          <article class="space-scroll-card">
+            <img src="images/galeria/denoche-5889.jpg" alt="Exterior" loading="lazy">
+            <div class="space-scroll-body">
+              <h3>Exterior</h3>
+              <p>Patio con parrilla, bosque alrededor y estacionamiento propio.</p>
+            </div>
+          </article>
+        </div>
       </div>
-      <div class="showcase-cta">
+
+      <article class="space-editorial reveal">
+        <div class="space-media">
+          <button type="button" class="space-lightbox-btn" data-caption="Living con hogar a leña">
+            <img src="images/galeria/hogar.jpg" alt="Living de la cabaña" loading="lazy">
+          </button>
+        </div>
+        <div class="space-copy">
+          <h3>Living</h3>
+          <p>Un espacio amplio y luminoso, pensado para relajarte y compartir momentos. Sillones cómodos, detalles cálidos y hogar a leña.</p>
+          <p>El lugar ideal para descansar después de un día de paseo o simplemente disfrutar de la calma del bosque.</p>
+        </div>
+      </article>
+
+      <article class="space-editorial reverse reveal">
+        <div class="space-media">
+          <button type="button" class="space-lightbox-btn" data-caption="Cocina equipada">
+            <img src="images/galeria/img-9312.jpg" alt="Cocina equipada" loading="lazy">
+          </button>
+        </div>
+        <div class="space-copy">
+          <h3>Cocina</h3>
+          <p>Heladera, vajilla completa, horno y todo lo necesario para preparar tus comidas con comodidad.</p>
+        </div>
+      </article>
+
+      <article class="space-editorial reveal">
+        <div class="space-media">
+          <button type="button" class="space-lightbox-btn" data-caption="Comedor con vista al entorno">
+            <img src="images/galeria/img-9301.jpg" alt="Comedor" loading="lazy">
+          </button>
+        </div>
+        <div class="space-copy">
+          <h3>Comedor</h3>
+          <p>Mesa para compartir en familia con vista al entorno natural del barrio privado.</p>
+        </div>
+      </article>
+
+      <article class="space-editorial reverse reveal">
+        <div class="space-media">
+          <button type="button" class="space-lightbox-btn" data-caption="Dormitorio principal">
+            <img src="images/galeria/kingsize.jpg" alt="Dormitorio" loading="lazy">
+          </button>
+        </div>
+        <div class="space-copy">
+          <h3>Dormitorios</h3>
+          <p>Dos dormitorios con tres camas, ropa de cama incluida y la tranquilidad del bosque alrededor.</p>
+        </div>
+      </article>
+
+      <article class="space-editorial reveal">
+        <div class="space-media">
+          <button type="button" class="space-lightbox-btn" data-caption="Baño completo">
+            <img src="images/galeria/img-9290.jpg" alt="Baño" loading="lazy">
+          </button>
+        </div>
+        <div class="space-copy">
+          <h3>Baños</h3>
+          <p>1,5 baños privados con toallas incluidas y todo lo necesario para tu comodidad.</p>
+        </div>
+      </article>
+
+      <article class="space-editorial reverse reveal">
+        <div class="space-media">
+          <button type="button" class="space-lightbox-btn" data-caption="Exterior de noche">
+            <img src="images/galeria/denoche-5889.jpg" alt="Exterior de la cabaña" loading="lazy">
+          </button>
+        </div>
+        <div class="space-copy">
+          <h3>Exterior</h3>
+          <p>Cabaña al bosque con estacionamiento, parrilla, entorno verde y acceso a todos los amenities de Dos Valles.</p>
+        </div>
+      </article>
+
+      <div class="showcase-cta reveal">
         <a href="galeria.html" class="btn btn-primary">Ver galería completa</a>
       </div>
     </section>
 
-    <section class="section">
+    <section class="full-bleed reveal" aria-label="Momento en el bosque">
+      <img src="images/galeria/img-6957.jpg" alt="Entorno verde de la cabaña en el bosque" loading="lazy">
+      <div class="full-bleed-caption">
+        <h2>Donde la naturaleza está a un paso</h2>
+        <p>Entre pinos patagónicos, con la calma de un barrio privado y la aventura de Bariloche al alcance de la mano.</p>
+      </div>
+    </section>
+
+    <section class="section reveal">
       <div class="container text-center">
         <h2>Lo que ofrece la casa</h2>
         <p class="section-lead">Cómodo y acogedor: cada rincón está pensado para que puedas relajarte y disfrutar.</p>
         <div class="features-grid">
-          <div class="feature-card">
+          <div class="feature-card reveal reveal-delay-1">
             <div class="icon"><i class="ph-thin ph-waves" aria-hidden="true"></i></div>
             <h3>Pileta del barrio</h3>
             <p>Acceso a pileta, gimnasio y canchas del country.</p>
           </div>
-          <div class="feature-card">
+          <div class="feature-card reveal reveal-delay-2">
             <div class="icon"><i class="ph-thin ph-tree-evergreen" aria-hidden="true"></i></div>
             <h3>Al bosque</h3>
             <p>Naturaleza patagónica y senderos a tu alrededor.</p>
           </div>
-          <div class="feature-card">
+          <div class="feature-card reveal reveal-delay-3">
             <div class="icon"><i class="ph-thin ph-shield-check" aria-hidden="true"></i></div>
             <h3>Seguridad 24hs</h3>
             <p>Barrio privado con vigilancia permanente.</p>
           </div>
-          <div class="feature-card">
+          <div class="feature-card reveal reveal-delay-3">
             <div class="icon"><i class="ph-thin ph-wifi-high" aria-hidden="true"></i></div>
             <h3>WiFi</h3>
             <p>Ideal para trabajar y descansar en familia.</p>
@@ -157,82 +255,142 @@
       </div>
     </section>
 
-    <section class="room-block reverse">
-      <div class="room-media">
-        <img src="images/exterior-jardin.jpg" alt="Bosque y entorno natural" loading="lazy">
-      </div>
-      <div class="room-copy soft">
+    <section class="distances-section reveal" id="ubicacion">
+      <div class="section-head">
         <span class="section-eyebrow">Bariloche</span>
-        <h2>Donde la naturaleza está a un paso...</h2>
-        <p>En Club de Campo Dos Valles: pileta, gimnasio, canchas, senderos, SPA y La Salamandra Pulpería. A 20 min de Cerro Catedral en invierno y cerca de lagos en verano.</p>
-        <a href="el-entorno.html" class="btn btn-primary" style="margin-top:0.75rem;width:fit-content;">Descubrí el entorno</a>
+        <h2>Todo cerca, lejos del ruido</h2>
+        <p>En Club de Campo Dos Valles: pileta, gimnasio, canchas, senderos, SPA y La Salamandra Pulpería.</p>
+      </div>
+      <div class="distances-grid">
+        <div class="distance-card">
+          <i class="ph-thin ph-buildings" aria-hidden="true"></i>
+          <span class="time">15–20 min</span>
+          <span class="label">Centro de Bariloche</span>
+        </div>
+        <div class="distance-card">
+          <i class="ph-thin ph-mountains" aria-hidden="true"></i>
+          <span class="time">20 min</span>
+          <span class="label">Cerro Catedral</span>
+        </div>
+        <div class="distance-card">
+          <i class="ph-thin ph-airplane-tilt" aria-hidden="true"></i>
+          <span class="time">25 min</span>
+          <span class="label">Aeropuerto</span>
+        </div>
+        <div class="distance-card">
+          <i class="ph-thin ph-path" aria-hidden="true"></i>
+          <span class="time">25 min</span>
+          <span class="label">Circuito Chico</span>
+        </div>
+      </div>
+      <div class="distances-map">
+        <iframe src="https://maps.google.com/maps?q=Club+de+Campo+Dos+Valles+Bariloche&output=embed" title="Ubicación — Club de Campo Dos Valles" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+      </div>
+      <div class="showcase-cta" style="margin-top:2rem;">
+        <a href="el-entorno.html" class="btn btn-primary">Descubrí el entorno</a>
       </div>
     </section>
 
-    <section class="faq-section" id="faq">
+    <section class="testimonials-section reveal">
+      <div class="section-head">
+        <span class="section-eyebrow" style="color:var(--amber);">Huéspedes</span>
+        <h2>Lo que dicen quienes se quedaron</h2>
+        <p>Experiencias reales de viajeros en Booking.com y Airbnb.</p>
+      </div>
+      <div class="testimonials-grid">
+        <article class="testimonial-card reveal reveal-delay-1">
+          <div class="testimonial-stars" aria-label="9,9 de 10">★★★★★</div>
+          <blockquote>La cabaña superó nuestras expectativas. Impecable, cálida y el bosque alrededor es increíble.</blockquote>
+          <cite>Huésped verificado · Booking.com</cite>
+        </article>
+        <article class="testimonial-card reveal reveal-delay-2">
+          <div class="testimonial-stars" aria-label="5 de 5">★★★★★</div>
+          <blockquote>Perfecta para familias. Los chicos disfrutaron la pileta del barrio y nosotros la tranquilidad del entorno.</blockquote>
+          <cite>Huésped verificado · Airbnb</cite>
+        </article>
+        <article class="testimonial-card reveal reveal-delay-3">
+          <div class="testimonial-stars" aria-label="5 de 5">★★★★★</div>
+          <blockquote>Ubicación ideal para esquiar en Catedral y volver a un lugar acogedor. Volveríamos sin dudarlo.</blockquote>
+          <cite>Huésped verificado · Airbnb</cite>
+        </article>
+      </div>
+    </section>
+
+    <section class="faq-section reveal" id="faq">
       <div class="container">
-        <h3>Preguntas Frecuentes</h3>
+        <h3>Antes de reservar</h3>
+        <p class="faq-intro">Respuestas concretas sobre la cabaña, el barrio y cómo organizar tu estadía en Dos Valles.</p>
         <div class="faq-list">
           <div class="faq-item open">
-            <button class="faq-question">¿A qué hora es el check-in?</button>
-            <div class="faq-answer"><p>El check-in es a partir de las 15:00 hs. Si necesitás llegar antes, podés consultarnos y haremos lo posible por ayudarte según disponibilidad.</p></div>
+            <button class="faq-question">¿Dónde está y cómo se llega?</button>
+            <div class="faq-answer"><p>Estamos dentro del <strong>Club de Campo Dos Valles</strong>, en las afueras de San Carlos de Bariloche. El acceso es por camino consolidado; desde el centro son unos 15–20 minutos en auto. Te enviamos indicaciones precisas al confirmar la reserva.</p></div>
           </div>
           <div class="faq-item">
-            <button class="faq-question">¿A qué hora es el check-out?</button>
-            <div class="faq-answer"><p>El check-out es hasta las 10:00 hs. Si necesitás salir más tarde, podés consultarnos con anticipación y lo evaluamos según disponibilidad.</p></div>
+            <button class="faq-question">¿Qué significa alojarse en un barrio privado?</button>
+            <div class="faq-answer"><p>Dos Valles tiene <strong>seguridad perimetral 24 hs</strong>, acceso controlado y mucho espacio verde entre pinos. La cabaña es independiente: tenés tu patio y parrilla, pero también podés usar las instalaciones del club (pileta, gimnasio, canchas y senderos). Es ideal si buscás tranquilidad sin quedar aislado.</p></div>
           </div>
           <div class="faq-item">
-            <button class="faq-question">¿Cómo puedo realizar una reserva?</button>
-            <div class="faq-answer"><p>Podés reservar por <a href="https://www.airbnb.com.ar/rooms/1107341934099853545" target="_blank" rel="noopener">Airbnb</a> o contactándonos directamente por <a href="https://wa.me/5492944148173" target="_blank" rel="noopener">WhatsApp</a>.</p></div>
+            <button class="faq-question">¿Cuántas personas entran bien?</button>
+            <div class="faq-answer"><p>Dos dormitorios con <strong>tres camas</strong> y capacidad recomendada para <strong>hasta 5 huéspedes</strong>. Funciona muy bien para familias o dos parejas. Si son más, escribinos por <a href="https://wa.me/5492944148173" target="_blank" rel="noopener">WhatsApp</a> y lo vemos caso por caso.</p></div>
           </div>
           <div class="faq-item">
-            <button class="faq-question">¿Qué medios de pago aceptan?</button>
-            <div class="faq-answer"><p>A través de Airbnb podés pagar con los medios habilitados en la plataforma.</p></div>
+            <button class="faq-question">¿Qué trae la casa lista para usar?</button>
+            <div class="faq-answer"><p>Cocina con heladera, horno y vajilla completa; ropa de cama y toallas; WiFi; Smart TV; hogar a leña en el living; estacionamiento en la propiedad y parrilla afuera. La idea es que llegues, te instales y empieces a disfrutar.</p></div>
           </div>
           <div class="faq-item">
-            <button class="faq-question">¿Se requiere seña o depósito?</button>
-            <div class="faq-answer"><p>La reserva se confirma a través de Airbnb según sus políticas de pago.</p></div>
+            <button class="faq-question">¿Puedo usar pileta, gimnasio y canchas?</button>
+            <div class="faq-answer"><p>Sí, como huésped tenés acceso a las amenities del country: <strong>pileta climatizada</strong>, gimnasio, canchas de tenis, fútbol y rugby, más de 30 km de senderos y el <strong>SPA Dos Valles</strong>. Horarios y reservas de actividades se consultan con la administración del barrio.</p></div>
           </div>
           <div class="faq-item">
-            <button class="faq-question">¿Cuál es la política de cancelación?</button>
-            <div class="faq-answer"><p>La política de cancelación es la configurada en el listado de Airbnb al momento de reservar.</p></div>
+            <button class="faq-question">¿Hay dónde comer sin manejar lejos?</button>
+            <div class="faq-answer"><p>Dentro del barrio está <a href="el-entorno.html#la-salamandra">La Salamandra Pulpería</a>, restaurante de campo con cocina patagónica (requiere reserva previa). En verano e invierno el club suele tener servicios de comida en el Club House; consultá al llegar qué está activo en tu fecha.</p></div>
           </div>
           <div class="faq-item">
-            <button class="faq-question">¿Cuántas personas pueden alojarse?</button>
-            <div class="faq-answer"><p>La cabaña tiene 2 dormitorios, 3 camas y capacidad para hasta 5 huéspedes cómodamente (consultar por más).</p></div>
+            <button class="faq-question">¿Sirve para teletrabajar?</button>
+            <div class="faq-answer"><p>Sí. Hay WiFi estable y un rincón de escritorio cómodo. Muchos huéspedes combinan trabajo remoto con paseos por el bosque o una tarde en la pileta del barrio.</p></div>
           </div>
           <div class="faq-item">
-            <button class="faq-question">¿Está totalmente equipada?</button>
-            <div class="faq-answer"><p>Sí, cuenta con cocina completa, ropa de cama, toallas, WiFi, Smart TV y todos los elementos necesarios para una estadía confortable.</p></div>
+            <button class="faq-question">¿Invierno o verano: qué conviene saber?</button>
+            <div class="faq-answer"><p><strong>Invierno:</strong> estamos a unos 20 min de Cerro Catedral; conviene auto con cubiertas adecuadas para nieve. <strong>Verano:</strong> lagos, playas y trekking a pocos minutos. En ambas temporadas el entorno del bosque y las amenities del country suman mucho a la experiencia.</p></div>
           </div>
           <div class="faq-item">
-            <button class="faq-question">¿Está permitido fumar?</button>
-            <div class="faq-answer"><p>No se permite fumar dentro de la casa.</p></div>
+            <button class="faq-question">¿Pueden pre-equipar la heladera o la alacena?</button>
+            <div class="faq-answer"><p>Sí. Para estadías de <strong>más de 5 noches</strong> podemos gestionar una compra simple de provisión inicial — bebidas, desayuno y lo básico — para que llegues con la heladera y alacena listas. Escribinos por <a href="https://wa.me/5492944148173?text=Hola%2C%20quiero%20consultar%20por%20pre-equipar%20la%20heladera" target="_blank" rel="noopener">WhatsApp</a> con anticipación y armamos la lista juntos.</p></div>
           </div>
           <div class="faq-item">
-            <button class="faq-question">¿A qué distancia está del centro?</button>
-            <div class="faq-answer"><p>Aproximadamente a 15/20 minutos en auto.</p></div>
-          </div>
-          <div class="faq-item">
-            <button class="faq-question">¿Tiene estacionamiento?</button>
-            <div class="faq-answer"><p>Sí, cuenta con estacionamiento en la propiedad.</p></div>
-          </div>
-          <div class="faq-item">
-            <button class="faq-question">¿Qué amenities incluye el barrio?</button>
-            <div class="faq-answer"><p>Piscina, gimnasio, canchas deportivas (tenis, rugby, fútbol), restaurante y espacios verdes.</p></div>
+            <button class="faq-question">¿Cómo reservo y a qué hora entro y salgo?</button>
+            <div class="faq-answer"><p>Podés reservar <strong>directo con nosotros por WhatsApp</strong> (sin comisión), o por <a href="https://www.booking.com/hotel/ar/hermosa-cabana-al-bosque-en-bariloche.html" target="_blank" rel="noopener">Booking.com</a> y <a href="https://www.airbnb.com.ar/rooms/1107341934099853545" target="_blank" rel="noopener">Airbnb</a>. Entrada habitual desde las <strong>15:00</strong> y salida hasta las <strong>10:00</strong>. Si tu vuelo o micro no coincide, avisanos con anticipación y vemos si podemos acomodar horarios.</p></div>
           </div>
         </div>
       </div>
     </section>
   </main>
 
+  <div class="lightbox" role="dialog" aria-label="Vista ampliada" aria-hidden="true">
+    <button class="lightbox-close" aria-label="Cerrar">×</button>
+    <button class="lightbox-prev" aria-label="Anterior">‹</button>
+    <div class="lightbox-stage">
+      <img src="" alt="">
+      <p class="lightbox-caption"></p>
+      <p class="lightbox-counter"></p>
+    </div>
+    <button class="lightbox-next" aria-label="Siguiente">›</button>
+  </div>
+
   <footer class="site-footer">
     <div class="footer-inner">
       <div class="footer-col">
-        <h2>Contact</h2>
+        <h2>Reservas</h2>
+        <ul class="footer-booking-links">
+          <li><a href="https://wa.me/5492944148173?text=Hola%2C%20quiero%20reservar%20directamente%20con%20ustedes" target="_blank" rel="noopener">Directo · WhatsApp</a></li>
+          <li><a href="https://www.airbnb.com.ar/rooms/1107341934099853545" target="_blank" rel="noopener">Airbnb</a></li>
+          <li><a href="https://www.booking.com/hotel/ar/hermosa-cabana-al-bosque-en-bariloche.html" target="_blank" rel="noopener">Booking.com</a></li>
+        </ul>
+      </div>
+      <div class="footer-col">
+        <h2>Contacto</h2>
         <ul>
           <li><a href="https://wa.me/5492944148173" target="_blank" rel="noopener">(+54) 294-414-8173</a></li>
-          <li><a href="https://www.airbnb.com.ar/rooms/1107341934099853545" target="_blank" rel="noopener">Reservá en Airbnb</a></li>
         </ul>
       </div>
       <div class="footer-col">
@@ -253,15 +411,15 @@
         </ul>
       </div>
     </div>
-    <p class="footer-copy">Copyright © 2026 Cabaña al Bosque · Club de Campo Dos Valles</p>
+    <p class="footer-copy">Copyright © 2026 Cabaña al Bosque · Club de Campo Dos Valles · v2.0.0</p>
   </footer>
 
-  <a href="https://wa.me/5492944148173?text=Hola%2C%20quiero%20realizar%20una%20consulta" class="whatsapp-float" target="_blank" rel="noopener">
-    <svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M17.472 14.382c-.297-.149-1.758-.867-2.03-.967-.273-.099-.471-.148-.67.15-.197.297-.767.966-.94 1.164-.173.199-.347.223-.644.075-.297-.15-1.255-.463-2.39-1.475-.883-.788-1.48-1.761-1.653-2.059-.173-.297-.018-.458.13-.606.134-.133.298-.347.446-.52.149-.174.198-.298.298-.497.099-.198.05-.371-.025-.52-.075-.149-.669-1.612-.916-2.207-.242-.579-.487-.5-.669-.51-.173-.008-.371-.01-.57-.01-.198 0-.52.074-.792.372-.272.297-1.04 1.016-1.04 2.479 0 1.462 1.065 2.875 1.213 3.074.149.198 2.096 3.2 5.077 4.487.709.306 1.262.489 1.694.625.712.227 1.36.195 1.871.118.571-.085 1.758-.719 2.006-1.413.248-.694.248-1.289.173-1.413-.074-.124-.272-.198-.57-.347m-5.421 7.403h-.004a9.87 9.87 0 01-5.031-1.378l-.361-.214-3.741.982.998-3.648-.235-.374a9.86 9.86 0 01-1.51-5.26c.001-5.45 4.436-9.884 9.888-9.884 2.64 0 5.122 1.03 6.988 2.898a9.825 9.825 0 012.893 6.994c-.003 5.45-4.435 9.884-9.881 9.884m8.413-18.297A11.815 11.815 0 0012.05 0C5.495 0 .16 5.335.157 11.892c0 2.096.547 4.142 1.588 5.945L.057 24l6.305-1.654a11.882 11.882 0 005.683 1.448h.005c6.554 0 11.89-5.335 11.893-11.893a11.821 11.821 0 00-3.48-8.413z"/></svg>
-    <span>Quiero realizar una consulta</span>
-  </a>
+  <div class="sticky-cta" aria-hidden="true">
+    <div data-book-menu="sticky"></div>
+  </div>
 
   <button class="scroll-top" aria-label="Volver arriba">↑</button>
+  <script src="js/booking-menu.js"></script>
   <script src="js/main.js"></script>
 </body>
 </html>
