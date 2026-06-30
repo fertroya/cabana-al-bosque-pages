@@ -1,0 +1,19 @@
+{
+  "id": "story-daily-2026-06-30",
+  "format": "video",
+  "hasAudio": true,
+  "musicTrack": "cozy-evening.mp3",
+  "musicSource": "fallback",
+  "musicReason": "fallback por tema y clima",
+  "copySource": "fallback",
+  "mode": "detalle",
+  "usesWeather": false,
+  "photo": "galeria/img-9237.jpg",
+  "theme": "cabaña",
+  "weather": null,
+  "weatherBadge": null,
+  "title": "Dormitorio con vista al cerro",
+  "subtitle": "El silencio del dormitorio se siente antes de apagar la luz. Es lo primero que ves cuando entrás.",
+  "eyebrow": "Cabaña al Bosque · martes, 30 jun",
+  "cta": "Reservá → link en bio"
+}
