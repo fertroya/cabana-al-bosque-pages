@@ -1,0 +1,19 @@
+{
+  "id": "story-daily-2026-07-01",
+  "format": "video",
+  "hasAudio": true,
+  "musicTrack": "cozy-evening.mp3",
+  "musicSource": "fallback",
+  "musicReason": "fallback por tema y clima",
+  "copySource": "fallback",
+  "mode": "tip-anfitrion",
+  "usesWeather": false,
+  "photo": "galeria/img-9285.jpg",
+  "theme": "cabaña",
+  "weather": null,
+  "weatherBadge": null,
+  "title": "Tip de anfitrión",
+  "subtitle": "Si está gris, encendé la luz cálida del living antes de bajar: te cambia toda la casa.",
+  "eyebrow": "Cabaña al Bosque · miércoles, 1 jul",
+  "cta": "Reservá → link en bio"
+}
