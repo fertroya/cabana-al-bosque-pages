@@ -1,8 +1,10 @@
 {
   "id": "story-daily-2026-07-02",
   "format": "video",
-  "hasAudio": false,
-  "musicTrack": null,
+  "hasAudio": true,
+  "musicTrack": "ambient-cabin-piano.mp3",
+  "musicSource": "fallback",
+  "musicReason": "fallback por tema y clima",
   "copySource": "fallback",
   "mode": "para-quien",
   "usesWeather": false,
@@ -11,7 +13,7 @@
   "weather": null,
   "weatherBadge": null,
   "title": "¿Para quién es?",
-  "subtitle": "Para familias o pareja: dos dormitorios, living amplio y bosque alrededor.",
+  "subtitle": "Si venís en familia o pareja: dos dormitorios, living amplio y bosque alrededor.",
   "eyebrow": "Cabaña al Bosque · jueves, 2 jul",
   "cta": "Reservá → link en bio"
 }
