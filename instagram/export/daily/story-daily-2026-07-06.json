@@ -1,0 +1,19 @@
+{
+  "id": "story-daily-2026-07-06",
+  "format": "video",
+  "hasAudio": true,
+  "musicTrack": "cozy-evening.mp3",
+  "musicSource": "fallback",
+  "musicReason": "fallback por tema y clima",
+  "copySource": "fallback",
+  "mode": "plan-dia",
+  "usesWeather": true,
+  "photo": "galeria/img-3069.jpg",
+  "theme": "cabaña",
+  "weather": "8° máx · -1° mín · Llovizna leve",
+  "weatherBadge": "lun, 6 jul · 8° máx · -1° mín · Llovizna leve",
+  "title": "Día de quedarte adentro",
+  "subtitle": "Con garúa y 8°, el living se siente refugio, y Dos Valles sigue afuera.",
+  "eyebrow": "Cabaña al Bosque · lunes, 6 jul",
+  "cta": "Reservá → link en bio"
+}
