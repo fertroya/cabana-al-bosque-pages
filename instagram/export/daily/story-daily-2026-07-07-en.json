@@ -1,6 +1,6 @@
 {
-  "id": "story-daily-2026-07-07",
-  "locale": "es",
+  "id": "story-daily-2026-07-07-en",
+  "locale": "en",
   "format": "video",
   "hasAudio": true,
   "musicTrack": "ambient-cabin-piano.mp3",
@@ -13,7 +13,7 @@
   "weather": null,
   "weatherBadge": null,
   "title": "Barra de desayuno",
-  "subtitle": "La cocina mira al verde y el desayuno se alarga sin apuro. Es lo primero que ves cuando entrás.",
-  "eyebrow": "Cabaña al Bosque · martes, 7 jul",
-  "cta": "Reservá → link en bio"
+  "subtitle": "It's the first thing you notice when you walk in — and you stay.",
+  "eyebrow": "Cabaña al Bosque · Tuesday, Jul 7",
+  "cta": "Book → link in bio"
 }
