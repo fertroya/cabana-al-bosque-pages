@@ -3,9 +3,9 @@
   "locale": "en",
   "format": "video",
   "hasAudio": true,
-  "musicTrack": "ambient-cabin-piano.mp3",
-  "musicSource": "fallback",
-  "copySource": "fallback",
+  "musicTrack": "inspiring-acoustic.mp3",
+  "musicSource": "ollama",
+  "copySource": "ollama",
   "mode": "tip-anfitrion",
   "layout": "top-focus",
   "usesWeather": false,
@@ -13,8 +13,8 @@
   "theme": "cabaña",
   "weather": null,
   "weatherBadge": null,
-  "title": "Host tip",
-  "subtitle": "If it's grey, switch on the warm living-room lights before heading down — it changes the whole cabin.",
+  "title": "Dining under the pines",
+  "subtitle": "Take your morning coffee or an afternoon snack outside to enjoy the crisp mountain air of Dos Valles.",
   "eyebrow": "Cabaña al Bosque · Wednesday, Jul 8",
   "cta": "Book → link in bio"
 }
