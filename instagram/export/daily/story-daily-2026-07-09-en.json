@@ -1,0 +1,20 @@
+{
+  "id": "story-daily-2026-07-09-en",
+  "locale": "en",
+  "format": "video",
+  "hasAudio": true,
+  "musicTrack": "ambient-cabin-piano.mp3",
+  "musicSource": "fallback",
+  "copySource": "fallback",
+  "mode": "para-quien",
+  "layout": "cinema-bar",
+  "usesWeather": false,
+  "photo": "galeria/instagrameables/img-9253.jpg",
+  "theme": "cabaña",
+  "weather": null,
+  "weatherBadge": null,
+  "title": "Who is it for?",
+  "subtitle": "Couples or families: two bedrooms, big living room, forest around the cabin inside Dos Valles.",
+  "eyebrow": "Cabaña al Bosque · Thursday, Jul 9",
+  "cta": "Book → link in bio"
+}
