@@ -1,0 +1,20 @@
+{
+  "id": "story-daily-2026-07-10",
+  "locale": "es",
+  "format": "video",
+  "hasAudio": true,
+  "musicTrack": "forest-ambient.mp3",
+  "musicSource": "fallback",
+  "copySource": "fallback",
+  "mode": "entorno",
+  "layout": "classic",
+  "usesWeather": false,
+  "photo": "galeria/instagrameables/exterior-jardin.jpg",
+  "theme": "exterior",
+  "weather": null,
+  "weatherBadge": null,
+  "title": "Jardín y bosque",
+  "subtitle": "Patio, parrilla y bosque: afuera empieza la experiencia Dos Valles.",
+  "eyebrow": "Cabaña al Bosque · viernes, 10 jul",
+  "cta": "Reservá → link en bio"
+}
