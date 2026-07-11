@@ -1,0 +1,20 @@
+{
+  "id": "story-daily-2026-07-11-en",
+  "locale": "en",
+  "format": "video",
+  "hasAudio": true,
+  "musicTrack": "ambient-cabin-piano.mp3",
+  "musicSource": "fallback",
+  "copySource": "fallback",
+  "mode": "pregunta",
+  "layout": "editorial-left",
+  "usesWeather": false,
+  "photo": "galeria/instagrameables/img-9253.jpg",
+  "theme": "cabaña",
+  "weather": null,
+  "weatherBadge": null,
+  "title": "Your escape",
+  "subtitle": "Long breakfast in the living room or early start to the mountain — which team are you?",
+  "eyebrow": "Cabaña al Bosque · Saturday, Jul 11",
+  "cta": "Book → link in bio"
+}
