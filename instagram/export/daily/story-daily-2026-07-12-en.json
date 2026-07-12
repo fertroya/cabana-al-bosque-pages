@@ -1,0 +1,20 @@
+{
+  "id": "story-daily-2026-07-12-en",
+  "locale": "en",
+  "format": "video",
+  "hasAudio": true,
+  "musicTrack": "soft-lullaby-piano.mp3",
+  "musicSource": "fallback",
+  "copySource": "fallback",
+  "mode": "micro-historia",
+  "layout": "classic",
+  "usesWeather": false,
+  "photo": "galeria/instagrameables/img-7837.jpg",
+  "theme": "cabaña",
+  "weather": null,
+  "weatherBadge": null,
+  "title": "A moment",
+  "subtitle": "You drop your bag in the living room and, for a second, all of Bariloche can wait.",
+  "eyebrow": "Cabaña al Bosque · Sunday, Jul 12",
+  "cta": "Book → link in bio"
+}
