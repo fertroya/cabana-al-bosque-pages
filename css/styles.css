@@ -2066,3 +2066,285 @@ body.has-sticky-cta .scroll-top {
 
   .collage-hide-sm { display: none; }
 }
+
+/* Tips de Anfitrión — guest contacts (mobile-first) */
+.tips-page {
+  min-height: 100dvh;
+  background:
+    radial-gradient(120% 80% at 100% 0%, rgba(196, 149, 106, 0.18), transparent 55%),
+    linear-gradient(180deg, #f7f3ed 0%, var(--mist) 45%, #efe8de 100%);
+  color: var(--text-dark);
+}
+
+.tips-header {
+  padding: max(1rem, env(safe-area-inset-top)) 1.25rem 0.75rem;
+  text-align: center;
+}
+
+.tips-brand {
+  display: inline-flex;
+}
+
+.tips-brand img {
+  width: min(180px, 55vw);
+  height: auto;
+  margin: 0 auto;
+  filter: brightness(0) saturate(100%) invert(18%) sepia(18%) saturate(700%) hue-rotate(70deg);
+}
+
+.tips-kicker {
+  margin: 0.65rem 0 0;
+  font-size: 0.72rem;
+  font-weight: 600;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+  color: var(--text-muted);
+}
+
+.tips-main {
+  max-width: 28rem;
+  margin: 0 auto;
+  padding: 0.5rem 1.15rem calc(1.75rem + env(safe-area-inset-bottom));
+}
+
+.tips-main h1 {
+  margin: 0;
+  font-family: var(--font-serif);
+  font-size: clamp(1.9rem, 7vw, 2.35rem);
+  font-weight: 600;
+  line-height: 1.15;
+  color: var(--forest-dark);
+  text-align: center;
+}
+
+.tips-lead {
+  margin: 0.55rem auto 1.15rem;
+  max-width: 22rem;
+  text-align: center;
+  font-size: 0.95rem;
+  line-height: 1.45;
+  color: var(--text-body);
+}
+
+.tips-wifi {
+  display: grid;
+  gap: 1rem;
+  margin: 0 0 1.15rem;
+  padding: 1.15rem 1.15rem 1.25rem;
+  border-radius: 1.35rem;
+  background: rgba(255, 255, 255, 0.9);
+  border: 1px solid rgba(92, 74, 58, 0.12);
+  box-shadow: 0 10px 28px rgba(30, 43, 31, 0.07);
+  text-align: center;
+}
+
+.tips-wifi-copy h2 {
+  margin: 0.15rem 0 0.35rem;
+  font-family: var(--font-serif);
+  font-size: 1.55rem;
+  font-weight: 600;
+  line-height: 1.15;
+  color: var(--forest-dark);
+}
+
+.tips-wifi-copy p {
+  margin: 0;
+  font-size: 0.9rem;
+  line-height: 1.4;
+  color: var(--text-muted);
+}
+
+.tips-wifi-qr {
+  margin: 0 auto;
+  width: min(11.5rem, 58vw);
+  padding: 0.65rem;
+  border-radius: 1rem;
+  background: #fff;
+  border: 1px solid rgba(92, 74, 58, 0.1);
+}
+
+.tips-wifi-qr img {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+
+.tips-wifi-creds {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 0.65rem;
+  margin: 0;
+}
+
+.tips-wifi-creds > div {
+  padding: 0.7rem 0.65rem;
+  border-radius: 0.9rem;
+  background: rgba(245, 241, 235, 0.85);
+}
+
+.tips-wifi-creds dt {
+  margin: 0 0 0.2rem;
+  font-size: 0.68rem;
+  font-weight: 700;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  color: var(--text-muted);
+}
+
+.tips-wifi-creds dd {
+  margin: 0;
+  font-size: 1rem;
+  font-weight: 700;
+  color: var(--forest-dark);
+  word-break: break-all;
+}
+
+.tips-wifi-creds code {
+  font-family: inherit;
+  font-size: inherit;
+  font-weight: inherit;
+  letter-spacing: 0.04em;
+}
+
+.tips-list {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: grid;
+  gap: 0.85rem;
+}
+
+.tips-pill {
+  display: grid;
+  gap: 0.85rem;
+  padding: 1.1rem 1.15rem 1.15rem;
+  border-radius: 1.35rem;
+  background: rgba(255, 255, 255, 0.82);
+  border: 1px solid rgba(92, 74, 58, 0.12);
+  box-shadow: 0 10px 28px rgba(30, 43, 31, 0.07);
+}
+
+.tips-pill-head {
+  display: flex;
+  align-items: center;
+  gap: 0.85rem;
+}
+
+.tips-pill-logo {
+  width: 4.25rem;
+  height: auto;
+  flex-shrink: 0;
+  border-radius: 0.65rem;
+  background: #fff;
+}
+
+.tips-pill-label {
+  display: block;
+  font-size: 0.68rem;
+  font-weight: 700;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  color: var(--amber);
+  margin-bottom: 0.2rem;
+}
+
+.tips-pill strong {
+  display: block;
+  font-family: var(--font-serif);
+  font-size: 1.45rem;
+  font-weight: 600;
+  line-height: 1.15;
+  color: var(--forest-dark);
+}
+
+.tips-pill-note {
+  display: block;
+  margin-top: 0.25rem;
+  font-size: 0.86rem;
+  color: var(--text-muted);
+}
+
+.tips-pill-actions {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 0.55rem;
+}
+
+.tips-pill-actions:has(> :only-child) {
+  grid-template-columns: 1fr;
+}
+
+.tips-pill-actions--3 {
+  grid-template-columns: 1fr 1fr 1fr;
+}
+
+.tips-btn {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 3.15rem;
+  padding: 0.75rem 0.9rem;
+  border-radius: 999px;
+  font-size: 0.92rem;
+  font-weight: 700;
+  letter-spacing: 0.02em;
+  transition: transform 0.15s ease, filter 0.15s ease;
+  -webkit-tap-highlight-color: transparent;
+}
+
+.tips-btn:active {
+  transform: scale(0.98);
+}
+
+.tips-btn-wa {
+  background: var(--whatsapp);
+  color: #fff;
+}
+
+.tips-btn-ig {
+  background: var(--forest-dark);
+  color: #fff;
+}
+
+.tips-btn-menu {
+  background: #c45c26;
+  color: #fff;
+}
+
+.tips-btn-web {
+  background: #3d6b4f;
+  color: #fff;
+}
+
+.tips-btn-maps {
+  background: #1a73e8;
+  color: #fff;
+}
+
+.tips-footer-note {
+  margin: 1.5rem 0 0;
+  text-align: center;
+  font-size: 0.82rem;
+  color: var(--text-muted);
+}
+
+.tips-footer-note a {
+  color: var(--forest);
+  font-weight: 600;
+  text-decoration: underline;
+  text-underline-offset: 0.15em;
+}
+
+@media (min-width: 640px) {
+  .tips-main {
+    padding-top: 1rem;
+  }
+
+  .tips-pill {
+    padding: 1.25rem 1.35rem;
+  }
+
+  .tips-btn:hover {
+    filter: brightness(1.05);
+  }
+}

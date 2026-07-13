@@ -1,0 +1,101 @@
+{
+  "date": "2026-07-09",
+  "generated_at": "2026-07-09T13:36:46.824Z",
+  "copySource": "ollama",
+  "season": "Alta temporada invierno / nieve",
+  "weather": "6° máx · 1° mín · Llovizna",
+  "options": [
+    {
+      "angulo": "evento_estacional",
+      "gancho": "Llovizna afuera, refugio adentro.",
+      "caption": "No hay nada como el sonido de la lluvia sobre el techo cuando estás bien abrigado. En estos días de invierno, Bariloche se pone especial y la cabaña es el lugar ideal para quedarte tranquilo. Encendé el fuego, prepará un buen mate y disfrutá del silencio del bosque sin que el frío te moleste. Estamos a solo 20 minutos de Cerro Catedral, así que podés esquiar y después volver a este rincón de paz para desconectar de todo.",
+      "hashtags": [
+        "#CabañaAlBosque",
+        "#Bariloche",
+        "#PatagoniaArgentina",
+        "#InviernoEnBariloche",
+        "#CerroCatedral",
+        "#TurismoBariloche",
+        "#EscapadaDeInvierno",
+        "#Nieve",
+        "#RefugioEnElBosque",
+        "#RíoNegro",
+        "#VacacionesDeInvierno",
+        "#Montaña",
+        "#Paz",
+        "#Naturaleza",
+        "#BarilocheCity"
+      ],
+      "cta": "Reservá tu lugar en el paraíso acá: https://wa.me/5492944148173 o por Airbnb.",
+      "sugerencia_visual": {
+        "path": "galeria/instagrameables/hogar2.jpg",
+        "tipo": "Living con chimenea de piedra"
+      },
+      "mejor_dia_horario_sugerido": "Viernes 19:00 AR",
+      "status": "generated",
+      "revision": 0
+    },
+    {
+      "angulo": "amenity",
+      "gancho": "Seguridad y confort en el corazón del bosque.",
+      "caption": "Estar en un club de campo te da esa tranquilidad que no se encuentra en cualquier lado. En Cabaña al Bosque, tenés la seguridad de un predio privado 24hs y el acceso a las instalaciones de Club de Campo Dos Valles. Eso significa que podés disfrutar de sus canchas, senderos de trekking y la cercanía con La Salamandra Pulpería para comer algo rico después de un día de aventura. Vos solo preocupate por elegir qué camino tomar hoy.",
+      "hashtags": [
+        "#CabañaAlBosque",
+        "#DosValles",
+        "#ClubDeCampo",
+        "#Bariloche",
+        "#Seguridad",
+        "#Patagonia",
+        "#TurismoRioplatense",
+        "#HospedajeBariloche",
+        "#NaturalezaYDeporte",
+        "#TrekkingArgentina",
+        "#BarilocheTrekking",
+        "#MountainBikeBariloche",
+        "#ZonasExclusivas",
+        "#RefugioPrivado",
+        "#VacacionesSeguras"
+      ],
+      "cta": "Consultá disponibilidad por WhatsApp: https://wa.me/5492944148173",
+      "sugerencia_visual": {
+        "path": "galeria/instagrameables/img-0048.jpg",
+        "tipo": "Parrilla y leñera"
+      },
+      "mejor_dia_horario_sugerido": "Sábado 11:00 AR",
+      "status": "generated",
+      "revision": 0
+    },
+    {
+      "angulo": "storytelling",
+      "gancho": "Tu refugio privado en el bosque.",
+      "caption": "A veces, lo que más necesitás es un cambio de aire. Imaginate llegar después de un día largo, ver la luz del atardecer filtrándose entre los pinos y sentir el olor a madera quemada. La cabaña no es solo un lugar donde dormir; es ese rincón donde podés bajar las revoluciones, desconectar del ruido de la ciudad y conectar con lo que te gusta: el fuego, el bosque y el silencio de Dos Valles. Un espacio pensado para que vos te sientas en casa.",
+      "hashtags": [
+        "#CabañaAlBosque",
+        "#Bariloche",
+        "#PazInterior",
+        "#Desconexión",
+        "#PatagoniaArgentina",
+        "#TurismoNaturaleza",
+        "#Refugio",
+        "#EscapadaRomántica",
+        "#FamiliaEnBariloche",
+        "#RíoNegro",
+        "#VidaEnElBosque",
+        "#SlowLiving",
+        "#HogarLejosDelHogar",
+        "#MountainLife",
+        "#InstaBariloche"
+      ],
+      "cta": "Mirá las fotos y reservá en Airbnb: https://www.airbnb.com.ar/rooms/1107341934099853545",
+      "sugerencia_visual": {
+        "path": "galeria/instagrameables/denoche-9321.jpg",
+        "tipo": "Fogón en el patio"
+      },
+      "mejor_dia_horario_sugerido": "Domingo 18:00 AR",
+      "status": "generated",
+      "revision": 0
+    }
+  ],
+  "selected": null,
+  "published": null
+}

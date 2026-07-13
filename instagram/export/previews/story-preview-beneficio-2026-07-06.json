@@ -1,0 +1,14 @@
+{
+  "id": "story-preview-beneficio-2026-07-06",
+  "energy": "beneficio",
+  "energyLabel": "Beneficio claro",
+  "copySource": "ollama",
+  "photo": "galeria/instagrameables/hogar2.jpg",
+  "title": "Tu lugar para desconectar",
+  "subtitle": "Si buscás una escapada de pareja donde el frío se queda afuera y el living es el centro del plan.",
+  "eyebrow": "Cabaña al Bosque · lunes 6 jul",
+  "usesWeather": false,
+  "weatherBadge": null,
+  "musicTrack": "ambient-cabin-piano.mp3",
+  "file": "previews/story-preview-beneficio-2026-07-06.mp4"
+}

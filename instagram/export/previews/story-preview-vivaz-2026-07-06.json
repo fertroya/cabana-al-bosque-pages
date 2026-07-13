@@ -1,0 +1,14 @@
+{
+  "id": "story-preview-vivaz-2026-07-06",
+  "energy": "vivaz",
+  "energyLabel": "Vivaz",
+  "copySource": "ollama",
+  "photo": "galeria/instagrameables/hogar2.jpg",
+  "title": "Encendés el fuego y te quedás acá",
+  "subtitle": "Dejás las botas en la entrada, prendés la chimenea y te refugiás en el living mientras afuera cae la lluvia.",
+  "eyebrow": "Cabaña al Bosque · lunes 6 jul",
+  "usesWeather": true,
+  "weatherBadge": "lun, 6 jul · 8° máx · -1° mín · Llovizna leve",
+  "musicTrack": "sunny-stroll.mp3",
+  "file": "previews/story-preview-vivaz-2026-07-06.mp4"
+}

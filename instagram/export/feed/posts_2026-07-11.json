@@ -1,0 +1,104 @@
+{
+  "date": "2026-07-11",
+  "generated_at": "2026-07-09T14:27:33.823Z",
+  "copySource": "ollama",
+  "season": "Alta temporada invierno / nieve",
+  "weather": "6° máx · 1° mín · Nublado",
+  "options": [
+    {
+      "angulo": "evento_estacional",
+      "gancho": "Escapada de invierno en Bariloche.",
+      "caption": "Con este frío, el plan ideal es quedarte adentro mientras afuera cae la nieve. ❄️ En estas vacaciones de invierno, nada le gana a la sensación de entrar a la cabaña y sentir ese calorcito del living con la chimenea encendida. Estamos a solo 20 minutos del Cerro Catedral, así que podés disfrutar de la montaña y después volver al refugio para desconectar del ruido. Un mate caliente, el sonido del bosque y esa calma que solo Bariloche te da en julio.",
+      "hashtags": [
+        "#CabañaAlBosque",
+        "#Bariloche",
+        "#CerroCatedral",
+        "#VacacionesDeInvierno",
+        "#PatagoniaArgentina",
+        "#EscapadaInvierno",
+        "#TurismoBariloche",
+        "#Nieve",
+        "#RefugioEnElBosque",
+        "#RíoNegro",
+        "#Invierno2026",
+        "#Montaña",
+        "#Pinos",
+        "#DestinosArgentina",
+        "#BarilocheCity"
+      ],
+      "cta": "Reservá tu lugar para estas vacaciones por WhatsApp: https://wa.me/5492944148173 o mirá las fotos en nuestro Airbnb: https://www.airbnb.com.ar/rooms/110734193409985345",
+      "sugerencia_visual": {
+        "path": "galeria/instagrameables/hogar2.jpg",
+        "tipo": "cabaña · Living con chimenea de piedra"
+      },
+      "mejor_dia_horario_sugerido": "viernes 19:00 AR",
+      "status": "published",
+      "revision": 0,
+      "instagramMediaId": "17929260204122413",
+      "publishedImageUrl": "https://www.cabanaalbosque.ar/instagram/export/feed/media/hogar2.jpg?v=360340"
+    },
+    {
+      "angulo": "amenity",
+      "gancho": "Tu refugio seguro en el bosque.",
+      "caption": "Estar en una cabaña en un club de campo tiene algo especial. Además de la tranquilidad del entorno, contás con la seguridad de un barrio privado las 24 horas y el acceso a los beneficios del Club de Campo Dos Valles. Si después de un día de caminatas por los senderos o de esquiar te dan ganas de algo más, podés aprovechar el spa o la pileta del club para relajarte. Es el equilibrio justo entre la aventura en la naturaleza y la comodidad de tener todo cerca.",
+      "hashtags": [
+        "#CabañaAlBosque",
+        "#DosValles",
+        "#Bariloche",
+        "#ClubDeCampo",
+        "#Seguridad24hs",
+        "#TurismoPatagonia",
+        "#Refugio",
+        "#Naturaleza",
+        "#BarilocheArgentina",
+        "#Escapada",
+        "#PuebloUnico",
+        "#VidaEnElBosque",
+        "#MountainLovers",
+        "#RíoNegro",
+        "#ExperienciaBariloche"
+      ],
+      "cta": "Consultá disponibilidad y servicios por WhatsApp: https://wa.me/5492944148173",
+      "sugerencia_visual": {
+        "path": "galeria/instagrameables/img-0048.jpg",
+        "tipo": "exterior · Parrilla y leñera"
+      },
+      "mejor_dia_horario_sugerido": "martes 18:30 AR",
+      "status": "generated",
+      "revision": 0
+    },
+    {
+      "angulo": "storytelling",
+      "gancho": "El ritual del fuego bajo las estrellas.",
+      "caption": "Hay momentos que no necesitan mucha explicación. Como cuando cae la noche, el frío empieza a morder y vos te encontrás en el patio con el sonido de la leña crujiendo en el fogón. ✨ Es ese instante donde el tiempo se para y lo único que importa es el aroma del bosque y la paz de estar lejos de todo. Una invitación a bajar un cambio, respirar profundo y conectar con lo importante. Vení a vivirlo en tu próxima escapada.",
+      "hashtags": [
+        "#CabañaAlBosque",
+        "#Bariloche",
+        "#Fogón",
+        "#NocheEnElBosque",
+        "#PazInterior",
+        "#TurismoArgentina",
+        "#Patagonia",
+        "#RefugioDeInvierno",
+        "#EscapadaRomántica",
+        "#NaturalezaViva",
+        "#RíoNegro",
+        "#CabañasBariloche",
+        "#MomentosEspeciales",
+        "#SlowLiving",
+        "#VidaEnElBosque"
+      ],
+      "cta": "Reservá tu estadía aquí: https://www.airbnb.com.ar/rooms/110734193409985345 o escribinos al WhatsApp: https://wa.me/5492944148173",
+      "sugerencia_visual": {
+        "path": "galeria/instagrameables/denoche-9273.jpg",
+        "tipo": "noche · Fogón en el patio"
+      },
+      "mejor_dia_horario_sugerido": "domingo 19:00 AR",
+      "status": "generated",
+      "revision": 0
+    }
+  ],
+  "selected": 1,
+  "published": 1,
+  "published_at": "2026-07-09T14:34:19.707Z"
+}

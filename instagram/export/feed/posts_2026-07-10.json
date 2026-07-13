@@ -1,0 +1,110 @@
+{
+  "date": "2026-07-10",
+  "generated_at": "2026-07-09T11:18:30.499Z",
+  "copySource": "ollama",
+  "season": "Alta temporada invierno / nieve",
+  "weather": "4° máx · 1° mín · Nublado",
+  "options": [
+    {
+      "angulo": "evento_estacional",
+      "gancho": "El plan perfecto para estas vacaciones de invierno.",
+      "caption": "No hay nada como el frío de Bariloche cuando tenés una chimenea encendida y un buen café al lado. Si estás planeando las vacaciones de invierno, escapate a Dos Valles. Estamos a solo 20 minutos del Cerro Catedral, así que podés disfrutar de la nieve y después refugarte en la cabaña para desconectar del todo. El clima está ideal para quedarte adentro, abrigarte bien y disfrutar del silencio del bosque de pinos.",
+      "hashtags": [
+        "#CabañaAlBosque",
+        "#Bariloche",
+        "#DosValles",
+        "#VacacionesDeInvierno",
+        "#CerroCatedral",
+        "#EscapadaPatagonia",
+        "#TurismoBariloche",
+        "#Nieve",
+        "#InviernoEnBariloche",
+        "#PatagoniaArgentina",
+        "#RefugioEnElBosque",
+        "#EscapadaInvernal",
+        "#Patagonia",
+        "#AlojamientoBariloche",
+        "#CabañaEnBariloche"
+      ],
+      "cta": "Reservá tu lugar para estas vacaciones por WhatsApp: https://wa.me/5492944148173 o mirá las fechas en nuestro Airbnb.",
+      "sugerencia_visual": {
+        "path": "galeria/instagrameables/hogar2.jpg",
+        "tipo": "Living con chimenea de piedra"
+      },
+      "mejor_dia_horario_sugerido": "viernes 19:00 AR",
+      "status": "generated",
+      "revision": 0
+    },
+    {
+      "angulo": "amenity",
+      "gancho": "Tu base segura en el corazón del bosque.",
+      "caption": "Estar en un barrio privado te da una tranquilidad que no se encuentra en cualquier lado. En Cabaña al Bosque, podés dormir tranqui con seguridad 24hs y despertar rodeado de pinos. Además, como parte del Club de Campo Dos Valles, tenés acceso a las instalaciones del club: desde el spa y la pileta hasta los senderos de montaña para cuando quieras moverte un poco. Es el equilibrio justo entre la comodidad de una casa bien equipada y la aventura que ofrece la zona.",
+      "hashtags": [
+        "#CabañaAlBosque",
+        "#DosValles",
+        "#Bariloche",
+        "#ClubDeCampoDosValles",
+        "#PatagoniaArgentina",
+        "#NieveBariloche",
+        "#EscapadaDeInvierno",
+        "#TurismoBariloche",
+        "#CabañasEnBariloche",
+        "#AlojamientoBariloche",
+        "#Montaña",
+        "#Pinos",
+        "#BarilocheCity",
+        "#TurismoRioNegro",
+        "#InviernoEnLaMontaña",
+        "#EscapadaSegura",
+        "#BaseDeOperaciones",
+        "#Naturaleza",
+        "#ViajeABariloche",
+        "#Patagonia",
+        "#DestinoBariloche"
+      ],
+      "cta": "Consultá por los servicios del club y disponibilidad acá: https://wa.me/5492944148173",
+      "sugerencia_visual": {
+        "path": "galeria/instagrameables/denoche-5889.jpg",
+        "tipo": "Fachada iluminada de noche"
+      },
+      "mejor_dia_horario_sugerido": "martes 12:00 AR",
+      "status": "published",
+      "revision": 1,
+      "instagramMediaId": "18335020657270693",
+      "publishedImageUrl": "https://www.cabanaalbosque.ar/instagram/export/feed/media/denoche-5889.jpg?v=126031"
+    },
+    {
+      "angulo": "storytelling",
+      "gancho": "El ritual del fuego y el bosque.",
+      "caption": "Hay algo en las noches de Bariloche que te obliga a bajar un cambio. El sonido de la leña crujiendo, el aroma del humo en el patio y esa sensación de estar protegido mientras afuera el frío se siente fuerte. Ya sea compartiendo un asado frente al fuego o simplemente mirando el bosque iluminado antes de dormir, acá el tiempo pasa distinto. Vení a buscar tu momento de calma.",
+      "hashtags": [
+        "#CabañaAlBosque",
+        "#Bariloche",
+        "#NochesDeInvierno",
+        "#Fogón",
+        "#AsadoEnElBosque",
+        "#PazInterior",
+        "#PatagoniaArgentina",
+        "#TurismoArgentina",
+        "#VivirBariloche",
+        "#EscapadaRomántica",
+        "#RefugioNatural",
+        "#MomentoRelax",
+        "#DosValles",
+        "#Patagonia",
+        "#AlojamientoBariloche"
+      ],
+      "cta": "Reservá tu fecha y vení a vivirlo: https://www.airbnb.com.ar/rooms/1107341934099853545",
+      "sugerencia_visual": {
+        "path": "galeria/instagrameables/denoche-9273.jpg",
+        "tipo": "Fogón en el patio"
+      },
+      "mejor_dia_horario_sugerido": "sábado 18:00 AR",
+      "status": "generated",
+      "revision": 0
+    }
+  ],
+  "selected": 2,
+  "published": 2,
+  "published_at": "2026-07-09T13:13:54.709Z"
+}
