@@ -2004,7 +2004,7 @@ body.has-sticky-cta .scroll-top {
     transition: max-height 0.3s;
   }
 
-  .main-nav.open { max-height: 380px; }
+  .main-nav.open { max-height: 460px; }
 
   .main-nav ul {
     flex-direction: column;
@@ -2077,8 +2077,28 @@ body.has-sticky-cta .scroll-top {
 }
 
 .tips-header {
+  position: relative;
   padding: max(1rem, env(safe-area-inset-top)) 1.25rem 0.75rem;
   text-align: center;
+}
+
+.tips-lang {
+  position: absolute;
+  top: max(0.85rem, env(safe-area-inset-top));
+  right: 1.15rem;
+}
+
+.tips-page .tips-lang .lang-link {
+  color: rgba(30, 43, 31, 0.55);
+}
+
+.tips-page .tips-lang .lang-link:hover,
+.tips-page .tips-lang .lang-link.active {
+  color: var(--forest-dark);
+}
+
+.tips-page .tips-lang .lang-sep {
+  color: rgba(30, 43, 31, 0.3);
 }
 
 .tips-brand {
