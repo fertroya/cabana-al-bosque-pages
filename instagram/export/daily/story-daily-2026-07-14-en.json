@@ -1,0 +1,20 @@
+{
+  "id": "story-daily-2026-07-14-en",
+  "locale": "en",
+  "format": "video",
+  "hasAudio": true,
+  "musicTrack": "cozy-evening.mp3",
+  "musicSource": "fallback",
+  "copySource": "fallback",
+  "mode": "detalle",
+  "layout": "frosted-card",
+  "usesWeather": false,
+  "photo": "galeria/instagrameables/img-4468.jpg",
+  "theme": "cabaña",
+  "weather": null,
+  "weatherBadge": null,
+  "title": "Img 4468",
+  "subtitle": "It's the first thing you notice when you walk in — and you stay.",
+  "eyebrow": "Cabaña al Bosque · Tuesday, Jul 14",
+  "cta": "Book → link in bio"
+}

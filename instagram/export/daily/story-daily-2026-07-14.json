@@ -1,0 +1,20 @@
+{
+  "id": "story-daily-2026-07-14",
+  "locale": "es",
+  "format": "video",
+  "hasAudio": true,
+  "musicTrack": "cozy-evening.mp3",
+  "musicSource": "fallback",
+  "copySource": "fallback",
+  "mode": "detalle",
+  "layout": "frosted-card",
+  "usesWeather": false,
+  "photo": "galeria/instagrameables/img-4468.jpg",
+  "theme": "cabaña",
+  "weather": null,
+  "weatherBadge": null,
+  "title": "Img 4468",
+  "subtitle": "Cada rincón tiene un detalle que te quedás guardando. Es lo primero que ves cuando entrás.",
+  "eyebrow": "Cabaña al Bosque · martes, 14 jul",
+  "cta": "Reservá → link en bio"
+}
