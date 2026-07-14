@@ -2146,6 +2146,68 @@ body.has-sticky-cta .scroll-top {
   color: var(--text-body);
 }
 
+.tips-sections {
+  display: grid;
+  gap: 0.75rem;
+}
+
+.tips-section {
+  border-radius: 1.25rem;
+  background: rgba(255, 255, 255, 0.55);
+  border: 1px solid rgba(92, 74, 58, 0.12);
+  overflow: hidden;
+}
+
+.tips-section-summary {
+  list-style: none;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 0.75rem;
+  padding: 1rem 1.15rem;
+  font-family: var(--font-serif);
+  font-size: 1.35rem;
+  font-weight: 600;
+  color: var(--forest-dark);
+  -webkit-tap-highlight-color: transparent;
+}
+
+.tips-section-summary::-webkit-details-marker {
+  display: none;
+}
+
+.tips-section-summary::after {
+  content: "";
+  width: 0.55rem;
+  height: 0.55rem;
+  border-right: 2px solid var(--forest);
+  border-bottom: 2px solid var(--forest);
+  transform: rotate(45deg);
+  transition: transform 0.18s ease;
+  flex-shrink: 0;
+  margin-top: -0.2rem;
+}
+
+.tips-section[open] > .tips-section-summary::after {
+  transform: rotate(-135deg);
+  margin-top: 0.25rem;
+}
+
+.tips-section-body {
+  padding: 0 0.75rem 0.85rem;
+  display: grid;
+  gap: 0.85rem;
+}
+
+.tips-section-body .tips-wifi {
+  margin: 0;
+}
+
+.tips-section-body .tips-list {
+  margin: 0;
+}
+
 .tips-wifi {
   display: grid;
   gap: 1rem;
@@ -2304,6 +2366,14 @@ body.has-sticky-cta .scroll-top {
   padding: 0;
   display: grid;
   gap: 0.85rem;
+}
+
+.tips-howto--text {
+  gap: 0.55rem;
+}
+
+.tips-howto-fig--solo {
+  margin: 0.15rem 0 0.2rem;
 }
 
 .tips-howto > li {
