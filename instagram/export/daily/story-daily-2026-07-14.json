@@ -1,20 +1,25 @@
 {
   "id": "story-daily-2026-07-14",
   "locale": "es",
-  "format": "video",
-  "hasAudio": true,
-  "musicTrack": "cozy-evening.mp3",
-  "musicSource": "fallback",
+  "format": "image",
+  "hasAudio": false,
+  "musicTrack": null,
+  "musicSource": null,
   "copySource": "fallback",
-  "mode": "detalle",
+  "mode": "promo-libres",
   "layout": "frosted-card",
   "usesWeather": false,
+  "availability": {
+    "nights": 4,
+    "start": "2026-08-09",
+    "end": "2026-08-13"
+  },
   "photo": "galeria/instagrameables/img-4468.jpg",
   "theme": "cabaña",
   "weather": null,
   "weatherBadge": null,
-  "title": "Img 4468",
-  "subtitle": "Cada rincón tiene un detalle que te quedás guardando. Es lo primero que ves cuando entrás.",
-  "eyebrow": "Cabaña al Bosque · martes, 14 jul",
+  "title": "Quedan 4 noches libres",
+  "subtitle": "9 ago – 12 ago en Dos Valles. Ideal para desconectar sin apuro — reservá desde el link en bio.",
+  "eyebrow": "Fechas libres",
   "cta": "Reservá → link en bio"
 }

@@ -1,20 +1,25 @@
 {
   "id": "story-daily-2026-07-14-en",
   "locale": "en",
-  "format": "video",
-  "hasAudio": true,
-  "musicTrack": "cozy-evening.mp3",
-  "musicSource": "fallback",
+  "format": "image",
+  "hasAudio": false,
+  "musicTrack": null,
+  "musicSource": null,
   "copySource": "fallback",
-  "mode": "detalle",
+  "mode": "promo-libres",
   "layout": "frosted-card",
   "usesWeather": false,
+  "availability": {
+    "nights": 4,
+    "start": "2026-08-09",
+    "end": "2026-08-13"
+  },
   "photo": "galeria/instagrameables/img-4468.jpg",
   "theme": "cabaña",
   "weather": null,
   "weatherBadge": null,
-  "title": "Img 4468",
-  "subtitle": "It's the first thing you notice when you walk in — and you stay.",
-  "eyebrow": "Cabaña al Bosque · Tuesday, Jul 14",
+  "title": "4 nights still open",
+  "subtitle": "Aug 9 – Aug 12 in Dos Valles. Ideal to unplug without rushing — book via the link in bio.",
+  "eyebrow": "Open dates",
   "cta": "Book → link in bio"
 }
