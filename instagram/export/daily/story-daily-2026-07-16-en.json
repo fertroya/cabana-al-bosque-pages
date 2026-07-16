@@ -1,0 +1,25 @@
+{
+  "id": "story-daily-2026-07-16-en",
+  "locale": "en",
+  "format": "video",
+  "hasAudio": true,
+  "musicTrack": "forest-mist-ambient.mp3",
+  "musicSource": "fallback",
+  "copySource": "fallback",
+  "mode": "promo-libres",
+  "layout": "cinema-bar",
+  "usesWeather": false,
+  "availability": {
+    "nights": 9,
+    "start": "2026-08-09",
+    "end": "2026-08-18"
+  },
+  "photo": "galeria/instagrameables/hogar2.jpg",
+  "theme": "cabaña",
+  "weather": null,
+  "weatherBadge": null,
+  "title": "The living room is already tidy",
+  "subtitle": "Aug 9 – Aug 17 open. Fireplace, Dos Valles, Bariloche 20' away — book via the link in bio.",
+  "eyebrow": "Picture arriving",
+  "cta": "Book → link in bio"
+}
