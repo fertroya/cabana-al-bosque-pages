@@ -1,5 +1,5 @@
 {
-  "id": "story-daily-2026-07-16-en",
+  "id": "story-daily-2026-07-17-en",
   "locale": "en",
   "format": "video",
   "hasAudio": true,
@@ -7,8 +7,8 @@
   "musicSource": "ollama",
   "copySource": "ollama",
   "mode": "promo-libres",
-  "energy": "vivaz",
-  "layout": "cinema-bar",
+  "energy": "hook",
+  "layout": "classic",
   "pace": "lively",
   "usesWeather": false,
   "availability": {
@@ -16,12 +16,12 @@
     "start": "2026-08-09",
     "end": "2026-08-18"
   },
-  "photo": "galeria/instagrameables/hogar2.jpg",
+  "photo": "galeria/instagrameables/bano-banera.jpg",
   "theme": "cabaña",
   "weather": null,
   "weatherBadge": null,
-  "title": "Light the fireplace tonight",
-  "subtitle": "Warm up by the stone hearth in Dos Valles after a day out in Bariloche. Book your stay via our bio link.",
-  "eyebrow": "Cabaña al Bosque · Thursday, July 16",
+  "title": "A morning soak in Dos Valles",
+  "subtitle": "Book your stay at our cabin and enjoy that perfect sunlight over the tub. Send us a DM to check dates.",
+  "eyebrow": "Cabaña al Bosque · Friday, Jul 17",
   "cta": "Book → link in bio"
 }

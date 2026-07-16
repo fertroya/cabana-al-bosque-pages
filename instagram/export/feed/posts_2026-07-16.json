@@ -1,0 +1,101 @@
+{
+  "date": "2026-07-16",
+  "generated_at": "2026-07-16T13:55:41.531Z",
+  "copySource": "fallback",
+  "season": "Alta temporada invierno / nieve",
+  "weather": "8° máx · 4° mín · Lluvia leve",
+  "options": [
+    {
+      "angulo": "evento_estacional",
+      "gancho": "Vacaciones de invierno se siente cerca — y la cabaña ya está lista.",
+      "caption": "Vacaciones de invierno se siente cerca — y la cabaña ya está lista. En Club de Campo Dos Valles tenés bosque, seguridad 24 hs y los servicios del club del country a pasos. Hoy el pronóstico marca lluvia leve y 8°. Ideal para familia o pareja: 2 dormitorios, hasta 5 huéspedes, living con hogar y parrilla. ¿Venís esta temporada? Reservá con tiempo y llegá sin apuro.",
+      "hashtags": [
+        "#Bariloche",
+        "#CabañaAlBosque",
+        "#DosValles",
+        "#Patagonia",
+        "#AlojamientoBariloche",
+        "#CabañaEnBariloche",
+        "#TurismoBariloche",
+        "#EscapadaPatagónica",
+        "#BarilocheArgentina",
+        "#ClubDeCampo",
+        "#CerroCatedral",
+        "#VacacionesEnFamilia",
+        "#AirbnbBariloche",
+        "#PatagoniaArgentina",
+        "#InviernoEnBariloche"
+      ],
+      "cta": "Reservá en Airbnb o escribinos por WhatsApp: https://wa.me/5492944148173",
+      "sugerencia_visual": {
+        "path": "galeria/instagrameables/bano-banera.jpg",
+        "tipo": "Baño con bañera"
+      },
+      "mejor_dia_horario_sugerido": "jueves 18:00 AR",
+      "status": "generated",
+      "revision": 0
+    },
+    {
+      "angulo": "amenity",
+      "gancho": "Pileta del club, gimnasio y silencio de bosque — sin salir del barrio.",
+      "caption": "Pileta del club, gimnasio y silencio de bosque — sin salir del barrio. La cabaña está dentro de Dos Valles: seguridad 24 hs, senderos, canchas y La Salamandra Pulpería (restaurante del country) a minutos. WiFi, estacionamiento y parrilla en la casa. A ~20 min de Cerro Catedral. Menos logística, más Patagonia.",
+      "hashtags": [
+        "#Bariloche",
+        "#CabañaAlBosque",
+        "#DosValles",
+        "#Patagonia",
+        "#AlojamientoBariloche",
+        "#CabañaEnBariloche",
+        "#TurismoBariloche",
+        "#EscapadaPatagónica",
+        "#BarilocheArgentina",
+        "#ClubDeCampo",
+        "#CerroCatedral",
+        "#VacacionesEnFamilia",
+        "#AirbnbBariloche",
+        "#PatagoniaArgentina",
+        "#InviernoEnBariloche"
+      ],
+      "cta": "Reservá en Airbnb o escribinos por WhatsApp: https://wa.me/5492944148173",
+      "sugerencia_visual": {
+        "path": "galeria/instagrameables/denoche-5889.jpg",
+        "tipo": "Fachada iluminada"
+      },
+      "mejor_dia_horario_sugerido": "viernes 12:00 AR",
+      "status": "generated",
+      "revision": 0
+    },
+    {
+      "angulo": "storytelling",
+      "gancho": "Apagás el auto, abrís la puerta y el bosque te recibe antes que nadie.",
+      "caption": "Apagás el auto, abrís la puerta y el bosque te recibe antes que nadie. Ese momento — valija en el living, mate en la mesa, silencio de country — es por lo que elegimos Dos Valles. Cabaña al Bosque: 2 dormitorios, hasta 5 huéspedes, y Bariloche a un paso sin el ruido del centro. Si estás armando la escapada, escribinos y te ayudamos con fechas.",
+      "hashtags": [
+        "#Bariloche",
+        "#CabañaAlBosque",
+        "#DosValles",
+        "#Patagonia",
+        "#AlojamientoBariloche",
+        "#CabañaEnBariloche",
+        "#TurismoBariloche",
+        "#EscapadaPatagónica",
+        "#BarilocheArgentina",
+        "#ClubDeCampo",
+        "#CerroCatedral",
+        "#VacacionesEnFamilia",
+        "#AirbnbBariloche",
+        "#PatagoniaArgentina",
+        "#InviernoEnBariloche"
+      ],
+      "cta": "Reservá en Airbnb o escribinos por WhatsApp: https://wa.me/5492944148173",
+      "sugerencia_visual": {
+        "path": "galeria/instagrameables/denoche-7851.jpg",
+        "tipo": "Noche en la hamaca"
+      },
+      "mejor_dia_horario_sugerido": "domingo 11:00 AR",
+      "status": "generated",
+      "revision": 0
+    }
+  ],
+  "selected": null,
+  "published": null
+}

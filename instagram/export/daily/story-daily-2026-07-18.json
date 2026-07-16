@@ -1,0 +1,27 @@
+{
+  "id": "story-daily-2026-07-18",
+  "locale": "es",
+  "format": "video",
+  "hasAudio": true,
+  "musicTrack": "modern-pop-pulse.mp3",
+  "musicSource": "ollama",
+  "copySource": "ollama",
+  "mode": "promo-libres",
+  "energy": "vivaz",
+  "layout": "editorial-left",
+  "pace": "lively",
+  "usesWeather": false,
+  "availability": {
+    "nights": 9,
+    "start": "2026-08-09",
+    "end": "2026-08-18"
+  },
+  "photo": "galeria/instagrameables/img-9238.jpg",
+  "theme": "cabaña",
+  "weather": null,
+  "weatherBadge": null,
+  "title": "Despertate con este sol en Dos Valles",
+  "subtitle": "Agarrá las fechas de tu escapada a la cabaña y vení a disfrutar del patio bajo el sol. Consultá disponibilidad en el link de",
+  "eyebrow": "Cabaña al Bosque · sábado 18 jul",
+  "cta": "Reservá → link en bio"
+}
