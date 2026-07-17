@@ -3,7 +3,7 @@
   "locale": "en",
   "format": "video",
   "hasAudio": true,
-  "musicTrack": "upbeat-folk-guitar.mp3",
+  "musicTrack": "modern-pop-pulse.mp3",
   "musicSource": "ollama",
   "copySource": "ollama",
   "mode": "promo-libres",
@@ -16,12 +16,12 @@
     "start": "2026-08-09",
     "end": "2026-08-18"
   },
-  "photo": "galeria/instagrameables/bano-banera.jpg",
+  "photo": "galeria/instagrameables/img-9293.jpg",
   "theme": "cabaña",
   "weather": null,
   "weatherBadge": null,
-  "title": "A morning soak in Dos Valles",
-  "subtitle": "Book your stay at our cabin and enjoy that perfect sunlight over the tub. Send us a DM to check dates.",
+  "title": "Wake up to this morning glow.",
+  "subtitle": "Your favorite breakfast spot in Dos Valles is waiting for you. Send us a message to book your dates.",
   "eyebrow": "Cabaña al Bosque · Friday, Jul 17",
   "cta": "Book → link in bio"
 }
