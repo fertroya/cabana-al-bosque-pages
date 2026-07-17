@@ -32,8 +32,10 @@
         "tipo": "Baño con bañera"
       },
       "mejor_dia_horario_sugerido": "jueves 18:00 AR",
-      "status": "generated",
-      "revision": 0
+      "status": "published",
+      "revision": 0,
+      "instagramMediaId": "18097587332461678",
+      "publishedImageUrl": "https://www.cabanaalbosque.ar/images/galeria/instagrameables/bano-banera.jpg"
     },
     {
       "angulo": "amenity",
@@ -96,6 +98,7 @@
       "revision": 0
     }
   ],
-  "selected": null,
-  "published": null
+  "selected": 1,
+  "published": 1,
+  "published_at": "2026-07-17T12:59:35.319Z"
 }

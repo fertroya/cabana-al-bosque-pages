@@ -5,7 +5,7 @@
   "hasAudio": true,
   "musicTrack": "modern-pop-pulse.mp3",
   "musicSource": "ollama",
-  "copySource": "ollama",
+  "copySource": "fallback",
   "mode": "promo-libres",
   "energy": "vivaz",
   "layout": "editorial-left",
@@ -20,8 +20,8 @@
   "theme": "cabaña",
   "weather": null,
   "weatherBadge": null,
-  "title": "Despertate con este sol en Dos Valles",
-  "subtitle": "Agarrá las fechas de tu escapada a la cabaña y vení a disfrutar del patio bajo el sol. Consultá disponibilidad en el link de",
-  "eyebrow": "Cabaña al Bosque · sábado 18 jul",
+  "title": "Arrancá el día acá",
+  "subtitle": "Encendés la leña, abrís la ventana al bosque y en diez minutos estás con mate — sin apuro de centro.",
+  "eyebrow": "Cabaña al Bosque · sábado, 18 jul",
   "cta": "Reservá → link en bio"
 }
