@@ -3,7 +3,7 @@
   "locale": "en",
   "format": "video",
   "hasAudio": true,
-  "musicTrack": "modern-pop-pulse.mp3",
+  "musicTrack": "upbeat-indie-pop.mp3",
   "musicSource": "ollama",
   "copySource": "ollama",
   "mode": "promo-libres",
@@ -20,8 +20,8 @@
   "theme": "cabaña",
   "weather": null,
   "weatherBadge": null,
-  "title": "Wake up to a sun-drenched view",
-  "subtitle": "Grab your coffee and enjoy the bright morning light over Dos Valles while you plan your day in Bariloche.",
-  "eyebrow": "Cabaña al Bosque · Saturday, July 18",
+  "title": "Wake up to the pines of Dos Valles",
+  "subtitle": "Start your morning with a view of the greenery and plan your next getaway in Patagonia. Link in bio.",
+  "eyebrow": "Cabaña al Bosque · Saturday, Jul 18",
   "cta": "Book → link in bio"
 }

@@ -3,7 +3,7 @@
   "locale": "es",
   "format": "video",
   "hasAudio": true,
-  "musicTrack": "modern-pop-pulse.mp3",
+  "musicTrack": "upbeat-indie-pop.mp3",
   "musicSource": "ollama",
   "copySource": "fallback",
   "mode": "promo-libres",
@@ -20,8 +20,8 @@
   "theme": "cabaña",
   "weather": null,
   "weatherBadge": null,
-  "title": "Arrancá el día acá",
-  "subtitle": "Encendés la leña, abrís la ventana al bosque y en diez minutos estás con mate — sin apuro de centro.",
+  "title": "El patio primero",
+  "subtitle": "Hoy el plan es afuera: parrilla, mesa bajo los pinos y después pileta o sendero en Dos Valles sin volver a manejar.",
   "eyebrow": "Cabaña al Bosque · sábado, 18 jul",
   "cta": "Reservá → link en bio"
 }
