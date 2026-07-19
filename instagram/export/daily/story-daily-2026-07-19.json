@@ -1,0 +1,27 @@
+{
+  "id": "story-daily-2026-07-19",
+  "locale": "es",
+  "format": "video",
+  "hasAudio": true,
+  "musicTrack": "modern-tech-house.mp3",
+  "musicSource": "ollama",
+  "copySource": "ollama",
+  "mode": "promo-libres",
+  "energy": "hook",
+  "layout": "classic",
+  "pace": "lively",
+  "usesWeather": false,
+  "availability": {
+    "nights": 9,
+    "start": "2026-08-09",
+    "end": "2026-08-18"
+  },
+  "photo": "galeria/instagrameables/img-9105.jpg",
+  "theme": "cabaña",
+  "weather": null,
+  "weatherBadge": null,
+  "title": "El sol que entra entre los pinos de Dos Valles",
+  "subtitle": "¿Te gustaría estar acá tomando un mate con este sol en la cara? Consultá disponibilidad por mensaje.",
+  "eyebrow": "Cabaña al Bosque · domingo 19 jul",
+  "cta": "Reservá → link en bio"
+}
