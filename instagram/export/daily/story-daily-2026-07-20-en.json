@@ -1,0 +1,27 @@
+{
+  "id": "story-daily-2026-07-20-en",
+  "locale": "en",
+  "format": "video",
+  "hasAudio": true,
+  "musicTrack": "modern-tech-house.mp3",
+  "musicSource": "fallback",
+  "copySource": "fallback",
+  "mode": "promo-libres",
+  "energy": "vivaz",
+  "layout": "editorial-left",
+  "pace": "lively",
+  "usesWeather": false,
+  "availability": {
+    "nights": 9,
+    "start": "2026-08-09",
+    "end": "2026-08-18"
+  },
+  "photo": "galeria/instagrameables/img-9284.jpg",
+  "theme": "cabaña",
+  "weather": null,
+  "weatherBadge": null,
+  "title": "Make the most of today",
+  "subtitle": "This scene isn't for the couch: grill outside, hit the pool or trail — the getaway won't wait.",
+  "eyebrow": "Cabaña al Bosque · Monday, Jul 20",
+  "cta": "Book → link in bio"
+}
