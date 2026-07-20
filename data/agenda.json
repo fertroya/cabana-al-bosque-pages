@@ -1,247 +1,13 @@
 {
   "source": "https://www.barilochense.com/agenda-cultural",
   "sourceLabel": "Barilochense · Agenda cultural",
-  "fetchedAt": "2026-07-17T13:30:01.732Z",
+  "fetchedAt": "2026-07-20T13:20:24.813Z",
   "window": {
-    "from": "2026-07-17",
-    "to": "2026-07-30",
+    "from": "2026-07-20",
+    "to": "2026-08-02",
     "days": 14
   },
   "events": [
-    {
-      "date": "2026-07-17",
-      "dateLabel": "Viernes 17 Julio, 2026",
-      "title": "¡Parabellum regresa a Bariloche! ",
-      "category": "Música",
-      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/parabellum-regresa-a-bariloche-2026-07-11-54-11",
-      "blurb": "¡Parabellum regresa a Bariloche! ",
-      "cancelled": false
-    },
-    {
-      "date": "2026-07-17",
-      "dateLabel": "Viernes 17 Julio, 2026",
-      "title": "2da. Feria del Libro Infantil y Juvenil Mundo Pichi Keche",
-      "category": "Infantiles",
-      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/2da.-feria-del-libro-infantil-y-juvenil-mundo-pichi-keche-2026-07-15-44-41",
-      "blurb": "2da. Feria del Libro Infantil y Juvenil Mundo Pichi Keche",
-      "cancelled": false
-    },
-    {
-      "date": "2026-07-17",
-      "dateLabel": "Viernes 17 Julio, 2026",
-      "title": "ALEACION BINARIA",
-      "category": "Música",
-      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/aleacion-binaria-2026-06-13-58-29",
-      "blurb": "ALEACION BINARIA",
-      "cancelled": false
-    },
-    {
-      "date": "2026-07-17",
-      "dateLabel": "Viernes 17 Julio, 2026",
-      "title": "Cine en el Oeste: La venue de l'avenir",
-      "category": "Cine",
-      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/cine-en-el-oeste/cine-en-el-oeste-la-venue-de-lavenir-2026-07-14-20-25",
-      "blurb": "Cine en el Oeste: La venue de l'avenir",
-      "cancelled": false
-    },
-    {
-      "date": "2026-07-17",
-      "dateLabel": "Viernes 17 Julio, 2026",
-      "title": "DESDOBLADAS",
-      "category": "Teatro",
-      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/casa-macacha/desdobladas-2026-07-09-41-44",
-      "blurb": "DESDOBLADAS",
-      "cancelled": false
-    },
-    {
-      "date": "2026-07-17",
-      "dateLabel": "Viernes 17 Julio, 2026",
-      "title": "Festival PULSO REBELDE Salud Mental",
-      "category": "Fiestas y Festivales",
-      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/paico/festival-pulso-rebelde-salud-mental-2026-06-26-25-14",
-      "blurb": "Festival PULSO REBELDE Salud Mental",
-      "cancelled": false
-    },
-    {
-      "date": "2026-07-17",
-      "dateLabel": "Viernes 17 Julio, 2026",
-      "title": "Fiesta de los libros nuevos",
-      "category": "Literatura",
-      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/la-biblio/fiesta-de-los-libros-nuevos-2026-07-16-40-59",
-      "blurb": "Fiesta de los libros nuevos",
-      "cancelled": false
-    },
-    {
-      "date": "2026-07-17",
-      "dateLabel": "Viernes 17 Julio, 2026",
-      "title": "JOAQUÍN ALVEAR",
-      "category": "Música",
-      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/joaqun-alvear-2026-07-14-35-06",
-      "blurb": "JOAQUÍN ALVEAR",
-      "cancelled": false
-    },
-    {
-      "date": "2026-07-17",
-      "dateLabel": "Viernes 17 Julio, 2026",
-      "title": "LAUTI CUELLO",
-      "category": "Música",
-      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/lauti-cuello-2026-07-17-40-11",
-      "blurb": "LAUTI CUELLO",
-      "cancelled": false
-    },
-    {
-      "date": "2026-07-17",
-      "dateLabel": "Viernes 17 Julio, 2026",
-      "title": "Parteaguas",
-      "category": "Música",
-      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/bibliotecasarmiento/parteaguas-2026-07-10-42-43",
-      "blurb": "Parteaguas",
-      "cancelled": false
-    },
-    {
-      "date": "2026-07-17",
-      "dateLabel": "Viernes 17 Julio, 2026",
-      "title": "PULSO REBELDE Acto 12 Salud Mental",
-      "category": "Fiestas y Festivales",
-      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/paico/pulso-rebelde-acto-12-salud-mental-2026-07-13-03-47",
-      "blurb": "PULSO REBELDE Acto 12 Salud Mental",
-      "cancelled": false
-    },
-    {
-      "date": "2026-07-17",
-      "dateLabel": "Viernes 17 Julio, 2026",
-      "title": "RolaGitana FLAMENCO FUSION",
-      "category": "Música",
-      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/rolagitana-flamenco-fusion-2026-07-15-25-07",
-      "blurb": "RolaGitana FLAMENCO FUSION",
-      "cancelled": false
-    },
-    {
-      "date": "2026-07-17",
-      "dateLabel": "Viernes 17 Julio, 2026",
-      "title": "Taller de pop-up LIBROS QUE BROTAN",
-      "category": "Cursos y talleres",
-      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/taller-de-pop-up-libros-que-brotan-2026-07-02-21-12",
-      "blurb": "Taller de pop-up LIBROS QUE BROTAN",
-      "cancelled": false
-    },
-    {
-      "date": "2026-07-17",
-      "dateLabel": "Viernes 17 Julio, 2026",
-      "title": "Vinilo Blues",
-      "category": "Música",
-      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/vinilo-blues-2026-07-13-35-06",
-      "blurb": "Vinilo Blues",
-      "cancelled": false
-    },
-    {
-      "date": "2026-07-18",
-      "dateLabel": "Sábado 18 Julio, 2026",
-      "title": "2da. Feria del Libro Infantil y Juvenil Mundo Pichi Keche",
-      "category": "Infantiles",
-      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/2da.-feria-del-libro-infantil-y-juvenil-mundo-pichi-keche-2026-07-15-47-53",
-      "blurb": "2da. Feria del Libro Infantil y Juvenil Mundo Pichi Keche",
-      "cancelled": false
-    },
-    {
-      "date": "2026-07-18",
-      "dateLabel": "Sábado 18 Julio, 2026",
-      "title": "Andy Sakkal: Rapeamos",
-      "category": "Música",
-      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/andy-sakkal-rapeamos-2026-07-15-44-52",
-      "blurb": "Andy Sakkal: Rapeamos",
-      "cancelled": false
-    },
-    {
-      "date": "2026-07-18",
-      "dateLabel": "Sábado 18 Julio, 2026",
-      "title": "ARIEL JUANA DUO DE JAZZ",
-      "category": "Música",
-      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/ariel-juana-duo-de-jazz-2026-07-17-38-16",
-      "blurb": "ARIEL JUANA DUO DE JAZZ",
-      "cancelled": false
-    },
-    {
-      "date": "2026-07-18",
-      "dateLabel": "Sábado 18 Julio, 2026",
-      "title": "Emociones PERDIDAS",
-      "category": "Teatro",
-      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/emociones-perdidas-2026-07-14-40-14",
-      "blurb": "Emociones PERDIDAS",
-      "cancelled": false
-    },
-    {
-      "date": "2026-07-18",
-      "dateLabel": "Sábado 18 Julio, 2026",
-      "title": "Entre Lunas y Gatos",
-      "category": "Infantiles",
-      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/la-biblio/entre-lunas-y-gatos-2026-07-17-48-35",
-      "blurb": "Entre Lunas y Gatos",
-      "cancelled": false
-    },
-    {
-      "date": "2026-07-18",
-      "dateLabel": "Sábado 18 Julio, 2026",
-      "title": "Feria del Libro Infantil Pichikeche - Sábado 18",
-      "category": "Infantiles",
-      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/feria-del-libro-infantil-pichikeche-sbado-18-2026-07-15-44-04",
-      "blurb": "Feria del Libro Infantil Pichikeche - Sábado 18",
-      "cancelled": false
-    },
-    {
-      "date": "2026-07-18",
-      "dateLabel": "Sábado 18 Julio, 2026",
-      "title": "INDRA",
-      "category": "Música",
-      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/indra-2026-07-13-37-57",
-      "blurb": "INDRA",
-      "cancelled": false
-    },
-    {
-      "date": "2026-07-18",
-      "dateLabel": "Sábado 18 Julio, 2026",
-      "title": "Narradoras: Voces en la Biblioteca",
-      "category": "Otros",
-      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/bibliotecasarmiento/narradoras-voces-en-la-biblioteca-2026-07-13-54-43",
-      "blurb": "Narradoras: Voces en la Biblioteca",
-      "cancelled": false
-    },
-    {
-      "date": "2026-07-18",
-      "dateLabel": "Sábado 18 Julio, 2026",
-      "title": "Prevalece",
-      "category": "Danza",
-      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/bibliotecasarmiento/prevalece-2026-07-12-59-52",
-      "blurb": "Prevalece",
-      "cancelled": false
-    },
-    {
-      "date": "2026-07-18",
-      "dateLabel": "Sábado 18 Julio, 2026",
-      "title": "SALE CON GROOVE",
-      "category": "Música",
-      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/sale-con-groove-2026-07-14-36-19",
-      "blurb": "SALE CON GROOVE",
-      "cancelled": false
-    },
-    {
-      "date": "2026-07-18",
-      "dateLabel": "Sábado 18 Julio, 2026",
-      "title": "VERDE IGUANA REGGAE",
-      "category": "Música",
-      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/verde-iguana-reggae-2026-07-01-35-45",
-      "blurb": "VERDE IGUANA REGGAE",
-      "cancelled": false
-    },
-    {
-      "date": "2026-07-19",
-      "dateLabel": "Domingo 19 Julio, 2026",
-      "title": "Sarita, el musical",
-      "category": "Teatro",
-      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/bibliotecasarmiento/sarita-el-musical-2026-07-14-01-46",
-      "blurb": "Sarita, el musical",
-      "cancelled": false
-    },
     {
       "date": "2026-07-20",
       "dateLabel": "Lunes 20 Julio, 2026",
@@ -249,6 +15,15 @@
       "category": "Música",
       "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/-2026-07-09-35-02",
       "blurb": "MERCENARIOS EN VIVO",
+      "cancelled": false
+    },
+    {
+      "date": "2026-07-21",
+      "dateLabel": "Martes 21 Julio, 2026",
+      "title": "CIRCO VIAJAMUNDI",
+      "category": "Circo",
+      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/circo-viajamundi-2026-07-20-36-30",
+      "blurb": "CIRCO VIAJAMUNDI",
       "cancelled": false
     },
     {
@@ -279,12 +54,66 @@
       "cancelled": false
     },
     {
+      "date": "2026-07-22",
+      "dateLabel": "Miércoles 22 Julio, 2026",
+      "title": "Cirque du Soló",
+      "category": "Infantiles",
+      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/-2026-07-20-37-23",
+      "blurb": "Cirque du Soló",
+      "cancelled": false
+    },
+    {
+      "date": "2026-07-22",
+      "dateLabel": "Miércoles 22 Julio, 2026",
+      "title": "La desviada – Práctica de Tango",
+      "category": "Tango",
+      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/la-desviada-prctica-de-tango-2026-07-20-40-24",
+      "blurb": "La desviada – Práctica de Tango",
+      "cancelled": false
+    },
+    {
+      "date": "2026-07-23",
+      "dateLabel": "Jueves 23 Julio, 2026",
+      "title": "ARCO (2025)",
+      "category": "Cine",
+      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/la-biblio/arco-2025-2026-07-19-40-13",
+      "blurb": "ARCO (2025)",
+      "cancelled": false
+    },
+    {
+      "date": "2026-07-23",
+      "dateLabel": "Jueves 23 Julio, 2026",
+      "title": "Look back: continúa dibujando (2024)",
+      "category": "Cine",
+      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/la-biblio/look-back-contina-dibujando-2024-2026-07-20-42-01",
+      "blurb": "Look back: continúa dibujando (2024)",
+      "cancelled": false
+    },
+    {
       "date": "2026-07-23",
       "dateLabel": "Jueves 23 Julio, 2026",
       "title": "NITZSCHE DIGORADO QUINTETO JAZZ/HARDBOP",
       "category": "Música",
       "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/nitzsche-digorado-quinteto-jazzhardbop-2026-07-16-33-46",
       "blurb": "NITZSCHE DIGORADO QUINTETO JAZZ/HARDBOP",
+      "cancelled": false
+    },
+    {
+      "date": "2026-07-23",
+      "dateLabel": "Jueves 23 Julio, 2026",
+      "title": "Show de Tango: Otra Biaba",
+      "category": "Música",
+      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/bibliotecasarmiento/show-de-tango-otra-biaba-2026-07-18-40-21",
+      "blurb": "Show de Tango: Otra Biaba",
+      "cancelled": false
+    },
+    {
+      "date": "2026-07-25",
+      "dateLabel": "Sábado 25 Julio, 2026",
+      "title": "LEJOS NEPTUNO",
+      "category": "Música",
+      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/lejos-neptuno-2026-07-18-38-59",
+      "blurb": "LEJOS NEPTUNO",
       "cancelled": false
     },
     {
@@ -315,6 +144,24 @@
       "cancelled": false
     },
     {
+      "date": "2026-07-25",
+      "dateLabel": "Sábado 25 Julio, 2026",
+      "title": "SINTIENDO SABINA",
+      "category": "Música",
+      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/sintiendo-sabina-2026-07-18-36-36",
+      "blurb": "SINTIENDO SABINA",
+      "cancelled": false
+    },
+    {
+      "date": "2026-07-26",
+      "dateLabel": "Domingo 26 Julio, 2026",
+      "title": "La tiendita de la abuela Lilia",
+      "category": "Títeres",
+      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/bibliotecasarmiento/la-tiendita-de-la-abuela-lilia-2026-07-19-42-32",
+      "blurb": "La tiendita de la abuela Lilia",
+      "cancelled": false
+    },
+    {
       "date": "2026-07-26",
       "dateLabel": "Domingo 26 Julio, 2026",
       "title": "PIPA BARBATO EN BARILOCHE",
@@ -322,7 +169,16 @@
       "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/pipa-barbato-en-bariloche-2026-07-14-55-17",
       "blurb": "PIPA BARBATO EN BARILOCHE",
       "cancelled": false
+    },
+    {
+      "date": "2026-08-01",
+      "dateLabel": "Sábado 1 Agosto, 2026",
+      "title": "EL ALAMBIQUE DIA INTERNACIONAL DEL BLUES",
+      "category": "Música",
+      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/cultura-dina-huapi/el-alambique-dia-internacional-del-blues-2026-07-13-53-24",
+      "blurb": "EL ALAMBIQUE DIA INTERNACIONAL DEL BLUES",
+      "cancelled": false
     }
   ],
-  "allCount": 47
+  "allCount": 29
 }

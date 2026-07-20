@@ -11,8 +11,57 @@
     });
   }
 
+  initGuestGreeting();
   initAgenda();
 })();
+
+function pageLocale() {
+  return document.documentElement.lang?.startsWith("en") ? "en" : "es";
+}
+
+function dataUrl(file) {
+  const locale = pageLocale();
+  return new URL(
+    locale === "en" ? `../data/${file}` : `data/${file}`,
+    window.location.href
+  ).href;
+}
+
+/** Solo en tuestadia.html (body[data-guest-page]). */
+function initGuestGreeting() {
+  if (!document.body.hasAttribute("data-guest-page")) return;
+
+  const title = document.getElementById("tips-title");
+  const kicker = document.getElementById("tips-kicker");
+  const lead = document.getElementById("tips-lead");
+  if (!title) return;
+
+  fetch(dataUrl("current-guest.json"), { cache: "no-store" })
+    .then((res) => (res.ok ? res.json() : Promise.reject(new Error(String(res.status)))))
+    .then((data) => {
+      const name = String(data?.firstName || "").trim();
+      if (!name) return;
+      const locale = pageLocale();
+      title.textContent = locale === "en" ? `Hi, ${name}` : `Hola, ${name}`;
+      if (kicker) {
+        kicker.textContent =
+          locale === "en" ? "Your stay at the cabin" : "Tu estadía en la cabaña";
+      }
+      if (lead) {
+        lead.textContent =
+          locale === "en"
+            ? "Wi‑Fi, laundry, contacts and ideas for your days here."
+            : "WiFi, lavarropas, contactos e ideas para estos días.";
+      }
+      document.title =
+        locale === "en"
+          ? `${name} · Your stay — Cabaña al Bosque`
+          : `${name} · Tu estadía — Cabaña al Bosque`;
+    })
+    .catch(() => {
+      /* sin personalización: queda el copy estático */
+    });
+}
 
 function initAgenda() {
   const root = document.getElementById("tips-agenda");
@@ -20,12 +69,8 @@ function initAgenda() {
 
   const days = Number(root.dataset.days || 7);
   const locale = root.dataset.locale === "en" ? "en" : "es";
-  const jsonUrl = new URL(
-    locale === "en" ? "../data/agenda.json" : "data/agenda.json",
-    window.location.href
-  ).href;
 
-  fetch(jsonUrl, { cache: "no-store" })
+  fetch(dataUrl("agenda.json"), { cache: "no-store" })
     .then((res) => (res.ok ? res.json() : Promise.reject(new Error(String(res.status)))))
     .then((data) => renderAgenda(root, data, { days, locale }))
     .catch(() => {
