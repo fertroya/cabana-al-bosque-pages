@@ -3,9 +3,9 @@
   "locale": "en",
   "format": "video",
   "hasAudio": true,
-  "musicTrack": "modern-dance-pop.mp3",
-  "musicSource": "fallback",
-  "copySource": "fallback",
+  "musicTrack": "modern-tech-house.mp3",
+  "musicSource": "ollama",
+  "copySource": "ollama",
   "mode": "promo-libres",
   "energy": "hook",
   "layout": "classic",
@@ -16,12 +16,12 @@
     "start": "2026-08-09",
     "end": "2026-08-18"
   },
-  "photo": "galeria/instagrameables/img-9105.jpg",
+  "photo": "galeria/instagrameables/img-9284.jpg",
   "theme": "cabaña",
   "weather": null,
   "weatherBadge": null,
-  "title": "¿Hotel o esto?",
-  "subtitle": "Cabaña al Bosque in Dos Valles — more retreat than postcard. Slow Bariloche starts here.",
+  "title": "Your desk with a view of the stairs",
+  "subtitle": "Switch your office to Dos Valles and enjoy high-speed WiFi in our cozy cabin. Want to see more photos?",
   "eyebrow": "Cabaña al Bosque · Sunday, Jul 19",
   "cta": "Book → link in bio"
 }
