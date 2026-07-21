@@ -4,8 +4,8 @@
   "format": "video",
   "hasAudio": true,
   "musicTrack": "modern-future-bass.mp3",
-  "musicSource": "fallback",
-  "copySource": "fallback",
+  "musicSource": "ollama",
+  "copySource": "ollama",
   "mode": "promo-libres",
   "energy": "hook",
   "layout": "frosted-card",
@@ -20,8 +20,8 @@
   "theme": "exterior",
   "weather": null,
   "weatherBadge": null,
-  "title": "Patio beats the lobby",
-  "subtitle": "Grill, pines and an outdoor table — no half-hour drive. Dos Valles: the getaway starts at the door.",
-  "eyebrow": "Cabaña al Bosque · Tuesday, Jul 21",
+  "title": "Lunch under the needles of the pines.",
+  "subtitle": "Would you rather enjoy a sunny lunch in Dos Valles or stay by the fireplace today? DM to book your dates.",
+  "eyebrow": "Cabaña al Bosque · Tuesday, July 21",
   "cta": "Book → link in bio"
 }
