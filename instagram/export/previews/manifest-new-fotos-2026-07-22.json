@@ -1,0 +1,29 @@
+[
+  {
+    "id": "story-preview-new-dosvalles-invierno",
+    "photo": "entorno/dosvalles-invierno.jpg",
+    "title": "Tu escapada armada",
+    "subtitle": "Dos Valles en invierno + seguridad 24 hs, senderos y servicios del club. Menos logística, más tiempo en Bariloche.",
+    "copySource": "fallback",
+    "musicTrack": "modern-rising-house.mp3",
+    "file": "previews/story-preview-new-dosvalles-invierno.mp4"
+  },
+  {
+    "id": "story-preview-new-dosvalles-clubhouse",
+    "photo": "entorno/dosvalles-clubhouse.jpg",
+    "title": "Tu escapada armada",
+    "subtitle": "Club House Dos Valles + seguridad 24 hs, senderos y servicios del club. Menos logística, más tiempo en Bariloche.",
+    "copySource": "fallback",
+    "musicTrack": "modern-future-bass.mp3",
+    "file": "previews/story-preview-new-dosvalles-clubhouse.mp4"
+  },
+  {
+    "id": "story-preview-new-dosvalles-espacios-verdes",
+    "photo": "entorno/dosvalles-espacios-verdes.jpg",
+    "title": "Asado incluido en el plan",
+    "subtitle": "Patio con parrilla y pinos en la puerta: cocinás afuera, los chicos corren y Dos Valles te queda para seguir el día.",
+    "copySource": "fallback",
+    "musicTrack": "inspiring-acoustic.mp3",
+    "file": "previews/story-preview-new-dosvalles-espacios-verdes.mp4"
+  }
+]
