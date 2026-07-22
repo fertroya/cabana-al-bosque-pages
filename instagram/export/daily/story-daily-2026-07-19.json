@@ -3,8 +3,8 @@
   "locale": "es",
   "format": "video",
   "hasAudio": true,
-  "musicTrack": "modern-tech-house.mp3",
-  "musicSource": "ollama",
+  "musicTrack": "modern-dance-pop.mp3",
+  "musicSource": "fallback",
   "copySource": "fallback",
   "mode": "promo-libres",
   "energy": "hook",
@@ -16,12 +16,12 @@
     "start": "2026-08-09",
     "end": "2026-08-18"
   },
-  "photo": "galeria/instagrameables/img-9284.jpg",
+  "photo": "galeria/instagrameables/img-9105.jpg",
   "theme": "cabaña",
   "weather": null,
   "weatherBadge": null,
-  "title": "Escritorio y escalera",
-  "subtitle": "Luz cálida, vista al verde y silencio de verdad: la cabaña es el plan en Dos Valles.",
+  "title": "Cabaña al Bosque",
+  "subtitle": "Jardín, parrilla y pinos en la puerta: afuera empieza la experiencia en Dos Valles.",
   "eyebrow": "Cabaña al Bosque · domingo, 19 jul",
   "cta": "Reservá → link en bio"
 }
