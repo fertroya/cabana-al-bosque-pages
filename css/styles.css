@@ -2348,6 +2348,15 @@ body.has-sticky-cta .scroll-top {
   color: var(--text-muted);
 }
 
+.tips-pill-note strong {
+  display: inline;
+  font-family: inherit;
+  font-size: inherit;
+  font-weight: 600;
+  line-height: inherit;
+  color: inherit;
+}
+
 .tips-pill-actions {
   display: grid;
   grid-template-columns: 1fr 1fr;
