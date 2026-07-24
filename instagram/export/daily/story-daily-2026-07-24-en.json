@@ -1,0 +1,27 @@
+{
+  "id": "story-daily-2026-07-24-en",
+  "locale": "en",
+  "format": "video",
+  "hasAudio": true,
+  "musicTrack": "modern-pop-pulse.mp3",
+  "musicSource": "ollama",
+  "copySource": "ollama",
+  "mode": "promo-libres",
+  "energy": "vivaz",
+  "layout": "classic",
+  "pace": "lively",
+  "usesWeather": false,
+  "availability": {
+    "nights": 9,
+    "start": "2026-08-09",
+    "end": "2026-08-18"
+  },
+  "photo": "galeria/instagrameables/bano-banera.jpg",
+  "theme": "cabaña",
+  "weather": null,
+  "weatherBadge": null,
+  "title": "Soak in the view from your bath",
+  "subtitle": "Enjoy a hot soak while watching the pines go by. Book your stay in Bariloche for Aug 9-17 via the link in bio.",
+  "eyebrow": "Cabaña al Bosque · Friday, Jul 24",
+  "cta": "Book → link in bio"
+}
