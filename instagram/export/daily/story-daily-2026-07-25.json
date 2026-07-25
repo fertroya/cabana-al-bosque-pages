@@ -1,0 +1,27 @@
+{
+  "id": "story-daily-2026-07-25",
+  "locale": "es",
+  "format": "video",
+  "hasAudio": true,
+  "musicTrack": "upbeat-indie-pop.mp3",
+  "musicSource": "ollama",
+  "copySource": "fallback",
+  "mode": "promo-libres",
+  "energy": "hook",
+  "layout": "editorial-left",
+  "pace": "lively",
+  "usesWeather": true,
+  "availability": {
+    "nights": 9,
+    "start": "2026-08-09",
+    "end": "2026-08-18"
+  },
+  "photo": "galeria/instagrameables/denoche-5889.jpg",
+  "theme": "noche",
+  "weather": "5° máx · 0° mín · Nevada intensa",
+  "weatherBadge": "sáb, 25 jul · 5° máx · 0° mín · Nevada intensa",
+  "title": "Nevó. Quedan fechas",
+  "subtitle": "9 ago – 17 ago libres. Adentro abriga, afuera nieva — reservá desde el link en bio.",
+  "eyebrow": "Cabaña al Bosque · sábado, 25 jul",
+  "cta": "Reservá → link en bio"
+}

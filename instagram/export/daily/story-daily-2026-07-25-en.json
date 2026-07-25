@@ -1,0 +1,27 @@
+{
+  "id": "story-daily-2026-07-25-en",
+  "locale": "en",
+  "format": "video",
+  "hasAudio": true,
+  "musicTrack": "upbeat-indie-pop.mp3",
+  "musicSource": "ollama",
+  "copySource": "ollama",
+  "mode": "promo-libres",
+  "energy": "hook",
+  "layout": "editorial-left",
+  "pace": "lively",
+  "usesWeather": false,
+  "availability": {
+    "nights": 9,
+    "start": "2026-08-09",
+    "end": "2026-08-18"
+  },
+  "photo": "galeria/instagrameables/denoche-5889.jpg",
+  "theme": "noche",
+  "weather": null,
+  "weatherBadge": null,
+  "title": "Your night in the heart of Bariloche",
+  "subtitle": "The lights are on for you from August 9 to 17. Want to see the available dates and details via the link in bio?",
+  "eyebrow": "Cabaña al Bosque · Saturday, July 25",
+  "cta": "Book → link in bio"
+}
