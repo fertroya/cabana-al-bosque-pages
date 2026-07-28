@@ -4,8 +4,8 @@
   "format": "video",
   "hasAudio": true,
   "musicTrack": "modern-future-bass.mp3",
-  "musicSource": "ollama",
-  "copySource": "ollama",
+  "musicSource": "fallback",
+  "copySource": "fallback",
   "mode": "promo-libres",
   "energy": "vivaz",
   "layout": "frosted-card",
@@ -20,8 +20,8 @@
   "theme": "cabaña",
   "weather": null,
   "weatherBadge": null,
-  "title": "Wake up with a view of the mountains",
-  "subtitle": "Enjoy the sun and your coffee overlooking the pines in Bariloche. Dates available from Aug 9 to Aug 17. Link in bio.",
+  "title": "It snowed. Dates left",
+  "subtitle": "Aug 9 – Aug 17 open. Cozy inside, snow outside — book via the link in bio.",
   "eyebrow": "Cabaña al Bosque · Tuesday, Jul 28",
   "cta": "Book → link in bio"
 }
