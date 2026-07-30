@@ -41,6 +41,8 @@ function initGuestGreeting() {
     .then((data) => {
       const name = String(data?.firstName || "").trim();
       if (!name) return;
+      // No saludar a huéspedes cuya estadía ya terminó (JSON stale en Pages).
+      if (!isGuestStayActive(data)) return;
       const locale = pageLocale();
       title.textContent = locale === "en" ? `Hi, ${name}` : `Hola, ${name}`;
       if (kicker) {
@@ -61,6 +63,17 @@ function initGuestGreeting() {
     .catch(() => {
       /* sin personalización: queda el copy estático */
     });
+}
+
+/** check-in ≤ hoy < check-out (fecha Argentina). */
+function isGuestStayActive(data) {
+  const today = todayAR();
+  const checkIn = String(data?.checkIn || "").slice(0, 10);
+  const checkOut = String(data?.checkOut || "").slice(0, 10);
+  if (!/^\d{4}-\d{2}-\d{2}$/.test(checkIn) || !/^\d{4}-\d{2}-\d{2}$/.test(checkOut)) {
+    return false;
+  }
+  return checkIn <= today && today < checkOut;
 }
 
 function initAgenda() {
