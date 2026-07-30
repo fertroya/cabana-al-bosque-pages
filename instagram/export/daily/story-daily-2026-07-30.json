@@ -1,0 +1,27 @@
+{
+  "id": "story-daily-2026-07-30",
+  "locale": "es",
+  "format": "video",
+  "hasAudio": true,
+  "musicTrack": "modern-dance-pop.mp3",
+  "musicSource": "fallback",
+  "copySource": "fallback",
+  "mode": "promo-libres",
+  "energy": "vivaz",
+  "layout": "cinema-bar",
+  "pace": "lively",
+  "usesWeather": true,
+  "availability": {
+    "nights": 9,
+    "start": "2026-08-09",
+    "end": "2026-08-18"
+  },
+  "photo": "galeria/instagrameables/img-4468.jpg",
+  "theme": "cabaña",
+  "weather": "3° máx · 1° mín · Nevadas fuertes",
+  "weatherBadge": "jue, 30 jul · 3° máx · 1° mín · Nevadas fuertes",
+  "title": "Nevó. Quedan fechas",
+  "subtitle": "9 ago – 17 ago libres. Chimenea adentro, nieve en los pinos — reservá desde el link en bio.",
+  "eyebrow": "Cabaña al Bosque · jueves, 30 jul",
+  "cta": "Reservá → link en bio"
+}
