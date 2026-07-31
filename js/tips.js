@@ -157,10 +157,13 @@ function renderAgenda(root, data, { days, locale }) {
   const frag = document.createDocumentFragment();
   const meta = document.createElement("p");
   meta.className = "tips-agenda-meta";
+  const sourceLabel =
+    data.sourceLabel ||
+    (locale === "en" ? "Bariloche cultural agenda" : "Agenda cultural Bariloche");
   meta.textContent =
     locale === "en"
-      ? `Next ${days} days · source Barilochense`
-      : `Próximos ${days} días · fuente Barilochense`;
+      ? `Next ${days} days · ${sourceLabel}`
+      : `Próximos ${days} días · ${sourceLabel}`;
   frag.appendChild(meta);
 
   for (const day of [...byDay.keys()].sort()) {
