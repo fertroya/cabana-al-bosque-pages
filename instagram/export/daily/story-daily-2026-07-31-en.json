@@ -1,0 +1,27 @@
+{
+  "id": "story-daily-2026-07-31-en",
+  "locale": "en",
+  "format": "video",
+  "hasAudio": true,
+  "musicTrack": "modern-pop-pulse.mp3",
+  "musicSource": "ollama",
+  "copySource": "ollama",
+  "mode": "promo-libres",
+  "energy": "hook",
+  "layout": "classic",
+  "pace": "lively",
+  "usesWeather": true,
+  "availability": {
+    "nights": 9,
+    "start": "2026-08-09",
+    "end": "2026-08-18"
+  },
+  "photo": "galeria/instagrameables/hogar2.jpg",
+  "theme": "cabaña",
+  "weather": "5° máx · 1° mín · Nevada",
+  "weatherBadge": "Fri, Jul 31 · 5° high · 1° low · Snow",
+  "title": "The ultimate spot to warm up in Bariloche",
+  "subtitle": "Warm up by the fireplace from Aug 9-17; want to see the full calendar for your Patagonia getaway?",
+  "eyebrow": "Cabaña al Bosque · Friday, Jul 31",
+  "cta": "Book → link in bio"
+}

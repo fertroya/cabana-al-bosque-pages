@@ -1,0 +1,27 @@
+{
+  "id": "story-daily-2026-07-31",
+  "locale": "es",
+  "format": "video",
+  "hasAudio": true,
+  "musicTrack": "modern-pop-pulse.mp3",
+  "musicSource": "ollama",
+  "copySource": "fallback",
+  "mode": "promo-libres",
+  "energy": "hook",
+  "layout": "classic",
+  "pace": "lively",
+  "usesWeather": true,
+  "availability": {
+    "nights": 9,
+    "start": "2026-08-09",
+    "end": "2026-08-18"
+  },
+  "photo": "galeria/instagrameables/hogar2.jpg",
+  "theme": "cabaña",
+  "weather": "5° máx · 1° mín · Nevada",
+  "weatherBadge": "vie, 31 jul · 5° máx · 1° mín · Nevada",
+  "title": "Quedan noches con nieve",
+  "subtitle": "9 ago – 17 ago libres. Chimenea adentro, nieve en los pinos — reservá desde el link en bio.",
+  "eyebrow": "Cabaña al Bosque · viernes, 31 jul",
+  "cta": "Reservá → link en bio"
+}
