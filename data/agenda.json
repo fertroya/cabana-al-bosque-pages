@@ -5,7 +5,7 @@
     {
       "id": "barilochense",
       "url": "https://www.barilochense.com/agenda-cultural",
-      "count": 45
+      "count": 46
     },
     {
       "id": "opina",
@@ -23,93 +23,13 @@
       "count": 11
     }
   ],
-  "fetchedAt": "2026-07-31T12:51:02.481Z",
+  "fetchedAt": "2026-08-01T11:56:54.232Z",
   "window": {
-    "from": "2026-07-31",
-    "to": "2026-08-13",
+    "from": "2026-08-01",
+    "to": "2026-08-14",
     "days": 14
   },
   "events": [
-    {
-      "date": "2026-07-31",
-      "dateLabel": "Viernes 31 de julio",
-      "title": "Breaking en el Puerto",
-      "category": "Danza",
-      "url": "https://www.barilocheopina.com/noticias/2026/07/25/91306-agenda-cultural-todos-los-talleres-espectaculos-y-actividades-del-27-de-julio-al-2-de-agosto",
-      "blurb": "se desarrollará \"Breaking en el Puerto\" , un taller gratuito para aprender fundamentos del breakdance. Inscripciones: 2944 212804 .",
-      "cancelled": false,
-      "source": "opina"
-    },
-    {
-      "date": "2026-07-31",
-      "dateLabel": "Viernes 31 de julio",
-      "title": "Cine en el Cívico",
-      "category": "Cine",
-      "url": "https://www.barilocheopina.com/noticias/2026/07/25/91306-agenda-cultural-todos-los-talleres-espectaculos-y-actividades-del-27-de-julio-al-2-de-agosto",
-      "blurb": "continuará el ciclo \"Cine en el Cívico\" con la proyección de la película \"Tren nocturno a Lisboa\" . Entrada libre y gratuita.",
-      "cancelled": false,
-      "source": "opina"
-    },
-    {
-      "date": "2026-07-31",
-      "dateLabel": "Viernes 31 Julio, 2026",
-      "title": "Cine en el Oeste - Maria by Callas: In Her Own Words",
-      "category": "Cine",
-      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/cine-en-el-oeste/cine-en-el-oeste-maria-by-callas-in-her-own-words-2026-07-29-22-22",
-      "blurb": "Cine en el Oeste - Maria by Callas: In Her Own Words",
-      "cancelled": false,
-      "source": "barilochense"
-    },
-    {
-      "date": "2026-07-31",
-      "dateLabel": "Viernes 31 Julio, 2026",
-      "title": "GERMAN LEMA & NICOLÁS CABRA",
-      "category": "Música",
-      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/german-lema-nicols-cabra-2026-07-28-28-42",
-      "blurb": "GERMAN LEMA & NICOLÁS CABRA",
-      "cancelled": false,
-      "source": "barilochense"
-    },
-    {
-      "date": "2026-07-31",
-      "dateLabel": "Viernes 31 Julio, 2026",
-      "title": "Noche 100% Reggaeton",
-      "category": "Fiestas y Festivales",
-      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/casa-macacha/noche-100-reggaeton-2026-07-27-36-03",
-      "blurb": "Noche 100% Reggaeton",
-      "cancelled": false,
-      "source": "barilochense"
-    },
-    {
-      "date": "2026-07-31",
-      "dateLabel": "Viernes 31 de julio",
-      "title": "Pianistas del Sur",
-      "category": "Música",
-      "url": "https://www.barilocheopina.com/noticias/2026/07/25/91306-agenda-cultural-todos-los-talleres-espectaculos-y-actividades-del-27-de-julio-al-2-de-agosto",
-      "blurb": "se presentará \"Pianistas del Sur\" , un espectáculo que reúne música académica, tango y folclore interpretados por músicos patagónicos. Entradas: $10.000 anticipadas y $12.000 en pu",
-      "cancelled": false,
-      "source": "opina"
-    },
-    {
-      "date": "2026-07-31",
-      "dateLabel": "Viernes 31 Julio, 2026",
-      "title": "PIANISTAS DEL SUR, UNIENDO LA PATAGONIA A TRAVÉS DEL PIANO",
-      "category": "Música",
-      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/pianistas-del-sur-uniendo-la-patagonia-a-travs-del-piano-2026-07-25-11-03",
-      "blurb": "PIANISTAS DEL SUR, UNIENDO LA PATAGONIA A TRAVÉS DEL PIANO",
-      "cancelled": false,
-      "source": "barilochense"
-    },
-    {
-      "date": "2026-07-31",
-      "dateLabel": "Viernes 31 Julio, 2026",
-      "title": "Raigal",
-      "category": "Música",
-      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/raigal-2026-07-29-12-39",
-      "blurb": "Raigal",
-      "cancelled": false,
-      "source": "barilochense"
-    },
     {
       "date": "2026-08-01",
       "dateLabel": "Sábado 1 Agosto, 2026",
@@ -159,6 +79,16 @@
       "blurb": "se realizará la tercera edición del Día de la Lactancia \"Latir\" , con talleres para familias, charlas sobre lactancia, destete, banco de leche y actividades para madres e hijos.",
       "cancelled": false,
       "source": "opina"
+    },
+    {
+      "date": "2026-08-01",
+      "dateLabel": "Sábado 1 Agosto, 2026",
+      "title": "Efimero",
+      "category": "Teatro",
+      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/moma/efimero-2026-07-31-21-20",
+      "blurb": "Efimero",
+      "cancelled": false,
+      "source": "barilochense"
     },
     {
       "date": "2026-08-01",
@@ -241,6 +171,16 @@
       "source": "barilochense"
     },
     {
+      "date": "2026-08-01",
+      "dateLabel": "Sábado 1 Agosto, 2026",
+      "title": " ESTRENO OFICIAL DE ÑAMKU: FUEGO, MEMORIA Y BARRO ",
+      "category": "Cine",
+      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/-estreno-oficial-de-amku-fuego-memoria-y-barro-2026-07-31-07-52",
+      "blurb": " ESTRENO OFICIAL DE ÑAMKU: FUEGO, MEMORIA Y BARRO ",
+      "cancelled": false,
+      "source": "barilochense"
+    },
+    {
       "date": "2026-08-02",
       "dateLabel": "Domingo 2 Agosto, 2026",
       "title": "Agustina Aguilar presenta Casi Presente",
@@ -297,6 +237,16 @@
       "category": "Literatura",
       "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/la-biblio/encuentros-de-lectura-y-escritura-ciclo-leer-afila-el-pensamiento-2026-07-30-54-24",
       "blurb": "Encuentros de lectura y escritura: Ciclo Leer afila el pensamiento",
+      "cancelled": false,
+      "source": "barilochense"
+    },
+    {
+      "date": "2026-08-06",
+      "dateLabel": "Jueves 6 Agosto, 2026",
+      "title": "JUANA PIRES CUARTETO",
+      "category": "Música",
+      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/juana-pires-cuarteto-2026-07-31-58-05",
+      "blurb": "JUANA PIRES CUARTETO",
       "cancelled": false,
       "source": "barilochense"
     },
@@ -381,6 +331,16 @@
       "source": "barilochense"
     },
     {
+      "date": "2026-08-09",
+      "dateLabel": "Domingo 9 Agosto, 2026",
+      "title": "Yhosva Montoya",
+      "category": "Música",
+      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/bibliotecasarmiento/yhosva-montoya-2026-07-31-03-35",
+      "blurb": "Yhosva Montoya",
+      "cancelled": false,
+      "source": "barilochense"
+    },
+    {
       "date": "2026-08-11",
       "dateLabel": "Martes 11 Agosto, 2026",
       "title": "Open Folk",
@@ -429,7 +389,37 @@
       "blurb": "55ª Fiesta Nacional de la Nieve",
       "cancelled": false,
       "source": "informa"
+    },
+    {
+      "date": "2026-08-14",
+      "dateLabel": "Viernes 14 Agosto, 2026",
+      "title": "Amor vacante",
+      "category": "Teatro",
+      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/moma/amor-vacante-2026-07-31-19-03",
+      "blurb": "Amor vacante",
+      "cancelled": false,
+      "source": "barilochense"
+    },
+    {
+      "date": "2026-08-14",
+      "dateLabel": "",
+      "title": "Jorge Rojas y Nahuel Pennisi · Centro Cívico",
+      "category": "Cine",
+      "url": "https://barilocheinforma.gob.ar/walter-cortes-presento-una-fiesta-de-la-nieve-que-recupera-las-tradiciones-y-celebra-la-identidad-de-bariloche/",
+      "blurb": "55ª Fiesta Nacional de la Nieve",
+      "cancelled": false,
+      "source": "informa"
+    },
+    {
+      "date": "2026-08-14",
+      "dateLabel": "",
+      "title": "Show infantil de Topa · Fiesta de la Nieve",
+      "category": "Infantiles",
+      "url": "https://barilocheinforma.gob.ar/walter-cortes-presento-una-fiesta-de-la-nieve-que-recupera-las-tradiciones-y-celebra-la-identidad-de-bariloche/",
+      "blurb": "55ª Fiesta Nacional de la Nieve",
+      "cancelled": false,
+      "source": "informa"
     }
   ],
-  "allCount": 79
+  "allCount": 80
 }
