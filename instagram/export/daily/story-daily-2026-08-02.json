@@ -1,0 +1,27 @@
+{
+  "id": "story-daily-2026-08-02",
+  "locale": "es",
+  "format": "video",
+  "hasAudio": true,
+  "musicTrack": "modern-rising-house.mp3",
+  "musicSource": "fallback",
+  "copySource": "fallback",
+  "mode": "promo-libres",
+  "energy": "vivaz",
+  "layout": "classic",
+  "pace": "lively",
+  "usesWeather": true,
+  "availability": {
+    "nights": 9,
+    "start": "2026-08-09",
+    "end": "2026-08-18"
+  },
+  "photo": "galeria/instagrameables/img-9238.jpg",
+  "theme": "cabaña",
+  "weather": "5° máx · 1° mín · Nevadas dispersas",
+  "weatherBadge": "dom, 2 ago · 5° máx · 1° mín · Nevadas dispersas",
+  "title": "Nieva y hay lugar",
+  "subtitle": "9 ago – 17 ago libres. Adentro abriga, afuera nieva — reservá desde el link en bio.",
+  "eyebrow": "Cabaña al Bosque · domingo, 2 ago",
+  "cta": "Reservá → link en bio"
+}
