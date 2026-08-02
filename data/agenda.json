@@ -5,7 +5,7 @@
     {
       "id": "barilochense",
       "url": "https://www.barilochense.com/agenda-cultural",
-      "count": 46
+      "count": 66
     },
     {
       "id": "opina",
@@ -23,163 +23,13 @@
       "count": 11
     }
   ],
-  "fetchedAt": "2026-08-01T11:56:54.232Z",
+  "fetchedAt": "2026-08-02T11:54:57.197Z",
   "window": {
-    "from": "2026-08-01",
-    "to": "2026-08-14",
+    "from": "2026-08-02",
+    "to": "2026-08-15",
     "days": 14
   },
   "events": [
-    {
-      "date": "2026-08-01",
-      "dateLabel": "Sábado 1 Agosto, 2026",
-      "title": "Buenos Vecinos",
-      "category": "Música",
-      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/-2026-07-21-00-47",
-      "blurb": "Buenos Vecinos",
-      "cancelled": false,
-      "source": "barilochense"
-    },
-    {
-      "date": "2026-08-01",
-      "dateLabel": "Sábado 1 Agosto, 2026",
-      "title": "Calisto: TREN",
-      "category": "Música",
-      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/bibliotecasarmiento/calisto-tren-2026-07-25-04-22",
-      "blurb": "Calisto: TREN",
-      "cancelled": false,
-      "source": "barilochense"
-    },
-    {
-      "date": "2026-08-01",
-      "dateLabel": "Sábado 1 Agosto, 2026",
-      "title": "Canto en la Rama - El viento les amontona",
-      "category": "Música",
-      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/la-biblio/canto-en-la-rama-el-viento-les-amontona-2026-07-28-34-57",
-      "blurb": "Canto en la Rama - El viento les amontona",
-      "cancelled": false,
-      "source": "barilochense"
-    },
-    {
-      "date": "2026-08-01",
-      "dateLabel": "Sábado 1 Agosto, 2026",
-      "title": "Cardellino",
-      "category": "Música",
-      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/ne-ne-agenda/cardellino-2026-07-25-09-35",
-      "blurb": "Cardellino",
-      "cancelled": false,
-      "source": "barilochense"
-    },
-    {
-      "date": "2026-08-01",
-      "dateLabel": "Sábado 1 de agosto",
-      "title": "Día de la Lactancia “Latir”",
-      "category": "Infantiles",
-      "url": "https://www.barilocheopina.com/noticias/2026/07/25/91306-agenda-cultural-todos-los-talleres-espectaculos-y-actividades-del-27-de-julio-al-2-de-agosto",
-      "blurb": "se realizará la tercera edición del Día de la Lactancia \"Latir\" , con talleres para familias, charlas sobre lactancia, destete, banco de leche y actividades para madres e hijos.",
-      "cancelled": false,
-      "source": "opina"
-    },
-    {
-      "date": "2026-08-01",
-      "dateLabel": "Sábado 1 Agosto, 2026",
-      "title": "Efimero",
-      "category": "Teatro",
-      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/moma/efimero-2026-07-31-21-20",
-      "blurb": "Efimero",
-      "cancelled": false,
-      "source": "barilochense"
-    },
-    {
-      "date": "2026-08-01",
-      "dateLabel": "Sábado 1 Agosto, 2026",
-      "title": "EL ALAMBIQUE DIA INTERNACIONAL DEL BLUES",
-      "category": "Música",
-      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/cultura-dina-huapi/el-alambique-dia-internacional-del-blues-2026-07-13-53-24",
-      "blurb": "EL ALAMBIQUE DIA INTERNACIONAL DEL BLUES",
-      "cancelled": false,
-      "source": "barilochense"
-    },
-    {
-      "date": "2026-08-01",
-      "dateLabel": "Sábado 1 Agosto, 2026",
-      "title": "La Jodita de Macacha - Edición PROSPERIDAD",
-      "category": "Fiestas y Festivales",
-      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/casa-macacha/la-jodita-de-macacha-edicin-prosperidad-2026-07-28-36-10",
-      "blurb": "La Jodita de Macacha - Edición PROSPERIDAD",
-      "cancelled": false,
-      "source": "barilochense"
-    },
-    {
-      "date": "2026-08-01",
-      "dateLabel": "Sábado 1 Agosto, 2026",
-      "title": "LOU HERNANDEZ",
-      "category": "Música",
-      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/lou-hernandez-2026-07-29-06-55",
-      "blurb": "LOU HERNANDEZ",
-      "cancelled": false,
-      "source": "barilochense"
-    },
-    {
-      "date": "2026-08-01",
-      "dateLabel": "Sábado 1 Agosto, 2026",
-      "title": "Rocket ROCK",
-      "category": "Música",
-      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/rocket-rock-2026-07-28-29-38",
-      "blurb": "Rocket ROCK",
-      "cancelled": false,
-      "source": "barilochense"
-    },
-    {
-      "date": "2026-08-01",
-      "dateLabel": "Sábado 1 Agosto, 2026",
-      "title": "RUMBÉ",
-      "category": "Música",
-      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/rumb-2026-07-29-04-55",
-      "blurb": "RUMBÉ",
-      "cancelled": false,
-      "source": "barilochense"
-    },
-    {
-      "date": "2026-08-01",
-      "dateLabel": "Sábado 1 de agosto",
-      "title": "Seminario de Actuación · Mariano Argento",
-      "category": "Teatro",
-      "url": "https://www.barilocheopina.com/noticias/2026/07/25/91306-agenda-cultural-todos-los-talleres-espectaculos-y-actividades-del-27-de-julio-al-2-de-agosto",
-      "blurb": "comenzará un Seminario de Actuación a cargo de Mariano Argento .",
-      "cancelled": false,
-      "source": "opina"
-    },
-    {
-      "date": "2026-08-01",
-      "dateLabel": "Sábado 1 de agosto",
-      "title": "Tangos Clásicos",
-      "category": "Danza",
-      "url": "https://www.barilocheopina.com/noticias/2026/07/25/91306-agenda-cultural-todos-los-talleres-espectaculos-y-actividades-del-27-de-julio-al-2-de-agosto",
-      "blurb": "la Compañía Delotrolado abrirá al público un nuevo Ensayo Abierto de la obra \"Tangos Clásicos\" , permitiendo conocer el proceso creativo detrás del espectáculo.",
-      "cancelled": false,
-      "source": "opina"
-    },
-    {
-      "date": "2026-08-01",
-      "dateLabel": "Sábado 1 Agosto, 2026",
-      "title": "Cuando el mundo me dolía",
-      "category": "Teatro",
-      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/el-negro/cuando-el-mundo-me-dola-2026-07-29-59-58",
-      "blurb": "Cuando el mundo me dolía",
-      "cancelled": false,
-      "source": "barilochense"
-    },
-    {
-      "date": "2026-08-01",
-      "dateLabel": "Sábado 1 Agosto, 2026",
-      "title": " ESTRENO OFICIAL DE ÑAMKU: FUEGO, MEMORIA Y BARRO ",
-      "category": "Cine",
-      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/-estreno-oficial-de-amku-fuego-memoria-y-barro-2026-07-31-07-52",
-      "blurb": " ESTRENO OFICIAL DE ÑAMKU: FUEGO, MEMORIA Y BARRO ",
-      "cancelled": false,
-      "source": "barilochense"
-    },
     {
       "date": "2026-08-02",
       "dateLabel": "Domingo 2 Agosto, 2026",
@@ -187,6 +37,16 @@
       "category": "Otros",
       "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/bibliotecasarmiento/agustina-aguilar-presenta-casi-presente-2026-07-27-32-53",
       "blurb": "Agustina Aguilar presenta Casi Presente",
+      "cancelled": false,
+      "source": "barilochense"
+    },
+    {
+      "date": "2026-08-02",
+      "dateLabel": "Domingo 2 Agosto, 2026",
+      "title": "Duo La Simple",
+      "category": "Música",
+      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/duo-la-simple-2026-08-01-39-37",
+      "blurb": "Duo La Simple",
       "cancelled": false,
       "source": "barilochense"
     },
@@ -203,10 +63,120 @@
     {
       "date": "2026-08-02",
       "dateLabel": "Domingo 2 Agosto, 2026",
+      "title": "REFUGIEROS Cena show",
+      "category": "Música",
+      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/refugieros-cena-show-2026-08-01-32-17",
+      "blurb": "REFUGIEROS Cena show",
+      "cancelled": false,
+      "source": "barilochense"
+    },
+    {
+      "date": "2026-08-02",
+      "dateLabel": "Domingo 2 Agosto, 2026",
       "title": ", Oriana, la leyenda de la luna ",
       "category": "Infantiles",
       "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/el-negro/-oriana-la-leyenda-de-la-luna-2026-07-29-23-24",
       "blurb": ", Oriana, la leyenda de la luna ",
+      "cancelled": false,
+      "source": "barilochense"
+    },
+    {
+      "date": "2026-08-03",
+      "dateLabel": "Lunes 3 Agosto, 2026",
+      "title": "Taller de creatividad y escritura - Programa FAROS",
+      "category": "Cursos y talleres",
+      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/taller-de-creatividad-y-escritura-programa-faros-2026-08-01-44-17",
+      "blurb": "Taller de creatividad y escritura - Programa FAROS",
+      "cancelled": false,
+      "source": "barilochense"
+    },
+    {
+      "date": "2026-08-03",
+      "dateLabel": "Lunes 3 Agosto, 2026",
+      "title": "Taller de Danza de Usinas Culturales",
+      "category": "Cursos y talleres",
+      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/taller-de-danza-de-usinas-culturales-2026-08-01-43-13",
+      "blurb": "Taller de Danza de Usinas Culturales",
+      "cancelled": false,
+      "source": "barilochense"
+    },
+    {
+      "date": "2026-08-03",
+      "dateLabel": "Lunes 3 Agosto, 2026",
+      "title": "Taller de Dibujo",
+      "category": "Cursos y talleres",
+      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/taller-de-dibujo-2026-08-01-45-53",
+      "blurb": "Taller de Dibujo",
+      "cancelled": false,
+      "source": "barilochense"
+    },
+    {
+      "date": "2026-08-03",
+      "dateLabel": "Lunes 3 Agosto, 2026",
+      "title": "Taller de Folklore Popular",
+      "category": "Cursos y talleres",
+      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/taller-de-folklore-popular-2026-08-01-45-20",
+      "blurb": "Taller de Folklore Popular",
+      "cancelled": false,
+      "source": "barilochense"
+    },
+    {
+      "date": "2026-08-03",
+      "dateLabel": "Lunes 3 Agosto, 2026",
+      "title": "Tango para adolescentes",
+      "category": "Cursos y talleres",
+      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/tango-para-adolescentes-2026-08-01-47-13",
+      "blurb": "Tango para adolescentes",
+      "cancelled": false,
+      "source": "barilochense"
+    },
+    {
+      "date": "2026-08-04",
+      "dateLabel": "Martes 4 Agosto, 2026",
+      "title": "Ballet para niños",
+      "category": "Cursos y talleres",
+      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/ballet-para-nios-2026-08-01-50-35",
+      "blurb": "Ballet para niños",
+      "cancelled": false,
+      "source": "barilochense"
+    },
+    {
+      "date": "2026-08-04",
+      "dateLabel": "Martes 4 Agosto, 2026",
+      "title": "Danza contemporánea para adultos y adolescentes",
+      "category": "Cursos y talleres",
+      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/danza-contempornea-para-adultos-y-adolescentes-2026-08-01-49-13",
+      "blurb": "Danza contemporánea para adultos y adolescentes",
+      "cancelled": false,
+      "source": "barilochense"
+    },
+    {
+      "date": "2026-08-04",
+      "dateLabel": "Martes 4 Agosto, 2026",
+      "title": "Programa FAROS – Ensamble de Vientos",
+      "category": "Música",
+      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/programa-faros-ensamble-de-vientos-2026-08-01-49-57",
+      "blurb": "Programa FAROS – Ensamble de Vientos",
+      "cancelled": false,
+      "source": "barilochense"
+    },
+    {
+      "date": "2026-08-04",
+      "dateLabel": "Martes 4 Agosto, 2026",
+      "title": "Taller de Calistenia",
+      "category": "Otros",
+      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/taller-de-calistenia-2026-08-01-47-49",
+      "blurb": "Taller de Calistenia",
+      "cancelled": false,
+      "source": "barilochense"
+    },
+    {
+      "date": "2026-08-04",
+      "dateLabel": "Martes 4 Agosto, 2026",
+      "title": "Taller de Roller Dance",
+      "category": "Cursos y talleres",
+      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/taller-de-roller-dance-2026-08-01-48-36",
+      "blurb": "Taller de Roller Dance",
       "cancelled": false,
       "source": "barilochense"
     },
@@ -223,10 +193,60 @@
     {
       "date": "2026-08-05",
       "dateLabel": "Miércoles 5 Agosto, 2026",
+      "title": "Pim Pam Pum! y Familia Patacómica: LO DESHECHO",
+      "category": "Teatro",
+      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/pim-pam-pum-y-familia-patacmica-lo-deshecho-2026-08-01-53-58",
+      "blurb": "Pim Pam Pum! y Familia Patacómica: LO DESHECHO",
+      "cancelled": false,
+      "source": "barilochense"
+    },
+    {
+      "date": "2026-08-05",
+      "dateLabel": "Miércoles 5 Agosto, 2026",
+      "title": "Proyección: “Cecilia, la Incomparable”",
+      "category": "Cine",
+      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/proyeccin-cecilia-la-incomparable-2026-08-01-52-15",
+      "blurb": "Proyección: “Cecilia, la Incomparable”",
+      "cancelled": false,
+      "source": "barilochense"
+    },
+    {
+      "date": "2026-08-05",
+      "dateLabel": "Miércoles 5 Agosto, 2026",
       "title": "Taller de teatro para infancias",
       "category": "Cursos y talleres",
       "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/taller-de-teatro-para-infancias-2026-07-27-12-46",
       "blurb": "Taller de teatro para infancias",
+      "cancelled": false,
+      "source": "barilochense"
+    },
+    {
+      "date": "2026-08-06",
+      "dateLabel": "Jueves 6 Agosto, 2026",
+      "title": "“Asalato / Kass-Kass”",
+      "category": "Cursos y talleres",
+      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/asalato-kass-kass-2026-08-01-56-29",
+      "blurb": "“Asalato / Kass-Kass”",
+      "cancelled": false,
+      "source": "barilochense"
+    },
+    {
+      "date": "2026-08-06",
+      "dateLabel": "Jueves 6 Agosto, 2026",
+      "title": "“Filosofía de vereda: ¿Para qué sirve pensar?”",
+      "category": "Charlas",
+      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/filosofa-de-vereda-para-qu-sirve-pensar-2026-08-01-58-37",
+      "blurb": "“Filosofía de vereda: ¿Para qué sirve pensar?”",
+      "cancelled": false,
+      "source": "barilochense"
+    },
+    {
+      "date": "2026-08-06",
+      "dateLabel": "Jueves 6 Agosto, 2026",
+      "title": "“Soltá la Voz”",
+      "category": "Cursos y talleres",
+      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/solt-la-voz-2026-08-01-57-57",
+      "blurb": "“Soltá la Voz”",
       "cancelled": false,
       "source": "barilochense"
     },
@@ -253,10 +273,60 @@
     {
       "date": "2026-08-06",
       "dateLabel": "Jueves 6 Agosto, 2026",
+      "title": "Muestra fotográfica “50 años / 50 fotos”",
+      "category": "Fotografía",
+      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/muestra-fotogrfica-50-aos-50-fotos-2026-08-01-55-36",
+      "blurb": "Muestra fotográfica “50 años / 50 fotos”",
+      "cancelled": false,
+      "source": "barilochense"
+    },
+    {
+      "date": "2026-08-06",
+      "dateLabel": "Jueves 6 Agosto, 2026",
+      "title": "Programa FAROS – Ensamble de Vientos (infancias).",
+      "category": "Cursos y talleres",
+      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/programa-faros-ensamble-de-vientos-infancias-.-2026-08-01-57-14",
+      "blurb": "Programa FAROS – Ensamble de Vientos (infancias).",
+      "cancelled": false,
+      "source": "barilochense"
+    },
+    {
+      "date": "2026-08-06",
+      "dateLabel": "Jueves 6 Agosto, 2026",
       "title": "Show de tango: La forfai",
       "category": "Música",
       "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/bibliotecasarmiento/show-de-tango-la-forfai-2026-07-28-38-54",
       "blurb": "Show de tango: La forfai",
+      "cancelled": false,
+      "source": "barilochense"
+    },
+    {
+      "date": "2026-08-07",
+      "dateLabel": "Viernes 7 Agosto, 2026",
+      "title": "¡VUELVE EL CICLO BRÚJULA!",
+      "category": "Música",
+      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/el-negro/vuelve-el-ciclo-brjula-2026-08-01-15-26",
+      "blurb": "¡VUELVE EL CICLO BRÚJULA!",
+      "cancelled": false,
+      "source": "barilochense"
+    },
+    {
+      "date": "2026-08-07",
+      "dateLabel": "Viernes 7 Agosto, 2026",
+      "title": "“Vuela en Invierno” espectáculo de acrobacia aérea",
+      "category": "Otros",
+      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/vuela-en-invierno-espectculo-de-acrobacia-area-2026-08-01-59-29",
+      "blurb": "“Vuela en Invierno” espectáculo de acrobacia aérea",
+      "cancelled": false,
+      "source": "barilochense"
+    },
+    {
+      "date": "2026-08-07",
+      "dateLabel": "Viernes 7 Agosto, 2026",
+      "title": "*UNA CHICA VUELVE A CASA SOLA DE NOCHE*",
+      "category": "Cine",
+      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/la-biblio/una-chica-vuelve-a-casa-sola-de-noche-2026-08-01-04-40",
+      "blurb": "*UNA CHICA VUELVE A CASA SOLA DE NOCHE*",
       "cancelled": false,
       "source": "barilochense"
     },
@@ -277,6 +347,36 @@
       "category": "Fiestas y Festivales",
       "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/casa-macacha/pea-de-macacha-2026-07-29-14-19",
       "blurb": "PEÑA DE MACACHA",
+      "cancelled": false,
+      "source": "barilochense"
+    },
+    {
+      "date": "2026-08-08",
+      "dateLabel": "Sábado 8 Agosto, 2026",
+      "title": "“Breaking en el Puerto”",
+      "category": "Cursos y talleres",
+      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/breaking-en-el-puerto-2026-08-01-00-11",
+      "blurb": "“Breaking en el Puerto”",
+      "cancelled": false,
+      "source": "barilochense"
+    },
+    {
+      "date": "2026-08-08",
+      "dateLabel": "Sábado 8 Agosto, 2026",
+      "title": "“Tangos Clásicos” - Ensayo Compañía Delotrolado",
+      "category": "Tango",
+      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/tangos-clsicos-ensayo-compaa-delotrolado-2026-08-01-01-48",
+      "blurb": "“Tangos Clásicos” - Ensayo Compañía Delotrolado",
+      "cancelled": false,
+      "source": "barilochense"
+    },
+    {
+      "date": "2026-08-08",
+      "dateLabel": "Sábado 8 Agosto, 2026",
+      "title": "CARUCHA GIMENEZ & BLUETONICS",
+      "category": "Música",
+      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/carucha-gimenez-bluetonics-2026-08-02-12-33",
+      "blurb": "CARUCHA GIMENEZ & BLUETONICS",
       "cancelled": false,
       "source": "barilochense"
     },
@@ -313,10 +413,30 @@
     {
       "date": "2026-08-08",
       "dateLabel": "Sábado 8 Agosto, 2026",
+      "title": "PEQUENIAS",
+      "category": "Música",
+      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/pequenias-2026-08-02-16-51",
+      "blurb": "PEQUENIAS",
+      "cancelled": false,
+      "source": "barilochense"
+    },
+    {
+      "date": "2026-08-08",
+      "dateLabel": "Sábado 8 Agosto, 2026",
       "title": "Valentín Garvie Cuarteto | JAZZ",
       "category": "Música",
       "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/camping-musical/valentn-garvie-cuarteto-jazz-2026-07-08-13-09",
       "blurb": "Valentín Garvie Cuarteto | JAZZ",
+      "cancelled": false,
+      "source": "barilochense"
+    },
+    {
+      "date": "2026-08-09",
+      "dateLabel": "Domingo 9 Agosto, 2026",
+      "title": "“KPOP Patagonia”",
+      "category": "Música",
+      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/kpop-patagonia-2026-08-01-02-35",
+      "blurb": "“KPOP Patagonia”",
       "cancelled": false,
       "source": "barilochense"
     },
@@ -412,6 +532,16 @@
     },
     {
       "date": "2026-08-14",
+      "dateLabel": "Viernes 14 Agosto, 2026",
+      "title": "Nunca Nadie Nada",
+      "category": "Música",
+      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/casa-macacha/nunca-nadie-nada-2026-08-02-23-30",
+      "blurb": "Nunca Nadie Nada",
+      "cancelled": false,
+      "source": "barilochense"
+    },
+    {
+      "date": "2026-08-14",
       "dateLabel": "",
       "title": "Show infantil de Topa · Fiesta de la Nieve",
       "category": "Infantiles",
@@ -419,7 +549,57 @@
       "blurb": "55ª Fiesta Nacional de la Nieve",
       "cancelled": false,
       "source": "informa"
+    },
+    {
+      "date": "2026-08-15",
+      "dateLabel": "",
+      "title": "Ángela Leiva y Luck Ra · Centro Cívico",
+      "category": "Cine",
+      "url": "https://barilocheinforma.gob.ar/walter-cortes-presento-una-fiesta-de-la-nieve-que-recupera-las-tradiciones-y-celebra-la-identidad-de-bariloche/",
+      "blurb": "55ª Fiesta Nacional de la Nieve",
+      "cancelled": false,
+      "source": "informa"
+    },
+    {
+      "date": "2026-08-15",
+      "dateLabel": "",
+      "title": "Carrera de Mozos y colectividades · Fiesta de la Nieve",
+      "category": "Fiestas y Festivales",
+      "url": "https://barilocheinforma.gob.ar/walter-cortes-presento-una-fiesta-de-la-nieve-que-recupera-las-tradiciones-y-celebra-la-identidad-de-bariloche/",
+      "blurb": "55ª Fiesta Nacional de la Nieve",
+      "cancelled": false,
+      "source": "informa"
+    },
+    {
+      "date": "2026-08-15",
+      "dateLabel": "Sábado 15 Agosto, 2026",
+      "title": "CHEWELCHE GENTE BRAVIA",
+      "category": "Música",
+      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/chewelche-gente-bravia-2026-06-22-14-58",
+      "blurb": "CHEWELCHE GENTE BRAVIA",
+      "cancelled": false,
+      "source": "barilochense"
+    },
+    {
+      "date": "2026-08-15",
+      "dateLabel": "Sábado 15 Agosto, 2026",
+      "title": "Lupi - Paganini | PIANO DÚO",
+      "category": "Música",
+      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/camping-musical/lupi-paganini-piano-do-2026-06-28-52-18",
+      "blurb": "Lupi - Paganini | PIANO DÚO",
+      "cancelled": false,
+      "source": "barilochense"
+    },
+    {
+      "date": "2026-08-15",
+      "dateLabel": "",
+      "title": "Show de drones · Fiesta de la Nieve",
+      "category": "Fiestas y Festivales",
+      "url": "https://barilocheinforma.gob.ar/walter-cortes-presento-una-fiesta-de-la-nieve-que-recupera-las-tradiciones-y-celebra-la-identidad-de-bariloche/",
+      "blurb": "55ª Fiesta Nacional de la Nieve",
+      "cancelled": false,
+      "source": "informa"
     }
   ],
-  "allCount": 80
+  "allCount": 100
 }
