@@ -3,12 +3,12 @@
   "locale": "es",
   "format": "video",
   "hasAudio": true,
-  "musicTrack": "upbeat-indie-pop.mp3",
+  "musicTrack": "modern-tech-house.mp3",
   "musicSource": "fallback",
   "copySource": "fallback",
   "mode": "promo-fiesta-nieve",
   "energy": "hook",
-  "layout": "editorial-left",
+  "layout": "fiesta-pip",
   "pace": "lively",
   "usesWeather": false,
   "availability": {
@@ -16,12 +16,14 @@
     "start": "2026-08-09",
     "end": "2026-08-18"
   },
-  "photo": "galeria/instagrameables/img-9238.jpg",
+  "photo": "galeria/instagrameables/hogar-invierno.jpg",
+  "bgImage": "galeria/instagrameables/denoche-5889.jpg",
+  "pipImage": "galeria/instagrameables/hogar-invierno.jpg",
   "theme": "cabaña",
   "weather": null,
   "weatherBadge": null,
   "title": "Tu base en Bariloche para la Fiesta",
-  "subtitle": "Centro a 20′. Después, cama y silencio adentro — 9 ago – 17 ago, mirá el bio.",
+  "subtitle": "Antorchas, Topa, Luck Ra, Decadentes. Te quedás en el living caliente — 9 ago – 17 ago, bio.",
   "eyebrow": "Fiesta de la Nieve",
   "cta": "Reservá → link en bio"
 }

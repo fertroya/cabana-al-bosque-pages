@@ -3,12 +3,12 @@
   "locale": "en",
   "format": "video",
   "hasAudio": true,
-  "musicTrack": "upbeat-indie-pop.mp3",
+  "musicTrack": "modern-tech-house.mp3",
   "musicSource": "fallback",
   "copySource": "fallback",
   "mode": "promo-fiesta-nieve",
   "energy": "hook",
-  "layout": "editorial-left",
+  "layout": "fiesta-pip",
   "pace": "lively",
   "usesWeather": false,
   "availability": {
@@ -16,12 +16,14 @@
     "start": "2026-08-09",
     "end": "2026-08-18"
   },
-  "photo": "galeria/instagrameables/img-9238.jpg",
+  "photo": "galeria/instagrameables/hogar-invierno.jpg",
+  "bgImage": "galeria/instagrameables/denoche-5889.jpg",
+  "pipImage": "galeria/instagrameables/hogar-invierno.jpg",
   "theme": "cabaña",
   "weather": null,
   "weatherBadge": null,
   "title": "Cabin base for the Festival",
-  "subtitle": "Festival Aug 13–16. Real space to sleep after the shows — Aug 9 – Aug 17, link in bio.",
+  "subtitle": "Snow Festival Aug 13–16. Fireplace here, downtown shows there — Aug 9 – Aug 17 open, link in bio.",
   "eyebrow": "Snow Festival",
   "cta": "Book → link in bio"
 }
