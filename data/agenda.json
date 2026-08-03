@@ -5,7 +5,7 @@
     {
       "id": "barilochense",
       "url": "https://www.barilochense.com/agenda-cultural",
-      "count": 66
+      "count": 72
     },
     {
       "id": "opina",
@@ -23,60 +23,20 @@
       "count": 11
     }
   ],
-  "fetchedAt": "2026-08-02T11:54:57.197Z",
+  "fetchedAt": "2026-08-03T13:33:38.412Z",
   "window": {
-    "from": "2026-08-02",
-    "to": "2026-08-15",
+    "from": "2026-08-03",
+    "to": "2026-08-16",
     "days": 14
   },
   "events": [
     {
-      "date": "2026-08-02",
-      "dateLabel": "Domingo 2 Agosto, 2026",
-      "title": "Agustina Aguilar presenta Casi Presente",
-      "category": "Otros",
-      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/bibliotecasarmiento/agustina-aguilar-presenta-casi-presente-2026-07-27-32-53",
-      "blurb": "Agustina Aguilar presenta Casi Presente",
-      "cancelled": false,
-      "source": "barilochense"
-    },
-    {
-      "date": "2026-08-02",
-      "dateLabel": "Domingo 2 Agosto, 2026",
-      "title": "Duo La Simple",
-      "category": "Música",
-      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/duo-la-simple-2026-08-01-39-37",
-      "blurb": "Duo La Simple",
-      "cancelled": false,
-      "source": "barilochense"
-    },
-    {
-      "date": "2026-08-02",
-      "dateLabel": "Domingo 2 Agosto, 2026",
-      "title": "MOOD JAZZ DÚO presenta OLD-FASHIONED.",
-      "category": "Música",
-      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/mood-jazz-do-presenta-old-fashioned.-2026-07-30-25-28",
-      "blurb": "MOOD JAZZ DÚO presenta OLD-FASHIONED.",
-      "cancelled": false,
-      "source": "barilochense"
-    },
-    {
-      "date": "2026-08-02",
-      "dateLabel": "Domingo 2 Agosto, 2026",
-      "title": "REFUGIEROS Cena show",
-      "category": "Música",
-      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/refugieros-cena-show-2026-08-01-32-17",
-      "blurb": "REFUGIEROS Cena show",
-      "cancelled": false,
-      "source": "barilochense"
-    },
-    {
-      "date": "2026-08-02",
-      "dateLabel": "Domingo 2 Agosto, 2026",
-      "title": ", Oriana, la leyenda de la luna ",
-      "category": "Infantiles",
-      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/el-negro/-oriana-la-leyenda-de-la-luna-2026-07-29-23-24",
-      "blurb": ", Oriana, la leyenda de la luna ",
+      "date": "2026-08-03",
+      "dateLabel": "Lunes 3 Agosto, 2026",
+      "title": "SIN VUELTAS MILONGA",
+      "category": "Tango",
+      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/sin-vueltas-milonga-2026-08-03-34-40",
+      "blurb": "SIN VUELTAS MILONGA",
       "cancelled": false,
       "source": "barilochense"
     },
@@ -333,6 +293,16 @@
     {
       "date": "2026-08-07",
       "dateLabel": "Viernes 7 Agosto, 2026",
+      "title": "Chala Rasta GIRA DE INVIERNO 2026",
+      "category": "Música",
+      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/chala-rasta-gira-de-invierno-2026-2026-08-03-28-19",
+      "blurb": "Chala Rasta GIRA DE INVIERNO 2026",
+      "cancelled": false,
+      "source": "barilochense"
+    },
+    {
+      "date": "2026-08-07",
+      "dateLabel": "Viernes 7 Agosto, 2026",
       "title": "Influencia - Canciones de Charly en Emuna",
       "category": "Música",
       "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/b-shows/influencia-canciones-de-charly-en-emuna-2026-07-29-39-38",
@@ -431,12 +401,32 @@
       "source": "barilochense"
     },
     {
+      "date": "2026-08-08",
+      "dateLabel": "Sábado 8 Agosto, 2026",
+      "title": "✨ ¡Se viene la FESTIVIAJE 2026! ✨",
+      "category": "Fiestas y Festivales",
+      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/el-negro/-se-viene-la-festiviaje-2026-2026-08-02-48-49",
+      "blurb": "✨ ¡Se viene la FESTIVIAJE 2026! ✨",
+      "cancelled": false,
+      "source": "barilochense"
+    },
+    {
       "date": "2026-08-09",
       "dateLabel": "Domingo 9 Agosto, 2026",
       "title": "“KPOP Patagonia”",
       "category": "Música",
       "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/kpop-patagonia-2026-08-01-02-35",
       "blurb": "“KPOP Patagonia”",
+      "cancelled": false,
+      "source": "barilochense"
+    },
+    {
+      "date": "2026-08-09",
+      "dateLabel": "Domingo 9 Agosto, 2026",
+      "title": "FIDELIO GIRA PATAGONICA",
+      "category": "Música",
+      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/fidelio-gira-patagonica-2026-08-03-33-26",
+      "blurb": "FIDELIO GIRA PATAGONICA",
       "cancelled": false,
       "source": "barilochense"
     },
@@ -457,6 +447,16 @@
       "category": "Música",
       "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/bibliotecasarmiento/yhosva-montoya-2026-07-31-03-35",
       "blurb": "Yhosva Montoya",
+      "cancelled": false,
+      "source": "barilochense"
+    },
+    {
+      "date": "2026-08-09",
+      "dateLabel": "Domingo 9 Agosto, 2026",
+      "title": " De Paisanos y Paisanas   Grupo Trampolín Bariloche",
+      "category": "Infantiles",
+      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/el-negro/-de-paisanos-y-paisanas-grupo-trampoln-bariloche-2026-08-02-12-13",
+      "blurb": " De Paisanos y Paisanas   Grupo Trampolín Bariloche",
       "cancelled": false,
       "source": "barilochense"
     },
@@ -551,6 +551,16 @@
       "source": "informa"
     },
     {
+      "date": "2026-08-14",
+      "dateLabel": "Viernes 14 Agosto, 2026",
+      "title": "Tranqui 120 y Los Multitaskitos. ✨",
+      "category": "Música",
+      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/el-negro/tranqui-120-y-los-multitaskitos.-2026-08-02-51-09",
+      "blurb": "Tranqui 120 y Los Multitaskitos. ✨",
+      "cancelled": false,
+      "source": "barilochense"
+    },
+    {
       "date": "2026-08-15",
       "dateLabel": "",
       "title": "Ángela Leiva y Luck Ra · Centro Cívico",
@@ -599,7 +609,77 @@
       "blurb": "55ª Fiesta Nacional de la Nieve",
       "cancelled": false,
       "source": "informa"
+    },
+    {
+      "date": "2026-08-15",
+      "dateLabel": "Sábado 15 Agosto, 2026",
+      "title": " Vairoleto, Pechito Libertario ",
+      "category": "Teatro",
+      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/el-negro/-vairoleto-pechito-libertario-2026-08-03-19-20",
+      "blurb": " Vairoleto, Pechito Libertario ",
+      "cancelled": false,
+      "source": "barilochense"
+    },
+    {
+      "date": "2026-08-16",
+      "dateLabel": "",
+      "title": "Concurso de Hacheros · Fiesta de la Nieve",
+      "category": "Cursos y talleres",
+      "url": "https://barilocheinforma.gob.ar/walter-cortes-presento-una-fiesta-de-la-nieve-que-recupera-las-tradiciones-y-celebra-la-identidad-de-bariloche/",
+      "blurb": "55ª Fiesta Nacional de la Nieve",
+      "cancelled": false,
+      "source": "informa"
+    },
+    {
+      "date": "2026-08-16",
+      "dateLabel": "",
+      "title": "Elección de la Reina Nacional de la Nieve",
+      "category": "Fiestas y Festivales",
+      "url": "https://barilocheinforma.gob.ar/walter-cortes-presento-una-fiesta-de-la-nieve-que-recupera-las-tradiciones-y-celebra-la-identidad-de-bariloche/",
+      "blurb": "55ª Fiesta Nacional de la Nieve",
+      "cancelled": false,
+      "source": "informa"
+    },
+    {
+      "date": "2026-08-16",
+      "dateLabel": "Domingo 16 Agosto, 2026",
+      "title": "Seattle Supersonics",
+      "category": "Música",
+      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/seattle-supersonics-2026-06-26-37-33",
+      "blurb": "Seattle Supersonics",
+      "cancelled": false,
+      "source": "barilochense"
+    },
+    {
+      "date": "2026-08-16",
+      "dateLabel": "",
+      "title": "Turf y Los Auténticos Decadentes · cierre",
+      "category": "Otros",
+      "url": "https://barilocheinforma.gob.ar/walter-cortes-presento-una-fiesta-de-la-nieve-que-recupera-las-tradiciones-y-celebra-la-identidad-de-bariloche/",
+      "blurb": "55ª Fiesta Nacional de la Nieve",
+      "cancelled": false,
+      "source": "informa"
+    },
+    {
+      "date": "2026-08-16",
+      "dateLabel": "Domingo 16 Agosto, 2026",
+      "title": "凌 ZANAHORIAS 凌",
+      "category": "Infantiles",
+      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/el-negro/-zanahorias-2026-08-03-26-41",
+      "blurb": "凌 ZANAHORIAS 凌",
+      "cancelled": false,
+      "source": "barilochense"
+    },
+    {
+      "date": "2026-08-16",
+      "dateLabel": "Domingo 16 Agosto, 2026",
+      "title": " FAZZINI LLEGA A BARILOCHE POR TERCERA VEZ ",
+      "category": "Música",
+      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/-fazzini-llega-a-bariloche-por-tercera-vez-2026-08-01-34-01",
+      "blurb": " FAZZINI LLEGA A BARILOCHE POR TERCERA VEZ ",
+      "cancelled": false,
+      "source": "barilochense"
     }
   ],
-  "allCount": 100
+  "allCount": 106
 }
