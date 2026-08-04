@@ -5,7 +5,7 @@
     {
       "id": "barilochense",
       "url": "https://www.barilochense.com/agenda-cultural",
-      "count": 72
+      "count": 74
     },
     {
       "id": "opina",
@@ -23,73 +23,13 @@
       "count": 11
     }
   ],
-  "fetchedAt": "2026-08-03T13:33:38.412Z",
+  "fetchedAt": "2026-08-04T12:53:27.406Z",
   "window": {
-    "from": "2026-08-03",
-    "to": "2026-08-16",
+    "from": "2026-08-04",
+    "to": "2026-08-17",
     "days": 14
   },
   "events": [
-    {
-      "date": "2026-08-03",
-      "dateLabel": "Lunes 3 Agosto, 2026",
-      "title": "SIN VUELTAS MILONGA",
-      "category": "Tango",
-      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/sin-vueltas-milonga-2026-08-03-34-40",
-      "blurb": "SIN VUELTAS MILONGA",
-      "cancelled": false,
-      "source": "barilochense"
-    },
-    {
-      "date": "2026-08-03",
-      "dateLabel": "Lunes 3 Agosto, 2026",
-      "title": "Taller de creatividad y escritura - Programa FAROS",
-      "category": "Cursos y talleres",
-      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/taller-de-creatividad-y-escritura-programa-faros-2026-08-01-44-17",
-      "blurb": "Taller de creatividad y escritura - Programa FAROS",
-      "cancelled": false,
-      "source": "barilochense"
-    },
-    {
-      "date": "2026-08-03",
-      "dateLabel": "Lunes 3 Agosto, 2026",
-      "title": "Taller de Danza de Usinas Culturales",
-      "category": "Cursos y talleres",
-      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/taller-de-danza-de-usinas-culturales-2026-08-01-43-13",
-      "blurb": "Taller de Danza de Usinas Culturales",
-      "cancelled": false,
-      "source": "barilochense"
-    },
-    {
-      "date": "2026-08-03",
-      "dateLabel": "Lunes 3 Agosto, 2026",
-      "title": "Taller de Dibujo",
-      "category": "Cursos y talleres",
-      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/taller-de-dibujo-2026-08-01-45-53",
-      "blurb": "Taller de Dibujo",
-      "cancelled": false,
-      "source": "barilochense"
-    },
-    {
-      "date": "2026-08-03",
-      "dateLabel": "Lunes 3 Agosto, 2026",
-      "title": "Taller de Folklore Popular",
-      "category": "Cursos y talleres",
-      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/taller-de-folklore-popular-2026-08-01-45-20",
-      "blurb": "Taller de Folklore Popular",
-      "cancelled": false,
-      "source": "barilochense"
-    },
-    {
-      "date": "2026-08-03",
-      "dateLabel": "Lunes 3 Agosto, 2026",
-      "title": "Tango para adolescentes",
-      "category": "Cursos y talleres",
-      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/tango-para-adolescentes-2026-08-01-47-13",
-      "blurb": "Tango para adolescentes",
-      "cancelled": false,
-      "source": "barilochense"
-    },
     {
       "date": "2026-08-04",
       "dateLabel": "Martes 4 Agosto, 2026",
@@ -117,16 +57,6 @@
       "category": "Música",
       "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/programa-faros-ensamble-de-vientos-2026-08-01-49-57",
       "blurb": "Programa FAROS – Ensamble de Vientos",
-      "cancelled": false,
-      "source": "barilochense"
-    },
-    {
-      "date": "2026-08-04",
-      "dateLabel": "Martes 4 Agosto, 2026",
-      "title": "Taller de Calistenia",
-      "category": "Otros",
-      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/taller-de-calistenia-2026-08-01-47-49",
-      "blurb": "Taller de Calistenia",
       "cancelled": false,
       "source": "barilochense"
     },
@@ -313,10 +243,30 @@
     {
       "date": "2026-08-07",
       "dateLabel": "Viernes 7 Agosto, 2026",
+      "title": "LA GIPSY",
+      "category": "Música",
+      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/la-gipsy-2026-08-04-24-06",
+      "blurb": "LA GIPSY",
+      "cancelled": false,
+      "source": "barilochense"
+    },
+    {
+      "date": "2026-08-07",
+      "dateLabel": "Viernes 7 Agosto, 2026",
       "title": "PEÑA DE MACACHA",
       "category": "Fiestas y Festivales",
       "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/casa-macacha/pea-de-macacha-2026-07-29-14-19",
       "blurb": "PEÑA DE MACACHA",
+      "cancelled": false,
+      "source": "barilochense"
+    },
+    {
+      "date": "2026-08-07",
+      "dateLabel": "Viernes 7 Agosto, 2026",
+      "title": "TANGO ALQUIMIA",
+      "category": "Música",
+      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/tango-alquimia-2026-08-04-26-19",
+      "blurb": "TANGO ALQUIMIA",
       "cancelled": false,
       "source": "barilochense"
     },
@@ -343,10 +293,40 @@
     {
       "date": "2026-08-08",
       "dateLabel": "Sábado 8 Agosto, 2026",
+      "title": "BARBARA PLOTNIK",
+      "category": "Música",
+      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/barbara-plotnik-2026-08-04-28-15",
+      "blurb": "BARBARA PLOTNIK",
+      "cancelled": false,
+      "source": "barilochense"
+    },
+    {
+      "date": "2026-08-08",
+      "dateLabel": "Sábado 8 Agosto, 2026",
       "title": "CARUCHA GIMENEZ & BLUETONICS",
       "category": "Música",
       "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/carucha-gimenez-bluetonics-2026-08-02-12-33",
       "blurb": "CARUCHA GIMENEZ & BLUETONICS",
+      "cancelled": false,
+      "source": "barilochense"
+    },
+    {
+      "date": "2026-08-08",
+      "dateLabel": "Sábado 8 Agosto, 2026",
+      "title": "Colegas Rock + Buenos Vecinos",
+      "category": "Música",
+      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/la-biblio/colegas-rock-buenos-vecinos-2026-08-04-33-11",
+      "blurb": "Colegas Rock + Buenos Vecinos",
+      "cancelled": false,
+      "source": "barilochense"
+    },
+    {
+      "date": "2026-08-08",
+      "dateLabel": "Sábado 8 Agosto, 2026",
+      "title": "DESPERTANDO A LOS PRIMORDIALES",
+      "category": "Música",
+      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/paico/despertando-a-los-primordiales-2026-08-03-26-31",
+      "blurb": "DESPERTANDO A LOS PRIMORDIALES",
       "cancelled": false,
       "source": "barilochense"
     },
@@ -437,6 +417,16 @@
       "category": "Música",
       "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/nonnpalidece-desenchufado-2026-07-14-26-50",
       "blurb": "Nonnpalidece desenchufado",
+      "cancelled": false,
+      "source": "barilochense"
+    },
+    {
+      "date": "2026-08-09",
+      "dateLabel": "Domingo 9 Agosto, 2026",
+      "title": "VOLVIENDO EL CANDOMBE",
+      "category": "Música",
+      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/paico/volviendo-el-candombe-2026-08-03-11-18",
+      "blurb": "VOLVIENDO EL CANDOMBE",
       "cancelled": false,
       "source": "barilochense"
     },
@@ -593,6 +583,16 @@
     {
       "date": "2026-08-15",
       "dateLabel": "Sábado 15 Agosto, 2026",
+      "title": "Fran Lanfré de peña!",
+      "category": "Música",
+      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/casa-macacha/fran-lanfr-de-pea-2026-08-04-31-07",
+      "blurb": "Fran Lanfré de peña!",
+      "cancelled": false,
+      "source": "barilochense"
+    },
+    {
+      "date": "2026-08-15",
+      "dateLabel": "Sábado 15 Agosto, 2026",
       "title": "Lupi - Paganini | PIANO DÚO",
       "category": "Música",
       "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/camping-musical/lupi-paganini-piano-do-2026-06-28-52-18",
@@ -681,5 +681,5 @@
       "source": "barilochense"
     }
   ],
-  "allCount": 106
+  "allCount": 108
 }
