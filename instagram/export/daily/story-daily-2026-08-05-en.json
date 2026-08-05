@@ -1,0 +1,27 @@
+{
+  "id": "story-daily-2026-08-05-en",
+  "locale": "en",
+  "format": "video",
+  "hasAudio": true,
+  "musicTrack": "modern-trap-electro.mp3",
+  "musicSource": "ollama",
+  "copySource": "ollama",
+  "mode": "promo-libres",
+  "energy": "hook",
+  "layout": "top-focus",
+  "pace": "lively",
+  "usesWeather": false,
+  "availability": {
+    "nights": 9,
+    "start": "2026-08-09",
+    "end": "2026-08-18"
+  },
+  "photo": "galeria/instagrameables/img-9284.jpg",
+  "theme": "cabaña",
+  "weather": null,
+  "weatherBadge": null,
+  "title": "The perfect spot to clear your head.",
+  "subtitle": "Work from a cozy Patagonia cabin with great WiFi from Aug 9-17, just reach out via the link in bio if you're coming.",
+  "eyebrow": "Cabaña al Bosque · Wednesday, Aug 5",
+  "cta": "Book → link in bio"
+}
