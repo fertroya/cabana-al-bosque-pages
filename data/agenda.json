@@ -5,7 +5,7 @@
     {
       "id": "barilochense",
       "url": "https://www.barilochense.com/agenda-cultural",
-      "count": 74
+      "count": 75
     },
     {
       "id": "opina",
@@ -23,53 +23,13 @@
       "count": 11
     }
   ],
-  "fetchedAt": "2026-08-04T12:53:27.406Z",
+  "fetchedAt": "2026-08-05T12:48:24.219Z",
   "window": {
-    "from": "2026-08-04",
-    "to": "2026-08-17",
+    "from": "2026-08-05",
+    "to": "2026-08-18",
     "days": 14
   },
   "events": [
-    {
-      "date": "2026-08-04",
-      "dateLabel": "Martes 4 Agosto, 2026",
-      "title": "Ballet para niños",
-      "category": "Cursos y talleres",
-      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/ballet-para-nios-2026-08-01-50-35",
-      "blurb": "Ballet para niños",
-      "cancelled": false,
-      "source": "barilochense"
-    },
-    {
-      "date": "2026-08-04",
-      "dateLabel": "Martes 4 Agosto, 2026",
-      "title": "Danza contemporánea para adultos y adolescentes",
-      "category": "Cursos y talleres",
-      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/danza-contempornea-para-adultos-y-adolescentes-2026-08-01-49-13",
-      "blurb": "Danza contemporánea para adultos y adolescentes",
-      "cancelled": false,
-      "source": "barilochense"
-    },
-    {
-      "date": "2026-08-04",
-      "dateLabel": "Martes 4 Agosto, 2026",
-      "title": "Programa FAROS – Ensamble de Vientos",
-      "category": "Música",
-      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/programa-faros-ensamble-de-vientos-2026-08-01-49-57",
-      "blurb": "Programa FAROS – Ensamble de Vientos",
-      "cancelled": false,
-      "source": "barilochense"
-    },
-    {
-      "date": "2026-08-04",
-      "dateLabel": "Martes 4 Agosto, 2026",
-      "title": "Taller de Roller Dance",
-      "category": "Cursos y talleres",
-      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/taller-de-roller-dance-2026-08-01-48-36",
-      "blurb": "Taller de Roller Dance",
-      "cancelled": false,
-      "source": "barilochense"
-    },
     {
       "date": "2026-08-05",
       "dateLabel": "Miércoles 5 Agosto, 2026",
@@ -183,6 +143,16 @@
     {
       "date": "2026-08-06",
       "dateLabel": "Jueves 6 Agosto, 2026",
+      "title": "Refugieros",
+      "category": "Música",
+      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/refugieros-2026-08-05-11-30",
+      "blurb": "Refugieros",
+      "cancelled": false,
+      "source": "barilochense"
+    },
+    {
+      "date": "2026-08-06",
+      "dateLabel": "Jueves 6 Agosto, 2026",
       "title": "Show de tango: La forfai",
       "category": "Música",
       "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/bibliotecasarmiento/show-de-tango-la-forfai-2026-07-28-38-54",
@@ -227,6 +197,26 @@
       "category": "Música",
       "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/chala-rasta-gira-de-invierno-2026-2026-08-03-28-19",
       "blurb": "Chala Rasta GIRA DE INVIERNO 2026",
+      "cancelled": false,
+      "source": "barilochense"
+    },
+    {
+      "date": "2026-08-07",
+      "dateLabel": "Viernes 7 Agosto, 2026",
+      "title": "Cine en el Civico: La Maestra de Kinder (2018)",
+      "category": "Cine",
+      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/cine-en-el-civico-la-maestra-de-kinder-2018-2026-08-05-10-11",
+      "blurb": "Cine en el Civico: La Maestra de Kinder (2018)",
+      "cancelled": false,
+      "source": "barilochense"
+    },
+    {
+      "date": "2026-08-07",
+      "dateLabel": "Viernes 7 Agosto, 2026",
+      "title": "Cine en el Oeste: Le meilleur reste à venir",
+      "category": "Cine",
+      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/cine-en-el-oeste/cine-en-el-oeste-le-meilleur-reste-venir-2026-08-05-01-19",
+      "blurb": "Cine en el Oeste: Le meilleur reste à venir",
       "cancelled": false,
       "source": "barilochense"
     },
@@ -323,16 +313,6 @@
     {
       "date": "2026-08-08",
       "dateLabel": "Sábado 8 Agosto, 2026",
-      "title": "DESPERTANDO A LOS PRIMORDIALES",
-      "category": "Música",
-      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/paico/despertando-a-los-primordiales-2026-08-03-26-31",
-      "blurb": "DESPERTANDO A LOS PRIMORDIALES",
-      "cancelled": false,
-      "source": "barilochense"
-    },
-    {
-      "date": "2026-08-08",
-      "dateLabel": "Sábado 8 Agosto, 2026",
       "title": "Freak Show",
       "category": "Otros",
       "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/casa-macacha/freak-show-2026-07-30-52-35",
@@ -347,6 +327,16 @@
       "category": "Música",
       "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/bibliotecasarmiento/la-rosa-2026-07-29-23-54",
       "blurb": "La rosa",
+      "cancelled": false,
+      "source": "barilochense"
+    },
+    {
+      "date": "2026-08-08",
+      "dateLabel": "Sábado 8 Agosto, 2026",
+      "title": "Maffia",
+      "category": "Música",
+      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/maffia-2026-08-05-12-48",
+      "blurb": "Maffia",
       "cancelled": false,
       "source": "barilochense"
     },
@@ -397,6 +387,16 @@
       "category": "Música",
       "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/kpop-patagonia-2026-08-01-02-35",
       "blurb": "“KPOP Patagonia”",
+      "cancelled": false,
+      "source": "barilochense"
+    },
+    {
+      "date": "2026-08-09",
+      "dateLabel": "Domingo 9 Agosto, 2026",
+      "title": "CINE Documental *“Cannabis medicinal”*",
+      "category": "Cine",
+      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/la-biblio/cine-documental-cannabis-medicinal-2026-08-05-20-06",
+      "blurb": "CINE Documental *“Cannabis medicinal”*",
       "cancelled": false,
       "source": "barilochense"
     },
@@ -681,5 +681,5 @@
       "source": "barilochense"
     }
   ],
-  "allCount": 108
+  "allCount": 109
 }
