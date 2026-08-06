@@ -1,0 +1,27 @@
+{
+  "id": "story-daily-2026-08-06-en",
+  "locale": "en",
+  "format": "video",
+  "hasAudio": true,
+  "musicTrack": "sunny-stroll.mp3",
+  "musicSource": "ollama",
+  "copySource": "ollama",
+  "mode": "promo-libres",
+  "energy": "vivaz",
+  "layout": "cinema-bar",
+  "pace": "lively",
+  "usesWeather": false,
+  "availability": {
+    "nights": 9,
+    "start": "2026-08-09",
+    "end": "2026-08-18"
+  },
+  "photo": "galeria/instagrameables/img-9105.jpg",
+  "theme": "actividades",
+  "weather": null,
+  "weatherBadge": null,
+  "title": "Walk among the pine trees",
+  "subtitle": "Experience the sun through the pines in Bariloche. Book your stay from Aug 9 to 17 via the link in our bio.",
+  "eyebrow": "Cabaña al Bosque · Thursday, Aug 6",
+  "cta": "Book → link in bio"
+}
