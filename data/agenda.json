@@ -5,7 +5,7 @@
     {
       "id": "barilochense",
       "url": "https://www.barilochense.com/agenda-cultural",
-      "count": 75
+      "count": 76
     },
     {
       "id": "opina",
@@ -23,53 +23,13 @@
       "count": 11
     }
   ],
-  "fetchedAt": "2026-08-05T12:48:24.219Z",
+  "fetchedAt": "2026-08-06T12:51:26.855Z",
   "window": {
-    "from": "2026-08-05",
-    "to": "2026-08-18",
+    "from": "2026-08-06",
+    "to": "2026-08-19",
     "days": 14
   },
   "events": [
-    {
-      "date": "2026-08-05",
-      "dateLabel": "Miércoles 5 Agosto, 2026",
-      "title": "¡¡¡TALLER DE IMPROVISACIÓN en El Brote!!!",
-      "category": "Cursos y talleres",
-      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/saladeteatroelbrote/taller-de-improvisacin-en-el-brote-2026-07-24-44-34",
-      "blurb": "¡¡¡TALLER DE IMPROVISACIÓN en El Brote!!!",
-      "cancelled": false,
-      "source": "barilochense"
-    },
-    {
-      "date": "2026-08-05",
-      "dateLabel": "Miércoles 5 Agosto, 2026",
-      "title": "Pim Pam Pum! y Familia Patacómica: LO DESHECHO",
-      "category": "Teatro",
-      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/pim-pam-pum-y-familia-patacmica-lo-deshecho-2026-08-01-53-58",
-      "blurb": "Pim Pam Pum! y Familia Patacómica: LO DESHECHO",
-      "cancelled": false,
-      "source": "barilochense"
-    },
-    {
-      "date": "2026-08-05",
-      "dateLabel": "Miércoles 5 Agosto, 2026",
-      "title": "Proyección: “Cecilia, la Incomparable”",
-      "category": "Cine",
-      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/proyeccin-cecilia-la-incomparable-2026-08-01-52-15",
-      "blurb": "Proyección: “Cecilia, la Incomparable”",
-      "cancelled": false,
-      "source": "barilochense"
-    },
-    {
-      "date": "2026-08-05",
-      "dateLabel": "Miércoles 5 Agosto, 2026",
-      "title": "Taller de teatro para infancias",
-      "category": "Cursos y talleres",
-      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/taller-de-teatro-para-infancias-2026-07-27-12-46",
-      "blurb": "Taller de teatro para infancias",
-      "cancelled": false,
-      "source": "barilochense"
-    },
     {
       "date": "2026-08-06",
       "dateLabel": "Jueves 6 Agosto, 2026",
@@ -123,16 +83,6 @@
     {
       "date": "2026-08-06",
       "dateLabel": "Jueves 6 Agosto, 2026",
-      "title": "Muestra fotográfica “50 años / 50 fotos”",
-      "category": "Fotografía",
-      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/muestra-fotogrfica-50-aos-50-fotos-2026-08-01-55-36",
-      "blurb": "Muestra fotográfica “50 años / 50 fotos”",
-      "cancelled": false,
-      "source": "barilochense"
-    },
-    {
-      "date": "2026-08-06",
-      "dateLabel": "Jueves 6 Agosto, 2026",
       "title": "Programa FAROS – Ensamble de Vientos (infancias).",
       "category": "Cursos y talleres",
       "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/programa-faros-ensamble-de-vientos-infancias-.-2026-08-01-57-14",
@@ -143,10 +93,10 @@
     {
       "date": "2026-08-06",
       "dateLabel": "Jueves 6 Agosto, 2026",
-      "title": "Refugieros",
+      "title": "REFUGIEROS",
       "category": "Música",
-      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/refugieros-2026-08-05-11-30",
-      "blurb": "Refugieros",
+      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/refugieros-2026-08-06-26-42",
+      "blurb": "REFUGIEROS",
       "cancelled": false,
       "source": "barilochense"
     },
@@ -223,6 +173,16 @@
     {
       "date": "2026-08-07",
       "dateLabel": "Viernes 7 Agosto, 2026",
+      "title": "Empieza con D siete letras",
+      "category": "Teatro",
+      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/-2026-08-06-29-23",
+      "blurb": "Empieza con D siete letras",
+      "cancelled": false,
+      "source": "barilochense"
+    },
+    {
+      "date": "2026-08-07",
+      "dateLabel": "Viernes 7 Agosto, 2026",
       "title": "Influencia - Canciones de Charly en Emuna",
       "category": "Música",
       "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/b-shows/influencia-canciones-de-charly-en-emuna-2026-07-29-39-38",
@@ -237,6 +197,26 @@
       "category": "Música",
       "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/la-gipsy-2026-08-04-24-06",
       "blurb": "LA GIPSY",
+      "cancelled": false,
+      "source": "barilochense"
+    },
+    {
+      "date": "2026-08-07",
+      "dateLabel": "Viernes 7 Agosto, 2026",
+      "title": "LEÑA: ECHANDO CANCIONES AL FUEGO",
+      "category": "Música",
+      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/lea-echando-canciones-al-fuego-2026-08-06-30-54",
+      "blurb": "LEÑA: ECHANDO CANCIONES AL FUEGO",
+      "cancelled": false,
+      "source": "barilochense"
+    },
+    {
+      "date": "2026-08-07",
+      "dateLabel": "Viernes 7 Agosto, 2026",
+      "title": "NEILS",
+      "category": "Música",
+      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/neils-2026-08-06-37-59",
+      "blurb": "NEILS",
       "cancelled": false,
       "source": "barilochense"
     },
@@ -357,6 +337,16 @@
       "category": "Música",
       "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/pequenias-2026-08-02-16-51",
       "blurb": "PEQUENIAS",
+      "cancelled": false,
+      "source": "barilochense"
+    },
+    {
+      "date": "2026-08-08",
+      "dateLabel": "Sábado 8 Agosto, 2026",
+      "title": "RolaGitana FLAMENCO FUSION",
+      "category": "Música",
+      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/rolagitana-flamenco-fusion-2026-08-06-31-54",
+      "blurb": "RolaGitana FLAMENCO FUSION",
       "cancelled": false,
       "source": "barilochense"
     },
@@ -507,6 +497,16 @@
       "category": "Teatro",
       "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/moma/amor-vacante-2026-07-31-19-03",
       "blurb": "Amor vacante",
+      "cancelled": false,
+      "source": "barilochense"
+    },
+    {
+      "date": "2026-08-14",
+      "dateLabel": "Viernes 14 Agosto, 2026",
+      "title": "El Ciclo Puertas de Cre-arte presenta: El Bodegón",
+      "category": "Gourmet",
+      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/cre-arte/el-ciclo-puertas-de-cre-arte-presenta-el-bodegn-2026-08-05-44-33",
+      "blurb": "El Ciclo Puertas de Cre-arte presenta: El Bodegón",
       "cancelled": false,
       "source": "barilochense"
     },
@@ -681,5 +681,5 @@
       "source": "barilochense"
     }
   ],
-  "allCount": 109
+  "allCount": 110
 }
