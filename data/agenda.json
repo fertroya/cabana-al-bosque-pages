@@ -5,7 +5,7 @@
     {
       "id": "barilochense",
       "url": "https://www.barilochense.com/agenda-cultural",
-      "count": 76
+      "count": 68
     },
     {
       "id": "opina",
@@ -23,93 +23,13 @@
       "count": 11
     }
   ],
-  "fetchedAt": "2026-08-06T12:51:26.855Z",
+  "fetchedAt": "2026-08-07T11:38:44.388Z",
   "window": {
-    "from": "2026-08-06",
-    "to": "2026-08-19",
+    "from": "2026-08-07",
+    "to": "2026-08-20",
     "days": 14
   },
   "events": [
-    {
-      "date": "2026-08-06",
-      "dateLabel": "Jueves 6 Agosto, 2026",
-      "title": "“Asalato / Kass-Kass”",
-      "category": "Cursos y talleres",
-      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/asalato-kass-kass-2026-08-01-56-29",
-      "blurb": "“Asalato / Kass-Kass”",
-      "cancelled": false,
-      "source": "barilochense"
-    },
-    {
-      "date": "2026-08-06",
-      "dateLabel": "Jueves 6 Agosto, 2026",
-      "title": "“Filosofía de vereda: ¿Para qué sirve pensar?”",
-      "category": "Charlas",
-      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/filosofa-de-vereda-para-qu-sirve-pensar-2026-08-01-58-37",
-      "blurb": "“Filosofía de vereda: ¿Para qué sirve pensar?”",
-      "cancelled": false,
-      "source": "barilochense"
-    },
-    {
-      "date": "2026-08-06",
-      "dateLabel": "Jueves 6 Agosto, 2026",
-      "title": "“Soltá la Voz”",
-      "category": "Cursos y talleres",
-      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/solt-la-voz-2026-08-01-57-57",
-      "blurb": "“Soltá la Voz”",
-      "cancelled": false,
-      "source": "barilochense"
-    },
-    {
-      "date": "2026-08-06",
-      "dateLabel": "Jueves 6 Agosto, 2026",
-      "title": "Encuentros de lectura y escritura: Ciclo Leer afila el pensamiento",
-      "category": "Literatura",
-      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/la-biblio/encuentros-de-lectura-y-escritura-ciclo-leer-afila-el-pensamiento-2026-07-30-54-24",
-      "blurb": "Encuentros de lectura y escritura: Ciclo Leer afila el pensamiento",
-      "cancelled": false,
-      "source": "barilochense"
-    },
-    {
-      "date": "2026-08-06",
-      "dateLabel": "Jueves 6 Agosto, 2026",
-      "title": "JUANA PIRES CUARTETO",
-      "category": "Música",
-      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/juana-pires-cuarteto-2026-07-31-58-05",
-      "blurb": "JUANA PIRES CUARTETO",
-      "cancelled": false,
-      "source": "barilochense"
-    },
-    {
-      "date": "2026-08-06",
-      "dateLabel": "Jueves 6 Agosto, 2026",
-      "title": "Programa FAROS – Ensamble de Vientos (infancias).",
-      "category": "Cursos y talleres",
-      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/programa-faros-ensamble-de-vientos-infancias-.-2026-08-01-57-14",
-      "blurb": "Programa FAROS – Ensamble de Vientos (infancias).",
-      "cancelled": false,
-      "source": "barilochense"
-    },
-    {
-      "date": "2026-08-06",
-      "dateLabel": "Jueves 6 Agosto, 2026",
-      "title": "REFUGIEROS",
-      "category": "Música",
-      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/refugieros-2026-08-06-26-42",
-      "blurb": "REFUGIEROS",
-      "cancelled": false,
-      "source": "barilochense"
-    },
-    {
-      "date": "2026-08-06",
-      "dateLabel": "Jueves 6 Agosto, 2026",
-      "title": "Show de tango: La forfai",
-      "category": "Música",
-      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/bibliotecasarmiento/show-de-tango-la-forfai-2026-07-28-38-54",
-      "blurb": "Show de tango: La forfai",
-      "cancelled": false,
-      "source": "barilochense"
-    },
     {
       "date": "2026-08-07",
       "dateLabel": "Viernes 7 Agosto, 2026",
@@ -679,7 +599,17 @@
       "blurb": " FAZZINI LLEGA A BARILOCHE POR TERCERA VEZ ",
       "cancelled": false,
       "source": "barilochense"
+    },
+    {
+      "date": "2026-08-20",
+      "dateLabel": "Jueves 20 Agosto, 2026",
+      "title": "Influencia - Canciones de Charly en Nené",
+      "category": "Música",
+      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/b-shows/influencia-canciones-de-charly-en-nen-2026-07-29-24-10",
+      "blurb": "Influencia - Canciones de Charly en Nené",
+      "cancelled": false,
+      "source": "barilochense"
     }
   ],
-  "allCount": 110
+  "allCount": 102
 }
