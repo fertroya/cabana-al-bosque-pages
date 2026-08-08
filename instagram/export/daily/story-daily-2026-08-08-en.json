@@ -1,0 +1,27 @@
+{
+  "id": "story-daily-2026-08-08-en",
+  "locale": "en",
+  "format": "video",
+  "hasAudio": true,
+  "musicTrack": "modern-dance-pop.mp3",
+  "musicSource": "fallback",
+  "copySource": "ollama",
+  "mode": "promo-libres",
+  "energy": "vivaz",
+  "layout": "editorial-left",
+  "pace": "lively",
+  "usesWeather": false,
+  "availability": {
+    "nights": 9,
+    "start": "2026-08-09",
+    "end": "2026-08-18"
+  },
+  "photo": "galeria/instagrameables/bano-banera.jpg",
+  "theme": "cabaña",
+  "weather": null,
+  "weatherBadge": null,
+  "title": "Take a bath with views of the pines",
+  "subtitle": "Enjoy your soak while watching the Patagonia sun hit the windows from August 9 to 17. Link in bio to book.",
+  "eyebrow": "Cabaña al Bosque · Saturday, Aug 8",
+  "cta": "Book → link in bio"
+}
