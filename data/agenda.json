@@ -5,7 +5,7 @@
     {
       "id": "barilochense",
       "url": "https://www.barilochense.com/agenda-cultural",
-      "count": 68
+      "count": 59
     },
     {
       "id": "opina",
@@ -23,143 +23,13 @@
       "count": 11
     }
   ],
-  "fetchedAt": "2026-08-07T11:38:44.388Z",
+  "fetchedAt": "2026-08-08T11:20:33.168Z",
   "window": {
-    "from": "2026-08-07",
-    "to": "2026-08-20",
+    "from": "2026-08-08",
+    "to": "2026-08-21",
     "days": 14
   },
   "events": [
-    {
-      "date": "2026-08-07",
-      "dateLabel": "Viernes 7 Agosto, 2026",
-      "title": "¡VUELVE EL CICLO BRÚJULA!",
-      "category": "Música",
-      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/el-negro/vuelve-el-ciclo-brjula-2026-08-01-15-26",
-      "blurb": "¡VUELVE EL CICLO BRÚJULA!",
-      "cancelled": false,
-      "source": "barilochense"
-    },
-    {
-      "date": "2026-08-07",
-      "dateLabel": "Viernes 7 Agosto, 2026",
-      "title": "“Vuela en Invierno” espectáculo de acrobacia aérea",
-      "category": "Otros",
-      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/vuela-en-invierno-espectculo-de-acrobacia-area-2026-08-01-59-29",
-      "blurb": "“Vuela en Invierno” espectáculo de acrobacia aérea",
-      "cancelled": false,
-      "source": "barilochense"
-    },
-    {
-      "date": "2026-08-07",
-      "dateLabel": "Viernes 7 Agosto, 2026",
-      "title": "*UNA CHICA VUELVE A CASA SOLA DE NOCHE*",
-      "category": "Cine",
-      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/la-biblio/una-chica-vuelve-a-casa-sola-de-noche-2026-08-01-04-40",
-      "blurb": "*UNA CHICA VUELVE A CASA SOLA DE NOCHE*",
-      "cancelled": false,
-      "source": "barilochense"
-    },
-    {
-      "date": "2026-08-07",
-      "dateLabel": "Viernes 7 Agosto, 2026",
-      "title": "Chala Rasta GIRA DE INVIERNO 2026",
-      "category": "Música",
-      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/chala-rasta-gira-de-invierno-2026-2026-08-03-28-19",
-      "blurb": "Chala Rasta GIRA DE INVIERNO 2026",
-      "cancelled": false,
-      "source": "barilochense"
-    },
-    {
-      "date": "2026-08-07",
-      "dateLabel": "Viernes 7 Agosto, 2026",
-      "title": "Cine en el Civico: La Maestra de Kinder (2018)",
-      "category": "Cine",
-      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/cine-en-el-civico-la-maestra-de-kinder-2018-2026-08-05-10-11",
-      "blurb": "Cine en el Civico: La Maestra de Kinder (2018)",
-      "cancelled": false,
-      "source": "barilochense"
-    },
-    {
-      "date": "2026-08-07",
-      "dateLabel": "Viernes 7 Agosto, 2026",
-      "title": "Cine en el Oeste: Le meilleur reste à venir",
-      "category": "Cine",
-      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/cine-en-el-oeste/cine-en-el-oeste-le-meilleur-reste-venir-2026-08-05-01-19",
-      "blurb": "Cine en el Oeste: Le meilleur reste à venir",
-      "cancelled": false,
-      "source": "barilochense"
-    },
-    {
-      "date": "2026-08-07",
-      "dateLabel": "Viernes 7 Agosto, 2026",
-      "title": "Empieza con D siete letras",
-      "category": "Teatro",
-      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/-2026-08-06-29-23",
-      "blurb": "Empieza con D siete letras",
-      "cancelled": false,
-      "source": "barilochense"
-    },
-    {
-      "date": "2026-08-07",
-      "dateLabel": "Viernes 7 Agosto, 2026",
-      "title": "Influencia - Canciones de Charly en Emuna",
-      "category": "Música",
-      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/b-shows/influencia-canciones-de-charly-en-emuna-2026-07-29-39-38",
-      "blurb": "Influencia - Canciones de Charly en Emuna",
-      "cancelled": false,
-      "source": "barilochense"
-    },
-    {
-      "date": "2026-08-07",
-      "dateLabel": "Viernes 7 Agosto, 2026",
-      "title": "LA GIPSY",
-      "category": "Música",
-      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/la-gipsy-2026-08-04-24-06",
-      "blurb": "LA GIPSY",
-      "cancelled": false,
-      "source": "barilochense"
-    },
-    {
-      "date": "2026-08-07",
-      "dateLabel": "Viernes 7 Agosto, 2026",
-      "title": "LEÑA: ECHANDO CANCIONES AL FUEGO",
-      "category": "Música",
-      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/lea-echando-canciones-al-fuego-2026-08-06-30-54",
-      "blurb": "LEÑA: ECHANDO CANCIONES AL FUEGO",
-      "cancelled": false,
-      "source": "barilochense"
-    },
-    {
-      "date": "2026-08-07",
-      "dateLabel": "Viernes 7 Agosto, 2026",
-      "title": "NEILS",
-      "category": "Música",
-      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/neils-2026-08-06-37-59",
-      "blurb": "NEILS",
-      "cancelled": false,
-      "source": "barilochense"
-    },
-    {
-      "date": "2026-08-07",
-      "dateLabel": "Viernes 7 Agosto, 2026",
-      "title": "PEÑA DE MACACHA",
-      "category": "Fiestas y Festivales",
-      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/casa-macacha/pea-de-macacha-2026-07-29-14-19",
-      "blurb": "PEÑA DE MACACHA",
-      "cancelled": false,
-      "source": "barilochense"
-    },
-    {
-      "date": "2026-08-07",
-      "dateLabel": "Viernes 7 Agosto, 2026",
-      "title": "TANGO ALQUIMIA",
-      "category": "Música",
-      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/tango-alquimia-2026-08-04-26-19",
-      "blurb": "TANGO ALQUIMIA",
-      "cancelled": false,
-      "source": "barilochense"
-    },
     {
       "date": "2026-08-08",
       "dateLabel": "Sábado 8 Agosto, 2026",
@@ -187,6 +57,16 @@
       "category": "Música",
       "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/barbara-plotnik-2026-08-04-28-15",
       "blurb": "BARBARA PLOTNIK",
+      "cancelled": false,
+      "source": "barilochense"
+    },
+    {
+      "date": "2026-08-08",
+      "dateLabel": "Sábado 8 Agosto, 2026",
+      "title": "BLOOD SUGAR Tributo a Red Hot Chili Peppers",
+      "category": "Música",
+      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/blood-sugar-tributo-a-red-hot-chili-peppers-2026-08-07-23-53",
+      "blurb": "BLOOD SUGAR Tributo a Red Hot Chili Peppers",
       "cancelled": false,
       "source": "barilochense"
     },
@@ -327,6 +207,16 @@
       "category": "Música",
       "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/nonnpalidece-desenchufado-2026-07-14-26-50",
       "blurb": "Nonnpalidece desenchufado",
+      "cancelled": false,
+      "source": "barilochense"
+    },
+    {
+      "date": "2026-08-09",
+      "dateLabel": "Domingo 9 Agosto, 2026",
+      "title": "Unísono: proyectos musicales de cinco provincias junto a Carca",
+      "category": "Tv",
+      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/unsono-proyectos-musicales-de-cinco-provincias-junto-a-carca-2026-08-07-46-50",
+      "blurb": "Unísono: proyectos musicales de cinco provincias junto a Carca",
       "cancelled": false,
       "source": "barilochense"
     },
@@ -609,7 +499,17 @@
       "blurb": "Influencia - Canciones de Charly en Nené",
       "cancelled": false,
       "source": "barilochense"
+    },
+    {
+      "date": "2026-08-21",
+      "dateLabel": "Viernes 21 Agosto, 2026",
+      "title": "EL YARCO, HASTA DONDE TOPA",
+      "category": "Otros",
+      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/bibliotecasarmiento/el-yarco-hasta-donde-topa-2026-08-02-22-03",
+      "blurb": "EL YARCO, HASTA DONDE TOPA",
+      "cancelled": false,
+      "source": "barilochense"
     }
   ],
-  "allCount": 102
+  "allCount": 93
 }
