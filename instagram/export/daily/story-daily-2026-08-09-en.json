@@ -1,0 +1,27 @@
+{
+  "id": "story-daily-2026-08-09-en",
+  "locale": "en",
+  "format": "video",
+  "hasAudio": true,
+  "musicTrack": "modern-rising-house.mp3",
+  "musicSource": "fallback",
+  "copySource": "fallback",
+  "mode": "promo-libres",
+  "energy": "hook",
+  "layout": "classic",
+  "pace": "lively",
+  "usesWeather": false,
+  "availability": {
+    "nights": 9,
+    "start": "2026-08-09",
+    "end": "2026-08-18"
+  },
+  "photo": "galeria/instagrameables/denoche-5889.jpg",
+  "theme": "noche",
+  "weather": null,
+  "weatherBadge": null,
+  "title": "White Patagonia, open dates",
+  "subtitle": "Aug 9 – Aug 17 open. Cozy inside, snow outside — book via the link in bio.",
+  "eyebrow": "Cabaña al Bosque · Sunday, Aug 9",
+  "cta": "Book → link in bio"
+}
