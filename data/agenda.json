@@ -5,7 +5,7 @@
     {
       "id": "barilochense",
       "url": "https://www.barilochense.com/agenda-cultural",
-      "count": 59
+      "count": 47
     },
     {
       "id": "opina",
@@ -23,153 +23,13 @@
       "count": 11
     }
   ],
-  "fetchedAt": "2026-08-08T11:20:33.168Z",
+  "fetchedAt": "2026-08-09T11:21:04.055Z",
   "window": {
-    "from": "2026-08-08",
-    "to": "2026-08-21",
+    "from": "2026-08-09",
+    "to": "2026-08-22",
     "days": 14
   },
   "events": [
-    {
-      "date": "2026-08-08",
-      "dateLabel": "Sábado 8 Agosto, 2026",
-      "title": "“Breaking en el Puerto”",
-      "category": "Cursos y talleres",
-      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/breaking-en-el-puerto-2026-08-01-00-11",
-      "blurb": "“Breaking en el Puerto”",
-      "cancelled": false,
-      "source": "barilochense"
-    },
-    {
-      "date": "2026-08-08",
-      "dateLabel": "Sábado 8 Agosto, 2026",
-      "title": "“Tangos Clásicos” - Ensayo Compañía Delotrolado",
-      "category": "Tango",
-      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/tangos-clsicos-ensayo-compaa-delotrolado-2026-08-01-01-48",
-      "blurb": "“Tangos Clásicos” - Ensayo Compañía Delotrolado",
-      "cancelled": false,
-      "source": "barilochense"
-    },
-    {
-      "date": "2026-08-08",
-      "dateLabel": "Sábado 8 Agosto, 2026",
-      "title": "BARBARA PLOTNIK",
-      "category": "Música",
-      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/barbara-plotnik-2026-08-04-28-15",
-      "blurb": "BARBARA PLOTNIK",
-      "cancelled": false,
-      "source": "barilochense"
-    },
-    {
-      "date": "2026-08-08",
-      "dateLabel": "Sábado 8 Agosto, 2026",
-      "title": "BLOOD SUGAR Tributo a Red Hot Chili Peppers",
-      "category": "Música",
-      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/blood-sugar-tributo-a-red-hot-chili-peppers-2026-08-07-23-53",
-      "blurb": "BLOOD SUGAR Tributo a Red Hot Chili Peppers",
-      "cancelled": false,
-      "source": "barilochense"
-    },
-    {
-      "date": "2026-08-08",
-      "dateLabel": "Sábado 8 Agosto, 2026",
-      "title": "CARUCHA GIMENEZ & BLUETONICS",
-      "category": "Música",
-      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/carucha-gimenez-bluetonics-2026-08-02-12-33",
-      "blurb": "CARUCHA GIMENEZ & BLUETONICS",
-      "cancelled": false,
-      "source": "barilochense"
-    },
-    {
-      "date": "2026-08-08",
-      "dateLabel": "Sábado 8 Agosto, 2026",
-      "title": "Colegas Rock + Buenos Vecinos",
-      "category": "Música",
-      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/la-biblio/colegas-rock-buenos-vecinos-2026-08-04-33-11",
-      "blurb": "Colegas Rock + Buenos Vecinos",
-      "cancelled": false,
-      "source": "barilochense"
-    },
-    {
-      "date": "2026-08-08",
-      "dateLabel": "Sábado 8 Agosto, 2026",
-      "title": "Freak Show",
-      "category": "Otros",
-      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/casa-macacha/freak-show-2026-07-30-52-35",
-      "blurb": "Freak Show",
-      "cancelled": false,
-      "source": "barilochense"
-    },
-    {
-      "date": "2026-08-08",
-      "dateLabel": "Sábado 8 Agosto, 2026",
-      "title": "La rosa",
-      "category": "Música",
-      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/bibliotecasarmiento/la-rosa-2026-07-29-23-54",
-      "blurb": "La rosa",
-      "cancelled": false,
-      "source": "barilochense"
-    },
-    {
-      "date": "2026-08-08",
-      "dateLabel": "Sábado 8 Agosto, 2026",
-      "title": "Maffia",
-      "category": "Música",
-      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/maffia-2026-08-05-12-48",
-      "blurb": "Maffia",
-      "cancelled": false,
-      "source": "barilochense"
-    },
-    {
-      "date": "2026-08-08",
-      "dateLabel": "Sábado 8 Agosto, 2026",
-      "title": "MIR NICOLÁS",
-      "category": "Música",
-      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/ne-ne-agenda/mir-nicols-2026-07-27-29-57",
-      "blurb": "MIR NICOLÁS",
-      "cancelled": false,
-      "source": "barilochense"
-    },
-    {
-      "date": "2026-08-08",
-      "dateLabel": "Sábado 8 Agosto, 2026",
-      "title": "PEQUENIAS",
-      "category": "Música",
-      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/pequenias-2026-08-02-16-51",
-      "blurb": "PEQUENIAS",
-      "cancelled": false,
-      "source": "barilochense"
-    },
-    {
-      "date": "2026-08-08",
-      "dateLabel": "Sábado 8 Agosto, 2026",
-      "title": "RolaGitana FLAMENCO FUSION",
-      "category": "Música",
-      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/rolagitana-flamenco-fusion-2026-08-06-31-54",
-      "blurb": "RolaGitana FLAMENCO FUSION",
-      "cancelled": false,
-      "source": "barilochense"
-    },
-    {
-      "date": "2026-08-08",
-      "dateLabel": "Sábado 8 Agosto, 2026",
-      "title": "Valentín Garvie Cuarteto | JAZZ",
-      "category": "Música",
-      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/camping-musical/valentn-garvie-cuarteto-jazz-2026-07-08-13-09",
-      "blurb": "Valentín Garvie Cuarteto | JAZZ",
-      "cancelled": false,
-      "source": "barilochense"
-    },
-    {
-      "date": "2026-08-08",
-      "dateLabel": "Sábado 8 Agosto, 2026",
-      "title": "✨ ¡Se viene la FESTIVIAJE 2026! ✨",
-      "category": "Fiestas y Festivales",
-      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/el-negro/-se-viene-la-festiviaje-2026-2026-08-02-48-49",
-      "blurb": "✨ ¡Se viene la FESTIVIAJE 2026! ✨",
-      "cancelled": false,
-      "source": "barilochense"
-    },
     {
       "date": "2026-08-09",
       "dateLabel": "Domingo 9 Agosto, 2026",
@@ -372,6 +232,16 @@
     },
     {
       "date": "2026-08-15",
+      "dateLabel": "Sábado 15 Agosto, 2026",
+      "title": "Candomband",
+      "category": "Música",
+      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/candomband-2026-08-08-22-33",
+      "blurb": "Candomband",
+      "cancelled": false,
+      "source": "barilochense"
+    },
+    {
+      "date": "2026-08-15",
       "dateLabel": "",
       "title": "Carrera de Mozos y colectividades · Fiesta de la Nieve",
       "category": "Fiestas y Festivales",
@@ -491,6 +361,16 @@
       "source": "barilochense"
     },
     {
+      "date": "2026-08-19",
+      "dateLabel": "Miércoles 19 Agosto, 2026",
+      "title": "Cine: Los colores del tiempo",
+      "category": "Cine",
+      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/bibliotecasarmiento/cine-los-colores-del-tiempo-2026-08-08-29-22",
+      "blurb": "Cine: Los colores del tiempo",
+      "cancelled": false,
+      "source": "barilochense"
+    },
+    {
       "date": "2026-08-20",
       "dateLabel": "Jueves 20 Agosto, 2026",
       "title": "Influencia - Canciones de Charly en Nené",
@@ -509,7 +389,47 @@
       "blurb": "EL YARCO, HASTA DONDE TOPA",
       "cancelled": false,
       "source": "barilochense"
+    },
+    {
+      "date": "2026-08-22",
+      "dateLabel": "Sábado 22 Agosto, 2026",
+      "title": "AGOSTO DE ROCK EN PAICO",
+      "category": "Música",
+      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/paico/agosto-de-rock-en-paico-2026-08-07-47-03",
+      "blurb": "AGOSTO DE ROCK EN PAICO",
+      "cancelled": false,
+      "source": "barilochense"
+    },
+    {
+      "date": "2026-08-22",
+      "dateLabel": "Sábado 22 Agosto, 2026",
+      "title": "La Funk Me Up",
+      "category": "Música",
+      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/ne-ne-agenda/la-funk-me-up-2026-07-27-31-06",
+      "blurb": "La Funk Me Up",
+      "cancelled": false,
+      "source": "barilochense"
+    },
+    {
+      "date": "2026-08-22",
+      "dateLabel": "Sábado 22 Agosto, 2026",
+      "title": "LEJOS NEPTUNO ROCK ABDUCTIVO",
+      "category": "Música",
+      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/lejos-neptuno-rock-abductivo-2026-07-31-02-00",
+      "blurb": "LEJOS NEPTUNO ROCK ABDUCTIVO",
+      "cancelled": false,
+      "source": "barilochense"
+    },
+    {
+      "date": "2026-08-22",
+      "dateLabel": "Sábado 22 Agosto, 2026",
+      "title": "️ Seminario de Sonido en Vivo ",
+      "category": "Cursos y talleres",
+      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/el-negro/-seminario-de-sonido-en-vivo-2026-08-03-00-36",
+      "blurb": "️ Seminario de Sonido en Vivo ",
+      "cancelled": false,
+      "source": "barilochense"
     }
   ],
-  "allCount": 93
+  "allCount": 81
 }
