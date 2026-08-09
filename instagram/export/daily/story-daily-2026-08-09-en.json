@@ -4,8 +4,8 @@
   "format": "video",
   "hasAudio": true,
   "musicTrack": "modern-rising-house.mp3",
-  "musicSource": "fallback",
-  "copySource": "fallback",
+  "musicSource": "ollama",
+  "copySource": "ollama",
   "mode": "promo-libres",
   "energy": "hook",
   "layout": "classic",
@@ -20,8 +20,8 @@
   "theme": "noche",
   "weather": null,
   "weatherBadge": null,
-  "title": "White Patagonia, open dates",
-  "subtitle": "Aug 9 – Aug 17 open. Cozy inside, snow outside — book via the link in bio.",
-  "eyebrow": "Cabaña al Bosque · Sunday, Aug 9",
+  "title": "That warm glow from the kitchen window",
+  "subtitle": "The cabin is glowing through the pines tonight. We have 9 nights open until Aug 17, want to join us in Bariloche?",
+  "eyebrow": "Cabaña al Bosque · Sunday, Aug 09",
   "cta": "Book → link in bio"
 }
