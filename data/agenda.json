@@ -5,7 +5,7 @@
     {
       "id": "barilochense",
       "url": "https://www.barilochense.com/agenda-cultural",
-      "count": 47
+      "count": 43
     },
     {
       "id": "opina",
@@ -23,93 +23,13 @@
       "count": 11
     }
   ],
-  "fetchedAt": "2026-08-09T11:21:04.055Z",
+  "fetchedAt": "2026-08-10T11:41:45.386Z",
   "window": {
-    "from": "2026-08-09",
-    "to": "2026-08-22",
+    "from": "2026-08-10",
+    "to": "2026-08-23",
     "days": 14
   },
   "events": [
-    {
-      "date": "2026-08-09",
-      "dateLabel": "Domingo 9 Agosto, 2026",
-      "title": "“KPOP Patagonia”",
-      "category": "Música",
-      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/kpop-patagonia-2026-08-01-02-35",
-      "blurb": "“KPOP Patagonia”",
-      "cancelled": false,
-      "source": "barilochense"
-    },
-    {
-      "date": "2026-08-09",
-      "dateLabel": "Domingo 9 Agosto, 2026",
-      "title": "CINE Documental *“Cannabis medicinal”*",
-      "category": "Cine",
-      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/la-biblio/cine-documental-cannabis-medicinal-2026-08-05-20-06",
-      "blurb": "CINE Documental *“Cannabis medicinal”*",
-      "cancelled": false,
-      "source": "barilochense"
-    },
-    {
-      "date": "2026-08-09",
-      "dateLabel": "Domingo 9 Agosto, 2026",
-      "title": "FIDELIO GIRA PATAGONICA",
-      "category": "Música",
-      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/fidelio-gira-patagonica-2026-08-03-33-26",
-      "blurb": "FIDELIO GIRA PATAGONICA",
-      "cancelled": false,
-      "source": "barilochense"
-    },
-    {
-      "date": "2026-08-09",
-      "dateLabel": "Domingo 9 Agosto, 2026",
-      "title": "Nonnpalidece desenchufado",
-      "category": "Música",
-      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/nonnpalidece-desenchufado-2026-07-14-26-50",
-      "blurb": "Nonnpalidece desenchufado",
-      "cancelled": false,
-      "source": "barilochense"
-    },
-    {
-      "date": "2026-08-09",
-      "dateLabel": "Domingo 9 Agosto, 2026",
-      "title": "Unísono: proyectos musicales de cinco provincias junto a Carca",
-      "category": "Tv",
-      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/unsono-proyectos-musicales-de-cinco-provincias-junto-a-carca-2026-08-07-46-50",
-      "blurb": "Unísono: proyectos musicales de cinco provincias junto a Carca",
-      "cancelled": false,
-      "source": "barilochense"
-    },
-    {
-      "date": "2026-08-09",
-      "dateLabel": "Domingo 9 Agosto, 2026",
-      "title": "VOLVIENDO EL CANDOMBE",
-      "category": "Música",
-      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/paico/volviendo-el-candombe-2026-08-03-11-18",
-      "blurb": "VOLVIENDO EL CANDOMBE",
-      "cancelled": false,
-      "source": "barilochense"
-    },
-    {
-      "date": "2026-08-09",
-      "dateLabel": "Domingo 9 Agosto, 2026",
-      "title": "Yhosva Montoya",
-      "category": "Música",
-      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/bibliotecasarmiento/yhosva-montoya-2026-07-31-03-35",
-      "blurb": "Yhosva Montoya",
-      "cancelled": false,
-      "source": "barilochense"
-    },
-    {
-      "date": "2026-08-09",
-      "dateLabel": "Domingo 9 Agosto, 2026",
-      "title": " De Paisanos y Paisanas   Grupo Trampolín Bariloche",
-      "category": "Infantiles",
-      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/el-negro/-de-paisanos-y-paisanas-grupo-trampoln-bariloche-2026-08-02-12-13",
-      "blurb": " De Paisanos y Paisanas   Grupo Trampolín Bariloche",
-      "cancelled": false,
-      "source": "barilochense"
-    },
     {
       "date": "2026-08-11",
       "dateLabel": "Martes 11 Agosto, 2026",
@@ -127,6 +47,16 @@
       "category": "Charlas",
       "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/estanislao-bachrach-presenta-lmbico-2026-07-17-47-08",
       "blurb": "ESTANISLAO BACHRACH PRESENTA LÍMBICO",
+      "cancelled": false,
+      "source": "barilochense"
+    },
+    {
+      "date": "2026-08-12",
+      "dateLabel": "Miércoles 12 Agosto, 2026",
+      "title": "La Nave Proyecta: L’attachement",
+      "category": "Cine",
+      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/bibliotecasarmiento/la-nave-proyecta-lattachement-2026-08-09-26-16",
+      "blurb": "La Nave Proyecta: L’attachement",
       "cancelled": false,
       "source": "barilochense"
     },
@@ -177,6 +107,16 @@
       "category": "Gourmet",
       "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/cre-arte/el-ciclo-puertas-de-cre-arte-presenta-el-bodegn-2026-08-05-44-33",
       "blurb": "El Ciclo Puertas de Cre-arte presenta: El Bodegón",
+      "cancelled": false,
+      "source": "barilochense"
+    },
+    {
+      "date": "2026-08-14",
+      "dateLabel": "Viernes 14 Agosto, 2026",
+      "title": "ENCUENTROS EN INVIERNO",
+      "category": "Música",
+      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/paico/encuentros-en-invierno-2026-08-09-47-27",
+      "blurb": "ENCUENTROS EN INVIERNO",
       "cancelled": false,
       "source": "barilochense"
     },
@@ -429,7 +369,27 @@
       "blurb": "️ Seminario de Sonido en Vivo ",
       "cancelled": false,
       "source": "barilochense"
+    },
+    {
+      "date": "2026-08-23",
+      "dateLabel": "Domingo 23 Agosto, 2026",
+      "title": "Fundación Cultural Patagonia presenta la obra de teatro “Dios me odia” en la Sala Rautenstrauch",
+      "category": "Teatro",
+      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/camping-musical/fundacin-cultural-patagonia-presenta-la-obra-de-teatro-dios-me-odia-en-la-sala-rautenstrauch-2026-07-11-43-21",
+      "blurb": "Fundación Cultural Patagonia presenta la obra de teatro “Dios me odia” en la Sala Rautenstrauch",
+      "cancelled": false,
+      "source": "barilochense"
+    },
+    {
+      "date": "2026-08-23",
+      "dateLabel": "Domingo 23 Agosto, 2026",
+      "title": "Sietevidas, la gatopera",
+      "category": "Teatro",
+      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/bibliotecasarmiento/sietevidas-la-gatopera-2026-08-03-38-23",
+      "blurb": "Sietevidas, la gatopera",
+      "cancelled": false,
+      "source": "barilochense"
     }
   ],
-  "allCount": 81
+  "allCount": 77
 }
