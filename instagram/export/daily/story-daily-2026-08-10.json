@@ -1,0 +1,27 @@
+{
+  "id": "story-daily-2026-08-10",
+  "locale": "es",
+  "format": "video",
+  "hasAudio": true,
+  "musicTrack": "modern-tech-house.mp3",
+  "musicSource": "fallback",
+  "copySource": "fallback",
+  "mode": "promo-libres",
+  "energy": "vivaz",
+  "layout": "editorial-left",
+  "pace": "lively",
+  "usesWeather": true,
+  "availability": {
+    "nights": 8,
+    "start": "2026-08-10",
+    "end": "2026-08-18"
+  },
+  "photo": "galeria/instagrameables/denoche-9273.jpg",
+  "theme": "noche",
+  "weather": "0° máx · -4° mín · Nevada leve",
+  "weatherBadge": "lun, 10 ago · 0° máx · -4° mín · Nevada leve",
+  "title": "Invierno con hueco libre",
+  "subtitle": "10 ago – 17 ago libres. Adentro abriga, afuera nieva — reservá desde el link en bio.",
+  "eyebrow": "Cabaña al Bosque · lunes, 10 ago",
+  "cta": "Reservá → link en bio"
+}
