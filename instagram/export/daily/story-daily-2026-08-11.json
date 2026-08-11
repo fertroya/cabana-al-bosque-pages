@@ -4,7 +4,7 @@
   "format": "video",
   "hasAudio": true,
   "musicTrack": "upbeat-indie-pop.mp3",
-  "musicSource": "ollama",
+  "musicSource": "fallback",
   "copySource": "fallback",
   "mode": "promo-libres",
   "energy": "hook",
