@@ -1,0 +1,27 @@
+{
+  "id": "story-daily-2026-08-11-en",
+  "locale": "en",
+  "format": "video",
+  "hasAudio": true,
+  "musicTrack": "upbeat-indie-pop.mp3",
+  "musicSource": "ollama",
+  "copySource": "ollama",
+  "mode": "promo-libres",
+  "energy": "hook",
+  "layout": "frosted-card",
+  "pace": "lively",
+  "usesWeather": false,
+  "availability": {
+    "nights": 7,
+    "start": "2026-08-11",
+    "end": "2026-08-18"
+  },
+  "photo": "galeria/instagrameables/denoche-7851.jpg",
+  "theme": "noche",
+  "weather": null,
+  "weatherBadge": null,
+  "title": "The perfect spot for a night under the stars",
+  "subtitle": "Enjoy these 7 nights from Aug 11 to Aug 17 in Bariloche. Want the booking link for this cabin?",
+  "eyebrow": "Cabaña al Bosque · Tuesday, Aug 11",
+  "cta": "Book → link in bio"
+}
