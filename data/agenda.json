@@ -5,7 +5,7 @@
     {
       "id": "barilochense",
       "url": "https://www.barilochense.com/agenda-cultural",
-      "count": 53
+      "count": 62
     },
     {
       "id": "opina",
@@ -23,23 +23,13 @@
       "count": 11
     }
   ],
-  "fetchedAt": "2026-08-11T11:37:38.539Z",
+  "fetchedAt": "2026-08-12T11:39:26.289Z",
   "window": {
-    "from": "2026-08-11",
-    "to": "2026-08-24",
+    "from": "2026-08-12",
+    "to": "2026-08-25",
     "days": 14
   },
   "events": [
-    {
-      "date": "2026-08-11",
-      "dateLabel": "Martes 11 Agosto, 2026",
-      "title": "Open Folk",
-      "category": "Música",
-      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/open-folk-2026-07-27-08-11",
-      "blurb": "Open Folk",
-      "cancelled": false,
-      "source": "barilochense"
-    },
     {
       "date": "2026-08-12",
       "dateLabel": "Miércoles 12 Agosto, 2026",
@@ -57,6 +47,16 @@
       "category": "Cine",
       "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/bibliotecasarmiento/la-nave-proyecta-lattachement-2026-08-09-26-16",
       "blurb": "La Nave Proyecta: L’attachement",
+      "cancelled": false,
+      "source": "barilochense"
+    },
+    {
+      "date": "2026-08-12",
+      "dateLabel": "Miércoles 12 Agosto, 2026",
+      "title": "❄️ ¡AMOR AMOR EN LA FIESTA NACIONAL DE LA NIEVE! ❄️",
+      "category": "Música",
+      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/-amor-amor-en-la-fiesta-nacional-de-la-nieve-2026-08-11-30-38",
+      "blurb": "❄️ ¡AMOR AMOR EN LA FIESTA NACIONAL DE LA NIEVE! ❄️",
       "cancelled": false,
       "source": "barilochense"
     },
@@ -92,6 +92,16 @@
     },
     {
       "date": "2026-08-13",
+      "dateLabel": "Jueves 13 Agosto, 2026",
+      "title": "RolaGitana FLAMENCO FUSION",
+      "category": "Música",
+      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/rolagitana-flamenco-fusion-2026-08-11-22-38",
+      "blurb": "RolaGitana FLAMENCO FUSION",
+      "cancelled": false,
+      "source": "barilochense"
+    },
+    {
+      "date": "2026-08-13",
       "dateLabel": "",
       "title": "Sele Vera y Los Pampas · Centro Cívico",
       "category": "Cine",
@@ -107,6 +117,16 @@
       "category": "Teatro",
       "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/moma/amor-vacante-2026-07-31-19-03",
       "blurb": "Amor vacante",
+      "cancelled": false,
+      "source": "barilochense"
+    },
+    {
+      "date": "2026-08-14",
+      "dateLabel": "Viernes 14 Agosto, 2026",
+      "title": "Cine Cubano: “HOMENAJE AL COMANDANTE EN JEFE FIDEL CASTRO”",
+      "category": "Cine",
+      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/cine-cubano-homenaje-al-comandante-en-jefe-fidel-castro-2026-08-11-11-12",
+      "blurb": "Cine Cubano: “HOMENAJE AL COMANDANTE EN JEFE FIDEL CASTRO”",
       "cancelled": false,
       "source": "barilochense"
     },
@@ -173,6 +193,26 @@
     {
       "date": "2026-08-14",
       "dateLabel": "Viernes 14 Agosto, 2026",
+      "title": "ULTRAVIOLETAS FUNKY ROOTS",
+      "category": "Música",
+      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/ultravioletas-funky-roots-2026-08-11-27-10",
+      "blurb": "ULTRAVIOLETAS FUNKY ROOTS",
+      "cancelled": false,
+      "source": "barilochense"
+    },
+    {
+      "date": "2026-08-14",
+      "dateLabel": "Viernes 14 Agosto, 2026",
+      "title": "YESICA Y DIEGO",
+      "category": "Música",
+      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/yesica-y-diego-2026-08-11-19-58",
+      "blurb": "YESICA Y DIEGO",
+      "cancelled": false,
+      "source": "barilochense"
+    },
+    {
+      "date": "2026-08-14",
+      "dateLabel": "Viernes 14 Agosto, 2026",
       "title": "Tranqui 120 y Los Multitaskitos. ✨",
       "category": "Música",
       "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/el-negro/tranqui-120-y-los-multitaskitos.-2026-08-02-51-09",
@@ -209,6 +249,16 @@
       "blurb": "55ª Fiesta Nacional de la Nieve",
       "cancelled": false,
       "source": "informa"
+    },
+    {
+      "date": "2026-08-15",
+      "dateLabel": "Sábado 15 Agosto, 2026",
+      "title": "CHALA RASTA REGGAE",
+      "category": "Música",
+      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/chala-rasta-reggae-2026-08-11-28-41",
+      "blurb": "CHALA RASTA REGGAE",
+      "cancelled": false,
+      "source": "barilochense"
     },
     {
       "date": "2026-08-15",
@@ -282,6 +332,16 @@
     },
     {
       "date": "2026-08-15",
+      "dateLabel": "Sábado 15 Agosto, 2026",
+      "title": "Nicolás Malbos: “TALLER DE BANDONEÓN Y CLÍNICA ORQUESTAL DE TANGO",
+      "category": "Tango",
+      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/nicols-malbos-taller-de-bandonen-y-clnica-orquestal-de-tango-2026-08-11-24-33",
+      "blurb": "Nicolás Malbos: “TALLER DE BANDONEÓN Y CLÍNICA ORQUESTAL DE TANGO",
+      "cancelled": false,
+      "source": "barilochense"
+    },
+    {
+      "date": "2026-08-15",
       "dateLabel": "",
       "title": "Show de drones · Fiesta de la Nieve",
       "category": "Fiestas y Festivales",
@@ -289,6 +349,26 @@
       "blurb": "55ª Fiesta Nacional de la Nieve",
       "cancelled": false,
       "source": "informa"
+    },
+    {
+      "date": "2026-08-15",
+      "dateLabel": "Sábado 15 Agosto, 2026",
+      "title": "Stephanie Lucero - Social de salsa y bachata",
+      "category": "Música",
+      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/stephanie-lucero-social-de-salsa-y-bachata-2026-08-11-21-21",
+      "blurb": "Stephanie Lucero - Social de salsa y bachata",
+      "cancelled": false,
+      "source": "barilochense"
+    },
+    {
+      "date": "2026-08-15",
+      "dateLabel": "Sábado 15 Agosto, 2026",
+      "title": "VINILO BLUES",
+      "category": "Música",
+      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/vinilo-blues-2026-08-11-29-40",
+      "blurb": "VINILO BLUES",
+      "cancelled": false,
+      "source": "barilochense"
     },
     {
       "date": "2026-08-15",
@@ -479,7 +559,17 @@
       "blurb": "Sietevidas, la gatopera",
       "cancelled": false,
       "source": "barilochense"
+    },
+    {
+      "date": "2026-08-25",
+      "dateLabel": "Martes 25 Agosto, 2026",
+      "title": "Taller inclusivo de El Brote Cuerpo y movimiento",
+      "category": "Teatro",
+      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/saladeteatroelbrote/taller-inclusivo-de-el-brote-cuerpo-y-movimiento-2026-02-25-53-11",
+      "blurb": "Taller inclusivo de El Brote Cuerpo y movimiento",
+      "cancelled": false,
+      "source": "barilochense"
     }
   ],
-  "allCount": 87
+  "allCount": 96
 }
