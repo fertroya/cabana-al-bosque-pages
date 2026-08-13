@@ -1,0 +1,27 @@
+{
+  "id": "story-daily-2026-08-13-en",
+  "locale": "en",
+  "format": "video",
+  "hasAudio": true,
+  "musicTrack": "modern-future-bass.mp3",
+  "musicSource": "fallback",
+  "copySource": "fallback",
+  "mode": "promo-libres",
+  "energy": "hook",
+  "layout": "cinema-bar",
+  "pace": "lively",
+  "usesWeather": false,
+  "availability": {
+    "nights": 5,
+    "start": "2026-08-13",
+    "end": "2026-08-18"
+  },
+  "photo": "galeria/instagrameables/img-0048.jpg",
+  "theme": "exterior",
+  "weather": null,
+  "weatherBadge": null,
+  "title": "Winter with room left",
+  "subtitle": "Aug 13 – Aug 17 open. Cozy inside, snow outside — book via the link in bio.",
+  "eyebrow": "Cabaña al Bosque · Thursday, Aug 13",
+  "cta": "Book → link in bio"
+}

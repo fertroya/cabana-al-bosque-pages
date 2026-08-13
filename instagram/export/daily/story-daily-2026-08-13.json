@@ -1,0 +1,27 @@
+{
+  "id": "story-daily-2026-08-13",
+  "locale": "es",
+  "format": "video",
+  "hasAudio": true,
+  "musicTrack": "modern-future-bass.mp3",
+  "musicSource": "fallback",
+  "copySource": "fallback",
+  "mode": "promo-libres",
+  "energy": "hook",
+  "layout": "cinema-bar",
+  "pace": "lively",
+  "usesWeather": true,
+  "availability": {
+    "nights": 5,
+    "start": "2026-08-13",
+    "end": "2026-08-18"
+  },
+  "photo": "galeria/instagrameables/img-0048.jpg",
+  "theme": "exterior",
+  "weather": "2° máx · 2° mín · Nevadas dispersas",
+  "weatherBadge": "jue, 13 ago · 2° máx · 2° mín · Nevadas dispersas",
+  "title": "Invierno con hueco libre",
+  "subtitle": "13 ago – 17 ago libres. Adentro abriga, afuera nieva — reservá desde el link en bio.",
+  "eyebrow": "Cabaña al Bosque · jueves, 13 ago",
+  "cta": "Reservá → link en bio"
+}
