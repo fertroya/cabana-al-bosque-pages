@@ -5,7 +5,7 @@
     {
       "id": "barilochense",
       "url": "https://www.barilochense.com/agenda-cultural",
-      "count": 62
+      "count": 64
     },
     {
       "id": "opina",
@@ -23,43 +23,13 @@
       "count": 11
     }
   ],
-  "fetchedAt": "2026-08-12T11:39:26.289Z",
+  "fetchedAt": "2026-08-13T11:40:08.110Z",
   "window": {
-    "from": "2026-08-12",
-    "to": "2026-08-25",
+    "from": "2026-08-13",
+    "to": "2026-08-26",
     "days": 14
   },
   "events": [
-    {
-      "date": "2026-08-12",
-      "dateLabel": "Miércoles 12 Agosto, 2026",
-      "title": "ESTANISLAO BACHRACH PRESENTA LÍMBICO",
-      "category": "Charlas",
-      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/estanislao-bachrach-presenta-lmbico-2026-07-17-47-08",
-      "blurb": "ESTANISLAO BACHRACH PRESENTA LÍMBICO",
-      "cancelled": false,
-      "source": "barilochense"
-    },
-    {
-      "date": "2026-08-12",
-      "dateLabel": "Miércoles 12 Agosto, 2026",
-      "title": "La Nave Proyecta: L’attachement",
-      "category": "Cine",
-      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/bibliotecasarmiento/la-nave-proyecta-lattachement-2026-08-09-26-16",
-      "blurb": "La Nave Proyecta: L’attachement",
-      "cancelled": false,
-      "source": "barilochense"
-    },
-    {
-      "date": "2026-08-12",
-      "dateLabel": "Miércoles 12 Agosto, 2026",
-      "title": "❄️ ¡AMOR AMOR EN LA FIESTA NACIONAL DE LA NIEVE! ❄️",
-      "category": "Música",
-      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/-amor-amor-en-la-fiesta-nacional-de-la-nieve-2026-08-11-30-38",
-      "blurb": "❄️ ¡AMOR AMOR EN LA FIESTA NACIONAL DE LA NIEVE! ❄️",
-      "cancelled": false,
-      "source": "barilochense"
-    },
     {
       "date": "2026-08-13",
       "dateLabel": "Jueves 13 Agosto, 2026",
@@ -89,6 +59,26 @@
       "blurb": "55ª Fiesta Nacional de la Nieve",
       "cancelled": false,
       "source": "informa"
+    },
+    {
+      "date": "2026-08-13",
+      "dateLabel": "Jueves 13 Agosto, 2026",
+      "title": "EMILIANO DEMARCO",
+      "category": "Música",
+      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/emiliano-demarco-2026-08-12-11-06",
+      "blurb": "EMILIANO DEMARCO",
+      "cancelled": false,
+      "source": "barilochense"
+    },
+    {
+      "date": "2026-08-13",
+      "dateLabel": "Jueves 13 Agosto, 2026",
+      "title": "La Tincho Fierro afterski",
+      "category": "Música",
+      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/la-tincho-fierro-afterski-2026-08-12-06-34",
+      "blurb": "La Tincho Fierro afterski",
+      "cancelled": false,
+      "source": "barilochense"
     },
     {
       "date": "2026-08-13",
@@ -392,6 +382,16 @@
     },
     {
       "date": "2026-08-16",
+      "dateLabel": "Domingo 16 Agosto, 2026",
+      "title": "AMOR AMOR",
+      "category": "Música",
+      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/amor-amor-2026-08-12-12-34",
+      "blurb": "AMOR AMOR",
+      "cancelled": false,
+      "source": "barilochense"
+    },
+    {
+      "date": "2026-08-16",
       "dateLabel": "",
       "title": "Concurso de Hacheros · Fiesta de la Nieve",
       "category": "Cursos y talleres",
@@ -523,6 +523,16 @@
     {
       "date": "2026-08-22",
       "dateLabel": "Sábado 22 Agosto, 2026",
+      "title": "Todavía no probé la delicia de mis manos.",
+      "category": "Teatro",
+      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/bibliotecasarmiento/todava-no-prob-la-delicia-de-mis-manos.-2026-08-12-15-16",
+      "blurb": "Todavía no probé la delicia de mis manos.",
+      "cancelled": false,
+      "source": "barilochense"
+    },
+    {
+      "date": "2026-08-22",
+      "dateLabel": "Sábado 22 Agosto, 2026",
       "title": "️ Seminario de Sonido en Vivo ",
       "category": "Cursos y talleres",
       "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/el-negro/-seminario-de-sonido-en-vivo-2026-08-03-00-36",
@@ -571,5 +581,5 @@
       "source": "barilochense"
     }
   ],
-  "allCount": 96
+  "allCount": 98
 }
