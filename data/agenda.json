@@ -5,7 +5,7 @@
     {
       "id": "barilochense",
       "url": "https://www.barilochense.com/agenda-cultural",
-      "count": 64
+      "count": 70
     },
     {
       "id": "opina",
@@ -23,82 +23,22 @@
       "count": 11
     }
   ],
-  "fetchedAt": "2026-08-13T11:40:08.110Z",
+  "fetchedAt": "2026-08-14T11:37:35.203Z",
   "window": {
-    "from": "2026-08-13",
-    "to": "2026-08-26",
+    "from": "2026-08-14",
+    "to": "2026-08-27",
     "days": 14
   },
   "events": [
     {
-      "date": "2026-08-13",
-      "dateLabel": "Jueves 13 Agosto, 2026",
-      "title": "Artistas locales abren la Fiesta de la Nieve junto a Sele Vera",
-      "category": "Fiestas y Festivales",
-      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/fiesta-nacional-nieve/artistas-locales-abren-la-fiesta-de-la-nieve-junto-a-sele-vera-2026-08-10-45-17",
-      "blurb": "Artistas locales abren la Fiesta de la Nieve junto a Sele Vera",
-      "cancelled": false,
-      "source": "barilochense"
-    },
-    {
-      "date": "2026-08-13",
-      "dateLabel": "",
-      "title": "Bajada de Antorchas · Cerro Catedral",
-      "category": "Fiestas y Festivales",
-      "url": "https://barilocheinforma.gob.ar/walter-cortes-presento-una-fiesta-de-la-nieve-que-recupera-las-tradiciones-y-celebra-la-identidad-de-bariloche/",
-      "blurb": "55ª Fiesta Nacional de la Nieve",
-      "cancelled": false,
-      "source": "informa"
-    },
-    {
-      "date": "2026-08-13",
-      "dateLabel": "",
-      "title": "Concurso de Tortas · Fiesta de la Nieve",
-      "category": "Cursos y talleres",
-      "url": "https://barilocheinforma.gob.ar/walter-cortes-presento-una-fiesta-de-la-nieve-que-recupera-las-tradiciones-y-celebra-la-identidad-de-bariloche/",
-      "blurb": "55ª Fiesta Nacional de la Nieve",
-      "cancelled": false,
-      "source": "informa"
-    },
-    {
-      "date": "2026-08-13",
-      "dateLabel": "Jueves 13 Agosto, 2026",
-      "title": "EMILIANO DEMARCO",
+      "date": "2026-08-14",
+      "dateLabel": "Viernes 14 Agosto, 2026",
+      "title": "¡UH, LA, LA! NOCHE DE SWING",
       "category": "Música",
-      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/emiliano-demarco-2026-08-12-11-06",
-      "blurb": "EMILIANO DEMARCO",
+      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/uh-la-la-noche-de-swing-2026-08-13-18-46",
+      "blurb": "¡UH, LA, LA! NOCHE DE SWING",
       "cancelled": false,
       "source": "barilochense"
-    },
-    {
-      "date": "2026-08-13",
-      "dateLabel": "Jueves 13 Agosto, 2026",
-      "title": "La Tincho Fierro afterski",
-      "category": "Música",
-      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/la-tincho-fierro-afterski-2026-08-12-06-34",
-      "blurb": "La Tincho Fierro afterski",
-      "cancelled": false,
-      "source": "barilochense"
-    },
-    {
-      "date": "2026-08-13",
-      "dateLabel": "Jueves 13 Agosto, 2026",
-      "title": "RolaGitana FLAMENCO FUSION",
-      "category": "Música",
-      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/rolagitana-flamenco-fusion-2026-08-11-22-38",
-      "blurb": "RolaGitana FLAMENCO FUSION",
-      "cancelled": false,
-      "source": "barilochense"
-    },
-    {
-      "date": "2026-08-13",
-      "dateLabel": "",
-      "title": "Sele Vera y Los Pampas · Centro Cívico",
-      "category": "Cine",
-      "url": "https://barilocheinforma.gob.ar/walter-cortes-presento-una-fiesta-de-la-nieve-que-recupera-las-tradiciones-y-celebra-la-identidad-de-bariloche/",
-      "blurb": "55ª Fiesta Nacional de la Nieve",
-      "cancelled": false,
-      "source": "informa"
     },
     {
       "date": "2026-08-14",
@@ -113,10 +53,30 @@
     {
       "date": "2026-08-14",
       "dateLabel": "Viernes 14 Agosto, 2026",
+      "title": "Brújula Teatro presenta: La Peligrosa",
+      "category": "Teatro",
+      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/brjula-teatro-presenta-la-peligrosa-2026-08-13-16-47",
+      "blurb": "Brújula Teatro presenta: La Peligrosa",
+      "cancelled": false,
+      "source": "barilochense"
+    },
+    {
+      "date": "2026-08-14",
+      "dateLabel": "Viernes 14 Agosto, 2026",
       "title": "Cine Cubano: “HOMENAJE AL COMANDANTE EN JEFE FIDEL CASTRO”",
       "category": "Cine",
       "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/cine-cubano-homenaje-al-comandante-en-jefe-fidel-castro-2026-08-11-11-12",
       "blurb": "Cine Cubano: “HOMENAJE AL COMANDANTE EN JEFE FIDEL CASTRO”",
+      "cancelled": false,
+      "source": "barilochense"
+    },
+    {
+      "date": "2026-08-14",
+      "dateLabel": "Viernes 14 Agosto, 2026",
+      "title": "Cine en el Oeste: Le meilleur reste à venir",
+      "category": "Cine",
+      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/cine-en-el-oeste/cine-en-el-oeste-le-meilleur-reste-venir-2026-08-13-58-51",
+      "blurb": "Cine en el Oeste: Le meilleur reste à venir",
       "cancelled": false,
       "source": "barilochense"
     },
@@ -283,6 +243,16 @@
     {
       "date": "2026-08-15",
       "dateLabel": "Sábado 15 Agosto, 2026",
+      "title": "DÚO SCHLICHTER-MARTÍNEZ + FAINÁ DE BANANA JAZZ ROCK",
+      "category": "Música",
+      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/do-schlichter-martnez-fain-de-banana-jazz-rock-2026-08-13-19-44",
+      "blurb": "DÚO SCHLICHTER-MARTÍNEZ + FAINÁ DE BANANA JAZZ ROCK",
+      "cancelled": false,
+      "source": "barilochense"
+    },
+    {
+      "date": "2026-08-15",
+      "dateLabel": "Sábado 15 Agosto, 2026",
       "title": "Fran Lanfré de peña!",
       "category": "Música",
       "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/casa-macacha/fran-lanfr-de-pea-2026-08-04-31-07",
@@ -371,6 +341,16 @@
       "source": "barilochense"
     },
     {
+      "date": "2026-08-15",
+      "dateLabel": "Sábado 15 Agosto, 2026",
+      "title": "✨CLASE MAGISTRAL — DA PARA REÍR! ✨",
+      "category": "Cursos y talleres",
+      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/clase-magistral-da-para-rer-2026-08-14-58-19",
+      "blurb": "✨CLASE MAGISTRAL — DA PARA REÍR! ✨",
+      "cancelled": false,
+      "source": "barilochense"
+    },
+    {
       "date": "2026-08-16",
       "dateLabel": "Domingo 16 Agosto, 2026",
       "title": "Alma Legüera",
@@ -409,6 +389,16 @@
       "blurb": "55ª Fiesta Nacional de la Nieve",
       "cancelled": false,
       "source": "informa"
+    },
+    {
+      "date": "2026-08-16",
+      "dateLabel": "Domingo 16 Agosto, 2026",
+      "title": "GUADA Y LOS PEUMA",
+      "category": "Música",
+      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/casa-macacha/guada-y-los-peuma-2026-08-14-01-01",
+      "blurb": "GUADA Y LOS PEUMA",
+      "cancelled": false,
+      "source": "barilochense"
     },
     {
       "date": "2026-08-16",
@@ -481,12 +471,42 @@
       "source": "barilochense"
     },
     {
+      "date": "2026-08-20",
+      "dateLabel": "Jueves 20 Agosto, 2026",
+      "title": "Show de tango: La forfai",
+      "category": "Tango",
+      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/bibliotecasarmiento/show-de-tango-la-forfai-2026-08-13-08-18",
+      "blurb": "Show de tango: La forfai",
+      "cancelled": false,
+      "source": "barilochense"
+    },
+    {
+      "date": "2026-08-21",
+      "dateLabel": "Viernes 21 Agosto, 2026",
+      "title": "Brújula Teatro presenta: La Peligrosa",
+      "category": "Teatro",
+      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/brjula-teatro-presenta-la-peligrosa-2026-08-13-17-08",
+      "blurb": "Brújula Teatro presenta: La Peligrosa",
+      "cancelled": false,
+      "source": "barilochense"
+    },
+    {
       "date": "2026-08-21",
       "dateLabel": "Viernes 21 Agosto, 2026",
       "title": "EL YARCO, HASTA DONDE TOPA",
       "category": "Otros",
       "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/bibliotecasarmiento/el-yarco-hasta-donde-topa-2026-08-02-22-03",
       "blurb": "EL YARCO, HASTA DONDE TOPA",
+      "cancelled": false,
+      "source": "barilochense"
+    },
+    {
+      "date": "2026-08-21",
+      "dateLabel": "Viernes 21 Agosto, 2026",
+      "title": "Impro Acción",
+      "category": "Teatro",
+      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/moma/impro-accin-2026-08-13-18-10",
+      "blurb": "Impro Acción",
       "cancelled": false,
       "source": "barilochense"
     },
@@ -579,7 +599,17 @@
       "blurb": "Taller inclusivo de El Brote Cuerpo y movimiento",
       "cancelled": false,
       "source": "barilochense"
+    },
+    {
+      "date": "2026-08-27",
+      "dateLabel": "Jueves 27 Agosto, 2026",
+      "title": "La Paranoli",
+      "category": "Música",
+      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/-2026-08-11-09-45",
+      "blurb": "La Paranoli",
+      "cancelled": false,
+      "source": "barilochense"
     }
   ],
-  "allCount": 98
+  "allCount": 104
 }
