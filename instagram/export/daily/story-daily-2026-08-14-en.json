@@ -1,0 +1,27 @@
+{
+  "id": "story-daily-2026-08-14-en",
+  "locale": "en",
+  "format": "video",
+  "hasAudio": true,
+  "musicTrack": "modern-pop-pulse.mp3",
+  "musicSource": "ollama",
+  "copySource": "ollama",
+  "mode": "promo-libres",
+  "energy": "vivaz",
+  "layout": "classic",
+  "pace": "lively",
+  "usesWeather": false,
+  "availability": {
+    "nights": 4,
+    "start": "2026-08-14",
+    "end": "2026-08-18"
+  },
+  "photo": "galeria/instagrameables/img-4468.jpg",
+  "theme": "cabaña",
+  "weather": null,
+  "weatherBadge": null,
+  "title": "The best seat in the house.",
+  "subtitle": "Wake up to golden light and the view of the pines from your own cozy nook. Book your stay in Bariloche via link in bio.",
+  "eyebrow": "Cabaña al Bosque · Friday, Aug 14",
+  "cta": "Book → link in bio"
+}
