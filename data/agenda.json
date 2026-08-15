@@ -5,7 +5,7 @@
     {
       "id": "barilochense",
       "url": "https://www.barilochense.com/agenda-cultural",
-      "count": 70
+      "count": 58
     },
     {
       "id": "opina",
@@ -23,153 +23,13 @@
       "count": 11
     }
   ],
-  "fetchedAt": "2026-08-14T11:37:35.203Z",
+  "fetchedAt": "2026-08-15T11:11:43.992Z",
   "window": {
-    "from": "2026-08-14",
-    "to": "2026-08-27",
+    "from": "2026-08-15",
+    "to": "2026-08-28",
     "days": 14
   },
   "events": [
-    {
-      "date": "2026-08-14",
-      "dateLabel": "Viernes 14 Agosto, 2026",
-      "title": "¡UH, LA, LA! NOCHE DE SWING",
-      "category": "Música",
-      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/uh-la-la-noche-de-swing-2026-08-13-18-46",
-      "blurb": "¡UH, LA, LA! NOCHE DE SWING",
-      "cancelled": false,
-      "source": "barilochense"
-    },
-    {
-      "date": "2026-08-14",
-      "dateLabel": "Viernes 14 Agosto, 2026",
-      "title": "Amor vacante",
-      "category": "Teatro",
-      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/moma/amor-vacante-2026-07-31-19-03",
-      "blurb": "Amor vacante",
-      "cancelled": false,
-      "source": "barilochense"
-    },
-    {
-      "date": "2026-08-14",
-      "dateLabel": "Viernes 14 Agosto, 2026",
-      "title": "Brújula Teatro presenta: La Peligrosa",
-      "category": "Teatro",
-      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/brjula-teatro-presenta-la-peligrosa-2026-08-13-16-47",
-      "blurb": "Brújula Teatro presenta: La Peligrosa",
-      "cancelled": false,
-      "source": "barilochense"
-    },
-    {
-      "date": "2026-08-14",
-      "dateLabel": "Viernes 14 Agosto, 2026",
-      "title": "Cine Cubano: “HOMENAJE AL COMANDANTE EN JEFE FIDEL CASTRO”",
-      "category": "Cine",
-      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/cine-cubano-homenaje-al-comandante-en-jefe-fidel-castro-2026-08-11-11-12",
-      "blurb": "Cine Cubano: “HOMENAJE AL COMANDANTE EN JEFE FIDEL CASTRO”",
-      "cancelled": false,
-      "source": "barilochense"
-    },
-    {
-      "date": "2026-08-14",
-      "dateLabel": "Viernes 14 Agosto, 2026",
-      "title": "Cine en el Oeste: Le meilleur reste à venir",
-      "category": "Cine",
-      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/cine-en-el-oeste/cine-en-el-oeste-le-meilleur-reste-venir-2026-08-13-58-51",
-      "blurb": "Cine en el Oeste: Le meilleur reste à venir",
-      "cancelled": false,
-      "source": "barilochense"
-    },
-    {
-      "date": "2026-08-14",
-      "dateLabel": "Viernes 14 Agosto, 2026",
-      "title": "El Ciclo Puertas de Cre-arte presenta: El Bodegón",
-      "category": "Gourmet",
-      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/cre-arte/el-ciclo-puertas-de-cre-arte-presenta-el-bodegn-2026-08-05-44-33",
-      "blurb": "El Ciclo Puertas de Cre-arte presenta: El Bodegón",
-      "cancelled": false,
-      "source": "barilochense"
-    },
-    {
-      "date": "2026-08-14",
-      "dateLabel": "Viernes 14 Agosto, 2026",
-      "title": "ENCUENTROS EN INVIERNO",
-      "category": "Música",
-      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/paico/encuentros-en-invierno-2026-08-09-47-27",
-      "blurb": "ENCUENTROS EN INVIERNO",
-      "cancelled": false,
-      "source": "barilochense"
-    },
-    {
-      "date": "2026-08-14",
-      "dateLabel": "",
-      "title": "Jorge Rojas y Nahuel Pennisi · Centro Cívico",
-      "category": "Cine",
-      "url": "https://barilocheinforma.gob.ar/walter-cortes-presento-una-fiesta-de-la-nieve-que-recupera-las-tradiciones-y-celebra-la-identidad-de-bariloche/",
-      "blurb": "55ª Fiesta Nacional de la Nieve",
-      "cancelled": false,
-      "source": "informa"
-    },
-    {
-      "date": "2026-08-14",
-      "dateLabel": "Viernes 14 Agosto, 2026",
-      "title": "Las colectividades de Bariloche protagonizan el viernes 14 junto a Topa, Nahuel Pennisi y Jorge Rojas",
-      "category": "Fiestas y Festivales",
-      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/fiesta-nacional-nieve/las-colectividades-de-bariloche-protagonizan-el-viernes-14-junto-a-topa-nahuel-pennisi-y-jorge-rojas-2026-08-10-47-29",
-      "blurb": "Las colectividades de Bariloche protagonizan el viernes 14 junto a Topa, Nahuel Pennisi y Jorge Rojas",
-      "cancelled": false,
-      "source": "barilochense"
-    },
-    {
-      "date": "2026-08-14",
-      "dateLabel": "Viernes 14 Agosto, 2026",
-      "title": "Nunca Nadie Nada",
-      "category": "Música",
-      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/casa-macacha/nunca-nadie-nada-2026-08-02-23-30",
-      "blurb": "Nunca Nadie Nada",
-      "cancelled": false,
-      "source": "barilochense"
-    },
-    {
-      "date": "2026-08-14",
-      "dateLabel": "",
-      "title": "Show infantil de Topa · Fiesta de la Nieve",
-      "category": "Infantiles",
-      "url": "https://barilocheinforma.gob.ar/walter-cortes-presento-una-fiesta-de-la-nieve-que-recupera-las-tradiciones-y-celebra-la-identidad-de-bariloche/",
-      "blurb": "55ª Fiesta Nacional de la Nieve",
-      "cancelled": false,
-      "source": "informa"
-    },
-    {
-      "date": "2026-08-14",
-      "dateLabel": "Viernes 14 Agosto, 2026",
-      "title": "ULTRAVIOLETAS FUNKY ROOTS",
-      "category": "Música",
-      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/ultravioletas-funky-roots-2026-08-11-27-10",
-      "blurb": "ULTRAVIOLETAS FUNKY ROOTS",
-      "cancelled": false,
-      "source": "barilochense"
-    },
-    {
-      "date": "2026-08-14",
-      "dateLabel": "Viernes 14 Agosto, 2026",
-      "title": "YESICA Y DIEGO",
-      "category": "Música",
-      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/yesica-y-diego-2026-08-11-19-58",
-      "blurb": "YESICA Y DIEGO",
-      "cancelled": false,
-      "source": "barilochense"
-    },
-    {
-      "date": "2026-08-14",
-      "dateLabel": "Viernes 14 Agosto, 2026",
-      "title": "Tranqui 120 y Los Multitaskitos. ✨",
-      "category": "Música",
-      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/el-negro/tranqui-120-y-los-multitaskitos.-2026-08-02-51-09",
-      "blurb": "Tranqui 120 y Los Multitaskitos. ✨",
-      "cancelled": false,
-      "source": "barilochense"
-    },
     {
       "date": "2026-08-15",
       "dateLabel": "",
@@ -609,7 +469,17 @@
       "blurb": "La Paranoli",
       "cancelled": false,
       "source": "barilochense"
+    },
+    {
+      "date": "2026-08-28",
+      "dateLabel": "Viernes 28 Agosto, 2026",
+      "title": "MALANDRO",
+      "category": "Música",
+      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/-2026-08-05-18-06",
+      "blurb": "MALANDRO",
+      "cancelled": false,
+      "source": "barilochense"
     }
   ],
-  "allCount": 104
+  "allCount": 92
 }
