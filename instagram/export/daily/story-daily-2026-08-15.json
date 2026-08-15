@@ -1,0 +1,27 @@
+{
+  "id": "story-daily-2026-08-15",
+  "locale": "es",
+  "format": "video",
+  "hasAudio": true,
+  "musicTrack": "modern-dance-pop.mp3",
+  "musicSource": "fallback",
+  "copySource": "ollama",
+  "mode": "promo-libres",
+  "energy": "hook",
+  "layout": "editorial-left",
+  "pace": "lively",
+  "usesWeather": false,
+  "availability": {
+    "nights": 3,
+    "start": "2026-08-15",
+    "end": "2026-08-18"
+  },
+  "photo": "galeria/instagrameables/hogar2.jpg",
+  "theme": "cabaña",
+  "weather": null,
+  "weatherBadge": null,
+  "title": "Fuego en la piedra y el frío de afuera.",
+  "subtitle": "Quedate este fin de semana frente a la chimenea. Reservá tus fechas desde el link en bio. ¿Te sumás?",
+  "eyebrow": "Cabaña al Bosque · sábado 15 ago",
+  "cta": "Reservá → link en bio"
+}

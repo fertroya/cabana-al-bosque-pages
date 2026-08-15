@@ -1,0 +1,27 @@
+{
+  "id": "story-daily-2026-08-15-en",
+  "locale": "en",
+  "format": "video",
+  "hasAudio": true,
+  "musicTrack": "modern-dance-pop.mp3",
+  "musicSource": "fallback",
+  "copySource": "ollama",
+  "mode": "promo-libres",
+  "energy": "hook",
+  "layout": "editorial-left",
+  "pace": "lively",
+  "usesWeather": false,
+  "availability": {
+    "nights": 3,
+    "start": "2026-08-15",
+    "end": "2026-08-18"
+  },
+  "photo": "galeria/instagrameables/hogar2.jpg",
+  "theme": "cabaña",
+  "weather": null,
+  "weatherBadge": null,
+  "title": "The ultimate spot to warm up in Bariloche.",
+  "subtitle": "We have 3 nights open from Aug 15 to 17; want to be the one sitting by this fireplace?",
+  "eyebrow": "Cabaña al Bosque · Saturday, Aug 15",
+  "cta": "Book → link in bio"
+}
