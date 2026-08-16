@@ -5,7 +5,7 @@
     {
       "id": "barilochense",
       "url": "https://www.barilochense.com/agenda-cultural",
-      "count": 58
+      "count": 45
     },
     {
       "id": "opina",
@@ -23,193 +23,13 @@
       "count": 11
     }
   ],
-  "fetchedAt": "2026-08-15T11:11:43.992Z",
+  "fetchedAt": "2026-08-16T11:11:57.452Z",
   "window": {
-    "from": "2026-08-15",
-    "to": "2026-08-28",
+    "from": "2026-08-16",
+    "to": "2026-08-29",
     "days": 14
   },
   "events": [
-    {
-      "date": "2026-08-15",
-      "dateLabel": "",
-      "title": "Ángela Leiva y Luck Ra · Centro Cívico",
-      "category": "Cine",
-      "url": "https://barilocheinforma.gob.ar/walter-cortes-presento-una-fiesta-de-la-nieve-que-recupera-las-tradiciones-y-celebra-la-identidad-de-bariloche/",
-      "blurb": "55ª Fiesta Nacional de la Nieve",
-      "cancelled": false,
-      "source": "informa"
-    },
-    {
-      "date": "2026-08-15",
-      "dateLabel": "Sábado 15 Agosto, 2026",
-      "title": "Candomband",
-      "category": "Música",
-      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/candomband-2026-08-08-22-33",
-      "blurb": "Candomband",
-      "cancelled": false,
-      "source": "barilochense"
-    },
-    {
-      "date": "2026-08-15",
-      "dateLabel": "",
-      "title": "Carrera de Mozos y colectividades · Fiesta de la Nieve",
-      "category": "Fiestas y Festivales",
-      "url": "https://barilocheinforma.gob.ar/walter-cortes-presento-una-fiesta-de-la-nieve-que-recupera-las-tradiciones-y-celebra-la-identidad-de-bariloche/",
-      "blurb": "55ª Fiesta Nacional de la Nieve",
-      "cancelled": false,
-      "source": "informa"
-    },
-    {
-      "date": "2026-08-15",
-      "dateLabel": "Sábado 15 Agosto, 2026",
-      "title": "CHALA RASTA REGGAE",
-      "category": "Música",
-      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/chala-rasta-reggae-2026-08-11-28-41",
-      "blurb": "CHALA RASTA REGGAE",
-      "cancelled": false,
-      "source": "barilochense"
-    },
-    {
-      "date": "2026-08-15",
-      "dateLabel": "Sábado 15 Agosto, 2026",
-      "title": "CHEWELCHE GENTE BRAVIA",
-      "category": "Música",
-      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/chewelche-gente-bravia-2026-06-22-14-58",
-      "blurb": "CHEWELCHE GENTE BRAVIA",
-      "cancelled": false,
-      "source": "barilochense"
-    },
-    {
-      "date": "2026-08-15",
-      "dateLabel": "Sábado 15 Agosto, 2026",
-      "title": "DE PAISANOS Y PAISANAS",
-      "category": "Títeres",
-      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/la-biblio/de-paisanos-y-paisanas-2026-08-10-42-58",
-      "blurb": "DE PAISANOS Y PAISANAS",
-      "cancelled": false,
-      "source": "barilochense"
-    },
-    {
-      "date": "2026-08-15",
-      "dateLabel": "Sábado 15 Agosto, 2026",
-      "title": "Día de la Infancias",
-      "category": "Infantiles",
-      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/casa-macacha/da-de-la-infancias-2026-08-10-44-14",
-      "blurb": "Día de la Infancias",
-      "cancelled": false,
-      "source": "barilochense"
-    },
-    {
-      "date": "2026-08-15",
-      "dateLabel": "Sábado 15 Agosto, 2026",
-      "title": "DÚO SCHLICHTER-MARTÍNEZ + FAINÁ DE BANANA JAZZ ROCK",
-      "category": "Música",
-      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/do-schlichter-martnez-fain-de-banana-jazz-rock-2026-08-13-19-44",
-      "blurb": "DÚO SCHLICHTER-MARTÍNEZ + FAINÁ DE BANANA JAZZ ROCK",
-      "cancelled": false,
-      "source": "barilochense"
-    },
-    {
-      "date": "2026-08-15",
-      "dateLabel": "Sábado 15 Agosto, 2026",
-      "title": "Fran Lanfré de peña!",
-      "category": "Música",
-      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/casa-macacha/fran-lanfr-de-pea-2026-08-04-31-07",
-      "blurb": "Fran Lanfré de peña!",
-      "cancelled": false,
-      "source": "barilochense"
-    },
-    {
-      "date": "2026-08-15",
-      "dateLabel": "Sábado 15 Agosto, 2026",
-      "title": "FRANCISCA y los EXPLORADORES",
-      "category": "Música",
-      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/ne-ne-agenda/francisca-y-los-exploradores-2026-08-10-40-42",
-      "blurb": "FRANCISCA y los EXPLORADORES",
-      "cancelled": false,
-      "source": "barilochense"
-    },
-    {
-      "date": "2026-08-15",
-      "dateLabel": "Sábado 15 Agosto, 2026",
-      "title": "Luck Ra y Ángela Leiva: todos los horarios del sábado 15",
-      "category": "Fiestas y Festivales",
-      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/fiesta-nacional-nieve/luck-ra-y-ngela-leiva-todos-los-horarios-del-sbado-15-2026-08-10-50-12",
-      "blurb": "Luck Ra y Ángela Leiva: todos los horarios del sábado 15",
-      "cancelled": false,
-      "source": "barilochense"
-    },
-    {
-      "date": "2026-08-15",
-      "dateLabel": "Sábado 15 Agosto, 2026",
-      "title": "Lupi - Paganini | PIANO DÚO",
-      "category": "Música",
-      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/camping-musical/lupi-paganini-piano-do-2026-06-28-52-18",
-      "blurb": "Lupi - Paganini | PIANO DÚO",
-      "cancelled": false,
-      "source": "barilochense"
-    },
-    {
-      "date": "2026-08-15",
-      "dateLabel": "Sábado 15 Agosto, 2026",
-      "title": "Nicolás Malbos: “TALLER DE BANDONEÓN Y CLÍNICA ORQUESTAL DE TANGO",
-      "category": "Tango",
-      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/nicols-malbos-taller-de-bandonen-y-clnica-orquestal-de-tango-2026-08-11-24-33",
-      "blurb": "Nicolás Malbos: “TALLER DE BANDONEÓN Y CLÍNICA ORQUESTAL DE TANGO",
-      "cancelled": false,
-      "source": "barilochense"
-    },
-    {
-      "date": "2026-08-15",
-      "dateLabel": "",
-      "title": "Show de drones · Fiesta de la Nieve",
-      "category": "Fiestas y Festivales",
-      "url": "https://barilocheinforma.gob.ar/walter-cortes-presento-una-fiesta-de-la-nieve-que-recupera-las-tradiciones-y-celebra-la-identidad-de-bariloche/",
-      "blurb": "55ª Fiesta Nacional de la Nieve",
-      "cancelled": false,
-      "source": "informa"
-    },
-    {
-      "date": "2026-08-15",
-      "dateLabel": "Sábado 15 Agosto, 2026",
-      "title": "Stephanie Lucero - Social de salsa y bachata",
-      "category": "Música",
-      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/stephanie-lucero-social-de-salsa-y-bachata-2026-08-11-21-21",
-      "blurb": "Stephanie Lucero - Social de salsa y bachata",
-      "cancelled": false,
-      "source": "barilochense"
-    },
-    {
-      "date": "2026-08-15",
-      "dateLabel": "Sábado 15 Agosto, 2026",
-      "title": "VINILO BLUES",
-      "category": "Música",
-      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/vinilo-blues-2026-08-11-29-40",
-      "blurb": "VINILO BLUES",
-      "cancelled": false,
-      "source": "barilochense"
-    },
-    {
-      "date": "2026-08-15",
-      "dateLabel": "Sábado 15 Agosto, 2026",
-      "title": " Vairoleto, Pechito Libertario ",
-      "category": "Teatro",
-      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/el-negro/-vairoleto-pechito-libertario-2026-08-03-19-20",
-      "blurb": " Vairoleto, Pechito Libertario ",
-      "cancelled": false,
-      "source": "barilochense"
-    },
-    {
-      "date": "2026-08-15",
-      "dateLabel": "Sábado 15 Agosto, 2026",
-      "title": "✨CLASE MAGISTRAL — DA PARA REÍR! ✨",
-      "category": "Cursos y talleres",
-      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/clase-magistral-da-para-rer-2026-08-14-58-19",
-      "blurb": "✨CLASE MAGISTRAL — DA PARA REÍR! ✨",
-      "cancelled": false,
-      "source": "barilochense"
-    },
     {
       "date": "2026-08-16",
       "dateLabel": "Domingo 16 Agosto, 2026",
@@ -282,6 +102,16 @@
     },
     {
       "date": "2026-08-16",
+      "dateLabel": "Domingo 16 Agosto, 2026",
+      "title": "SOBRE LAS NUBES",
+      "category": "Títeres",
+      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/aime-paine/sobre-las-nubes-2026-08-15-03-23",
+      "blurb": "SOBRE LAS NUBES",
+      "cancelled": false,
+      "source": "barilochense"
+    },
+    {
+      "date": "2026-08-16",
       "dateLabel": "",
       "title": "Turf y Los Auténticos Decadentes · cierre",
       "category": "Otros",
@@ -307,6 +137,16 @@
       "category": "Música",
       "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/-fazzini-llega-a-bariloche-por-tercera-vez-2026-08-01-34-01",
       "blurb": " FAZZINI LLEGA A BARILOCHE POR TERCERA VEZ ",
+      "cancelled": false,
+      "source": "barilochense"
+    },
+    {
+      "date": "2026-08-17",
+      "dateLabel": "Lunes 17 Agosto, 2026",
+      "title": "Nuestra Tierra",
+      "category": "Cine",
+      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/casa-macacha/nuestra-tierra-2026-08-15-01-27",
+      "blurb": "Nuestra Tierra",
       "cancelled": false,
       "source": "barilochense"
     },
@@ -479,7 +319,27 @@
       "blurb": "MALANDRO",
       "cancelled": false,
       "source": "barilochense"
+    },
+    {
+      "date": "2026-08-29",
+      "dateLabel": "Sábado 29 Agosto, 2026",
+      "title": "Música Argentina",
+      "category": "Música",
+      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/bibliotecasarmiento/msica-argentina-2026-08-04-37-28",
+      "blurb": "Música Argentina",
+      "cancelled": false,
+      "source": "barilochense"
+    },
+    {
+      "date": "2026-08-29",
+      "dateLabel": "Sábado 29 Agosto, 2026",
+      "title": "POSTALES SONORAS Concierto de la Camerata Juvenil Municipal",
+      "category": "Música",
+      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/postales-sonoras-concierto-de-la-camerata-juvenil-municipal-2026-08-14-57-33",
+      "blurb": "POSTALES SONORAS Concierto de la Camerata Juvenil Municipal",
+      "cancelled": false,
+      "source": "barilochense"
     }
   ],
-  "allCount": 92
+  "allCount": 79
 }
