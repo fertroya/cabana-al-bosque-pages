@@ -5,7 +5,7 @@
     {
       "id": "barilochense",
       "url": "https://www.barilochense.com/agenda-cultural",
-      "count": 45
+      "count": 39
     },
     {
       "id": "opina",
@@ -23,123 +23,13 @@
       "count": 11
     }
   ],
-  "fetchedAt": "2026-08-16T11:11:57.452Z",
+  "fetchedAt": "2026-08-17T11:17:03.604Z",
   "window": {
-    "from": "2026-08-16",
-    "to": "2026-08-29",
+    "from": "2026-08-17",
+    "to": "2026-08-30",
     "days": 14
   },
   "events": [
-    {
-      "date": "2026-08-16",
-      "dateLabel": "Domingo 16 Agosto, 2026",
-      "title": "Alma Legüera",
-      "category": "Música",
-      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/alma-legera-2026-08-10-32-55",
-      "blurb": "Alma Legüera",
-      "cancelled": false,
-      "source": "barilochense"
-    },
-    {
-      "date": "2026-08-16",
-      "dateLabel": "Domingo 16 Agosto, 2026",
-      "title": "AMOR AMOR",
-      "category": "Música",
-      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/amor-amor-2026-08-12-12-34",
-      "blurb": "AMOR AMOR",
-      "cancelled": false,
-      "source": "barilochense"
-    },
-    {
-      "date": "2026-08-16",
-      "dateLabel": "",
-      "title": "Concurso de Hacheros · Fiesta de la Nieve",
-      "category": "Cursos y talleres",
-      "url": "https://barilocheinforma.gob.ar/walter-cortes-presento-una-fiesta-de-la-nieve-que-recupera-las-tradiciones-y-celebra-la-identidad-de-bariloche/",
-      "blurb": "55ª Fiesta Nacional de la Nieve",
-      "cancelled": false,
-      "source": "informa"
-    },
-    {
-      "date": "2026-08-16",
-      "dateLabel": "",
-      "title": "Elección de la Reina Nacional de la Nieve",
-      "category": "Fiestas y Festivales",
-      "url": "https://barilocheinforma.gob.ar/walter-cortes-presento-una-fiesta-de-la-nieve-que-recupera-las-tradiciones-y-celebra-la-identidad-de-bariloche/",
-      "blurb": "55ª Fiesta Nacional de la Nieve",
-      "cancelled": false,
-      "source": "informa"
-    },
-    {
-      "date": "2026-08-16",
-      "dateLabel": "Domingo 16 Agosto, 2026",
-      "title": "GUADA Y LOS PEUMA",
-      "category": "Música",
-      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/casa-macacha/guada-y-los-peuma-2026-08-14-01-01",
-      "blurb": "GUADA Y LOS PEUMA",
-      "cancelled": false,
-      "source": "barilochense"
-    },
-    {
-      "date": "2026-08-16",
-      "dateLabel": "Domingo 16 Agosto, 2026",
-      "title": "Los Auténticos Decadentes y Turf cierran la Fiesta de la Nieve 2026",
-      "category": "Fiestas y Festivales",
-      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/fiesta-nacional-nieve/los-autnticos-decadentes-y-turf-cierran-la-fiesta-de-la-nieve-2026-2026-08-10-52-31",
-      "blurb": "Los Auténticos Decadentes y Turf cierran la Fiesta de la Nieve 2026",
-      "cancelled": false,
-      "source": "barilochense"
-    },
-    {
-      "date": "2026-08-16",
-      "dateLabel": "Domingo 16 Agosto, 2026",
-      "title": "Seattle Supersonics",
-      "category": "Música",
-      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/seattle-supersonics-2026-06-26-37-33",
-      "blurb": "Seattle Supersonics",
-      "cancelled": false,
-      "source": "barilochense"
-    },
-    {
-      "date": "2026-08-16",
-      "dateLabel": "Domingo 16 Agosto, 2026",
-      "title": "SOBRE LAS NUBES",
-      "category": "Títeres",
-      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/aime-paine/sobre-las-nubes-2026-08-15-03-23",
-      "blurb": "SOBRE LAS NUBES",
-      "cancelled": false,
-      "source": "barilochense"
-    },
-    {
-      "date": "2026-08-16",
-      "dateLabel": "",
-      "title": "Turf y Los Auténticos Decadentes · cierre",
-      "category": "Otros",
-      "url": "https://barilocheinforma.gob.ar/walter-cortes-presento-una-fiesta-de-la-nieve-que-recupera-las-tradiciones-y-celebra-la-identidad-de-bariloche/",
-      "blurb": "55ª Fiesta Nacional de la Nieve",
-      "cancelled": false,
-      "source": "informa"
-    },
-    {
-      "date": "2026-08-16",
-      "dateLabel": "Domingo 16 Agosto, 2026",
-      "title": "凌 ZANAHORIAS 凌",
-      "category": "Infantiles",
-      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/el-negro/-zanahorias-2026-08-03-26-41",
-      "blurb": "凌 ZANAHORIAS 凌",
-      "cancelled": false,
-      "source": "barilochense"
-    },
-    {
-      "date": "2026-08-16",
-      "dateLabel": "Domingo 16 Agosto, 2026",
-      "title": " FAZZINI LLEGA A BARILOCHE POR TERCERA VEZ ",
-      "category": "Música",
-      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/-fazzini-llega-a-bariloche-por-tercera-vez-2026-08-01-34-01",
-      "blurb": " FAZZINI LLEGA A BARILOCHE POR TERCERA VEZ ",
-      "cancelled": false,
-      "source": "barilochense"
-    },
     {
       "date": "2026-08-17",
       "dateLabel": "Lunes 17 Agosto, 2026",
@@ -147,6 +37,16 @@
       "category": "Cine",
       "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/casa-macacha/nuestra-tierra-2026-08-15-01-27",
       "blurb": "Nuestra Tierra",
+      "cancelled": false,
+      "source": "barilochense"
+    },
+    {
+      "date": "2026-08-17",
+      "dateLabel": "Lunes 17 Agosto, 2026",
+      "title": "ONCE",
+      "category": "Cine",
+      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/casa-macacha/once-2026-08-16-21-38",
+      "blurb": "ONCE",
       "cancelled": false,
       "source": "barilochense"
     },
@@ -217,6 +117,16 @@
       "category": "Música",
       "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/paico/agosto-de-rock-en-paico-2026-08-07-47-03",
       "blurb": "AGOSTO DE ROCK EN PAICO",
+      "cancelled": false,
+      "source": "barilochense"
+    },
+    {
+      "date": "2026-08-22",
+      "dateLabel": "Sábado 22 Agosto, 2026",
+      "title": "Free Style Patagonia",
+      "category": "Música",
+      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/-2026-08-16-30-20",
+      "blurb": "Free Style Patagonia",
       "cancelled": false,
       "source": "barilochense"
     },
@@ -341,5 +251,5 @@
       "source": "barilochense"
     }
   ],
-  "allCount": 79
+  "allCount": 73
 }
