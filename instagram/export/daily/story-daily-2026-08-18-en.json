@@ -1,0 +1,27 @@
+{
+  "id": "story-daily-2026-08-18-en",
+  "locale": "en",
+  "format": "video",
+  "hasAudio": true,
+  "musicTrack": "upbeat-indie-pop.mp3",
+  "musicSource": "fallback",
+  "copySource": "fallback",
+  "mode": "promo-libres",
+  "energy": "vivaz",
+  "layout": "frosted-card",
+  "pace": "lively",
+  "usesWeather": false,
+  "availability": {
+    "nights": 22,
+    "start": "2026-09-05",
+    "end": "2026-09-27"
+  },
+  "photo": "galeria/instagrameables/img-9238.jpg",
+  "theme": "cabaña",
+  "weather": null,
+  "weatherBadge": null,
+  "title": "August still has room",
+  "subtitle": "Sep 5 – Sep 26 we're free. If you were looking for unhurried Patagonia, this is it — link in bio.",
+  "eyebrow": "A gap opened up",
+  "cta": "Book → link in bio"
+}
