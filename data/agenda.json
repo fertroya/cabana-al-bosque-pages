@@ -5,7 +5,7 @@
     {
       "id": "barilochense",
       "url": "https://www.barilochense.com/agenda-cultural",
-      "count": 39
+      "count": 42
     },
     {
       "id": "opina",
@@ -23,33 +23,13 @@
       "count": 11
     }
   ],
-  "fetchedAt": "2026-08-17T11:17:03.604Z",
+  "fetchedAt": "2026-08-18T11:16:47.866Z",
   "window": {
-    "from": "2026-08-17",
-    "to": "2026-08-30",
+    "from": "2026-08-18",
+    "to": "2026-08-31",
     "days": 14
   },
   "events": [
-    {
-      "date": "2026-08-17",
-      "dateLabel": "Lunes 17 Agosto, 2026",
-      "title": "Nuestra Tierra",
-      "category": "Cine",
-      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/casa-macacha/nuestra-tierra-2026-08-15-01-27",
-      "blurb": "Nuestra Tierra",
-      "cancelled": false,
-      "source": "barilochense"
-    },
-    {
-      "date": "2026-08-17",
-      "dateLabel": "Lunes 17 Agosto, 2026",
-      "title": "ONCE",
-      "category": "Cine",
-      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/casa-macacha/once-2026-08-16-21-38",
-      "blurb": "ONCE",
-      "cancelled": false,
-      "source": "barilochense"
-    },
     {
       "date": "2026-08-19",
       "dateLabel": "Miércoles 19 Agosto, 2026",
@@ -111,6 +91,16 @@
       "source": "barilochense"
     },
     {
+      "date": "2026-08-21",
+      "dateLabel": "Viernes 21 Agosto, 2026",
+      "title": "✨ PICADITO CORAL ✨",
+      "category": "Música",
+      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/el-negro/-picadito-coral-2026-08-17-12-59",
+      "blurb": "✨ PICADITO CORAL ✨",
+      "cancelled": false,
+      "source": "barilochense"
+    },
+    {
       "date": "2026-08-22",
       "dateLabel": "Sábado 22 Agosto, 2026",
       "title": "AGOSTO DE ROCK EN PAICO",
@@ -147,6 +137,26 @@
       "category": "Música",
       "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/lejos-neptuno-rock-abductivo-2026-07-31-02-00",
       "blurb": "LEJOS NEPTUNO ROCK ABDUCTIVO",
+      "cancelled": false,
+      "source": "barilochense"
+    },
+    {
+      "date": "2026-08-22",
+      "dateLabel": "Sábado 22 Agosto, 2026",
+      "title": "Para nuestras infancias: MERIENDAS FILOSÓFICAS",
+      "category": "Charlas",
+      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/la-biblio/para-nuestras-infancias-meriendas-filosficas-2026-08-17-07-22",
+      "blurb": "Para nuestras infancias: MERIENDAS FILOSÓFICAS",
+      "cancelled": false,
+      "source": "barilochense"
+    },
+    {
+      "date": "2026-08-22",
+      "dateLabel": "Sábado 22 Agosto, 2026",
+      "title": "Proyección: ABUELAS",
+      "category": "Cine",
+      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/casa-macacha/proyeccin-abuelas-2026-08-17-00-16",
+      "blurb": "Proyección: ABUELAS",
       "cancelled": false,
       "source": "barilochense"
     },
@@ -201,6 +211,16 @@
       "source": "barilochense"
     },
     {
+      "date": "2026-08-23",
+      "dateLabel": "Domingo 23 Agosto, 2026",
+      "title": "✨ HAY QUE CONVERTIRLO EN FLOR ✨",
+      "category": "Infantiles",
+      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/el-negro/-hay-que-convertirlo-en-flor-2026-08-17-25-42",
+      "blurb": "✨ HAY QUE CONVERTIRLO EN FLOR ✨",
+      "cancelled": false,
+      "source": "barilochense"
+    },
+    {
       "date": "2026-08-25",
       "dateLabel": "Martes 25 Agosto, 2026",
       "title": "Taller inclusivo de El Brote Cuerpo y movimiento",
@@ -243,6 +263,16 @@
     {
       "date": "2026-08-29",
       "dateLabel": "Sábado 29 Agosto, 2026",
+      "title": "Pablo Agustín: Criado por lobos",
+      "category": "Otros",
+      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/bibliotecasarmiento/pablo-agustn-criado-por-lobos-2026-08-17-03-26",
+      "blurb": "Pablo Agustín: Criado por lobos",
+      "cancelled": false,
+      "source": "barilochense"
+    },
+    {
+      "date": "2026-08-29",
+      "dateLabel": "Sábado 29 Agosto, 2026",
       "title": "POSTALES SONORAS Concierto de la Camerata Juvenil Municipal",
       "category": "Música",
       "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/postales-sonoras-concierto-de-la-camerata-juvenil-municipal-2026-08-14-57-33",
@@ -251,5 +281,5 @@
       "source": "barilochense"
     }
   ],
-  "allCount": 73
+  "allCount": 76
 }
