@@ -5,7 +5,7 @@
     {
       "id": "barilochense",
       "url": "https://www.barilochense.com/agenda-cultural",
-      "count": 42
+      "count": 51
     },
     {
       "id": "opina",
@@ -23,10 +23,10 @@
       "count": 11
     }
   ],
-  "fetchedAt": "2026-08-18T11:16:47.866Z",
+  "fetchedAt": "2026-08-19T11:16:47.094Z",
   "window": {
-    "from": "2026-08-18",
-    "to": "2026-08-31",
+    "from": "2026-08-19",
+    "to": "2026-09-01",
     "days": 14
   },
   "events": [
@@ -53,6 +53,16 @@
     {
       "date": "2026-08-20",
       "dateLabel": "Jueves 20 Agosto, 2026",
+      "title": "LOS HIENAS & GROOVY REBELS",
+      "category": "Música",
+      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/-2026-08-18-10-32",
+      "blurb": "LOS HIENAS & GROOVY REBELS",
+      "cancelled": false,
+      "source": "barilochense"
+    },
+    {
+      "date": "2026-08-20",
+      "dateLabel": "Jueves 20 Agosto, 2026",
       "title": "Show de tango: La forfai",
       "category": "Tango",
       "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/bibliotecasarmiento/show-de-tango-la-forfai-2026-08-13-08-18",
@@ -67,6 +77,16 @@
       "category": "Teatro",
       "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/brjula-teatro-presenta-la-peligrosa-2026-08-13-17-08",
       "blurb": "Brújula Teatro presenta: La Peligrosa",
+      "cancelled": false,
+      "source": "barilochense"
+    },
+    {
+      "date": "2026-08-21",
+      "dateLabel": "Viernes 21 Agosto, 2026",
+      "title": "Cine en el Oeste: The Kindergarten Teacher",
+      "category": "Cine",
+      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/cine-en-el-oeste/cine-en-el-oeste-the-kindergarten-teacher-2026-08-18-28-47",
+      "blurb": "Cine en el Oeste: The Kindergarten Teacher",
       "cancelled": false,
       "source": "barilochense"
     },
@@ -93,6 +113,16 @@
     {
       "date": "2026-08-21",
       "dateLabel": "Viernes 21 Agosto, 2026",
+      "title": "LUME DUO PRESEΝΤΑ: SAMBAY ZAMBA",
+      "category": "Música",
+      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/lume-duo-prese-sambay-zamba-2026-08-18-02-42",
+      "blurb": "LUME DUO PRESEΝΤΑ: SAMBAY ZAMBA",
+      "cancelled": false,
+      "source": "barilochense"
+    },
+    {
+      "date": "2026-08-21",
+      "dateLabel": "Viernes 21 Agosto, 2026",
       "title": "✨ PICADITO CORAL ✨",
       "category": "Música",
       "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/el-negro/-picadito-coral-2026-08-17-12-59",
@@ -107,6 +137,36 @@
       "category": "Música",
       "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/paico/agosto-de-rock-en-paico-2026-08-07-47-03",
       "blurb": "AGOSTO DE ROCK EN PAICO",
+      "cancelled": false,
+      "source": "barilochense"
+    },
+    {
+      "date": "2026-08-22",
+      "dateLabel": "Sábado 22 Agosto, 2026",
+      "title": "Bariludens. Noche de juegos",
+      "category": "Otros",
+      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/moma/bariludens.-noche-de-juegos-2026-08-18-50-13",
+      "blurb": "Bariludens. Noche de juegos",
+      "cancelled": false,
+      "source": "barilochense"
+    },
+    {
+      "date": "2026-08-22",
+      "dateLabel": "Sábado 22 Agosto, 2026",
+      "title": "BLUE HOUR DUO DE JAZZ",
+      "category": "Música",
+      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/blue-hour-duo-de-jazz-2026-08-18-06-02",
+      "blurb": "BLUE HOUR DUO DE JAZZ",
+      "cancelled": false,
+      "source": "barilochense"
+    },
+    {
+      "date": "2026-08-22",
+      "dateLabel": "Sábado 22 Agosto, 2026",
+      "title": "ENCUENTRO HISTÓRICO CON EL PROFE BORDA",
+      "category": "Charlas",
+      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/casa-macacha/encuentro-histrico-con-el-profe-borda-2026-08-18-15-08",
+      "blurb": "ENCUENTRO HISTÓRICO CON EL PROFE BORDA",
       "cancelled": false,
       "source": "barilochense"
     },
@@ -163,10 +223,30 @@
     {
       "date": "2026-08-22",
       "dateLabel": "Sábado 22 Agosto, 2026",
+      "title": "SINTIENDO SABINA",
+      "category": "Música",
+      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/sintiendo-sabina-2026-08-18-06-59",
+      "blurb": "SINTIENDO SABINA",
+      "cancelled": false,
+      "source": "barilochense"
+    },
+    {
+      "date": "2026-08-22",
+      "dateLabel": "Sábado 22 Agosto, 2026",
       "title": "Todavía no probé la delicia de mis manos.",
       "category": "Teatro",
       "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/bibliotecasarmiento/todava-no-prob-la-delicia-de-mis-manos.-2026-08-12-15-16",
       "blurb": "Todavía no probé la delicia de mis manos.",
+      "cancelled": false,
+      "source": "barilochense"
+    },
+    {
+      "date": "2026-08-22",
+      "dateLabel": "Sábado 22 Agosto, 2026",
+      "title": "TRONADOR",
+      "category": "Música",
+      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/tronador-2026-08-18-03-28",
+      "blurb": "TRONADOR",
       "cancelled": false,
       "source": "barilochense"
     },
@@ -281,5 +361,5 @@
       "source": "barilochense"
     }
   ],
-  "allCount": 76
+  "allCount": 85
 }
