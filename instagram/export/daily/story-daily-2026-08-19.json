@@ -1,0 +1,27 @@
+{
+  "id": "story-daily-2026-08-19",
+  "locale": "es",
+  "format": "video",
+  "hasAudio": true,
+  "musicTrack": "modern-trap-electro.mp3",
+  "musicSource": "ollama",
+  "copySource": "ollama",
+  "mode": "promo-libres",
+  "energy": "hook",
+  "layout": "top-focus",
+  "pace": "lively",
+  "usesWeather": true,
+  "availability": {
+    "nights": 22,
+    "start": "2026-09-05",
+    "end": "2026-09-27"
+  },
+  "photo": "galeria/instagrameables/hogar-invierno.jpg",
+  "theme": "cabaña",
+  "weather": "10° máx · 1° mín · Nublado",
+  "weatherBadge": "mié, 19 ago · 10° máx · 1° mín · Nublado",
+  "title": "El plan ideal para este frío en Bariloche",
+  "subtitle": "Quedate frente al fuego del 5 al 26 de septiembre. ¿Te gustaría reservar tu lugar para el invierno?",
+  "eyebrow": "Cabaña al Bosque · miércoles 19 ago",
+  "cta": "Reservá → link en bio"
+}

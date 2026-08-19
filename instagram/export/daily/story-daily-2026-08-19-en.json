@@ -1,0 +1,27 @@
+{
+  "id": "story-daily-2026-08-19-en",
+  "locale": "en",
+  "format": "video",
+  "hasAudio": true,
+  "musicTrack": "modern-trap-electro.mp3",
+  "musicSource": "ollama",
+  "copySource": "ollama",
+  "mode": "promo-libres",
+  "energy": "hook",
+  "layout": "top-focus",
+  "pace": "lively",
+  "usesWeather": false,
+  "availability": {
+    "nights": 22,
+    "start": "2026-09-05",
+    "end": "2026-09-27"
+  },
+  "photo": "galeria/instagrameables/hogar-invierno.jpg",
+  "theme": "cabaña",
+  "weather": null,
+  "weatherBadge": null,
+  "title": "The ultimate winter retreat in Bariloche",
+  "subtitle": "Enjoy the warmth of a crackling fireplace from Sep 5 to Sep 26; DM us for your Patagonia getaway.",
+  "eyebrow": "Cabaña al Bosque · Wednesday, Aug 19",
+  "cta": "Book → link in bio"
+}
