@@ -5,7 +5,7 @@
     {
       "id": "barilochense",
       "url": "https://www.barilochense.com/agenda-cultural",
-      "count": 51
+      "count": 57
     },
     {
       "id": "opina",
@@ -23,20 +23,30 @@
       "count": 11
     }
   ],
-  "fetchedAt": "2026-08-19T11:16:47.094Z",
+  "fetchedAt": "2026-08-20T11:18:38.419Z",
   "window": {
-    "from": "2026-08-19",
-    "to": "2026-09-01",
+    "from": "2026-08-20",
+    "to": "2026-09-02",
     "days": 14
   },
   "events": [
     {
-      "date": "2026-08-19",
-      "dateLabel": "Miércoles 19 Agosto, 2026",
-      "title": "Cine: Los colores del tiempo",
+      "date": "2026-08-20",
+      "dateLabel": "Jueves 20 Agosto, 2026",
+      "title": "Ciclo Pantalla Salvaje: EL SILENCIO DE LOS HOMBRES",
       "category": "Cine",
-      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/bibliotecasarmiento/cine-los-colores-del-tiempo-2026-08-08-29-22",
-      "blurb": "Cine: Los colores del tiempo",
+      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/casa-macacha/ciclo-pantalla-salvaje-el-silencio-de-los-hombres-2026-08-19-24-06",
+      "blurb": "Ciclo Pantalla Salvaje: EL SILENCIO DE LOS HOMBRES",
+      "cancelled": false,
+      "source": "barilochense"
+    },
+    {
+      "date": "2026-08-20",
+      "dateLabel": "Jueves 20 Agosto, 2026",
+      "title": "ESCULPIR EN EL TEXTO, una experiencia teatral",
+      "category": "Teatro",
+      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/paico/esculpir-en-el-texto-una-experiencia-teatral-2026-08-19-31-33",
+      "blurb": "ESCULPIR EN EL TEXTO, una experiencia teatral",
       "cancelled": false,
       "source": "barilochense"
     },
@@ -143,6 +153,16 @@
     {
       "date": "2026-08-22",
       "dateLabel": "Sábado 22 Agosto, 2026",
+      "title": "AMOR AMOR",
+      "category": "Música",
+      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/amor-amor-2026-08-19-12-14",
+      "blurb": "AMOR AMOR",
+      "cancelled": false,
+      "source": "barilochense"
+    },
+    {
+      "date": "2026-08-22",
+      "dateLabel": "Sábado 22 Agosto, 2026",
       "title": "Bariludens. Noche de juegos",
       "category": "Otros",
       "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/moma/bariludens.-noche-de-juegos-2026-08-18-50-13",
@@ -177,6 +197,16 @@
       "category": "Música",
       "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/-2026-08-16-30-20",
       "blurb": "Free Style Patagonia",
+      "cancelled": false,
+      "source": "barilochense"
+    },
+    {
+      "date": "2026-08-22",
+      "dateLabel": "Sábado 22 Agosto, 2026",
+      "title": "GROOVY REBELS",
+      "category": "Música",
+      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/groovy-rebels-2026-08-19-14-42",
+      "blurb": "GROOVY REBELS",
       "cancelled": false,
       "source": "barilochense"
     },
@@ -361,5 +391,5 @@
       "source": "barilochense"
     }
   ],
-  "allCount": 85
+  "allCount": 91
 }
