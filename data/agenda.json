@@ -5,7 +5,7 @@
     {
       "id": "barilochense",
       "url": "https://www.barilochense.com/agenda-cultural",
-      "count": 57
+      "count": 61
     },
     {
       "id": "opina",
@@ -23,63 +23,13 @@
       "count": 11
     }
   ],
-  "fetchedAt": "2026-08-20T11:18:38.419Z",
+  "fetchedAt": "2026-08-21T11:17:43.306Z",
   "window": {
-    "from": "2026-08-20",
-    "to": "2026-09-02",
+    "from": "2026-08-21",
+    "to": "2026-09-03",
     "days": 14
   },
   "events": [
-    {
-      "date": "2026-08-20",
-      "dateLabel": "Jueves 20 Agosto, 2026",
-      "title": "Ciclo Pantalla Salvaje: EL SILENCIO DE LOS HOMBRES",
-      "category": "Cine",
-      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/casa-macacha/ciclo-pantalla-salvaje-el-silencio-de-los-hombres-2026-08-19-24-06",
-      "blurb": "Ciclo Pantalla Salvaje: EL SILENCIO DE LOS HOMBRES",
-      "cancelled": false,
-      "source": "barilochense"
-    },
-    {
-      "date": "2026-08-20",
-      "dateLabel": "Jueves 20 Agosto, 2026",
-      "title": "ESCULPIR EN EL TEXTO, una experiencia teatral",
-      "category": "Teatro",
-      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/paico/esculpir-en-el-texto-una-experiencia-teatral-2026-08-19-31-33",
-      "blurb": "ESCULPIR EN EL TEXTO, una experiencia teatral",
-      "cancelled": false,
-      "source": "barilochense"
-    },
-    {
-      "date": "2026-08-20",
-      "dateLabel": "Jueves 20 Agosto, 2026",
-      "title": "Influencia - Canciones de Charly en Nené",
-      "category": "Música",
-      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/b-shows/influencia-canciones-de-charly-en-nen-2026-07-29-24-10",
-      "blurb": "Influencia - Canciones de Charly en Nené",
-      "cancelled": false,
-      "source": "barilochense"
-    },
-    {
-      "date": "2026-08-20",
-      "dateLabel": "Jueves 20 Agosto, 2026",
-      "title": "LOS HIENAS & GROOVY REBELS",
-      "category": "Música",
-      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/-2026-08-18-10-32",
-      "blurb": "LOS HIENAS & GROOVY REBELS",
-      "cancelled": false,
-      "source": "barilochense"
-    },
-    {
-      "date": "2026-08-20",
-      "dateLabel": "Jueves 20 Agosto, 2026",
-      "title": "Show de tango: La forfai",
-      "category": "Tango",
-      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/bibliotecasarmiento/show-de-tango-la-forfai-2026-08-13-08-18",
-      "blurb": "Show de tango: La forfai",
-      "cancelled": false,
-      "source": "barilochense"
-    },
     {
       "date": "2026-08-21",
       "dateLabel": "Viernes 21 Agosto, 2026",
@@ -127,6 +77,16 @@
       "category": "Música",
       "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/lume-duo-prese-sambay-zamba-2026-08-18-02-42",
       "blurb": "LUME DUO PRESEΝΤΑ: SAMBAY ZAMBA",
+      "cancelled": false,
+      "source": "barilochense"
+    },
+    {
+      "date": "2026-08-21",
+      "dateLabel": "Viernes 21 Agosto, 2026",
+      "title": "Macacha en Candela y Cuba bajo cero",
+      "category": "Música",
+      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/casa-macacha/macacha-en-candela-y-cuba-bajo-cero-2026-08-20-24-27",
+      "blurb": "Macacha en Candela y Cuba bajo cero",
       "cancelled": false,
       "source": "barilochense"
     },
@@ -213,6 +173,16 @@
     {
       "date": "2026-08-22",
       "dateLabel": "Sábado 22 Agosto, 2026",
+      "title": "ÍCARO VUELVE A BARILOCHE",
+      "category": "Música",
+      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/casa-macacha/caro-vuelve-a-bariloche-2026-08-21-01-41",
+      "blurb": "ÍCARO VUELVE A BARILOCHE",
+      "cancelled": false,
+      "source": "barilochense"
+    },
+    {
+      "date": "2026-08-22",
+      "dateLabel": "Sábado 22 Agosto, 2026",
       "title": "La Funk Me Up",
       "category": "Música",
       "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/ne-ne-agenda/la-funk-me-up-2026-07-27-31-06",
@@ -233,6 +203,16 @@
     {
       "date": "2026-08-22",
       "dateLabel": "Sábado 22 Agosto, 2026",
+      "title": "Mi jardin interior",
+      "category": "Teatro",
+      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/mi-jardin-interior-2026-08-20-17-17",
+      "blurb": "Mi jardin interior",
+      "cancelled": false,
+      "source": "barilochense"
+    },
+    {
+      "date": "2026-08-22",
+      "dateLabel": "Sábado 22 Agosto, 2026",
       "title": "Para nuestras infancias: MERIENDAS FILOSÓFICAS",
       "category": "Charlas",
       "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/la-biblio/para-nuestras-infancias-meriendas-filosficas-2026-08-17-07-22",
@@ -243,10 +223,30 @@
     {
       "date": "2026-08-22",
       "dateLabel": "Sábado 22 Agosto, 2026",
+      "title": "PATAGONIA AMPLIFICADA",
+      "category": "Música",
+      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/patagonia-amplificada-2026-08-20-18-23",
+      "blurb": "PATAGONIA AMPLIFICADA",
+      "cancelled": false,
+      "source": "barilochense"
+    },
+    {
+      "date": "2026-08-22",
+      "dateLabel": "Sábado 22 Agosto, 2026",
       "title": "Proyección: ABUELAS",
       "category": "Cine",
       "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/casa-macacha/proyeccin-abuelas-2026-08-17-00-16",
       "blurb": "Proyección: ABUELAS",
+      "cancelled": false,
+      "source": "barilochense"
+    },
+    {
+      "date": "2026-08-22",
+      "dateLabel": "Sábado 22 Agosto, 2026",
+      "title": "RolaGitana FLAMENCO FUSION",
+      "category": "Música",
+      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/rolagitana-flamenco-fusion-2026-08-20-22-08",
+      "blurb": "RolaGitana FLAMENCO FUSION",
       "cancelled": false,
       "source": "barilochense"
     },
@@ -323,6 +323,26 @@
     {
       "date": "2026-08-23",
       "dateLabel": "Domingo 23 Agosto, 2026",
+      "title": "TURANDOT",
+      "category": "Música",
+      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/turandot-2026-08-20-20-06",
+      "blurb": "TURANDOT",
+      "cancelled": false,
+      "source": "barilochense"
+    },
+    {
+      "date": "2026-08-23",
+      "dateLabel": "Domingo 23 Agosto, 2026",
+      "title": "Vecino ¿puedo hacerle una pregunta? - Teatro para toda la familia en Macacha",
+      "category": "Teatro",
+      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/casa-macacha/vecino-puedo-hacerle-una-pregunta-teatro-para-toda-la-familia-en-macacha-2026-08-20-23-09",
+      "blurb": "Vecino ¿puedo hacerle una pregunta? - Teatro para toda la familia en Macacha",
+      "cancelled": false,
+      "source": "barilochense"
+    },
+    {
+      "date": "2026-08-23",
+      "dateLabel": "Domingo 23 Agosto, 2026",
       "title": "✨ HAY QUE CONVERTIRLO EN FLOR ✨",
       "category": "Infantiles",
       "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/el-negro/-hay-que-convertirlo-en-flor-2026-08-17-25-42",
@@ -391,5 +411,5 @@
       "source": "barilochense"
     }
   ],
-  "allCount": 91
+  "allCount": 94
 }
