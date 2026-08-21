@@ -1,0 +1,27 @@
+{
+  "id": "story-daily-2026-08-21-en",
+  "locale": "en",
+  "format": "video",
+  "hasAudio": true,
+  "musicTrack": "modern-pop-pulse.mp3",
+  "musicSource": "ollama",
+  "copySource": "ollama",
+  "mode": "promo-libres",
+  "energy": "hook",
+  "layout": "classic",
+  "pace": "lively",
+  "usesWeather": false,
+  "availability": {
+    "nights": 22,
+    "start": "2026-09-05",
+    "end": "2026-09-27"
+  },
+  "photo": "galeria/instagrameables/img-9105.jpg",
+  "theme": "actividades",
+  "weather": null,
+  "weatherBadge": null,
+  "title": "Chase the sunlight through the pines",
+  "subtitle": "Walk these trails in Bariloche from Sep 5 to Sep 26. Want the link for your Patagonia getaway?",
+  "eyebrow": "Cabaña al Bosque · Friday, Aug 21",
+  "cta": "Book → link in bio"
+}
