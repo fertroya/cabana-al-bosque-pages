@@ -3,9 +3,9 @@
   "locale": "en",
   "format": "video",
   "hasAudio": true,
-  "musicTrack": "sunny-stroll.mp3",
-  "musicSource": "ollama",
-  "copySource": "ollama",
+  "musicTrack": "modern-dance-pop.mp3",
+  "musicSource": "fallback",
+  "copySource": "fallback",
   "mode": "promo-libres",
   "energy": "vivaz",
   "layout": "editorial-left",
@@ -20,8 +20,8 @@
   "theme": "cabaña",
   "weather": null,
   "weatherBadge": null,
-  "title": "Cook breakfast in your cozy cabin kitchen",
-  "subtitle": "Prep your morning coffee and local treats at the bar from Sep 5 to Sep 26. Book via the link in our bio.",
+  "title": "Snowy nights still free",
+  "subtitle": "Sep 5 – Sep 26 open. Warm kitchen, snow outside — book via the link in bio.",
   "eyebrow": "Cabaña al Bosque · Saturday, Aug 22",
   "cta": "Book → link in bio"
 }
