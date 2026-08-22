@@ -1,0 +1,27 @@
+{
+  "id": "story-daily-2026-08-22",
+  "locale": "es",
+  "format": "video",
+  "hasAudio": true,
+  "musicTrack": "sunny-stroll.mp3",
+  "musicSource": "ollama",
+  "copySource": "fallback",
+  "mode": "promo-libres",
+  "energy": "vivaz",
+  "layout": "editorial-left",
+  "pace": "lively",
+  "usesWeather": true,
+  "availability": {
+    "nights": 22,
+    "start": "2026-09-05",
+    "end": "2026-09-27"
+  },
+  "photo": "galeria/instagrameables/img-9313.jpg",
+  "theme": "cabaña",
+  "weather": "7° máx · 0° mín · Nevadas dispersas",
+  "weatherBadge": "sáb, 22 ago · 7° máx · 0° mín · Nevadas dispersas",
+  "title": "Quedan noches con nieve",
+  "subtitle": "5 sept – 26 sept libres. Cocina calentita y nieve afuera — reservá desde el link en bio.",
+  "eyebrow": "Cabaña al Bosque · sábado, 22 ago",
+  "cta": "Reservá → link en bio"
+}
