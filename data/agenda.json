@@ -5,7 +5,7 @@
     {
       "id": "barilochense",
       "url": "https://www.barilochense.com/agenda-cultural",
-      "count": 61
+      "count": 57
     },
     {
       "id": "opina",
@@ -23,83 +23,13 @@
       "count": 11
     }
   ],
-  "fetchedAt": "2026-08-21T11:17:43.306Z",
+  "fetchedAt": "2026-08-22T11:13:03.773Z",
   "window": {
-    "from": "2026-08-21",
-    "to": "2026-09-03",
+    "from": "2026-08-22",
+    "to": "2026-09-04",
     "days": 14
   },
   "events": [
-    {
-      "date": "2026-08-21",
-      "dateLabel": "Viernes 21 Agosto, 2026",
-      "title": "Brújula Teatro presenta: La Peligrosa",
-      "category": "Teatro",
-      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/brjula-teatro-presenta-la-peligrosa-2026-08-13-17-08",
-      "blurb": "Brújula Teatro presenta: La Peligrosa",
-      "cancelled": false,
-      "source": "barilochense"
-    },
-    {
-      "date": "2026-08-21",
-      "dateLabel": "Viernes 21 Agosto, 2026",
-      "title": "Cine en el Oeste: The Kindergarten Teacher",
-      "category": "Cine",
-      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/cine-en-el-oeste/cine-en-el-oeste-the-kindergarten-teacher-2026-08-18-28-47",
-      "blurb": "Cine en el Oeste: The Kindergarten Teacher",
-      "cancelled": false,
-      "source": "barilochense"
-    },
-    {
-      "date": "2026-08-21",
-      "dateLabel": "Viernes 21 Agosto, 2026",
-      "title": "EL YARCO, HASTA DONDE TOPA",
-      "category": "Otros",
-      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/bibliotecasarmiento/el-yarco-hasta-donde-topa-2026-08-02-22-03",
-      "blurb": "EL YARCO, HASTA DONDE TOPA",
-      "cancelled": false,
-      "source": "barilochense"
-    },
-    {
-      "date": "2026-08-21",
-      "dateLabel": "Viernes 21 Agosto, 2026",
-      "title": "Impro Acción",
-      "category": "Teatro",
-      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/moma/impro-accin-2026-08-13-18-10",
-      "blurb": "Impro Acción",
-      "cancelled": false,
-      "source": "barilochense"
-    },
-    {
-      "date": "2026-08-21",
-      "dateLabel": "Viernes 21 Agosto, 2026",
-      "title": "LUME DUO PRESEΝΤΑ: SAMBAY ZAMBA",
-      "category": "Música",
-      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/lume-duo-prese-sambay-zamba-2026-08-18-02-42",
-      "blurb": "LUME DUO PRESEΝΤΑ: SAMBAY ZAMBA",
-      "cancelled": false,
-      "source": "barilochense"
-    },
-    {
-      "date": "2026-08-21",
-      "dateLabel": "Viernes 21 Agosto, 2026",
-      "title": "Macacha en Candela y Cuba bajo cero",
-      "category": "Música",
-      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/casa-macacha/macacha-en-candela-y-cuba-bajo-cero-2026-08-20-24-27",
-      "blurb": "Macacha en Candela y Cuba bajo cero",
-      "cancelled": false,
-      "source": "barilochense"
-    },
-    {
-      "date": "2026-08-21",
-      "dateLabel": "Viernes 21 Agosto, 2026",
-      "title": "✨ PICADITO CORAL ✨",
-      "category": "Música",
-      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/el-negro/-picadito-coral-2026-08-17-12-59",
-      "blurb": "✨ PICADITO CORAL ✨",
-      "cancelled": false,
-      "source": "barilochense"
-    },
     {
       "date": "2026-08-22",
       "dateLabel": "Sábado 22 Agosto, 2026",
@@ -409,7 +339,17 @@
       "blurb": "POSTALES SONORAS Concierto de la Camerata Juvenil Municipal",
       "cancelled": false,
       "source": "barilochense"
+    },
+    {
+      "date": "2026-09-04",
+      "dateLabel": "Viernes 4 Septiembre, 2026",
+      "title": "Nadia Larcher",
+      "category": "Música",
+      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/bibliotecasarmiento/nadia-larcher-2026-08-19-25-49",
+      "blurb": "Nadia Larcher",
+      "cancelled": false,
+      "source": "barilochense"
     }
   ],
-  "allCount": 94
+  "allCount": 90
 }
