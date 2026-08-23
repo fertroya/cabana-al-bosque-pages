@@ -1,0 +1,27 @@
+{
+  "id": "story-daily-2026-08-23",
+  "locale": "es",
+  "format": "video",
+  "hasAudio": true,
+  "musicTrack": "modern-rising-house.mp3",
+  "musicSource": "fallback",
+  "copySource": "fallback",
+  "mode": "promo-libres",
+  "energy": "hook",
+  "layout": "classic",
+  "pace": "lively",
+  "usesWeather": false,
+  "availability": {
+    "nights": 22,
+    "start": "2026-09-05",
+    "end": "2026-09-27"
+  },
+  "photo": "galeria/instagrameables/bano-banera.jpg",
+  "theme": "cabaña",
+  "weather": null,
+  "weatherBadge": null,
+  "title": "Baño con bañera y vista al bosque",
+  "subtitle": "Bañera, luz suave y la vista quieta del otro lado del vidrio — sin apuro.",
+  "eyebrow": "Cabaña al Bosque · domingo, 23 ago",
+  "cta": "Reservá → link en bio"
+}
