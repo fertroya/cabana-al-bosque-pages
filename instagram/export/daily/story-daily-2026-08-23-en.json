@@ -4,8 +4,8 @@
   "format": "video",
   "hasAudio": true,
   "musicTrack": "modern-rising-house.mp3",
-  "musicSource": "fallback",
-  "copySource": "fallback",
+  "musicSource": "ollama",
+  "copySource": "ollama",
   "mode": "promo-libres",
   "energy": "hook",
   "layout": "classic",
@@ -20,8 +20,8 @@
   "theme": "cabaña",
   "weather": null,
   "weatherBadge": null,
-  "title": "August still has room",
-  "subtitle": "Sep 5 – Sep 26 we're free. If you were looking for unhurried Patagonia, this is it — link in bio.",
-  "eyebrow": "A gap opened up",
+  "title": "Take in the views while you soak.",
+  "subtitle": "Treat yourself to a long soak with views of the pines. Book your dates from Sep 5 to Sep 26 via the link in our bio.",
+  "eyebrow": "Cabaña al Bosque · Sunday, Aug 23",
   "cta": "Book → link in bio"
 }
