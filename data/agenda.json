@@ -5,7 +5,7 @@
     {
       "id": "barilochense",
       "url": "https://www.barilochense.com/agenda-cultural",
-      "count": 57
+      "count": 44
     },
     {
       "id": "opina",
@@ -23,210 +23,20 @@
       "count": 11
     }
   ],
-  "fetchedAt": "2026-08-22T11:13:03.773Z",
+  "fetchedAt": "2026-08-23T11:12:46.219Z",
   "window": {
-    "from": "2026-08-22",
-    "to": "2026-09-04",
+    "from": "2026-08-23",
+    "to": "2026-09-05",
     "days": 14
   },
   "events": [
     {
-      "date": "2026-08-22",
-      "dateLabel": "Sábado 22 Agosto, 2026",
-      "title": "AGOSTO DE ROCK EN PAICO",
+      "date": "2026-08-23",
+      "dateLabel": "Domingo 23 Agosto, 2026",
+      "title": "Dúo D&B",
       "category": "Música",
-      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/paico/agosto-de-rock-en-paico-2026-08-07-47-03",
-      "blurb": "AGOSTO DE ROCK EN PAICO",
-      "cancelled": false,
-      "source": "barilochense"
-    },
-    {
-      "date": "2026-08-22",
-      "dateLabel": "Sábado 22 Agosto, 2026",
-      "title": "AMOR AMOR",
-      "category": "Música",
-      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/amor-amor-2026-08-19-12-14",
-      "blurb": "AMOR AMOR",
-      "cancelled": false,
-      "source": "barilochense"
-    },
-    {
-      "date": "2026-08-22",
-      "dateLabel": "Sábado 22 Agosto, 2026",
-      "title": "Bariludens. Noche de juegos",
-      "category": "Otros",
-      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/moma/bariludens.-noche-de-juegos-2026-08-18-50-13",
-      "blurb": "Bariludens. Noche de juegos",
-      "cancelled": false,
-      "source": "barilochense"
-    },
-    {
-      "date": "2026-08-22",
-      "dateLabel": "Sábado 22 Agosto, 2026",
-      "title": "BLUE HOUR DUO DE JAZZ",
-      "category": "Música",
-      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/blue-hour-duo-de-jazz-2026-08-18-06-02",
-      "blurb": "BLUE HOUR DUO DE JAZZ",
-      "cancelled": false,
-      "source": "barilochense"
-    },
-    {
-      "date": "2026-08-22",
-      "dateLabel": "Sábado 22 Agosto, 2026",
-      "title": "ENCUENTRO HISTÓRICO CON EL PROFE BORDA",
-      "category": "Charlas",
-      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/casa-macacha/encuentro-histrico-con-el-profe-borda-2026-08-18-15-08",
-      "blurb": "ENCUENTRO HISTÓRICO CON EL PROFE BORDA",
-      "cancelled": false,
-      "source": "barilochense"
-    },
-    {
-      "date": "2026-08-22",
-      "dateLabel": "Sábado 22 Agosto, 2026",
-      "title": "Free Style Patagonia",
-      "category": "Música",
-      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/-2026-08-16-30-20",
-      "blurb": "Free Style Patagonia",
-      "cancelled": false,
-      "source": "barilochense"
-    },
-    {
-      "date": "2026-08-22",
-      "dateLabel": "Sábado 22 Agosto, 2026",
-      "title": "GROOVY REBELS",
-      "category": "Música",
-      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/groovy-rebels-2026-08-19-14-42",
-      "blurb": "GROOVY REBELS",
-      "cancelled": false,
-      "source": "barilochense"
-    },
-    {
-      "date": "2026-08-22",
-      "dateLabel": "Sábado 22 Agosto, 2026",
-      "title": "ÍCARO VUELVE A BARILOCHE",
-      "category": "Música",
-      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/casa-macacha/caro-vuelve-a-bariloche-2026-08-21-01-41",
-      "blurb": "ÍCARO VUELVE A BARILOCHE",
-      "cancelled": false,
-      "source": "barilochense"
-    },
-    {
-      "date": "2026-08-22",
-      "dateLabel": "Sábado 22 Agosto, 2026",
-      "title": "La Funk Me Up",
-      "category": "Música",
-      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/ne-ne-agenda/la-funk-me-up-2026-07-27-31-06",
-      "blurb": "La Funk Me Up",
-      "cancelled": false,
-      "source": "barilochense"
-    },
-    {
-      "date": "2026-08-22",
-      "dateLabel": "Sábado 22 Agosto, 2026",
-      "title": "LEJOS NEPTUNO ROCK ABDUCTIVO",
-      "category": "Música",
-      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/lejos-neptuno-rock-abductivo-2026-07-31-02-00",
-      "blurb": "LEJOS NEPTUNO ROCK ABDUCTIVO",
-      "cancelled": false,
-      "source": "barilochense"
-    },
-    {
-      "date": "2026-08-22",
-      "dateLabel": "Sábado 22 Agosto, 2026",
-      "title": "Mi jardin interior",
-      "category": "Teatro",
-      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/mi-jardin-interior-2026-08-20-17-17",
-      "blurb": "Mi jardin interior",
-      "cancelled": false,
-      "source": "barilochense"
-    },
-    {
-      "date": "2026-08-22",
-      "dateLabel": "Sábado 22 Agosto, 2026",
-      "title": "Para nuestras infancias: MERIENDAS FILOSÓFICAS",
-      "category": "Charlas",
-      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/la-biblio/para-nuestras-infancias-meriendas-filosficas-2026-08-17-07-22",
-      "blurb": "Para nuestras infancias: MERIENDAS FILOSÓFICAS",
-      "cancelled": false,
-      "source": "barilochense"
-    },
-    {
-      "date": "2026-08-22",
-      "dateLabel": "Sábado 22 Agosto, 2026",
-      "title": "PATAGONIA AMPLIFICADA",
-      "category": "Música",
-      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/patagonia-amplificada-2026-08-20-18-23",
-      "blurb": "PATAGONIA AMPLIFICADA",
-      "cancelled": false,
-      "source": "barilochense"
-    },
-    {
-      "date": "2026-08-22",
-      "dateLabel": "Sábado 22 Agosto, 2026",
-      "title": "Proyección: ABUELAS",
-      "category": "Cine",
-      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/casa-macacha/proyeccin-abuelas-2026-08-17-00-16",
-      "blurb": "Proyección: ABUELAS",
-      "cancelled": false,
-      "source": "barilochense"
-    },
-    {
-      "date": "2026-08-22",
-      "dateLabel": "Sábado 22 Agosto, 2026",
-      "title": "RolaGitana FLAMENCO FUSION",
-      "category": "Música",
-      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/rolagitana-flamenco-fusion-2026-08-20-22-08",
-      "blurb": "RolaGitana FLAMENCO FUSION",
-      "cancelled": false,
-      "source": "barilochense"
-    },
-    {
-      "date": "2026-08-22",
-      "dateLabel": "Sábado 22 Agosto, 2026",
-      "title": "SINTIENDO SABINA",
-      "category": "Música",
-      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/sintiendo-sabina-2026-08-18-06-59",
-      "blurb": "SINTIENDO SABINA",
-      "cancelled": false,
-      "source": "barilochense"
-    },
-    {
-      "date": "2026-08-22",
-      "dateLabel": "Sábado 22 Agosto, 2026",
-      "title": "Todavía no probé la delicia de mis manos.",
-      "category": "Teatro",
-      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/bibliotecasarmiento/todava-no-prob-la-delicia-de-mis-manos.-2026-08-12-15-16",
-      "blurb": "Todavía no probé la delicia de mis manos.",
-      "cancelled": false,
-      "source": "barilochense"
-    },
-    {
-      "date": "2026-08-22",
-      "dateLabel": "Sábado 22 Agosto, 2026",
-      "title": "TRONADOR",
-      "category": "Música",
-      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/tronador-2026-08-18-03-28",
-      "blurb": "TRONADOR",
-      "cancelled": false,
-      "source": "barilochense"
-    },
-    {
-      "date": "2026-08-22",
-      "dateLabel": "Sábado 22 Agosto, 2026",
-      "title": "️ Seminario de Sonido en Vivo ",
-      "category": "Cursos y talleres",
-      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/el-negro/-seminario-de-sonido-en-vivo-2026-08-03-00-36",
-      "blurb": "️ Seminario de Sonido en Vivo ",
-      "cancelled": false,
-      "source": "barilochense"
-    },
-    {
-      "date": "2026-08-22",
-      "dateLabel": "Sábado 22 Agosto, 2026",
-      "title": " LA VIOLETERA – LA FIESTA MILONGUERA DE BARILOCHE ",
-      "category": "Tango",
-      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/-la-violetera-la-fiesta-milonguera-de-bariloche-2026-08-10-34-18",
-      "blurb": " LA VIOLETERA – LA FIESTA MILONGUERA DE BARILOCHE ",
+      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/do-db-2026-08-22-05-42",
+      "blurb": "Dúo D&B",
       "cancelled": false,
       "source": "barilochense"
     },
@@ -237,6 +47,16 @@
       "category": "Teatro",
       "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/camping-musical/fundacin-cultural-patagonia-presenta-la-obra-de-teatro-dios-me-odia-en-la-sala-rautenstrauch-2026-07-11-43-21",
       "blurb": "Fundación Cultural Patagonia presenta la obra de teatro “Dios me odia” en la Sala Rautenstrauch",
+      "cancelled": false,
+      "source": "barilochense"
+    },
+    {
+      "date": "2026-08-23",
+      "dateLabel": "Domingo 23 Agosto, 2026",
+      "title": "PRACTICA DE TANGO MALA JUNTA",
+      "category": "Tango",
+      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/practica-de-tango-mala-junta-2026-08-22-59-30",
+      "blurb": "PRACTICA DE TANGO MALA JUNTA",
       "cancelled": false,
       "source": "barilochense"
     },
@@ -291,6 +111,16 @@
       "source": "barilochense"
     },
     {
+      "date": "2026-08-26",
+      "dateLabel": "Miércoles 26 Agosto, 2026",
+      "title": "La Nave Proyecta: L’attachement",
+      "category": "Cine",
+      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/bibliotecasarmiento/la-nave-proyecta-lattachement-2026-08-22-20-32",
+      "blurb": "La Nave Proyecta: L’attachement",
+      "cancelled": false,
+      "source": "barilochense"
+    },
+    {
       "date": "2026-08-27",
       "dateLabel": "Jueves 27 Agosto, 2026",
       "title": "La Paranoli",
@@ -303,10 +133,30 @@
     {
       "date": "2026-08-28",
       "dateLabel": "Viernes 28 Agosto, 2026",
+      "title": "Fiesta Cumbiera",
+      "category": "Música",
+      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/casa-macacha/fiesta-cumbiera-2026-08-22-18-59",
+      "blurb": "Fiesta Cumbiera",
+      "cancelled": false,
+      "source": "barilochense"
+    },
+    {
+      "date": "2026-08-28",
+      "dateLabel": "Viernes 28 Agosto, 2026",
       "title": "MALANDRO",
       "category": "Música",
       "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/-2026-08-05-18-06",
       "blurb": "MALANDRO",
+      "cancelled": false,
+      "source": "barilochense"
+    },
+    {
+      "date": "2026-08-29",
+      "dateLabel": "Sábado 29 Agosto, 2026",
+      "title": "EDI LENCE Jazz y Beatles",
+      "category": "Música",
+      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/edi-lence-jazz-y-beatles-2026-08-22-01-46",
+      "blurb": "EDI LENCE Jazz y Beatles",
       "cancelled": false,
       "source": "barilochense"
     },
@@ -349,7 +199,27 @@
       "blurb": "Nadia Larcher",
       "cancelled": false,
       "source": "barilochense"
+    },
+    {
+      "date": "2026-09-05",
+      "dateLabel": "Sábado 5 Septiembre, 2026",
+      "title": "CAMIONERO",
+      "category": "Música",
+      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/ne-ne-agenda/-2026-08-09-29-04",
+      "blurb": "CAMIONERO",
+      "cancelled": false,
+      "source": "barilochense"
+    },
+    {
+      "date": "2026-09-05",
+      "dateLabel": "Sábado 5 Septiembre, 2026",
+      "title": "PARABELLUM + INTOXICADOS + LA PILTRI ÁLVAREZ",
+      "category": "Música",
+      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/parabellum-intoxicados-la-piltri-lvarez-2026-08-09-25-01",
+      "blurb": "PARABELLUM + INTOXICADOS + LA PILTRI ÁLVAREZ",
+      "cancelled": false,
+      "source": "barilochense"
     }
   ],
-  "allCount": 90
+  "allCount": 77
 }
