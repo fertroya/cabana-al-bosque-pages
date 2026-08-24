@@ -1,0 +1,27 @@
+{
+  "id": "story-daily-2026-08-24",
+  "locale": "es",
+  "format": "video",
+  "hasAudio": true,
+  "musicTrack": "modern-tech-house.mp3",
+  "musicSource": "fallback",
+  "copySource": "fallback",
+  "mode": "promo-libres",
+  "energy": "vivaz",
+  "layout": "editorial-left",
+  "pace": "lively",
+  "usesWeather": true,
+  "availability": {
+    "nights": 22,
+    "start": "2026-09-05",
+    "end": "2026-09-27"
+  },
+  "photo": "galeria/instagrameables/denoche-5889.jpg",
+  "theme": "noche",
+  "weather": "6° máx · 3° mín · Nevadas dispersas",
+  "weatherBadge": "lun, 24 ago · 6° máx · 3° mín · Nevadas dispersas",
+  "title": "Patagonia blanca, fechas abiertas",
+  "subtitle": "5 sept – 26 sept libres. Adentro abriga, afuera nieva — reservá desde el link en bio.",
+  "eyebrow": "Cabaña al Bosque · lunes, 24 ago",
+  "cta": "Reservá → link en bio"
+}
