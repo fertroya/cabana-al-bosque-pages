@@ -5,7 +5,7 @@
     {
       "id": "barilochense",
       "url": "https://www.barilochense.com/agenda-cultural",
-      "count": 44
+      "count": 42
     },
     {
       "id": "opina",
@@ -23,80 +23,20 @@
       "count": 11
     }
   ],
-  "fetchedAt": "2026-08-23T11:12:46.219Z",
+  "fetchedAt": "2026-08-24T11:18:50.465Z",
   "window": {
-    "from": "2026-08-23",
-    "to": "2026-09-05",
+    "from": "2026-08-24",
+    "to": "2026-09-06",
     "days": 14
   },
   "events": [
     {
-      "date": "2026-08-23",
-      "dateLabel": "Domingo 23 Agosto, 2026",
-      "title": "Dúo D&B",
-      "category": "Música",
-      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/do-db-2026-08-22-05-42",
-      "blurb": "Dúo D&B",
-      "cancelled": false,
-      "source": "barilochense"
-    },
-    {
-      "date": "2026-08-23",
-      "dateLabel": "Domingo 23 Agosto, 2026",
-      "title": "Fundación Cultural Patagonia presenta la obra de teatro “Dios me odia” en la Sala Rautenstrauch",
-      "category": "Teatro",
-      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/camping-musical/fundacin-cultural-patagonia-presenta-la-obra-de-teatro-dios-me-odia-en-la-sala-rautenstrauch-2026-07-11-43-21",
-      "blurb": "Fundación Cultural Patagonia presenta la obra de teatro “Dios me odia” en la Sala Rautenstrauch",
-      "cancelled": false,
-      "source": "barilochense"
-    },
-    {
-      "date": "2026-08-23",
-      "dateLabel": "Domingo 23 Agosto, 2026",
-      "title": "PRACTICA DE TANGO MALA JUNTA",
+      "date": "2026-08-24",
+      "dateLabel": "Lunes 24 Agosto, 2026",
+      "title": "SIN VUELTAS MILONGA",
       "category": "Tango",
-      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/practica-de-tango-mala-junta-2026-08-22-59-30",
-      "blurb": "PRACTICA DE TANGO MALA JUNTA",
-      "cancelled": false,
-      "source": "barilochense"
-    },
-    {
-      "date": "2026-08-23",
-      "dateLabel": "Domingo 23 Agosto, 2026",
-      "title": "Sietevidas, la gatopera",
-      "category": "Teatro",
-      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/bibliotecasarmiento/sietevidas-la-gatopera-2026-08-03-38-23",
-      "blurb": "Sietevidas, la gatopera",
-      "cancelled": false,
-      "source": "barilochense"
-    },
-    {
-      "date": "2026-08-23",
-      "dateLabel": "Domingo 23 Agosto, 2026",
-      "title": "TURANDOT",
-      "category": "Música",
-      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/turandot-2026-08-20-20-06",
-      "blurb": "TURANDOT",
-      "cancelled": false,
-      "source": "barilochense"
-    },
-    {
-      "date": "2026-08-23",
-      "dateLabel": "Domingo 23 Agosto, 2026",
-      "title": "Vecino ¿puedo hacerle una pregunta? - Teatro para toda la familia en Macacha",
-      "category": "Teatro",
-      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/casa-macacha/vecino-puedo-hacerle-una-pregunta-teatro-para-toda-la-familia-en-macacha-2026-08-20-23-09",
-      "blurb": "Vecino ¿puedo hacerle una pregunta? - Teatro para toda la familia en Macacha",
-      "cancelled": false,
-      "source": "barilochense"
-    },
-    {
-      "date": "2026-08-23",
-      "dateLabel": "Domingo 23 Agosto, 2026",
-      "title": "✨ HAY QUE CONVERTIRLO EN FLOR ✨",
-      "category": "Infantiles",
-      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/el-negro/-hay-que-convertirlo-en-flor-2026-08-17-25-42",
-      "blurb": "✨ HAY QUE CONVERTIRLO EN FLOR ✨",
+      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/sin-vueltas-milonga-2026-08-24-02-01",
+      "blurb": "SIN VUELTAS MILONGA",
       "cancelled": false,
       "source": "barilochense"
     },
@@ -143,10 +83,30 @@
     {
       "date": "2026-08-28",
       "dateLabel": "Viernes 28 Agosto, 2026",
+      "title": "Lou Hernandez y Juan Sisterna",
+      "category": "Música",
+      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/cultura-dina-huapi/lou-hernandez-y-juan-sisterna-2026-08-24-03-49",
+      "blurb": "Lou Hernandez y Juan Sisterna",
+      "cancelled": false,
+      "source": "barilochense"
+    },
+    {
+      "date": "2026-08-28",
+      "dateLabel": "Viernes 28 Agosto, 2026",
       "title": "MALANDRO",
       "category": "Música",
       "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/-2026-08-05-18-06",
       "blurb": "MALANDRO",
+      "cancelled": false,
+      "source": "barilochense"
+    },
+    {
+      "date": "2026-08-29",
+      "dateLabel": "Sábado 29 Agosto, 2026",
+      "title": "CINE EN LA BIBLIO: “Un poeta” Colombia (2025)",
+      "category": "Cine",
+      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/la-biblio/cine-en-la-biblio-un-poeta-colombia-2025-2026-08-24-07-26",
+      "blurb": "CINE EN LA BIBLIO: “Un poeta” Colombia (2025)",
       "cancelled": false,
       "source": "barilochense"
     },
@@ -183,10 +143,30 @@
     {
       "date": "2026-08-29",
       "dateLabel": "Sábado 29 Agosto, 2026",
+      "title": "Quemacasas + Cloe Abigail",
+      "category": "Música",
+      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/casa-macacha/quemacasas-cloe-abigail-2026-08-23-45-59",
+      "blurb": "Quemacasas + Cloe Abigail",
+      "cancelled": false,
+      "source": "barilochense"
+    },
+    {
+      "date": "2026-08-29",
+      "dateLabel": "Sábado 29 Agosto, 2026",
       "title": "POSTALES SONORAS Concierto de la Camerata Juvenil Municipal",
       "category": "Música",
       "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/postales-sonoras-concierto-de-la-camerata-juvenil-municipal-2026-08-14-57-33",
       "blurb": "POSTALES SONORAS Concierto de la Camerata Juvenil Municipal",
+      "cancelled": false,
+      "source": "barilochense"
+    },
+    {
+      "date": "2026-09-03",
+      "dateLabel": "Jueves 3 Septiembre, 2026",
+      "title": "Show de tango: La forfai",
+      "category": "Tango",
+      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/bibliotecasarmiento/show-de-tango-la-forfai-2026-08-24-09-17",
+      "blurb": "Show de tango: La forfai",
       "cancelled": false,
       "source": "barilochense"
     },
@@ -219,7 +199,27 @@
       "blurb": "PARABELLUM + INTOXICADOS + LA PILTRI ÁLVAREZ",
       "cancelled": false,
       "source": "barilochense"
+    },
+    {
+      "date": "2026-09-06",
+      "dateLabel": "Domingo 6 Septiembre, 2026",
+      "title": "Entre montañas y lagos",
+      "category": "Música",
+      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/bibliotecasarmiento/entre-montaas-y-lagos-2026-08-07-39-15",
+      "blurb": "Entre montañas y lagos",
+      "cancelled": false,
+      "source": "barilochense"
+    },
+    {
+      "date": "2026-09-06",
+      "dateLabel": "Domingo 6 Septiembre, 2026",
+      "title": "Treinta años de swing: Sureña Jazz Band celebra su aniversario con una noche de jazz tradicional",
+      "category": "Música",
+      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/camping-musical/treinta-aos-de-swing-surea-jazz-band-celebra-su-aniversario-con-una-noche-de-jazz-tradicional-2026-07-30-39-23",
+      "blurb": "Treinta años de swing: Sureña Jazz Band celebra su aniversario con una noche de jazz tradicional",
+      "cancelled": false,
+      "source": "barilochense"
     }
   ],
-  "allCount": 77
+  "allCount": 76
 }
