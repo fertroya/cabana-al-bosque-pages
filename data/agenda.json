@@ -5,7 +5,7 @@
     {
       "id": "barilochense",
       "url": "https://www.barilochense.com/agenda-cultural",
-      "count": 42
+      "count": 45
     },
     {
       "id": "opina",
@@ -23,23 +23,13 @@
       "count": 11
     }
   ],
-  "fetchedAt": "2026-08-24T11:18:50.465Z",
+  "fetchedAt": "2026-08-25T11:18:47.598Z",
   "window": {
-    "from": "2026-08-24",
-    "to": "2026-09-06",
+    "from": "2026-08-25",
+    "to": "2026-09-07",
     "days": 14
   },
   "events": [
-    {
-      "date": "2026-08-24",
-      "dateLabel": "Lunes 24 Agosto, 2026",
-      "title": "SIN VUELTAS MILONGA",
-      "category": "Tango",
-      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/sin-vueltas-milonga-2026-08-24-02-01",
-      "blurb": "SIN VUELTAS MILONGA",
-      "cancelled": false,
-      "source": "barilochense"
-    },
     {
       "date": "2026-08-25",
       "dateLabel": "Martes 25 Agosto, 2026",
@@ -67,6 +57,16 @@
       "category": "Música",
       "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/-2026-08-11-09-45",
       "blurb": "La Paranoli",
+      "cancelled": false,
+      "source": "barilochense"
+    },
+    {
+      "date": "2026-08-28",
+      "dateLabel": "Viernes 28 Agosto, 2026",
+      "title": "Ciclo Puertas de Cre-Arte presenta a Marcelo Saccomanno y amigos",
+      "category": "Música",
+      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/cre-arte/ciclo-puertas-de-cre-arte-presenta-a-marcelo-saccomanno-y-amigos-2026-08-24-14-23",
+      "blurb": "Ciclo Puertas de Cre-Arte presenta a Marcelo Saccomanno y amigos",
       "cancelled": false,
       "source": "barilochense"
     },
@@ -123,6 +123,16 @@
     {
       "date": "2026-08-29",
       "dateLabel": "Sábado 29 Agosto, 2026",
+      "title": "Influencia – Canciones de Charly en Cervecería La Cruz",
+      "category": "Música",
+      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/b-shows/nfluencia-canciones-de-charly-en-cervecera-la-cruz-2026-08-24-16-51",
+      "blurb": "Influencia – Canciones de Charly en Cervecería La Cruz",
+      "cancelled": false,
+      "source": "barilochense"
+    },
+    {
+      "date": "2026-08-29",
+      "dateLabel": "Sábado 29 Agosto, 2026",
       "title": "Música Argentina",
       "category": "Música",
       "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/bibliotecasarmiento/msica-argentina-2026-08-04-37-28",
@@ -143,6 +153,16 @@
     {
       "date": "2026-08-29",
       "dateLabel": "Sábado 29 Agosto, 2026",
+      "title": "PEÑA LA FUSIONERA, folklore que nos une!",
+      "category": "Fiestas y Festivales",
+      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/paico/pea-la-fusionera-folklore-que-nos-une-2026-08-24-47-04",
+      "blurb": "PEÑA LA FUSIONERA, folklore que nos une!",
+      "cancelled": false,
+      "source": "barilochense"
+    },
+    {
+      "date": "2026-08-29",
+      "dateLabel": "Sábado 29 Agosto, 2026",
       "title": "Quemacasas + Cloe Abigail",
       "category": "Música",
       "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/casa-macacha/quemacasas-cloe-abigail-2026-08-23-45-59",
@@ -157,6 +177,16 @@
       "category": "Música",
       "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/postales-sonoras-concierto-de-la-camerata-juvenil-municipal-2026-08-14-57-33",
       "blurb": "POSTALES SONORAS Concierto de la Camerata Juvenil Municipal",
+      "cancelled": false,
+      "source": "barilochense"
+    },
+    {
+      "date": "2026-09-03",
+      "dateLabel": "Jueves 3 Septiembre, 2026",
+      "title": "ESCULPIR EN EL TEXTO, una experiencia teatral",
+      "category": "Teatro",
+      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/paico/esculpir-en-el-texto-una-experiencia-teatral-2026-08-24-34-55",
+      "blurb": "ESCULPIR EN EL TEXTO, una experiencia teatral",
       "cancelled": false,
       "source": "barilochense"
     },
@@ -221,5 +251,5 @@
       "source": "barilochense"
     }
   ],
-  "allCount": 76
+  "allCount": 79
 }
