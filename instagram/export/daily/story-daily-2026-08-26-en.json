@@ -4,8 +4,8 @@
   "format": "video",
   "hasAudio": true,
   "musicTrack": "modern-trap-electro.mp3",
-  "musicSource": "ollama",
-  "copySource": "ollama",
+  "musicSource": "fallback",
+  "copySource": "fallback",
   "mode": "promo-libres",
   "energy": "vivaz",
   "layout": "top-focus",
@@ -20,8 +20,8 @@
   "theme": "noche",
   "weather": null,
   "weatherBadge": null,
-  "title": "Swap your chair for a hammock tonight",
-  "subtitle": "Enjoy cozy nights in Bariloche with 22 dates open from Sep 5 to Sep 26. Book yours via the link in our bio.",
+  "title": "Snow outside, dates open",
+  "subtitle": "Sep 5 – Sep 26 open. Cozy inside, snow outside — book via the link in bio.",
   "eyebrow": "Cabaña al Bosque · Wednesday, Aug 26",
   "cta": "Book → link in bio"
 }
