@@ -1,0 +1,27 @@
+{
+  "id": "story-daily-2026-08-26-en",
+  "locale": "en",
+  "format": "video",
+  "hasAudio": true,
+  "musicTrack": "modern-trap-electro.mp3",
+  "musicSource": "ollama",
+  "copySource": "ollama",
+  "mode": "promo-libres",
+  "energy": "vivaz",
+  "layout": "top-focus",
+  "pace": "lively",
+  "usesWeather": false,
+  "availability": {
+    "nights": 22,
+    "start": "2026-09-05",
+    "end": "2026-09-27"
+  },
+  "photo": "galeria/instagrameables/denoche-7851.jpg",
+  "theme": "noche",
+  "weather": null,
+  "weatherBadge": null,
+  "title": "Swap your chair for a hammock tonight",
+  "subtitle": "Enjoy cozy nights in Bariloche with 22 dates open from Sep 5 to Sep 26. Book yours via the link in our bio.",
+  "eyebrow": "Cabaña al Bosque · Wednesday, Aug 26",
+  "cta": "Book → link in bio"
+}
