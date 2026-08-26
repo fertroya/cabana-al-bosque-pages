@@ -5,7 +5,7 @@
     {
       "id": "barilochense",
       "url": "https://www.barilochense.com/agenda-cultural",
-      "count": 45
+      "count": 50
     },
     {
       "id": "opina",
@@ -23,23 +23,13 @@
       "count": 11
     }
   ],
-  "fetchedAt": "2026-08-25T11:18:47.598Z",
+  "fetchedAt": "2026-08-26T11:20:24.987Z",
   "window": {
-    "from": "2026-08-25",
-    "to": "2026-09-07",
+    "from": "2026-08-26",
+    "to": "2026-09-08",
     "days": 14
   },
   "events": [
-    {
-      "date": "2026-08-25",
-      "dateLabel": "Martes 25 Agosto, 2026",
-      "title": "Taller inclusivo de El Brote Cuerpo y movimiento",
-      "category": "Teatro",
-      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/saladeteatroelbrote/taller-inclusivo-de-el-brote-cuerpo-y-movimiento-2026-02-25-53-11",
-      "blurb": "Taller inclusivo de El Brote Cuerpo y movimiento",
-      "cancelled": false,
-      "source": "barilochense"
-    },
     {
       "date": "2026-08-26",
       "dateLabel": "Miércoles 26 Agosto, 2026",
@@ -61,12 +51,32 @@
       "source": "barilochense"
     },
     {
+      "date": "2026-08-27",
+      "dateLabel": "Jueves 27 Agosto, 2026",
+      "title": "Tango Alquimia",
+      "category": "Tango",
+      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/bibliotecasarmiento/tango-alquimia-2026-08-25-04-29",
+      "blurb": "Tango Alquimia",
+      "cancelled": false,
+      "source": "barilochense"
+    },
+    {
       "date": "2026-08-28",
       "dateLabel": "Viernes 28 Agosto, 2026",
       "title": "Ciclo Puertas de Cre-Arte presenta a Marcelo Saccomanno y amigos",
       "category": "Música",
       "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/cre-arte/ciclo-puertas-de-cre-arte-presenta-a-marcelo-saccomanno-y-amigos-2026-08-24-14-23",
       "blurb": "Ciclo Puertas de Cre-Arte presenta a Marcelo Saccomanno y amigos",
+      "cancelled": false,
+      "source": "barilochense"
+    },
+    {
+      "date": "2026-08-28",
+      "dateLabel": "Viernes 28 Agosto, 2026",
+      "title": "Cine en el Oeste: Mr. Turner",
+      "category": "Cine",
+      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/cine-en-el-oeste/cine-en-el-oeste-mr.-turner-2026-08-25-43-29",
+      "blurb": "Cine en el Oeste: Mr. Turner",
       "cancelled": false,
       "source": "barilochense"
     },
@@ -97,6 +107,16 @@
       "category": "Música",
       "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/-2026-08-05-18-06",
       "blurb": "MALANDRO",
+      "cancelled": false,
+      "source": "barilochense"
+    },
+    {
+      "date": "2026-08-28",
+      "dateLabel": "Viernes 28 Agosto, 2026",
+      "title": "Tarde de cuentos “Los libros salen a jugar”",
+      "category": "Infantiles",
+      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/la-biblio/tarde-de-cuentos-los-libros-salen-a-jugar-2026-08-25-03-15",
+      "blurb": "Tarde de cuentos “Los libros salen a jugar”",
       "cancelled": false,
       "source": "barilochense"
     },
@@ -153,6 +173,16 @@
     {
       "date": "2026-08-29",
       "dateLabel": "Sábado 29 Agosto, 2026",
+      "title": "PEÑA FOLKLORICA",
+      "category": "Música",
+      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/pea-folklorica-2026-08-25-57-35",
+      "blurb": "PEÑA FOLKLORICA",
+      "cancelled": false,
+      "source": "barilochense"
+    },
+    {
+      "date": "2026-08-29",
+      "dateLabel": "Sábado 29 Agosto, 2026",
       "title": "PEÑA LA FUSIONERA, folklore que nos une!",
       "category": "Fiestas y Festivales",
       "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/paico/pea-la-fusionera-folklore-que-nos-une-2026-08-24-47-04",
@@ -197,6 +227,16 @@
       "category": "Tango",
       "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/bibliotecasarmiento/show-de-tango-la-forfai-2026-08-24-09-17",
       "blurb": "Show de tango: La forfai",
+      "cancelled": false,
+      "source": "barilochense"
+    },
+    {
+      "date": "2026-09-04",
+      "dateLabel": "Viernes 4 Septiembre, 2026",
+      "title": "LA COMUNIDAD DEL BOLERO",
+      "category": "Música",
+      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/casa-macacha/la-comunidad-del-bolero-2026-08-25-06-03",
+      "blurb": "LA COMUNIDAD DEL BOLERO",
       "cancelled": false,
       "source": "barilochense"
     },
@@ -249,7 +289,17 @@
       "blurb": "Treinta años de swing: Sureña Jazz Band celebra su aniversario con una noche de jazz tradicional",
       "cancelled": false,
       "source": "barilochense"
+    },
+    {
+      "date": "2026-09-08",
+      "dateLabel": "Martes 8 Septiembre, 2026",
+      "title": "CAMPEDRINOS EN BARILOCHE - MATE Y FOLKLORE TOUR",
+      "category": "Música",
+      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/campedrinos-en-bariloche-mate-y-folklore-tour-2026-07-28-32-34",
+      "blurb": "CAMPEDRINOS EN BARILOCHE - MATE Y FOLKLORE TOUR",
+      "cancelled": false,
+      "source": "barilochense"
     }
   ],
-  "allCount": 79
+  "allCount": 84
 }
