@@ -5,7 +5,7 @@
     {
       "id": "barilochense",
       "url": "https://www.barilochense.com/agenda-cultural",
-      "count": 50
+      "count": 60
     },
     {
       "id": "opina",
@@ -23,20 +23,30 @@
       "count": 11
     }
   ],
-  "fetchedAt": "2026-08-26T11:20:24.987Z",
+  "fetchedAt": "2026-08-27T20:52:21.476Z",
   "window": {
-    "from": "2026-08-26",
-    "to": "2026-09-08",
+    "from": "2026-08-27",
+    "to": "2026-09-09",
     "days": 14
   },
   "events": [
     {
-      "date": "2026-08-26",
-      "dateLabel": "Miércoles 26 Agosto, 2026",
-      "title": "La Nave Proyecta: L’attachement",
-      "category": "Cine",
-      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/bibliotecasarmiento/la-nave-proyecta-lattachement-2026-08-22-20-32",
-      "blurb": "La Nave Proyecta: L’attachement",
+      "date": "2026-08-27",
+      "dateLabel": "Jueves 27 Agosto, 2026",
+      "title": "CICLO DE JAZZ: FIORONI, ONGARATO & PENA",
+      "category": "Música",
+      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/ciclo-de-jazz-fioroni-ongarato-pena-2026-08-26-06-26",
+      "blurb": "CICLO DE JAZZ: FIORONI, ONGARATO & PENA",
+      "cancelled": false,
+      "source": "barilochense"
+    },
+    {
+      "date": "2026-08-27",
+      "dateLabel": "Jueves 27 Agosto, 2026",
+      "title": "FILOSOFÍA DE VEREDA: ¿QUÉ ES LA GLORIA?",
+      "category": "Charlas",
+      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/filosofa-de-vereda-qu-es-la-gloria-2026-08-26-09-26",
+      "blurb": "FILOSOFÍA DE VEREDA: ¿QUÉ ES LA GLORIA?",
       "cancelled": false,
       "source": "barilochense"
     },
@@ -57,6 +67,26 @@
       "category": "Tango",
       "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/bibliotecasarmiento/tango-alquimia-2026-08-25-04-29",
       "blurb": "Tango Alquimia",
+      "cancelled": false,
+      "source": "barilochense"
+    },
+    {
+      "date": "2026-08-27",
+      "dateLabel": "Jueves 27 Agosto, 2026",
+      "title": "TRÍO DE JAZZ: DELLA GASPERA -RIGATUSO ZENZ",
+      "category": "Música",
+      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/tro-de-jazz-della-gaspera-rigatuso-zenz-2026-08-26-11-23",
+      "blurb": "TRÍO DE JAZZ: DELLA GASPERA -RIGATUSO ZENZ",
+      "cancelled": false,
+      "source": "barilochense"
+    },
+    {
+      "date": "2026-08-28",
+      "dateLabel": "Viernes 28 Agosto, 2026",
+      "title": "CHELO MIRANDA ACUSTICOS NACIONALES",
+      "category": "Música",
+      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/chelo-miranda-acusticos-nacionales-2026-08-26-14-43",
+      "blurb": "CHELO MIRANDA ACUSTICOS NACIONALES",
       "cancelled": false,
       "source": "barilochense"
     },
@@ -93,6 +123,16 @@
     {
       "date": "2026-08-28",
       "dateLabel": "Viernes 28 Agosto, 2026",
+      "title": "LA GIPSY",
+      "category": "Música",
+      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/-2026-08-27-04-34",
+      "blurb": "LA GIPSY",
+      "cancelled": false,
+      "source": "barilochense"
+    },
+    {
+      "date": "2026-08-28",
+      "dateLabel": "Viernes 28 Agosto, 2026",
       "title": "Lou Hernandez y Juan Sisterna",
       "category": "Música",
       "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/cultura-dina-huapi/lou-hernandez-y-juan-sisterna-2026-08-24-03-49",
@@ -107,6 +147,26 @@
       "category": "Música",
       "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/-2026-08-05-18-06",
       "blurb": "MALANDRO",
+      "cancelled": false,
+      "source": "barilochense"
+    },
+    {
+      "date": "2026-08-28",
+      "dateLabel": "Viernes 28 Agosto, 2026",
+      "title": "Pimparridos: PIM PAM PUM Y AGUERRIDOS",
+      "category": "Teatro",
+      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/pimparridos-pim-pam-pum-y-aguerridos-2026-08-27-14-13",
+      "blurb": "Pimparridos: PIM PAM PUM Y AGUERRIDOS",
+      "cancelled": false,
+      "source": "barilochense"
+    },
+    {
+      "date": "2026-08-28",
+      "dateLabel": "Viernes 28 Agosto, 2026",
+      "title": "RolaGitana FLAMENCO FUSION",
+      "category": "Música",
+      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/rolagitana-flamenco-fusion-2026-08-27-08-42",
+      "blurb": "RolaGitana FLAMENCO FUSION",
       "cancelled": false,
       "source": "barilochense"
     },
@@ -147,6 +207,16 @@
       "category": "Música",
       "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/b-shows/nfluencia-canciones-de-charly-en-cervecera-la-cruz-2026-08-24-16-51",
       "blurb": "Influencia – Canciones de Charly en Cervecería La Cruz",
+      "cancelled": false,
+      "source": "barilochense"
+    },
+    {
+      "date": "2026-08-29",
+      "dateLabel": "Sábado 29 Agosto, 2026",
+      "title": "Miller - Miraglia TANGO-LERO",
+      "category": "Música",
+      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/miller-miraglia-tango-lero-2026-08-27-07-28",
+      "blurb": "Miller - Miraglia TANGO-LERO",
       "cancelled": false,
       "source": "barilochense"
     },
@@ -213,6 +283,16 @@
     {
       "date": "2026-09-03",
       "dateLabel": "Jueves 3 Septiembre, 2026",
+      "title": "Ciclo Pantalla Salvaje: EL SILENCIO DE LOS HOMBRES",
+      "category": "Cine",
+      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/casa-macacha/ciclo-pantalla-salvaje-el-silencio-de-los-hombres-2026-08-27-16-56",
+      "blurb": "Ciclo Pantalla Salvaje: EL SILENCIO DE LOS HOMBRES",
+      "cancelled": false,
+      "source": "barilochense"
+    },
+    {
+      "date": "2026-09-03",
+      "dateLabel": "Jueves 3 Septiembre, 2026",
       "title": "ESCULPIR EN EL TEXTO, una experiencia teatral",
       "category": "Teatro",
       "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/paico/esculpir-en-el-texto-una-experiencia-teatral-2026-08-24-34-55",
@@ -237,6 +317,16 @@
       "category": "Música",
       "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/casa-macacha/la-comunidad-del-bolero-2026-08-25-06-03",
       "blurb": "LA COMUNIDAD DEL BOLERO",
+      "cancelled": false,
+      "source": "barilochense"
+    },
+    {
+      "date": "2026-09-04",
+      "dateLabel": "Viernes 4 Septiembre, 2026",
+      "title": "LOS OTROS NOSOTROS",
+      "category": "Música",
+      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/paico/los-otros-nosotros-2026-08-26-15-53",
+      "blurb": "LOS OTROS NOSOTROS",
       "cancelled": false,
       "source": "barilochense"
     },
@@ -271,6 +361,16 @@
       "source": "barilochense"
     },
     {
+      "date": "2026-09-05",
+      "dateLabel": "Sábado 5 Septiembre, 2026",
+      "title": "Wow Show Circo y Humor",
+      "category": "Circo",
+      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/casa-macacha/wow-show-circo-y-humor-2026-08-26-18-44",
+      "blurb": "Wow Show Circo y Humor",
+      "cancelled": false,
+      "source": "barilochense"
+    },
+    {
       "date": "2026-09-06",
       "dateLabel": "Domingo 6 Septiembre, 2026",
       "title": "Entre montañas y lagos",
@@ -301,5 +401,5 @@
       "source": "barilochense"
     }
   ],
-  "allCount": 84
+  "allCount": 94
 }
