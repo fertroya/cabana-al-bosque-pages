@@ -1,0 +1,27 @@
+{
+  "id": "story-daily-2026-08-28-en",
+  "locale": "en",
+  "format": "video",
+  "hasAudio": true,
+  "musicTrack": "modern-pop-pulse.mp3",
+  "musicSource": "fallback",
+  "copySource": "fallback",
+  "mode": "promo-libres",
+  "energy": "vivaz",
+  "layout": "classic",
+  "pace": "lively",
+  "usesWeather": true,
+  "availability": {
+    "nights": 22,
+    "start": "2026-09-05",
+    "end": "2026-09-27"
+  },
+  "photo": "galeria/instagrameables/denoche-7851.jpg",
+  "theme": "noche",
+  "weather": "4° máx · 2° mín · Nevadas dispersas",
+  "weatherBadge": "Fri, Aug 28 · 4° high · 2° low · Snow showers",
+  "title": "Snowy nights still free",
+  "subtitle": "Sep 5 – Sep 26 open. Cozy inside, snow outside — book via the link in bio.",
+  "eyebrow": "Cabaña al Bosque · Friday, Aug 28",
+  "cta": "Book → link in bio"
+}
