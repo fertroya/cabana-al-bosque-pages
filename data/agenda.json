@@ -5,7 +5,7 @@
     {
       "id": "barilochense",
       "url": "https://www.barilochense.com/agenda-cultural",
-      "count": 65
+      "count": 55
     },
     {
       "id": "opina",
@@ -23,113 +23,13 @@
       "count": 11
     }
   ],
-  "fetchedAt": "2026-08-28T21:17:13.835Z",
+  "fetchedAt": "2026-08-29T15:23:13.115Z",
   "window": {
-    "from": "2026-08-28",
-    "to": "2026-09-10",
+    "from": "2026-08-29",
+    "to": "2026-09-11",
     "days": 14
   },
   "events": [
-    {
-      "date": "2026-08-28",
-      "dateLabel": "Viernes 28 Agosto, 2026",
-      "title": "CHELO MIRANDA ACUSTICOS NACIONALES",
-      "category": "Música",
-      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/chelo-miranda-acusticos-nacionales-2026-08-26-14-43",
-      "blurb": "CHELO MIRANDA ACUSTICOS NACIONALES",
-      "cancelled": false,
-      "source": "barilochense"
-    },
-    {
-      "date": "2026-08-28",
-      "dateLabel": "Viernes 28 Agosto, 2026",
-      "title": "Ciclo Puertas de Cre-Arte presenta a Marcelo Saccomanno y amigos",
-      "category": "Música",
-      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/cre-arte/ciclo-puertas-de-cre-arte-presenta-a-marcelo-saccomanno-y-amigos-2026-08-24-14-23",
-      "blurb": "Ciclo Puertas de Cre-Arte presenta a Marcelo Saccomanno y amigos",
-      "cancelled": false,
-      "source": "barilochense"
-    },
-    {
-      "date": "2026-08-28",
-      "dateLabel": "Viernes 28 Agosto, 2026",
-      "title": "Cine en el Oeste: Mr. Turner",
-      "category": "Cine",
-      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/cine-en-el-oeste/cine-en-el-oeste-mr.-turner-2026-08-25-43-29",
-      "blurb": "Cine en el Oeste: Mr. Turner",
-      "cancelled": false,
-      "source": "barilochense"
-    },
-    {
-      "date": "2026-08-28",
-      "dateLabel": "Viernes 28 Agosto, 2026",
-      "title": "Fiesta Cumbiera",
-      "category": "Música",
-      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/casa-macacha/fiesta-cumbiera-2026-08-22-18-59",
-      "blurb": "Fiesta Cumbiera",
-      "cancelled": false,
-      "source": "barilochense"
-    },
-    {
-      "date": "2026-08-28",
-      "dateLabel": "Viernes 28 Agosto, 2026",
-      "title": "LA GIPSY",
-      "category": "Música",
-      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/-2026-08-27-04-34",
-      "blurb": "LA GIPSY",
-      "cancelled": false,
-      "source": "barilochense"
-    },
-    {
-      "date": "2026-08-28",
-      "dateLabel": "Viernes 28 Agosto, 2026",
-      "title": "Lou Hernandez y Juan Sisterna",
-      "category": "Música",
-      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/cultura-dina-huapi/lou-hernandez-y-juan-sisterna-2026-08-24-03-49",
-      "blurb": "Lou Hernandez y Juan Sisterna",
-      "cancelled": false,
-      "source": "barilochense"
-    },
-    {
-      "date": "2026-08-28",
-      "dateLabel": "Viernes 28 Agosto, 2026",
-      "title": "MALANDRO",
-      "category": "Música",
-      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/-2026-08-05-18-06",
-      "blurb": "MALANDRO",
-      "cancelled": false,
-      "source": "barilochense"
-    },
-    {
-      "date": "2026-08-28",
-      "dateLabel": "Viernes 28 Agosto, 2026",
-      "title": "Noche de música!",
-      "category": "Música",
-      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/moma/noche-de-msica-2026-08-28-09-04",
-      "blurb": "Noche de música!",
-      "cancelled": false,
-      "source": "barilochense"
-    },
-    {
-      "date": "2026-08-28",
-      "dateLabel": "Viernes 28 Agosto, 2026",
-      "title": "Pimparridos: PIM PAM PUM Y AGUERRIDOS",
-      "category": "Teatro",
-      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/pimparridos-pim-pam-pum-y-aguerridos-2026-08-27-14-13",
-      "blurb": "Pimparridos: PIM PAM PUM Y AGUERRIDOS",
-      "cancelled": false,
-      "source": "barilochense"
-    },
-    {
-      "date": "2026-08-28",
-      "dateLabel": "Viernes 28 Agosto, 2026",
-      "title": "RolaGitana FLAMENCO FUSION",
-      "category": "Música",
-      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/rolagitana-flamenco-fusion-2026-08-27-08-42",
-      "blurb": "RolaGitana FLAMENCO FUSION",
-      "cancelled": false,
-      "source": "barilochense"
-    },
     {
       "date": "2026-08-29",
       "dateLabel": "Sábado 29 Agosto, 2026",
@@ -429,7 +329,17 @@
       "blurb": "Taller intensivo de acuarela “Paisajes en acuarela y las sombras de la nieve”",
       "cancelled": false,
       "source": "barilochense"
+    },
+    {
+      "date": "2026-09-11",
+      "dateLabel": "Viernes 11 Septiembre, 2026",
+      "title": "Camilo Eque",
+      "category": "Música",
+      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/bibliotecasarmiento/camilo-eque-2026-08-21-09-47",
+      "blurb": "Camilo Eque",
+      "cancelled": false,
+      "source": "barilochense"
     }
   ],
-  "allCount": 99
+  "allCount": 89
 }
