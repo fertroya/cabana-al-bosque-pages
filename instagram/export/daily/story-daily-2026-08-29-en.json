@@ -1,0 +1,27 @@
+{
+  "id": "story-daily-2026-08-29-en",
+  "locale": "en",
+  "format": "video",
+  "hasAudio": true,
+  "musicTrack": "modern-pop-pulse.mp3",
+  "musicSource": "ollama",
+  "copySource": "ollama",
+  "mode": "promo-libres",
+  "energy": "hook",
+  "layout": "editorial-left",
+  "pace": "lively",
+  "usesWeather": false,
+  "availability": {
+    "nights": 22,
+    "start": "2026-09-05",
+    "end": "2026-09-27"
+  },
+  "photo": "galeria/instagrameables/img-4468.jpg",
+  "theme": "cabaña",
+  "weather": null,
+  "weatherBadge": null,
+  "title": "Where the patio meets your morning nap.",
+  "subtitle": "September has 22 nights open for a slow morning in Bariloche; shall I send you the booking link?",
+  "eyebrow": "Cabaña al Bosque · Saturday, Aug 29",
+  "cta": "Book → link in bio"
+}
