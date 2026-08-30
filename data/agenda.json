@@ -5,7 +5,7 @@
     {
       "id": "barilochense",
       "url": "https://www.barilochense.com/agenda-cultural",
-      "count": 55
+      "count": 39
     },
     {
       "id": "opina",
@@ -23,173 +23,13 @@
       "count": 11
     }
   ],
-  "fetchedAt": "2026-08-29T15:23:13.115Z",
+  "fetchedAt": "2026-08-30T15:07:07.142Z",
   "window": {
-    "from": "2026-08-29",
-    "to": "2026-09-11",
+    "from": "2026-08-30",
+    "to": "2026-09-12",
     "days": 14
   },
   "events": [
-    {
-      "date": "2026-08-29",
-      "dateLabel": "Sábado 29 Agosto, 2026",
-      "title": "CINE EN LA BIBLIO: “Un poeta” Colombia (2025)",
-      "category": "Cine",
-      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/la-biblio/cine-en-la-biblio-un-poeta-colombia-2025-2026-08-24-07-26",
-      "blurb": "CINE EN LA BIBLIO: “Un poeta” Colombia (2025)",
-      "cancelled": false,
-      "source": "barilochense"
-    },
-    {
-      "date": "2026-08-29",
-      "dateLabel": "Sábado 29 Agosto, 2026",
-      "title": "CONCIERTO HOMENAJE DE PIANO Y CUERDAS NUEVE ÁNGELES – VIII Edición",
-      "category": "Música",
-      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/concierto-homenaje-de-piano-y-cuerdas-nueve-ngeles-viii-edicin-2026-08-28-19-07",
-      "blurb": "CONCIERTO HOMENAJE DE PIANO Y CUERDAS NUEVE ÁNGELES – VIII Edición",
-      "cancelled": false,
-      "source": "barilochense"
-    },
-    {
-      "date": "2026-08-29",
-      "dateLabel": "Sábado 29 Agosto, 2026",
-      "title": "EDI LENCE Jazz y Beatles",
-      "category": "Música",
-      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/edi-lence-jazz-y-beatles-2026-08-22-01-46",
-      "blurb": "EDI LENCE Jazz y Beatles",
-      "cancelled": false,
-      "source": "barilochense"
-    },
-    {
-      "date": "2026-08-29",
-      "dateLabel": "Sábado 29 Agosto, 2026",
-      "title": "Groovy Rebels: Clásicos de los 50' & 60'",
-      "category": "Música",
-      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/groovy-rebels-clsicos-de-los-50-60-2026-08-28-38-11",
-      "blurb": "Groovy Rebels: Clásicos de los 50' & 60'",
-      "cancelled": false,
-      "source": "barilochense"
-    },
-    {
-      "date": "2026-08-29",
-      "dateLabel": "Sábado 29 Agosto, 2026",
-      "title": "Influencia – Canciones de Charly en Cervecería La Cruz",
-      "category": "Música",
-      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/b-shows/nfluencia-canciones-de-charly-en-cervecera-la-cruz-2026-08-24-16-51",
-      "blurb": "Influencia – Canciones de Charly en Cervecería La Cruz",
-      "cancelled": false,
-      "source": "barilochense"
-    },
-    {
-      "date": "2026-08-29",
-      "dateLabel": "Sábado 29 Agosto, 2026",
-      "title": "JAZZ NIGHT: ZAMONSKY + DELLA GASPERA",
-      "category": "Música",
-      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/jazz-night-zamonsky-della-gaspera-2026-08-28-30-19",
-      "blurb": "JAZZ NIGHT: ZAMONSKY + DELLA GASPERA",
-      "cancelled": false,
-      "source": "barilochense"
-    },
-    {
-      "date": "2026-08-29",
-      "dateLabel": "Sábado 29 Agosto, 2026",
-      "title": "Miller - Miraglia TANGO-LERO",
-      "category": "Música",
-      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/miller-miraglia-tango-lero-2026-08-27-07-28",
-      "blurb": "Miller - Miraglia TANGO-LERO",
-      "cancelled": false,
-      "source": "barilochense"
-    },
-    {
-      "date": "2026-08-29",
-      "dateLabel": "Sábado 29 Agosto, 2026",
-      "title": "Música Argentina",
-      "category": "Música",
-      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/bibliotecasarmiento/msica-argentina-2026-08-04-37-28",
-      "blurb": "Música Argentina",
-      "cancelled": false,
-      "source": "barilochense"
-    },
-    {
-      "date": "2026-08-29",
-      "dateLabel": "Sábado 29 Agosto, 2026",
-      "title": "Pablo Agustín: Criado por lobos",
-      "category": "Otros",
-      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/bibliotecasarmiento/pablo-agustn-criado-por-lobos-2026-08-17-03-26",
-      "blurb": "Pablo Agustín: Criado por lobos",
-      "cancelled": false,
-      "source": "barilochense"
-    },
-    {
-      "date": "2026-08-29",
-      "dateLabel": "Sábado 29 Agosto, 2026",
-      "title": "PEÑA FOLKLORICA",
-      "category": "Música",
-      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/pea-folklorica-2026-08-25-57-35",
-      "blurb": "PEÑA FOLKLORICA",
-      "cancelled": false,
-      "source": "barilochense"
-    },
-    {
-      "date": "2026-08-29",
-      "dateLabel": "Sábado 29 Agosto, 2026",
-      "title": "PEÑA LA FUSIONERA, folklore que nos une!",
-      "category": "Fiestas y Festivales",
-      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/paico/pea-la-fusionera-folklore-que-nos-une-2026-08-24-47-04",
-      "blurb": "PEÑA LA FUSIONERA, folklore que nos une!",
-      "cancelled": false,
-      "source": "barilochense"
-    },
-    {
-      "date": "2026-08-29",
-      "dateLabel": "Sábado 29 Agosto, 2026",
-      "title": "PIANO TRÍO JAZZ: ONGARATO - PENA - FIORONI",
-      "category": "Música",
-      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/piano-tro-jazz-ongarato-pena-fioroni-2026-08-28-39-46",
-      "blurb": "PIANO TRÍO JAZZ: ONGARATO - PENA - FIORONI",
-      "cancelled": false,
-      "source": "barilochense"
-    },
-    {
-      "date": "2026-08-29",
-      "dateLabel": "Sábado 29 Agosto, 2026",
-      "title": "Quemacasas + Cloe Abigail",
-      "category": "Música",
-      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/casa-macacha/quemacasas-cloe-abigail-2026-08-23-45-59",
-      "blurb": "Quemacasas + Cloe Abigail",
-      "cancelled": false,
-      "source": "barilochense"
-    },
-    {
-      "date": "2026-08-29",
-      "dateLabel": "Sábado 29 Agosto, 2026",
-      "title": "Realizarán el concierto Nueve Ángeles a 24 años de la tragedia del cerro Ventana,Orquesta Juvenil Cofradía (dir. Kyoko Kurokawa y Diego Díaz) y José María Lalo Vallina (piano).",
-      "category": "Música",
-      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/iglesia-catedral/realizarn-el-concierto-nueve-ngeles-a-24-aos-de-la-tragedia-del-cerro-ventana-orquesta-juvenil-cofrada-dir.-kyoko-kurokawa-y-diego-daz-y-jos-mara-lalo-vallina-piano-.-2026-08-28-18-49",
-      "blurb": "Realizarán el concierto Nueve Ángeles a 24 años de la tragedia del cerro Ventana,Orquesta Juvenil Cofradía (dir. Kyoko Kurokawa y Diego Díaz) y José María Lalo Vallina (piano).",
-      "cancelled": false,
-      "source": "barilochense"
-    },
-    {
-      "date": "2026-08-29",
-      "dateLabel": "Sábado 29 Agosto, 2026",
-      "title": "TUCUQUERE",
-      "category": "Música",
-      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/tucuquere-2026-08-28-36-55",
-      "blurb": "TUCUQUERE",
-      "cancelled": false,
-      "source": "barilochense"
-    },
-    {
-      "date": "2026-08-29",
-      "dateLabel": "Sábado 29 Agosto, 2026",
-      "title": "POSTALES SONORAS Concierto de la Camerata Juvenil Municipal",
-      "category": "Música",
-      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/postales-sonoras-concierto-de-la-camerata-juvenil-municipal-2026-08-14-57-33",
-      "blurb": "POSTALES SONORAS Concierto de la Camerata Juvenil Municipal",
-      "cancelled": false,
-      "source": "barilochense"
-    },
     {
       "date": "2026-08-30",
       "dateLabel": "Domingo 30 Agosto, 2026",
@@ -339,7 +179,47 @@
       "blurb": "Camilo Eque",
       "cancelled": false,
       "source": "barilochense"
+    },
+    {
+      "date": "2026-09-12",
+      "dateLabel": "Sábado 12 Septiembre, 2026",
+      "title": "FEDERICO SIMONETTI: SOLO POLITICA",
+      "category": "Otros",
+      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/casa-macacha/federico-simonetti-solo-politica-2026-08-12-17-37",
+      "blurb": "FEDERICO SIMONETTI: SOLO POLITICA",
+      "cancelled": false,
+      "source": "barilochense"
+    },
+    {
+      "date": "2026-09-12",
+      "dateLabel": "Sábado 12 Septiembre, 2026",
+      "title": "NORBERTO RODRÍGUEZ en Bariloche",
+      "category": "Música",
+      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/norberto-rodrguez-en-bariloche-2026-08-22-00-46",
+      "blurb": "NORBERTO RODRÍGUEZ en Bariloche",
+      "cancelled": false,
+      "source": "barilochense"
+    },
+    {
+      "date": "2026-09-12",
+      "dateLabel": "Sábado 12 Septiembre, 2026",
+      "title": "PELUSA EN EL PUPO 15 AÑOS",
+      "category": "Música",
+      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/pelusa-en-el-pupo-15-aos-2026-08-25-00-19",
+      "blurb": "PELUSA EN EL PUPO 15 AÑOS",
+      "cancelled": false,
+      "source": "barilochense"
+    },
+    {
+      "date": "2026-09-12",
+      "dateLabel": "Sábado 12 Septiembre, 2026",
+      "title": "SI TE HE VISTO, SÍ ME ACUERDO",
+      "category": "Teatro",
+      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/la-obra/si-te-he-visto-s-me-acuerdo-2026-08-28-00-48",
+      "blurb": "SI TE HE VISTO, SÍ ME ACUERDO",
+      "cancelled": false,
+      "source": "barilochense"
     }
   ],
-  "allCount": 89
+  "allCount": 73
 }
