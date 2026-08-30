@@ -4,8 +4,8 @@
   "format": "video",
   "hasAudio": true,
   "musicTrack": "modern-pop-pulse.mp3",
-  "musicSource": "fallback",
-  "copySource": "fallback",
+  "musicSource": "ollama",
+  "copySource": "ollama",
   "mode": "promo-libres",
   "energy": "vivaz",
   "layout": "classic",
@@ -20,8 +20,8 @@
   "theme": "cabaña",
   "weather": null,
   "weatherBadge": null,
-  "title": "Winter with room left",
-  "subtitle": "Sep 5 – Sep 26 open. Fireplace inside, snow on the pines — book via the link in bio.",
+  "title": "Wake up to the green of Bariloche",
+  "subtitle": "Escape to the pines for a slow morning in our cozy cabin. Book your stay from Sep 5 to Sep 26 via the link in bio.",
   "eyebrow": "Cabaña al Bosque · Sunday, Aug 30",
   "cta": "Book → link in bio"
 }
