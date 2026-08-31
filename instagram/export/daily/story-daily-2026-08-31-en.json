@@ -1,0 +1,27 @@
+{
+  "id": "story-daily-2026-08-31-en",
+  "locale": "en",
+  "format": "video",
+  "hasAudio": true,
+  "musicTrack": "modern-pop-pulse.mp3",
+  "musicSource": "ollama",
+  "copySource": "ollama",
+  "mode": "promo-libres",
+  "energy": "hook",
+  "layout": "editorial-left",
+  "pace": "lively",
+  "usesWeather": false,
+  "availability": {
+    "nights": 22,
+    "start": "2026-09-05",
+    "end": "2026-09-27"
+  },
+  "photo": "galeria/instagrameables/img-9293.jpg",
+  "theme": "cabaña",
+  "weather": null,
+  "weatherBadge": null,
+  "title": "Wake up to the morning sun through the pines",
+  "subtitle": "September has many dates open; want to know which ones work for your trip to Bariloche? Link in bio.",
+  "eyebrow": "Cabaña al Bosque · Monday, Aug 31",
+  "cta": "Book → link in bio"
+}
