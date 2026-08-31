@@ -5,7 +5,7 @@
     {
       "id": "barilochense",
       "url": "https://www.barilochense.com/agenda-cultural",
-      "count": 39
+      "count": 44
     },
     {
       "id": "opina",
@@ -23,20 +23,40 @@
       "count": 11
     }
   ],
-  "fetchedAt": "2026-08-30T15:07:07.142Z",
+  "fetchedAt": "2026-08-31T17:46:16.493Z",
   "window": {
-    "from": "2026-08-30",
-    "to": "2026-09-12",
+    "from": "2026-08-31",
+    "to": "2026-09-13",
     "days": 14
   },
   "events": [
     {
-      "date": "2026-08-30",
-      "dateLabel": "Domingo 30 Agosto, 2026",
-      "title": "Néstor Cheuqueman y Rubén Olavarría - Folclore",
+      "date": "2026-08-31",
+      "dateLabel": "Lunes 31 Agosto, 2026",
+      "title": "Lo Que Quisimos Ser (2024) de Alejandro Agresti",
+      "category": "Cine",
+      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/lo-que-quisimos-ser-2024-de-alejandro-agresti-2026-08-31-37-30",
+      "blurb": "Lo Que Quisimos Ser (2024) de Alejandro Agresti",
+      "cancelled": false,
+      "source": "barilochense"
+    },
+    {
+      "date": "2026-08-31",
+      "dateLabel": "Lunes 31 Agosto, 2026",
+      "title": "SIN VUELTAS MILONGA",
+      "category": "Tango",
+      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/sin-vueltas-milonga-2026-08-31-39-14",
+      "blurb": "SIN VUELTAS MILONGA",
+      "cancelled": false,
+      "source": "barilochense"
+    },
+    {
+      "date": "2026-09-02",
+      "dateLabel": "Miércoles 2 Septiembre, 2026",
+      "title": "FATI SALGADO MUSICA BRASILERA",
       "category": "Música",
-      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/nstor-cheuqueman-y-rubn-olavarra-folclore-2026-08-28-33-15",
-      "blurb": "Néstor Cheuqueman y Rubén Olavarría - Folclore",
+      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/fati-salgado-musica-brasilera-2026-08-31-36-19",
+      "blurb": "FATI SALGADO MUSICA BRASILERA",
       "cancelled": false,
       "source": "barilochense"
     },
@@ -123,6 +143,16 @@
     {
       "date": "2026-09-05",
       "dateLabel": "Sábado 5 Septiembre, 2026",
+      "title": "RMA FULL BAND",
+      "category": "Música",
+      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/rma-full-band-2026-08-31-33-06",
+      "blurb": "RMA FULL BAND",
+      "cancelled": false,
+      "source": "barilochense"
+    },
+    {
+      "date": "2026-09-05",
+      "dateLabel": "Sábado 5 Septiembre, 2026",
       "title": "Wow Show Circo y Humor",
       "category": "Circo",
       "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/casa-macacha/wow-show-circo-y-humor-2026-08-26-18-44",
@@ -161,12 +191,32 @@
       "source": "barilochense"
     },
     {
+      "date": "2026-09-09",
+      "dateLabel": "Miércoles 9 Septiembre, 2026",
+      "title": "Cine: El amor que permanece",
+      "category": "Cine",
+      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/bibliotecasarmiento/cine-el-amor-que-permanece-2026-08-31-41-01",
+      "blurb": "Cine: El amor que permanece",
+      "cancelled": false,
+      "source": "barilochense"
+    },
+    {
       "date": "2026-09-10",
       "dateLabel": "Jueves 10 Septiembre, 2026",
       "title": "Taller intensivo de acuarela “Paisajes en acuarela y las sombras de la nieve”",
       "category": "Cursos y talleres",
       "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/la-biblio/taller-intensivo-de-acuarela-paisajes-en-acuarela-y-las-sombras-de-la-nieve-2026-08-22-15-58",
       "blurb": "Taller intensivo de acuarela “Paisajes en acuarela y las sombras de la nieve”",
+      "cancelled": false,
+      "source": "barilochense"
+    },
+    {
+      "date": "2026-09-10",
+      "dateLabel": "Jueves 10 Septiembre, 2026",
+      "title": "TENTADAS Stand Up",
+      "category": "Otros",
+      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/casa-macacha/tentadas-stand-up-2026-08-31-42-52",
+      "blurb": "TENTADAS Stand Up",
       "cancelled": false,
       "source": "barilochense"
     },
@@ -219,7 +269,37 @@
       "blurb": "SI TE HE VISTO, SÍ ME ACUERDO",
       "cancelled": false,
       "source": "barilochense"
+    },
+    {
+      "date": "2026-09-13",
+      "dateLabel": "Domingo 13 Septiembre, 2026",
+      "title": "El Ensamble Bach Bariloche presenta un nuevo",
+      "category": "Música",
+      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/camping-musical/el-ensamble-bach-bariloche-presenta-un-nuevo-concierto-explicado-dedicado-a-johann-sebastian-bach-2026-07-30-42-18",
+      "blurb": "El Ensamble Bach Bariloche presenta un nuevo",
+      "cancelled": false,
+      "source": "barilochense"
+    },
+    {
+      "date": "2026-09-13",
+      "dateLabel": "Domingo 13 Septiembre, 2026",
+      "title": "SI TE HE VISTO, SÍ ME ACUERDO",
+      "category": "Teatro",
+      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/la-obra/si-te-he-visto-s-me-acuerdo-2026-08-28-53-45",
+      "blurb": "SI TE HE VISTO, SÍ ME ACUERDO",
+      "cancelled": false,
+      "source": "barilochense"
+    },
+    {
+      "date": "2026-09-13",
+      "dateLabel": "Domingo 13 Septiembre, 2026",
+      "title": "Vuelta Canela",
+      "category": "Infantiles",
+      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/bibliotecasarmiento/vuelta-canela-2026-08-01-17-40",
+      "blurb": "Vuelta Canela",
+      "cancelled": false,
+      "source": "barilochense"
     }
   ],
-  "allCount": 73
+  "allCount": 78
 }

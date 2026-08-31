@@ -1,8 +1,8 @@
 {
-  "date": "2026-08-30",
-  "firstName": null,
-  "checkIn": null,
-  "checkOut": null,
-  "fetchedAt": "2026-08-30T15:07:07.654Z",
-  "reason": "none"
+  "date": "2026-08-31",
+  "firstName": "Sebastian",
+  "checkIn": "2026-08-31",
+  "checkOut": "2026-09-05",
+  "fetchedAt": "2026-08-31T17:46:17.223Z",
+  "reason": "single"
 }
