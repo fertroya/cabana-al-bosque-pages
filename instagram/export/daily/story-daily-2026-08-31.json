@@ -4,7 +4,7 @@
   "format": "video",
   "hasAudio": true,
   "musicTrack": "modern-pop-pulse.mp3",
-  "musicSource": "ollama",
+  "musicSource": "fallback",
   "copySource": "fallback",
   "mode": "promo-libres",
   "energy": "hook",

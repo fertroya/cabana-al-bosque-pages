@@ -4,8 +4,8 @@
   "format": "video",
   "hasAudio": true,
   "musicTrack": "modern-pop-pulse.mp3",
-  "musicSource": "ollama",
-  "copySource": "ollama",
+  "musicSource": "fallback",
+  "copySource": "fallback",
   "mode": "promo-libres",
   "energy": "hook",
   "layout": "editorial-left",
@@ -20,8 +20,8 @@
   "theme": "cabaña",
   "weather": null,
   "weatherBadge": null,
-  "title": "Wake up to the morning sun through the pines",
-  "subtitle": "September has many dates open; want to know which ones work for your trip to Bariloche? Link in bio.",
-  "eyebrow": "Cabaña al Bosque · Monday, Aug 31",
+  "title": "August still has room",
+  "subtitle": "Sep 5 – Sep 26 we're free. If you were looking for unhurried Patagonia, this is it — link in bio.",
+  "eyebrow": "A gap opened up",
   "cta": "Book → link in bio"
 }
