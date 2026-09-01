@@ -23,33 +23,13 @@
       "count": 11
     }
   ],
-  "fetchedAt": "2026-08-31T17:46:16.493Z",
+  "fetchedAt": "2026-09-01T15:19:27.105Z",
   "window": {
-    "from": "2026-08-31",
-    "to": "2026-09-13",
+    "from": "2026-09-01",
+    "to": "2026-09-14",
     "days": 14
   },
   "events": [
-    {
-      "date": "2026-08-31",
-      "dateLabel": "Lunes 31 Agosto, 2026",
-      "title": "Lo Que Quisimos Ser (2024) de Alejandro Agresti",
-      "category": "Cine",
-      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/lo-que-quisimos-ser-2024-de-alejandro-agresti-2026-08-31-37-30",
-      "blurb": "Lo Que Quisimos Ser (2024) de Alejandro Agresti",
-      "cancelled": false,
-      "source": "barilochense"
-    },
-    {
-      "date": "2026-08-31",
-      "dateLabel": "Lunes 31 Agosto, 2026",
-      "title": "SIN VUELTAS MILONGA",
-      "category": "Tango",
-      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/sin-vueltas-milonga-2026-08-31-39-14",
-      "blurb": "SIN VUELTAS MILONGA",
-      "cancelled": false,
-      "source": "barilochense"
-    },
     {
       "date": "2026-09-02",
       "dateLabel": "Miércoles 2 Septiembre, 2026",
@@ -73,20 +53,30 @@
     {
       "date": "2026-09-03",
       "dateLabel": "Jueves 3 Septiembre, 2026",
-      "title": "ESCULPIR EN EL TEXTO, una experiencia teatral",
-      "category": "Teatro",
-      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/paico/esculpir-en-el-texto-una-experiencia-teatral-2026-08-24-34-55",
-      "blurb": "ESCULPIR EN EL TEXTO, una experiencia teatral",
-      "cancelled": false,
-      "source": "barilochense"
-    },
-    {
-      "date": "2026-09-03",
-      "dateLabel": "Jueves 3 Septiembre, 2026",
       "title": "Show de tango: La forfai",
       "category": "Tango",
       "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/bibliotecasarmiento/show-de-tango-la-forfai-2026-08-24-09-17",
       "blurb": "Show de tango: La forfai",
+      "cancelled": false,
+      "source": "barilochense"
+    },
+    {
+      "date": "2026-09-04",
+      "dateLabel": "Viernes 4 Septiembre, 2026",
+      "title": "Cine en el Oeste: Turist (Tourist) (Force Majeure)",
+      "category": "Cine",
+      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/cine-en-el-oeste/cine-en-el-oeste-turist-tourist-force-majeure-2026-09-01-13-48",
+      "blurb": "Cine en el Oeste: Turist (Tourist) (Force Majeure)",
+      "cancelled": false,
+      "source": "barilochense"
+    },
+    {
+      "date": "2026-09-04",
+      "dateLabel": "Viernes 4 Septiembre, 2026",
+      "title": "CINE Terror en Carilafquen -presenta- *Nosferatu* de Robert Eggers",
+      "category": "Cine",
+      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/la-biblio/cine-terror-en-carilafquen-presenta-nosferatu-de-robert-eggers-2026-09-01-39-09",
+      "blurb": "CINE Terror en Carilafquen -presenta- *Nosferatu* de Robert Eggers",
       "cancelled": false,
       "source": "barilochense"
     },
@@ -127,6 +117,16 @@
       "category": "Música",
       "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/ne-ne-agenda/-2026-08-09-29-04",
       "blurb": "CAMIONERO",
+      "cancelled": false,
+      "source": "barilochense"
+    },
+    {
+      "date": "2026-09-05",
+      "dateLabel": "Sábado 5 Septiembre, 2026",
+      "title": "Fusión Sur PEÑA FOLKLORICA",
+      "category": "Música",
+      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/fusin-sur-pea-folklorica-2026-09-01-33-30",
+      "blurb": "Fusión Sur PEÑA FOLKLORICA",
       "cancelled": false,
       "source": "barilochense"
     },
