@@ -1,0 +1,27 @@
+{
+  "id": "story-daily-2026-09-01-en",
+  "locale": "en",
+  "format": "video",
+  "hasAudio": true,
+  "musicTrack": "modern-pop-pulse.mp3",
+  "musicSource": "ollama",
+  "copySource": "ollama",
+  "mode": "promo-libres",
+  "energy": "hook",
+  "layout": "frosted-card",
+  "pace": "lively",
+  "usesWeather": false,
+  "availability": {
+    "nights": 22,
+    "start": "2026-09-05",
+    "end": "2026-09-27"
+  },
+  "photo": "galeria/instagrameables/img-4468.jpg",
+  "theme": "cabaña",
+  "weather": null,
+  "weatherBadge": null,
+  "title": "Your morning view of the pines.",
+  "subtitle": "September has 22 nights available; would you like to see the booking link in our bio?",
+  "eyebrow": "Cabaña al Bosque · Tuesday, Sep 1",
+  "cta": "Book → link in bio"
+}

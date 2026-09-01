@@ -1,0 +1,27 @@
+{
+  "id": "story-daily-2026-09-01",
+  "locale": "es",
+  "format": "video",
+  "hasAudio": true,
+  "musicTrack": "modern-pop-pulse.mp3",
+  "musicSource": "ollama",
+  "copySource": "ollama",
+  "mode": "promo-libres",
+  "energy": "hook",
+  "layout": "frosted-card",
+  "pace": "lively",
+  "usesWeather": false,
+  "availability": {
+    "nights": 22,
+    "start": "2026-09-05",
+    "end": "2026-09-27"
+  },
+  "photo": "galeria/instagrameables/img-4468.jpg",
+  "theme": "cabaña",
+  "weather": null,
+  "weatherBadge": null,
+  "title": "El living es el refugio ideal para la tarde",
+  "subtitle": "Quedate en nuestra cabaña del 5 al 26 de sept y disfrutá de este marco. ¿Te gustaría reservar tu lugar?",
+  "eyebrow": "Cabaña al Bosque · martes 1 sep",
+  "cta": "Reservá → link en bio"
+}
