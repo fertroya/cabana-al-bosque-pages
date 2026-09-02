@@ -5,7 +5,7 @@
     {
       "id": "barilochense",
       "url": "https://www.barilochense.com/agenda-cultural",
-      "count": 44
+      "count": 54
     },
     {
       "id": "opina",
@@ -23,10 +23,10 @@
       "count": 11
     }
   ],
-  "fetchedAt": "2026-09-01T15:19:27.105Z",
+  "fetchedAt": "2026-09-02T14:49:18.224Z",
   "window": {
-    "from": "2026-09-01",
-    "to": "2026-09-14",
+    "from": "2026-09-02",
+    "to": "2026-09-15",
     "days": 14
   },
   "events": [
@@ -43,10 +43,50 @@
     {
       "date": "2026-09-03",
       "dateLabel": "Jueves 3 Septiembre, 2026",
+      "title": "¡Vuelve el Cine Italiano a Bariloche!",
+      "category": "Cine",
+      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/vuelve-el-cine-italiano-a-bariloche-2026-09-02-13-46",
+      "blurb": "¡Vuelve el Cine Italiano a Bariloche!",
+      "cancelled": false,
+      "source": "barilochense"
+    },
+    {
+      "date": "2026-09-03",
+      "dateLabel": "Jueves 3 Septiembre, 2026",
+      "title": "CICLO DE JAZZ - FIORONI, ONGARATO & PENA",
+      "category": "Música",
+      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/ciclo-de-jazz-fioroni-ongarato-pena-2026-09-02-08-24",
+      "blurb": "CICLO DE JAZZ - FIORONI, ONGARATO & PENA",
+      "cancelled": false,
+      "source": "barilochense"
+    },
+    {
+      "date": "2026-09-03",
+      "dateLabel": "Jueves 3 Septiembre, 2026",
       "title": "Ciclo Pantalla Salvaje: EL SILENCIO DE LOS HOMBRES",
       "category": "Cine",
       "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/casa-macacha/ciclo-pantalla-salvaje-el-silencio-de-los-hombres-2026-08-27-16-56",
       "blurb": "Ciclo Pantalla Salvaje: EL SILENCIO DE LOS HOMBRES",
+      "cancelled": false,
+      "source": "barilochense"
+    },
+    {
+      "date": "2026-09-03",
+      "dateLabel": "Jueves 3 Septiembre, 2026",
+      "title": "FILOSOFÍA DE VEREDA: ¿QUÉ ES LA TRAGEDIA?",
+      "category": "Charlas",
+      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/filosofa-de-vereda-qu-es-la-tragedia-2026-09-02-11-35",
+      "blurb": "FILOSOFÍA DE VEREDA: ¿QUÉ ES LA TRAGEDIA?",
+      "cancelled": false,
+      "source": "barilochense"
+    },
+    {
+      "date": "2026-09-03",
+      "dateLabel": "Jueves 3 Septiembre, 2026",
+      "title": "LA GYPSY BANDA EN VIVO",
+      "category": "Música",
+      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/la-gypsy-banda-en-vivo-2026-09-02-27-24",
+      "blurb": "LA GYPSY BANDA EN VIVO",
       "cancelled": false,
       "source": "barilochense"
     },
@@ -83,6 +123,16 @@
     {
       "date": "2026-09-04",
       "dateLabel": "Viernes 4 Septiembre, 2026",
+      "title": "EMILIANO ZAMORA MELODÍAS CON AMIGOS",
+      "category": "Música",
+      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/emiliano-zamora-melodas-con-amigos-2026-09-02-28-16",
+      "blurb": "EMILIANO ZAMORA MELODÍAS CON AMIGOS",
+      "cancelled": false,
+      "source": "barilochense"
+    },
+    {
+      "date": "2026-09-04",
+      "dateLabel": "Viernes 4 Septiembre, 2026",
       "title": "LA COMUNIDAD DEL BOLERO",
       "category": "Música",
       "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/casa-macacha/la-comunidad-del-bolero-2026-08-25-06-03",
@@ -111,6 +161,16 @@
       "source": "barilochense"
     },
     {
+      "date": "2026-09-04",
+      "dateLabel": "Viernes 4 Septiembre, 2026",
+      "title": "Proyección ÑAMKU: Fuego, Memoria y Barro",
+      "category": "Cine",
+      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/proyeccin-amku-fuego-memoria-y-barro-2026-09-02-29-44",
+      "blurb": "Proyección ÑAMKU: Fuego, Memoria y Barro",
+      "cancelled": false,
+      "source": "barilochense"
+    },
+    {
       "date": "2026-09-05",
       "dateLabel": "Sábado 5 Septiembre, 2026",
       "title": "CAMIONERO",
@@ -123,10 +183,50 @@
     {
       "date": "2026-09-05",
       "dateLabel": "Sábado 5 Septiembre, 2026",
+      "title": "Delfina Campos en Bariloche",
+      "category": "Música",
+      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/-2026-09-02-20-21",
+      "blurb": "Delfina Campos en Bariloche",
+      "cancelled": false,
+      "source": "barilochense"
+    },
+    {
+      "date": "2026-09-05",
+      "dateLabel": "Sábado 5 Septiembre, 2026",
+      "title": "FESTIVAL MÚSICA PORQUE SÍ DANZA Y POESÍA POR QUÉ NO?",
+      "category": "Fiestas y Festivales",
+      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/festival-msica-porque-s-danza-y-poesa-por-qu-no-2026-09-02-17-56",
+      "blurb": "FESTIVAL MÚSICA PORQUE SÍ DANZA Y POESÍA POR QUÉ NO?",
+      "cancelled": false,
+      "source": "barilochense"
+    },
+    {
+      "date": "2026-09-05",
+      "dateLabel": "Sábado 5 Septiembre, 2026",
       "title": "Fusión Sur PEÑA FOLKLORICA",
       "category": "Música",
       "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/fusin-sur-pea-folklorica-2026-09-01-33-30",
       "blurb": "Fusión Sur PEÑA FOLKLORICA",
+      "cancelled": false,
+      "source": "barilochense"
+    },
+    {
+      "date": "2026-09-05",
+      "dateLabel": "Sábado 5 Septiembre, 2026",
+      "title": "Impro Acción!",
+      "category": "Teatro",
+      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/moma/impro-accin-2026-09-01-34-04",
+      "blurb": "Impro Acción!",
+      "cancelled": false,
+      "source": "barilochense"
+    },
+    {
+      "date": "2026-09-05",
+      "dateLabel": "Sábado 5 Septiembre, 2026",
+      "title": "LA VIOLETERA MILONGA",
+      "category": "Tango",
+      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/la-violetera-milonga-2026-09-02-16-55",
+      "blurb": "LA VIOLETERA MILONGA",
       "cancelled": false,
       "source": "barilochense"
     },
@@ -301,5 +401,5 @@
       "source": "barilochense"
     }
   ],
-  "allCount": 78
+  "allCount": 88
 }
