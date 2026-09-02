@@ -4,8 +4,8 @@
   "format": "video",
   "hasAudio": true,
   "musicTrack": "modern-pop-pulse.mp3",
-  "musicSource": "fallback",
-  "copySource": "fallback",
+  "musicSource": "ollama",
+  "copySource": "ollama",
   "mode": "promo-libres",
   "energy": "vivaz",
   "layout": "top-focus",
@@ -20,8 +20,8 @@
   "theme": "cabaña",
   "weather": "7° máx · 2° mín · Nevadas fuertes",
   "weatherBadge": "mié, 2 sept · 7° máx · 2° mín · Nevadas fuertes",
-  "title": "Nieva y hay lugar",
-  "subtitle": "5 sept – 26 sept libres. Chimenea adentro, nieve en los pinos — reservá desde el link en bio.",
-  "eyebrow": "Cabaña al Bosque · miércoles, 2 sept",
+  "title": "Encendé el fuego y quedate adentro",
+  "subtitle": "Con este frío en Bariloche, la chimenea es el plan ideal. Reservá tu lugar del 5 al 26 de septiembre desde el link en bio.",
+  "eyebrow": "Cabaña al Bosque · miércoles 2 sept",
   "cta": "Reservá → link en bio"
 }
