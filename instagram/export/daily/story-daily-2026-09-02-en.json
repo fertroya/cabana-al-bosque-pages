@@ -1,0 +1,27 @@
+{
+  "id": "story-daily-2026-09-02-en",
+  "locale": "en",
+  "format": "video",
+  "hasAudio": true,
+  "musicTrack": "modern-pop-pulse.mp3",
+  "musicSource": "fallback",
+  "copySource": "fallback",
+  "mode": "promo-libres",
+  "energy": "vivaz",
+  "layout": "top-focus",
+  "pace": "lively",
+  "usesWeather": true,
+  "availability": {
+    "nights": 22,
+    "start": "2026-09-05",
+    "end": "2026-09-27"
+  },
+  "photo": "galeria/instagrameables/hogar2.jpg",
+  "theme": "cabaña",
+  "weather": "7° máx · 2° mín · Nevadas fuertes",
+  "weatherBadge": "Wed, Sep 2 · 7° high · 2° low · Heavy snow showers",
+  "title": "It's snowing — dates left",
+  "subtitle": "Sep 5 – Sep 26 open. Fireplace inside, snow on the pines — book via the link in bio.",
+  "eyebrow": "Cabaña al Bosque · Wednesday, Sep 2",
+  "cta": "Book → link in bio"
+}
