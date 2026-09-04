@@ -5,7 +5,7 @@
     {
       "id": "barilochense",
       "url": "https://www.barilochense.com/agenda-cultural",
-      "count": 57
+      "count": 62
     },
     {
       "id": "opina",
@@ -23,70 +23,20 @@
       "count": 11
     }
   ],
-  "fetchedAt": "2026-09-03T14:49:25.923Z",
+  "fetchedAt": "2026-09-04T14:38:00.519Z",
   "window": {
-    "from": "2026-09-03",
-    "to": "2026-09-16",
+    "from": "2026-09-04",
+    "to": "2026-09-17",
     "days": 14
   },
   "events": [
     {
-      "date": "2026-09-03",
-      "dateLabel": "Jueves 3 Septiembre, 2026",
-      "title": "¡Vuelve el Cine Italiano a Bariloche!",
-      "category": "Cine",
-      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/vuelve-el-cine-italiano-a-bariloche-2026-09-02-13-46",
-      "blurb": "¡Vuelve el Cine Italiano a Bariloche!",
-      "cancelled": false,
-      "source": "barilochense"
-    },
-    {
-      "date": "2026-09-03",
-      "dateLabel": "Jueves 3 Septiembre, 2026",
-      "title": "CICLO DE JAZZ - FIORONI, ONGARATO & PENA",
+      "date": "2026-09-04",
+      "dateLabel": "Viernes 4 Septiembre, 2026",
+      "title": "CANCIONES A LA CARTA VOL 1: NOCHE ASPEN x Grace And Badlove",
       "category": "Música",
-      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/ciclo-de-jazz-fioroni-ongarato-pena-2026-09-02-08-24",
-      "blurb": "CICLO DE JAZZ - FIORONI, ONGARATO & PENA",
-      "cancelled": false,
-      "source": "barilochense"
-    },
-    {
-      "date": "2026-09-03",
-      "dateLabel": "Jueves 3 Septiembre, 2026",
-      "title": "Ciclo Pantalla Salvaje: EL SILENCIO DE LOS HOMBRES",
-      "category": "Cine",
-      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/casa-macacha/ciclo-pantalla-salvaje-el-silencio-de-los-hombres-2026-08-27-16-56",
-      "blurb": "Ciclo Pantalla Salvaje: EL SILENCIO DE LOS HOMBRES",
-      "cancelled": false,
-      "source": "barilochense"
-    },
-    {
-      "date": "2026-09-03",
-      "dateLabel": "Jueves 3 Septiembre, 2026",
-      "title": "FILOSOFÍA DE VEREDA: ¿QUÉ ES LA TRAGEDIA?",
-      "category": "Charlas",
-      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/filosofa-de-vereda-qu-es-la-tragedia-2026-09-02-11-35",
-      "blurb": "FILOSOFÍA DE VEREDA: ¿QUÉ ES LA TRAGEDIA?",
-      "cancelled": false,
-      "source": "barilochense"
-    },
-    {
-      "date": "2026-09-03",
-      "dateLabel": "Jueves 3 Septiembre, 2026",
-      "title": "LA GYPSY BANDA EN VIVO",
-      "category": "Música",
-      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/la-gypsy-banda-en-vivo-2026-09-02-27-24",
-      "blurb": "LA GYPSY BANDA EN VIVO",
-      "cancelled": false,
-      "source": "barilochense"
-    },
-    {
-      "date": "2026-09-03",
-      "dateLabel": "Jueves 3 Septiembre, 2026",
-      "title": "Show de tango: La forfai",
-      "category": "Tango",
-      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/bibliotecasarmiento/show-de-tango-la-forfai-2026-08-24-09-17",
-      "blurb": "Show de tango: La forfai",
+      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/canciones-a-la-carta-vol-1-noche-aspen-x-grace-and-badlove-2026-09-04-11-24",
+      "blurb": "CANCIONES A LA CARTA VOL 1: NOCHE ASPEN x Grace And Badlove",
       "cancelled": false,
       "source": "barilochense"
     },
@@ -133,10 +83,30 @@
     {
       "date": "2026-09-04",
       "dateLabel": "Viernes 4 Septiembre, 2026",
+      "title": "La Orquesa Filarmonica de Rio Negro Presenta el Concierto",
+      "category": "Música",
+      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/iglesia-catedral/la-orquesa-filarmonica-de-rio-negro-presenta-el-concierto-2026-09-03-25-14",
+      "blurb": "La Orquesa Filarmonica de Rio Negro Presenta el Concierto",
+      "cancelled": false,
+      "source": "barilochense"
+    },
+    {
+      "date": "2026-09-04",
+      "dateLabel": "Viernes 4 Septiembre, 2026",
       "title": "LOS OTROS NOSOTROS",
       "category": "Música",
       "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/paico/los-otros-nosotros-2026-08-26-15-53",
       "blurb": "LOS OTROS NOSOTROS",
+      "cancelled": false,
+      "source": "barilochense"
+    },
+    {
+      "date": "2026-09-04",
+      "dateLabel": "Viernes 4 Septiembre, 2026",
+      "title": "MARTINA VALLEJO & MATEO ARCE",
+      "category": "Música",
+      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/martina-vallejo-mateo-arce-2026-09-04-15-24",
+      "blurb": "MARTINA VALLEJO & MATEO ARCE",
       "cancelled": false,
       "source": "barilochense"
     },
@@ -157,6 +127,36 @@
       "category": "Cine",
       "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/proyeccin-amku-fuego-memoria-y-barro-2026-09-02-29-44",
       "blurb": "Proyección ÑAMKU: Fuego, Memoria y Barro",
+      "cancelled": false,
+      "source": "barilochense"
+    },
+    {
+      "date": "2026-09-04",
+      "dateLabel": "Viernes 4 Septiembre, 2026",
+      "title": "TANGO EN La Mariposa BRC",
+      "category": "Tango",
+      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/tango-en-la-mariposa-brc-2026-09-04-14-04",
+      "blurb": "TANGO EN La Mariposa BRC",
+      "cancelled": false,
+      "source": "barilochense"
+    },
+    {
+      "date": "2026-09-05",
+      "dateLabel": "Sábado 5 Septiembre, 2026",
+      "title": "AMOR AMOR",
+      "category": "Música",
+      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/amor-amor-2026-09-04-16-52",
+      "blurb": "AMOR AMOR",
+      "cancelled": false,
+      "source": "barilochense"
+    },
+    {
+      "date": "2026-09-05",
+      "dateLabel": "Sábado 5 Septiembre, 2026",
+      "title": "CABALLOS SALVAJES COUNTRY ROCK",
+      "category": "Música",
+      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/caballos-salvajes-country-rock-2026-09-04-22-19",
+      "blurb": "CABALLOS SALVAJES COUNTRY ROCK",
       "cancelled": false,
       "source": "barilochense"
     },
@@ -197,6 +197,16 @@
       "category": "Fiestas y Festivales",
       "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/dia-del-nio-en-el-estadio-municipal-2026-09-03-09-13",
       "blurb": "Dia del Niño en el Estadio Municipal",
+      "cancelled": false,
+      "source": "barilochense"
+    },
+    {
+      "date": "2026-09-05",
+      "dateLabel": "Sábado 5 Septiembre, 2026",
+      "title": "EL COMBO SABROSONICO",
+      "category": "Música",
+      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/el-combo-sabrosonico-2026-09-04-18-27",
+      "blurb": "EL COMBO SABROSONICO",
       "cancelled": false,
       "source": "barilochense"
     },
@@ -293,6 +303,16 @@
     {
       "date": "2026-09-06",
       "dateLabel": "Domingo 6 Septiembre, 2026",
+      "title": "GRAN TORNEO DE CATAN",
+      "category": "Otros",
+      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/casa-macacha/gran-torneo-de-catan-2026-09-04-29-08",
+      "blurb": "GRAN TORNEO DE CATAN",
+      "cancelled": false,
+      "source": "barilochense"
+    },
+    {
+      "date": "2026-09-06",
+      "dateLabel": "Domingo 6 Septiembre, 2026",
       "title": "Treinta años de swing: Sureña Jazz Band celebra su aniversario con una noche de jazz tradicional",
       "category": "Música",
       "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/camping-musical/treinta-aos-de-swing-surea-jazz-band-celebra-su-aniversario-con-una-noche-de-jazz-tradicional-2026-07-30-39-23",
@@ -357,6 +377,16 @@
       "category": "Fiestas y Festivales",
       "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/casa-macacha/se-viene-la-3-pea-maestra-2026-09-03-16-06",
       "blurb": "Se viene la 3ª PEÑA MAESTRA!",
+      "cancelled": false,
+      "source": "barilochense"
+    },
+    {
+      "date": "2026-09-12",
+      "dateLabel": "Sábado 12 Septiembre, 2026",
+      "title": "El Alambique",
+      "category": "Música",
+      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/bibliotecasarmiento/el-alambique-2026-09-04-30-39",
+      "blurb": "El Alambique",
       "cancelled": false,
       "source": "barilochense"
     },
@@ -429,7 +459,17 @@
       "blurb": "Vuelta Canela",
       "cancelled": false,
       "source": "barilochense"
+    },
+    {
+      "date": "2026-09-17",
+      "dateLabel": "Jueves 17 Septiembre, 2026",
+      "title": "¡Javier Calamaro llega a Bariloche!",
+      "category": "Música",
+      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/ne-ne-agenda/javier-calamaro-llega-a-bariloche-2026-09-04-25-19",
+      "blurb": "¡Javier Calamaro llega a Bariloche!",
+      "cancelled": false,
+      "source": "barilochense"
     }
   ],
-  "allCount": 91
+  "allCount": 96
 }
