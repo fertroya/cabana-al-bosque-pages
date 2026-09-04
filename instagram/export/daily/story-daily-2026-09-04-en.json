@@ -3,9 +3,9 @@
   "locale": "en",
   "format": "video",
   "hasAudio": true,
-  "musicTrack": "modern-dance-pop.mp3",
-  "musicSource": "fallback",
-  "copySource": "fallback",
+  "musicTrack": "modern-tech-house.mp3",
+  "musicSource": "ollama",
+  "copySource": "ollama",
   "mode": "promo-libres",
   "energy": "vivaz",
   "layout": "classic",
@@ -20,8 +20,8 @@
   "theme": "cabaña",
   "weather": null,
   "weatherBadge": null,
-  "title": "It snowed. Dates left",
-  "subtitle": "Sep 5 – Sep 17 open. Fireplace inside, snow on the pines — book via the link in bio.",
+  "title": "Wake up to the view of the pines",
+  "subtitle": "Grab a spot from Sep 5 to Sep 17 and enjoy your morning in Bariloche; link in bio.",
   "eyebrow": "Cabaña al Bosque · Friday, Sep 4",
   "cta": "Book → link in bio"
 }
