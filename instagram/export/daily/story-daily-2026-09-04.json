@@ -1,0 +1,27 @@
+{
+  "id": "story-daily-2026-09-04",
+  "locale": "es",
+  "format": "video",
+  "hasAudio": true,
+  "musicTrack": "modern-dance-pop.mp3",
+  "musicSource": "fallback",
+  "copySource": "fallback",
+  "mode": "promo-libres",
+  "energy": "vivaz",
+  "layout": "classic",
+  "pace": "lively",
+  "usesWeather": true,
+  "availability": {
+    "nights": 13,
+    "start": "2026-09-05",
+    "end": "2026-09-18"
+  },
+  "photo": "galeria/instagrameables/img-4468.jpg",
+  "theme": "cabaña",
+  "weather": "6° máx · 2° mín · Nevadas dispersas",
+  "weatherBadge": "vie, 4 sept · 6° máx · 2° mín · Nevadas dispersas",
+  "title": "Nevó. Quedan fechas",
+  "subtitle": "5 sept – 17 sept libres. Chimenea adentro, nieve en los pinos — reservá desde el link en bio.",
+  "eyebrow": "Cabaña al Bosque · viernes, 4 sept",
+  "cta": "Reservá → link en bio"
+}
