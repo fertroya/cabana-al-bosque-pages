@@ -1,0 +1,27 @@
+{
+  "id": "story-daily-2026-09-05",
+  "locale": "es",
+  "format": "video",
+  "hasAudio": true,
+  "musicTrack": "modern-tech-house.mp3",
+  "musicSource": "ollama",
+  "copySource": "ollama",
+  "mode": "promo-libres",
+  "energy": "hook",
+  "layout": "editorial-left",
+  "pace": "lively",
+  "usesWeather": false,
+  "availability": {
+    "nights": 13,
+    "start": "2026-09-05",
+    "end": "2026-09-18"
+  },
+  "photo": "galeria/instagrameables/img-9293.jpg",
+  "theme": "cabaña",
+  "weather": null,
+  "weatherBadge": null,
+  "title": "Despertar con este sol y los pinos afuera",
+  "subtitle": "Del 5 al 17 de septiembre tenemos 13 noches libres para que te escapes a Bariloche. ¿Te reservo una?",
+  "eyebrow": "Cabaña al Bosque · sábado 5 sept",
+  "cta": "Reservá → link en bio"
+}
