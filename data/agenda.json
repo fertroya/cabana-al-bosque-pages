@@ -5,7 +5,7 @@
     {
       "id": "barilochense",
       "url": "https://www.barilochense.com/agenda-cultural",
-      "count": 62
+      "count": 55
     },
     {
       "id": "opina",
@@ -23,123 +23,13 @@
       "count": 11
     }
   ],
-  "fetchedAt": "2026-09-04T14:38:00.519Z",
+  "fetchedAt": "2026-09-05T13:37:03.132Z",
   "window": {
-    "from": "2026-09-04",
-    "to": "2026-09-17",
+    "from": "2026-09-05",
+    "to": "2026-09-18",
     "days": 14
   },
   "events": [
-    {
-      "date": "2026-09-04",
-      "dateLabel": "Viernes 4 Septiembre, 2026",
-      "title": "CANCIONES A LA CARTA VOL 1: NOCHE ASPEN x Grace And Badlove",
-      "category": "Música",
-      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/canciones-a-la-carta-vol-1-noche-aspen-x-grace-and-badlove-2026-09-04-11-24",
-      "blurb": "CANCIONES A LA CARTA VOL 1: NOCHE ASPEN x Grace And Badlove",
-      "cancelled": false,
-      "source": "barilochense"
-    },
-    {
-      "date": "2026-09-04",
-      "dateLabel": "Viernes 4 Septiembre, 2026",
-      "title": "Cine en el Oeste: Turist (Tourist) (Force Majeure)",
-      "category": "Cine",
-      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/cine-en-el-oeste/cine-en-el-oeste-turist-tourist-force-majeure-2026-09-01-13-48",
-      "blurb": "Cine en el Oeste: Turist (Tourist) (Force Majeure)",
-      "cancelled": false,
-      "source": "barilochense"
-    },
-    {
-      "date": "2026-09-04",
-      "dateLabel": "Viernes 4 Septiembre, 2026",
-      "title": "CINE Terror en Carilafquen -presenta- *Nosferatu* de Robert Eggers",
-      "category": "Cine",
-      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/la-biblio/cine-terror-en-carilafquen-presenta-nosferatu-de-robert-eggers-2026-09-01-39-09",
-      "blurb": "CINE Terror en Carilafquen -presenta- *Nosferatu* de Robert Eggers",
-      "cancelled": false,
-      "source": "barilochense"
-    },
-    {
-      "date": "2026-09-04",
-      "dateLabel": "Viernes 4 Septiembre, 2026",
-      "title": "EMILIANO ZAMORA MELODÍAS CON AMIGOS",
-      "category": "Música",
-      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/emiliano-zamora-melodas-con-amigos-2026-09-02-28-16",
-      "blurb": "EMILIANO ZAMORA MELODÍAS CON AMIGOS",
-      "cancelled": false,
-      "source": "barilochense"
-    },
-    {
-      "date": "2026-09-04",
-      "dateLabel": "Viernes 4 Septiembre, 2026",
-      "title": "LA COMUNIDAD DEL BOLERO",
-      "category": "Música",
-      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/casa-macacha/la-comunidad-del-bolero-2026-08-25-06-03",
-      "blurb": "LA COMUNIDAD DEL BOLERO",
-      "cancelled": false,
-      "source": "barilochense"
-    },
-    {
-      "date": "2026-09-04",
-      "dateLabel": "Viernes 4 Septiembre, 2026",
-      "title": "La Orquesa Filarmonica de Rio Negro Presenta el Concierto",
-      "category": "Música",
-      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/iglesia-catedral/la-orquesa-filarmonica-de-rio-negro-presenta-el-concierto-2026-09-03-25-14",
-      "blurb": "La Orquesa Filarmonica de Rio Negro Presenta el Concierto",
-      "cancelled": false,
-      "source": "barilochense"
-    },
-    {
-      "date": "2026-09-04",
-      "dateLabel": "Viernes 4 Septiembre, 2026",
-      "title": "LOS OTROS NOSOTROS",
-      "category": "Música",
-      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/paico/los-otros-nosotros-2026-08-26-15-53",
-      "blurb": "LOS OTROS NOSOTROS",
-      "cancelled": false,
-      "source": "barilochense"
-    },
-    {
-      "date": "2026-09-04",
-      "dateLabel": "Viernes 4 Septiembre, 2026",
-      "title": "MARTINA VALLEJO & MATEO ARCE",
-      "category": "Música",
-      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/martina-vallejo-mateo-arce-2026-09-04-15-24",
-      "blurb": "MARTINA VALLEJO & MATEO ARCE",
-      "cancelled": false,
-      "source": "barilochense"
-    },
-    {
-      "date": "2026-09-04",
-      "dateLabel": "Viernes 4 Septiembre, 2026",
-      "title": "Nadia Larcher",
-      "category": "Música",
-      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/bibliotecasarmiento/nadia-larcher-2026-08-19-25-49",
-      "blurb": "Nadia Larcher",
-      "cancelled": false,
-      "source": "barilochense"
-    },
-    {
-      "date": "2026-09-04",
-      "dateLabel": "Viernes 4 Septiembre, 2026",
-      "title": "Proyección ÑAMKU: Fuego, Memoria y Barro",
-      "category": "Cine",
-      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/proyeccin-amku-fuego-memoria-y-barro-2026-09-02-29-44",
-      "blurb": "Proyección ÑAMKU: Fuego, Memoria y Barro",
-      "cancelled": false,
-      "source": "barilochense"
-    },
-    {
-      "date": "2026-09-04",
-      "dateLabel": "Viernes 4 Septiembre, 2026",
-      "title": "TANGO EN La Mariposa BRC",
-      "category": "Tango",
-      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/tango-en-la-mariposa-brc-2026-09-04-14-04",
-      "blurb": "TANGO EN La Mariposa BRC",
-      "cancelled": false,
-      "source": "barilochense"
-    },
     {
       "date": "2026-09-05",
       "dateLabel": "Sábado 5 Septiembre, 2026",
@@ -173,10 +63,20 @@
     {
       "date": "2026-09-05",
       "dateLabel": "Sábado 5 Septiembre, 2026",
-      "title": "CAMIONERO",
+      "title": "CHELO MIRANDA CLÁSICOS",
       "category": "Música",
-      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/ne-ne-agenda/-2026-08-09-29-04",
-      "blurb": "CAMIONERO",
+      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/chelo-miranda-clsicos-2026-09-05-30-09",
+      "blurb": "CHELO MIRANDA CLÁSICOS",
+      "cancelled": false,
+      "source": "barilochense"
+    },
+    {
+      "date": "2026-09-05",
+      "dateLabel": "Sábado 5 Septiembre, 2026",
+      "title": "CUANDO EL MUNDO ME DOLIA",
+      "category": "Títeres",
+      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/cuando-el-mundo-me-dolia-2026-09-05-32-44",
+      "blurb": "CUANDO EL MUNDO ME DOLIA",
       "cancelled": false,
       "source": "barilochense"
     },
@@ -287,6 +187,26 @@
       "category": "Otros",
       "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/aniversario-museo-malvinas-antrtida-y-atlntico-sur-2026-09-03-12-15",
       "blurb": "Aniversario Museo Malvinas, Antártida y Atlántico Sur",
+      "cancelled": false,
+      "source": "barilochense"
+    },
+    {
+      "date": "2026-09-06",
+      "dateLabel": "Domingo 6 Septiembre, 2026",
+      "title": "DUO La Simple",
+      "category": "Música",
+      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/duo-la-simple-2026-09-05-29-11",
+      "blurb": "DUO La Simple",
+      "cancelled": false,
+      "source": "barilochense"
+    },
+    {
+      "date": "2026-09-06",
+      "dateLabel": "Domingo 6 Septiembre, 2026",
+      "title": "El DOCTOR снара снара",
+      "category": "Teatro",
+      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/el-doctor-2026-09-05-34-49",
+      "blurb": "El DOCTOR снара снара",
       "cancelled": false,
       "source": "barilochense"
     },
@@ -443,6 +363,16 @@
     {
       "date": "2026-09-13",
       "dateLabel": "Domingo 13 Septiembre, 2026",
+      "title": "Noche de rock local",
+      "category": "Música",
+      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/casa-macacha/noche-de-rock-local-2026-09-05-36-34",
+      "blurb": "Noche de rock local",
+      "cancelled": false,
+      "source": "barilochense"
+    },
+    {
+      "date": "2026-09-13",
+      "dateLabel": "Domingo 13 Septiembre, 2026",
       "title": "SI TE HE VISTO, SÍ ME ACUERDO",
       "category": "Teatro",
       "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/la-obra/si-te-he-visto-s-me-acuerdo-2026-08-28-53-45",
@@ -469,7 +399,17 @@
       "blurb": "¡Javier Calamaro llega a Bariloche!",
       "cancelled": false,
       "source": "barilochense"
+    },
+    {
+      "date": "2026-09-18",
+      "dateLabel": "Viernes 18 Septiembre, 2026",
+      "title": "Rata Blanca",
+      "category": "Música",
+      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/rata-blanca-2026-07-25-48-28",
+      "blurb": "Rata Blanca",
+      "cancelled": false,
+      "source": "barilochense"
     }
   ],
-  "allCount": 96
+  "allCount": 89
 }
