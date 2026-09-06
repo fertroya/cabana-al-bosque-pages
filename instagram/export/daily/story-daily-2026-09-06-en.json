@@ -4,8 +4,8 @@
   "format": "video",
   "hasAudio": true,
   "musicTrack": "modern-trap-electro.mp3",
-  "musicSource": "fallback",
-  "copySource": "fallback",
+  "musicSource": "ollama",
+  "copySource": "ollama",
   "mode": "promo-libres",
   "energy": "vivaz",
   "layout": "classic",
@@ -20,8 +20,8 @@
   "theme": "cabaña",
   "weather": null,
   "weatherBadge": null,
-  "title": "The living room is already tidy",
-  "subtitle": "Sep 6 – Sep 17 open. Fireplace, pines, Bariloche 20' away — book via the link in bio.",
-  "eyebrow": "Picture arriving",
+  "title": "Light up the fire and stay cozy",
+  "subtitle": "Book your spot in Bariloche from Sep 6 to Sep 17 by clicking the link in our bio.",
+  "eyebrow": "Cabaña · Sunday, Sep 06",
   "cta": "Book → link in bio"
 }
