@@ -5,7 +5,7 @@
     {
       "id": "barilochense",
       "url": "https://www.barilochense.com/agenda-cultural",
-      "count": 55
+      "count": 39
     },
     {
       "id": "opina",
@@ -23,173 +23,13 @@
       "count": 11
     }
   ],
-  "fetchedAt": "2026-09-05T13:37:03.132Z",
+  "fetchedAt": "2026-09-06T13:51:02.612Z",
   "window": {
-    "from": "2026-09-05",
-    "to": "2026-09-18",
+    "from": "2026-09-06",
+    "to": "2026-09-19",
     "days": 14
   },
   "events": [
-    {
-      "date": "2026-09-05",
-      "dateLabel": "Sábado 5 Septiembre, 2026",
-      "title": "AMOR AMOR",
-      "category": "Música",
-      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/amor-amor-2026-09-04-16-52",
-      "blurb": "AMOR AMOR",
-      "cancelled": false,
-      "source": "barilochense"
-    },
-    {
-      "date": "2026-09-05",
-      "dateLabel": "Sábado 5 Septiembre, 2026",
-      "title": "CABALLOS SALVAJES COUNTRY ROCK",
-      "category": "Música",
-      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/caballos-salvajes-country-rock-2026-09-04-22-19",
-      "blurb": "CABALLOS SALVAJES COUNTRY ROCK",
-      "cancelled": false,
-      "source": "barilochense"
-    },
-    {
-      "date": "2026-09-05",
-      "dateLabel": "Sábado 5 Septiembre, 2026",
-      "title": "CAFÉ DO BRASIL ALFONSINA & GUSTAVO",
-      "category": "Música",
-      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/caf-do-brasil-alfonsina-gustavo-2026-09-03-10-48",
-      "blurb": "CAFÉ DO BRASIL ALFONSINA & GUSTAVO",
-      "cancelled": false,
-      "source": "barilochense"
-    },
-    {
-      "date": "2026-09-05",
-      "dateLabel": "Sábado 5 Septiembre, 2026",
-      "title": "CHELO MIRANDA CLÁSICOS",
-      "category": "Música",
-      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/chelo-miranda-clsicos-2026-09-05-30-09",
-      "blurb": "CHELO MIRANDA CLÁSICOS",
-      "cancelled": false,
-      "source": "barilochense"
-    },
-    {
-      "date": "2026-09-05",
-      "dateLabel": "Sábado 5 Septiembre, 2026",
-      "title": "CUANDO EL MUNDO ME DOLIA",
-      "category": "Títeres",
-      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/cuando-el-mundo-me-dolia-2026-09-05-32-44",
-      "blurb": "CUANDO EL MUNDO ME DOLIA",
-      "cancelled": false,
-      "source": "barilochense"
-    },
-    {
-      "date": "2026-09-05",
-      "dateLabel": "Sábado 5 Septiembre, 2026",
-      "title": "Delfina Campos en Bariloche",
-      "category": "Música",
-      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/-2026-09-02-20-21",
-      "blurb": "Delfina Campos en Bariloche",
-      "cancelled": false,
-      "source": "barilochense"
-    },
-    {
-      "date": "2026-09-05",
-      "dateLabel": "Sábado 5 Septiembre, 2026",
-      "title": "Dia del Niño en el Estadio Municipal",
-      "category": "Fiestas y Festivales",
-      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/dia-del-nio-en-el-estadio-municipal-2026-09-03-09-13",
-      "blurb": "Dia del Niño en el Estadio Municipal",
-      "cancelled": false,
-      "source": "barilochense"
-    },
-    {
-      "date": "2026-09-05",
-      "dateLabel": "Sábado 5 Septiembre, 2026",
-      "title": "EL COMBO SABROSONICO",
-      "category": "Música",
-      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/el-combo-sabrosonico-2026-09-04-18-27",
-      "blurb": "EL COMBO SABROSONICO",
-      "cancelled": false,
-      "source": "barilochense"
-    },
-    {
-      "date": "2026-09-05",
-      "dateLabel": "Sábado 5 Septiembre, 2026",
-      "title": "FESTIVAL MÚSICA PORQUE SÍ DANZA Y POESÍA POR QUÉ NO?",
-      "category": "Fiestas y Festivales",
-      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/festival-msica-porque-s-danza-y-poesa-por-qu-no-2026-09-02-17-56",
-      "blurb": "FESTIVAL MÚSICA PORQUE SÍ DANZA Y POESÍA POR QUÉ NO?",
-      "cancelled": false,
-      "source": "barilochense"
-    },
-    {
-      "date": "2026-09-05",
-      "dateLabel": "Sábado 5 Septiembre, 2026",
-      "title": "Fusión Sur PEÑA FOLKLORICA",
-      "category": "Música",
-      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/fusin-sur-pea-folklorica-2026-09-01-33-30",
-      "blurb": "Fusión Sur PEÑA FOLKLORICA",
-      "cancelled": false,
-      "source": "barilochense"
-    },
-    {
-      "date": "2026-09-05",
-      "dateLabel": "Sábado 5 Septiembre, 2026",
-      "title": "Impro Acción!",
-      "category": "Teatro",
-      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/moma/impro-accin-2026-09-01-34-04",
-      "blurb": "Impro Acción!",
-      "cancelled": false,
-      "source": "barilochense"
-    },
-    {
-      "date": "2026-09-05",
-      "dateLabel": "Sábado 5 Septiembre, 2026",
-      "title": "LA VIOLETERA MILONGA",
-      "category": "Tango",
-      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/la-violetera-milonga-2026-09-02-16-55",
-      "blurb": "LA VIOLETERA MILONGA",
-      "cancelled": false,
-      "source": "barilochense"
-    },
-    {
-      "date": "2026-09-05",
-      "dateLabel": "Sábado 5 Septiembre, 2026",
-      "title": "PARABELLUM + INTOXICADOS + LA PILTRI ÁLVAREZ",
-      "category": "Música",
-      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/parabellum-intoxicados-la-piltri-lvarez-2026-08-09-25-01",
-      "blurb": "PARABELLUM + INTOXICADOS + LA PILTRI ÁLVAREZ",
-      "cancelled": false,
-      "source": "barilochense"
-    },
-    {
-      "date": "2026-09-05",
-      "dateLabel": "Sábado 5 Septiembre, 2026",
-      "title": "RMA FULL BAND",
-      "category": "Música",
-      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/rma-full-band-2026-08-31-33-06",
-      "blurb": "RMA FULL BAND",
-      "cancelled": false,
-      "source": "barilochense"
-    },
-    {
-      "date": "2026-09-05",
-      "dateLabel": "Sábado 5 Septiembre, 2026",
-      "title": "Wow Show Circo y Humor",
-      "category": "Circo",
-      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/casa-macacha/wow-show-circo-y-humor-2026-08-26-18-44",
-      "blurb": "Wow Show Circo y Humor",
-      "cancelled": false,
-      "source": "barilochense"
-    },
-    {
-      "date": "2026-09-06",
-      "dateLabel": "Domingo 6 Septiembre, 2026",
-      "title": "Aniversario Museo Malvinas, Antártida y Atlántico Sur",
-      "category": "Otros",
-      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/aniversario-museo-malvinas-antrtida-y-atlntico-sur-2026-09-03-12-15",
-      "blurb": "Aniversario Museo Malvinas, Antártida y Atlántico Sur",
-      "cancelled": false,
-      "source": "barilochense"
-    },
     {
       "date": "2026-09-06",
       "dateLabel": "Domingo 6 Septiembre, 2026",
@@ -409,7 +249,37 @@
       "blurb": "Rata Blanca",
       "cancelled": false,
       "source": "barilochense"
+    },
+    {
+      "date": "2026-09-19",
+      "dateLabel": "Sábado 19 Septiembre, 2026",
+      "title": "FIESTA VIEJAS LOCAS",
+      "category": "Música",
+      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/fiesta-viejas-locas-2026-08-19-15-59",
+      "blurb": "FIESTA VIEJAS LOCAS",
+      "cancelled": false,
+      "source": "barilochense"
+    },
+    {
+      "date": "2026-09-19",
+      "dateLabel": "Sábado 19 Septiembre, 2026",
+      "title": "LA VUELTA historias de un Clown",
+      "category": "Teatro",
+      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/la-vuelta-historias-de-un-clown-2026-09-04-10-00",
+      "blurb": "LA VUELTA historias de un Clown",
+      "cancelled": false,
+      "source": "barilochense"
+    },
+    {
+      "date": "2026-09-19",
+      "dateLabel": "Sábado 19 Septiembre, 2026",
+      "title": "푶푱푶푺 푻푹푰푺푻푬푺 푴푰푹푨푫푨 푵푨푽푨푱푨 #04",
+      "category": "Fiestas y Festivales",
+      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/-04-2026-08-18-13-19",
+      "blurb": "푶푱푶푺 푻푹푰푺푻푬푺 푴푰푹푨푫푨 푵푨푽푨푱푨 #04",
+      "cancelled": false,
+      "source": "barilochense"
     }
   ],
-  "allCount": 89
+  "allCount": 73
 }
