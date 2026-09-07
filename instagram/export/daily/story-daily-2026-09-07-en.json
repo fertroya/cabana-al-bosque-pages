@@ -1,0 +1,27 @@
+{
+  "id": "story-daily-2026-09-07-en",
+  "locale": "en",
+  "format": "video",
+  "hasAudio": true,
+  "musicTrack": "modern-future-bass.mp3",
+  "musicSource": "ollama",
+  "copySource": "ollama",
+  "mode": "promo-libres",
+  "energy": "hook",
+  "layout": "editorial-left",
+  "pace": "lively",
+  "usesWeather": false,
+  "availability": {
+    "nights": 11,
+    "start": "2026-09-07",
+    "end": "2026-09-18"
+  },
+  "photo": "galeria/instagrameables/img-9238.jpg",
+  "theme": "cabaña",
+  "weather": null,
+  "weatherBadge": null,
+  "title": "Wake up to the pine trees.",
+  "subtitle": "We have 11 nights available from Sep 7 to Sep 17; want me to send you the booking link for your Bariloche getaway?",
+  "eyebrow": "Cabaña al Bosque · Monday, Sep 07",
+  "cta": "Book → link in bio"
+}
