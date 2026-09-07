@@ -5,7 +5,7 @@
     {
       "id": "barilochense",
       "url": "https://www.barilochense.com/agenda-cultural",
-      "count": 39
+      "count": 45
     },
     {
       "id": "opina",
@@ -23,63 +23,13 @@
       "count": 11
     }
   ],
-  "fetchedAt": "2026-09-06T13:51:02.612Z",
+  "fetchedAt": "2026-09-07T16:12:50.326Z",
   "window": {
-    "from": "2026-09-06",
-    "to": "2026-09-19",
+    "from": "2026-09-07",
+    "to": "2026-09-20",
     "days": 14
   },
   "events": [
-    {
-      "date": "2026-09-06",
-      "dateLabel": "Domingo 6 Septiembre, 2026",
-      "title": "DUO La Simple",
-      "category": "Música",
-      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/duo-la-simple-2026-09-05-29-11",
-      "blurb": "DUO La Simple",
-      "cancelled": false,
-      "source": "barilochense"
-    },
-    {
-      "date": "2026-09-06",
-      "dateLabel": "Domingo 6 Septiembre, 2026",
-      "title": "El DOCTOR снара снара",
-      "category": "Teatro",
-      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/el-doctor-2026-09-05-34-49",
-      "blurb": "El DOCTOR снара снара",
-      "cancelled": false,
-      "source": "barilochense"
-    },
-    {
-      "date": "2026-09-06",
-      "dateLabel": "Domingo 6 Septiembre, 2026",
-      "title": "Entre montañas y lagos",
-      "category": "Música",
-      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/bibliotecasarmiento/entre-montaas-y-lagos-2026-08-07-39-15",
-      "blurb": "Entre montañas y lagos",
-      "cancelled": false,
-      "source": "barilochense"
-    },
-    {
-      "date": "2026-09-06",
-      "dateLabel": "Domingo 6 Septiembre, 2026",
-      "title": "GRAN TORNEO DE CATAN",
-      "category": "Otros",
-      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/casa-macacha/gran-torneo-de-catan-2026-09-04-29-08",
-      "blurb": "GRAN TORNEO DE CATAN",
-      "cancelled": false,
-      "source": "barilochense"
-    },
-    {
-      "date": "2026-09-06",
-      "dateLabel": "Domingo 6 Septiembre, 2026",
-      "title": "Treinta años de swing: Sureña Jazz Band celebra su aniversario con una noche de jazz tradicional",
-      "category": "Música",
-      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/camping-musical/treinta-aos-de-swing-surea-jazz-band-celebra-su-aniversario-con-una-noche-de-jazz-tradicional-2026-07-30-39-23",
-      "blurb": "Treinta años de swing: Sureña Jazz Band celebra su aniversario con una noche de jazz tradicional",
-      "cancelled": false,
-      "source": "barilochense"
-    },
     {
       "date": "2026-09-08",
       "dateLabel": "Martes 8 Septiembre, 2026",
@@ -87,6 +37,26 @@
       "category": "Música",
       "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/campedrinos-en-bariloche-mate-y-folklore-tour-2026-07-28-32-34",
       "blurb": "CAMPEDRINOS EN BARILOCHE - MATE Y FOLKLORE TOUR",
+      "cancelled": false,
+      "source": "barilochense"
+    },
+    {
+      "date": "2026-09-08",
+      "dateLabel": "Martes 8 Septiembre, 2026",
+      "title": "Open Folk Bariloche",
+      "category": "Música",
+      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/open-folk-bariloche-2026-09-07-55-23",
+      "blurb": "Open Folk Bariloche",
+      "cancelled": false,
+      "source": "barilochense"
+    },
+    {
+      "date": "2026-09-08",
+      "dateLabel": "Martes 8 Septiembre, 2026",
+      "title": "Tristán y los días por venir™ + Amor trava",
+      "category": "Cine",
+      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/tristn-y-los-das-por-venir-amor-trava-2026-09-07-56-59",
+      "blurb": "Tristán y los días por venir™ + Amor trava",
       "cancelled": false,
       "source": "barilochense"
     },
@@ -101,12 +71,72 @@
       "source": "barilochense"
     },
     {
+      "date": "2026-09-09",
+      "dateLabel": "Miércoles 9 Septiembre, 2026",
+      "title": "FATI SALGADO MUSICA BRASILERA",
+      "category": "Música",
+      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/fati-salgado-musica-brasilera-2026-08-31-36-19",
+      "blurb": "FATI SALGADO MUSICA BRASILERA",
+      "cancelled": false,
+      "source": "barilochense"
+    },
+    {
+      "date": "2026-09-09",
+      "dateLabel": "Miércoles 9 Septiembre, 2026",
+      "title": "JUANA PIRES cuarteto",
+      "category": "Música",
+      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/juana-pires-cuarteto-2026-09-07-58-35",
+      "blurb": "JUANA PIRES cuarteto",
+      "cancelled": false,
+      "source": "barilochense"
+    },
+    {
+      "date": "2026-09-10",
+      "dateLabel": "Jueves 10 Septiembre, 2026",
+      "title": "¡Vuelve el Cine Italiano a Bariloche!",
+      "category": "Cine",
+      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/vuelve-el-cine-italiano-a-bariloche-2026-09-02-13-46",
+      "blurb": "¡Vuelve el Cine Italiano a Bariloche!",
+      "cancelled": false,
+      "source": "barilochense"
+    },
+    {
       "date": "2026-09-10",
       "dateLabel": "Jueves 10 Septiembre, 2026",
       "title": "Camilo Eque",
       "category": "Música",
       "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/bibliotecasarmiento/camilo-eque-2026-08-21-09-47",
       "blurb": "Camilo Eque",
+      "cancelled": false,
+      "source": "barilochense"
+    },
+    {
+      "date": "2026-09-10",
+      "dateLabel": "Jueves 10 Septiembre, 2026",
+      "title": "GROOVY * REBELS + BARRIENTOS * BROTHERS",
+      "category": "Música",
+      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/groovy-rebels-barrientos-brothers-2026-09-07-05-38",
+      "blurb": "GROOVY * REBELS + BARRIENTOS * BROTHERS",
+      "cancelled": false,
+      "source": "barilochense"
+    },
+    {
+      "date": "2026-09-10",
+      "dateLabel": "Jueves 10 Septiembre, 2026",
+      "title": "JOAQUÍN DEL MUNDO GIRA SUR",
+      "category": "Música",
+      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/joaqun-del-mundo-gira-sur-2026-09-07-03-58",
+      "blurb": "JOAQUÍN DEL MUNDO GIRA SUR",
+      "cancelled": false,
+      "source": "barilochense"
+    },
+    {
+      "date": "2026-09-10",
+      "dateLabel": "Jueves 10 Septiembre, 2026",
+      "title": "MÚSICA CON IDEAS: MARCELO SACCOMAΝΝΟ",
+      "category": "Música",
+      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/msica-con-ideas-marcelo-saccoma-2026-09-07-01-30",
+      "blurb": "MÚSICA CON IDEAS: MARCELO SACCOMAΝΝΟ",
       "cancelled": false,
       "source": "barilochense"
     },
@@ -133,10 +163,30 @@
     {
       "date": "2026-09-11",
       "dateLabel": "Viernes 11 Septiembre, 2026",
+      "title": "Piensa en retamas, el nuevo libro de Graciela Cros",
+      "category": "Literatura",
+      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/la-biblio/piensa-en-retamas-el-nuevo-libro-de-graciela-cros-2026-09-07-11-05",
+      "blurb": "Piensa en retamas, el nuevo libro de Graciela Cros",
+      "cancelled": false,
+      "source": "barilochense"
+    },
+    {
+      "date": "2026-09-11",
+      "dateLabel": "Viernes 11 Septiembre, 2026",
       "title": "Se viene la 3ª PEÑA MAESTRA!",
       "category": "Fiestas y Festivales",
       "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/casa-macacha/se-viene-la-3-pea-maestra-2026-09-03-16-06",
       "blurb": "Se viene la 3ª PEÑA MAESTRA!",
+      "cancelled": false,
+      "source": "barilochense"
+    },
+    {
+      "date": "2026-09-12",
+      "dateLabel": "Sábado 12 Septiembre, 2026",
+      "title": "Bariludens. Noche de juegos",
+      "category": "Otros",
+      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/moma/bariludens.-noche-de-juegos-2026-09-07-23-35",
+      "blurb": "Bariludens. Noche de juegos",
       "cancelled": false,
       "source": "barilochense"
     },
@@ -243,6 +293,16 @@
     {
       "date": "2026-09-18",
       "dateLabel": "Viernes 18 Septiembre, 2026",
+      "title": "Coral Melipal e invitados",
+      "category": "Música",
+      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/bibliotecasarmiento/coral-melipal-e-invitados-2026-09-07-12-38",
+      "blurb": "Coral Melipal e invitados",
+      "cancelled": false,
+      "source": "barilochense"
+    },
+    {
+      "date": "2026-09-18",
+      "dateLabel": "Viernes 18 Septiembre, 2026",
       "title": "Rata Blanca",
       "category": "Música",
       "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/rata-blanca-2026-07-25-48-28",
@@ -281,5 +341,5 @@
       "source": "barilochense"
     }
   ],
-  "allCount": 73
+  "allCount": 79
 }
