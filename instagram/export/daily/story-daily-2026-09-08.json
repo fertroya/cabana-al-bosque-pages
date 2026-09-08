@@ -1,0 +1,27 @@
+{
+  "id": "story-daily-2026-09-08",
+  "locale": "es",
+  "format": "video",
+  "hasAudio": true,
+  "musicTrack": "modern-rising-house.mp3",
+  "musicSource": "fallback",
+  "copySource": "fallback",
+  "mode": "promo-libres",
+  "energy": "vivaz",
+  "layout": "frosted-card",
+  "pace": "lively",
+  "usesWeather": false,
+  "availability": {
+    "nights": 10,
+    "start": "2026-09-08",
+    "end": "2026-09-18"
+  },
+  "photo": "galeria/instagrameables/img-9313.jpg",
+  "theme": "cabaña",
+  "weather": null,
+  "weatherBadge": null,
+  "title": "Barra de desayuno",
+  "subtitle": "Luz cálida, vista al verde y silencio de verdad: la cabaña es el plan.",
+  "eyebrow": "Cabaña al Bosque · martes, 8 sept",
+  "cta": "Reservá → link en bio"
+}
