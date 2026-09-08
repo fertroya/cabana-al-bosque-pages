@@ -5,7 +5,7 @@
     {
       "id": "barilochense",
       "url": "https://www.barilochense.com/agenda-cultural",
-      "count": 45
+      "count": 53
     },
     {
       "id": "opina",
@@ -23,10 +23,10 @@
       "count": 11
     }
   ],
-  "fetchedAt": "2026-09-07T16:12:50.326Z",
+  "fetchedAt": "2026-09-08T14:49:48.808Z",
   "window": {
-    "from": "2026-09-07",
-    "to": "2026-09-20",
+    "from": "2026-09-08",
+    "to": "2026-09-21",
     "days": 14
   },
   "events": [
@@ -37,16 +37,6 @@
       "category": "Música",
       "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/campedrinos-en-bariloche-mate-y-folklore-tour-2026-07-28-32-34",
       "blurb": "CAMPEDRINOS EN BARILOCHE - MATE Y FOLKLORE TOUR",
-      "cancelled": false,
-      "source": "barilochense"
-    },
-    {
-      "date": "2026-09-08",
-      "dateLabel": "Martes 8 Septiembre, 2026",
-      "title": "Open Folk Bariloche",
-      "category": "Música",
-      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/open-folk-bariloche-2026-09-07-55-23",
-      "blurb": "Open Folk Bariloche",
       "cancelled": false,
       "source": "barilochense"
     },
@@ -163,6 +153,66 @@
     {
       "date": "2026-09-11",
       "dateLabel": "Viernes 11 Septiembre, 2026",
+      "title": "¡KIRIBA CUMPLE 3 AÑOS!",
+      "category": "Música",
+      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/kiriba-cumple-3-aos-2026-09-08-57-00",
+      "blurb": "¡KIRIBA CUMPLE 3 AÑOS!",
+      "cancelled": false,
+      "source": "barilochense"
+    },
+    {
+      "date": "2026-09-11",
+      "dateLabel": "Viernes 11 Septiembre, 2026",
+      "title": "Atipico Dúo ATIPICA TARDE DE TANGOS",
+      "category": "Tango",
+      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/atipico-do-atipica-tarde-de-tangos-2026-09-08-59-41",
+      "blurb": "Atipico Dúo ATIPICA TARDE DE TANGOS",
+      "cancelled": false,
+      "source": "barilochense"
+    },
+    {
+      "date": "2026-09-11",
+      "dateLabel": "Viernes 11 Septiembre, 2026",
+      "title": "CARUCHA GIMENEZ & LA BLUETONIC - BLUES & ROCK",
+      "category": "Música",
+      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/carucha-gimenez-la-bluetonic-blues-rock-2026-09-08-01-22",
+      "blurb": "CARUCHA GIMENEZ & LA BLUETONIC - BLUES & ROCK",
+      "cancelled": false,
+      "source": "barilochense"
+    },
+    {
+      "date": "2026-09-11",
+      "dateLabel": "Viernes 11 Septiembre, 2026",
+      "title": "Cine en el Oeste: Comboio Noturno para Lisboa (Night Train to Lisbon)",
+      "category": "Cine",
+      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/cine-en-el-oeste/cine-en-el-oeste-comboio-noturno-para-lisboa-night-train-to-lisbon-2026-09-08-45-00",
+      "blurb": "Cine en el Oeste: Comboio Noturno para Lisboa (Night Train to Lisbon)",
+      "cancelled": false,
+      "source": "barilochense"
+    },
+    {
+      "date": "2026-09-11",
+      "dateLabel": "Viernes 11 Septiembre, 2026",
+      "title": "GABY GALES Y EMI ZAMORA BINGO MUSICAL",
+      "category": "Música",
+      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/gaby-gales-y-emi-zamora-bingo-musical-2026-09-08-52-52",
+      "blurb": "GABY GALES Y EMI ZAMORA BINGO MUSICAL",
+      "cancelled": false,
+      "source": "barilochense"
+    },
+    {
+      "date": "2026-09-11",
+      "dateLabel": "Viernes 11 Septiembre, 2026",
+      "title": "LUISMI VS RICKY MARTIN",
+      "category": "Música",
+      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/ne-ne-agenda/luismi-vs-ricky-martin-2026-09-08-04-28",
+      "blurb": "LUISMI VS RICKY MARTIN",
+      "cancelled": false,
+      "source": "barilochense"
+    },
+    {
+      "date": "2026-09-11",
+      "dateLabel": "Viernes 11 Septiembre, 2026",
       "title": "Piensa en retamas, el nuevo libro de Graciela Cros",
       "category": "Literatura",
       "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/la-biblio/piensa-en-retamas-el-nuevo-libro-de-graciela-cros-2026-09-07-11-05",
@@ -177,6 +227,16 @@
       "category": "Fiestas y Festivales",
       "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/casa-macacha/se-viene-la-3-pea-maestra-2026-09-03-16-06",
       "blurb": "Se viene la 3ª PEÑA MAESTRA!",
+      "cancelled": false,
+      "source": "barilochense"
+    },
+    {
+      "date": "2026-09-12",
+      "dateLabel": "Sábado 12 Septiembre, 2026",
+      "title": "“Dúo La Banca Coto” + FEBO",
+      "category": "Música",
+      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/la-biblio/do-la-banca-coto-febo-2026-09-08-06-06",
+      "blurb": "“Dúo La Banca Coto” + FEBO",
       "cancelled": false,
       "source": "barilochense"
     },
@@ -313,6 +373,16 @@
     {
       "date": "2026-09-19",
       "dateLabel": "Sábado 19 Septiembre, 2026",
+      "title": "Belén Alvarez",
+      "category": "Música",
+      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/beln-alvarez-2026-09-08-54-14",
+      "blurb": "Belén Alvarez",
+      "cancelled": false,
+      "source": "barilochense"
+    },
+    {
+      "date": "2026-09-19",
+      "dateLabel": "Sábado 19 Septiembre, 2026",
       "title": "FIESTA VIEJAS LOCAS",
       "category": "Música",
       "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/fiesta-viejas-locas-2026-08-19-15-59",
@@ -333,6 +403,16 @@
     {
       "date": "2026-09-19",
       "dateLabel": "Sábado 19 Septiembre, 2026",
+      "title": "LEJOS NEPTUNO Rock Abductivo",
+      "category": "Música",
+      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/la-obra/lejos-neptuno-rock-abductivo-2026-09-08-43-43",
+      "blurb": "LEJOS NEPTUNO Rock Abductivo",
+      "cancelled": false,
+      "source": "barilochense"
+    },
+    {
+      "date": "2026-09-19",
+      "dateLabel": "Sábado 19 Septiembre, 2026",
       "title": "푶푱푶푺 푻푹푰푺푻푬푺 푴푰푹푨푫푨 푵푨푽푨푱푨 #04",
       "category": "Fiestas y Festivales",
       "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/-04-2026-08-18-13-19",
@@ -341,5 +421,5 @@
       "source": "barilochense"
     }
   ],
-  "allCount": 79
+  "allCount": 87
 }
