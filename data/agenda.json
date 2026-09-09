@@ -5,7 +5,7 @@
     {
       "id": "barilochense",
       "url": "https://www.barilochense.com/agenda-cultural",
-      "count": 53
+      "count": 64
     },
     {
       "id": "opina",
@@ -23,33 +23,13 @@
       "count": 11
     }
   ],
-  "fetchedAt": "2026-09-08T14:49:48.808Z",
+  "fetchedAt": "2026-09-09T14:55:27.915Z",
   "window": {
-    "from": "2026-09-08",
-    "to": "2026-09-21",
+    "from": "2026-09-09",
+    "to": "2026-09-22",
     "days": 14
   },
   "events": [
-    {
-      "date": "2026-09-08",
-      "dateLabel": "Martes 8 Septiembre, 2026",
-      "title": "CAMPEDRINOS EN BARILOCHE - MATE Y FOLKLORE TOUR",
-      "category": "Música",
-      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/campedrinos-en-bariloche-mate-y-folklore-tour-2026-07-28-32-34",
-      "blurb": "CAMPEDRINOS EN BARILOCHE - MATE Y FOLKLORE TOUR",
-      "cancelled": false,
-      "source": "barilochense"
-    },
-    {
-      "date": "2026-09-08",
-      "dateLabel": "Martes 8 Septiembre, 2026",
-      "title": "Tristán y los días por venir™ + Amor trava",
-      "category": "Cine",
-      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/tristn-y-los-das-por-venir-amor-trava-2026-09-07-56-59",
-      "blurb": "Tristán y los días por venir™ + Amor trava",
-      "cancelled": false,
-      "source": "barilochense"
-    },
     {
       "date": "2026-09-09",
       "dateLabel": "Miércoles 9 Septiembre, 2026",
@@ -103,6 +83,16 @@
     {
       "date": "2026-09-10",
       "dateLabel": "Jueves 10 Septiembre, 2026",
+      "title": "CICLO DE JAZZ - FIORONI, ONGARATO & PENA",
+      "category": "Música",
+      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/ciclo-de-jazz-fioroni-ongarato-pena-2026-09-02-08-24",
+      "blurb": "CICLO DE JAZZ - FIORONI, ONGARATO & PENA",
+      "cancelled": false,
+      "source": "barilochense"
+    },
+    {
+      "date": "2026-09-10",
+      "dateLabel": "Jueves 10 Septiembre, 2026",
       "title": "GROOVY * REBELS + BARRIENTOS * BROTHERS",
       "category": "Música",
       "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/groovy-rebels-barrientos-brothers-2026-09-07-05-38",
@@ -147,6 +137,16 @@
       "category": "Otros",
       "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/casa-macacha/tentadas-stand-up-2026-08-31-42-52",
       "blurb": "TENTADAS Stand Up",
+      "cancelled": false,
+      "source": "barilochense"
+    },
+    {
+      "date": "2026-09-10",
+      "dateLabel": "Jueves 10 Septiembre, 2026",
+      "title": "TRICICLO JAZZ ROCK",
+      "category": "Música",
+      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/triciclo-jazz-rock-2026-09-09-32-29",
+      "blurb": "TRICICLO JAZZ ROCK",
       "cancelled": false,
       "source": "barilochense"
     },
@@ -213,6 +213,16 @@
     {
       "date": "2026-09-11",
       "dateLabel": "Viernes 11 Septiembre, 2026",
+      "title": "MERCENARIOS VUELVE AL ESCENARIO",
+      "category": "Música",
+      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/mercenarios-vuelve-al-escenario-2026-09-09-34-10",
+      "blurb": "MERCENARIOS VUELVE AL ESCENARIO",
+      "cancelled": false,
+      "source": "barilochense"
+    },
+    {
+      "date": "2026-09-11",
+      "dateLabel": "Viernes 11 Septiembre, 2026",
       "title": "Piensa en retamas, el nuevo libro de Graciela Cros",
       "category": "Literatura",
       "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/la-biblio/piensa-en-retamas-el-nuevo-libro-de-graciela-cros-2026-09-07-11-05",
@@ -223,10 +233,30 @@
     {
       "date": "2026-09-11",
       "dateLabel": "Viernes 11 Septiembre, 2026",
+      "title": "POGITO FEST",
+      "category": "Música",
+      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/paico/pogito-fest-2026-09-08-53-10",
+      "blurb": "POGITO FEST",
+      "cancelled": false,
+      "source": "barilochense"
+    },
+    {
+      "date": "2026-09-11",
+      "dateLabel": "Viernes 11 Septiembre, 2026",
       "title": "Se viene la 3ª PEÑA MAESTRA!",
       "category": "Fiestas y Festivales",
       "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/casa-macacha/se-viene-la-3-pea-maestra-2026-09-03-16-06",
       "blurb": "Se viene la 3ª PEÑA MAESTRA!",
+      "cancelled": false,
+      "source": "barilochense"
+    },
+    {
+      "date": "2026-09-11",
+      "dateLabel": "Viernes 11 Septiembre, 2026",
+      "title": "❤️‍Septiembre en el negro ❤️‍",
+      "category": "Teatro",
+      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/el-negro/septiembre-en-el-negro-2026-09-09-51-39",
+      "blurb": "❤️‍Septiembre en el negro ❤️‍",
       "cancelled": false,
       "source": "barilochense"
     },
@@ -301,6 +331,36 @@
       "source": "barilochense"
     },
     {
+      "date": "2026-09-12",
+      "dateLabel": "Sábado 12 Septiembre, 2026",
+      "title": "Titeres sobre las nubes",
+      "category": "Títeres",
+      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/aime-paine/titeres-sobre-las-nubes-2026-09-09-53-46",
+      "blurb": "Titeres sobre las nubes",
+      "cancelled": false,
+      "source": "barilochense"
+    },
+    {
+      "date": "2026-09-13",
+      "dateLabel": "Domingo 13 Septiembre, 2026",
+      "title": "Cine Documental Tantura EEUU (2022)",
+      "category": "Cine",
+      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/la-biblio/cine-documental-tantura-eeuu-2022-2026-09-09-55-45",
+      "blurb": "Cine Documental Tantura EEUU (2022)",
+      "cancelled": false,
+      "source": "barilochense"
+    },
+    {
+      "date": "2026-09-13",
+      "dateLabel": "Domingo 13 Septiembre, 2026",
+      "title": "Cuna de Papel",
+      "category": "Teatro",
+      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/bibliotecasarmiento/cuna-de-papel-2026-09-09-51-28",
+      "blurb": "Cuna de Papel",
+      "cancelled": false,
+      "source": "barilochense"
+    },
+    {
       "date": "2026-09-13",
       "dateLabel": "Domingo 13 Septiembre, 2026",
       "title": "El Ensamble Bach Bariloche presenta un nuevo",
@@ -333,10 +393,30 @@
     {
       "date": "2026-09-13",
       "dateLabel": "Domingo 13 Septiembre, 2026",
+      "title": "TERTULIA ATÍPICA",
+      "category": "Música",
+      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/paico/tertulia-atpica-2026-09-08-09-27",
+      "blurb": "TERTULIA ATÍPICA",
+      "cancelled": false,
+      "source": "barilochense"
+    },
+    {
+      "date": "2026-09-13",
+      "dateLabel": "Domingo 13 Septiembre, 2026",
       "title": "Vuelta Canela",
       "category": "Infantiles",
       "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/bibliotecasarmiento/vuelta-canela-2026-08-01-17-40",
       "blurb": "Vuelta Canela",
+      "cancelled": false,
+      "source": "barilochense"
+    },
+    {
+      "date": "2026-09-13",
+      "dateLabel": "Domingo 13 Septiembre, 2026",
+      "title": "De paisanos y paisanas",
+      "category": "Infantiles",
+      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/el-negro/de-paisanos-y-paisanas-2026-09-09-55-54",
+      "blurb": "De paisanos y paisanas",
       "cancelled": false,
       "source": "barilochense"
     },
@@ -347,6 +427,16 @@
       "category": "Música",
       "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/ne-ne-agenda/javier-calamaro-llega-a-bariloche-2026-09-04-25-19",
       "blurb": "¡Javier Calamaro llega a Bariloche!",
+      "cancelled": false,
+      "source": "barilochense"
+    },
+    {
+      "date": "2026-09-17",
+      "dateLabel": "Jueves 17 Septiembre, 2026",
+      "title": "Cine y Ciencia presenta “HAPPY PEOPLE” de Werner Herzog y Dmitry Vasyukov.",
+      "category": "Cine",
+      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/casa-macacha/cine-y-ciencia-presenta-happy-people-de-werner-herzog-y-dmitry-vasyukov.-2026-09-09-58-00",
+      "blurb": "Cine y Ciencia presenta “HAPPY PEOPLE” de Werner Herzog y Dmitry Vasyukov.",
       "cancelled": false,
       "source": "barilochense"
     },
@@ -421,5 +511,5 @@
       "source": "barilochense"
     }
   ],
-  "allCount": 87
+  "allCount": 98
 }
