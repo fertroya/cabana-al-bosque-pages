@@ -5,7 +5,7 @@
     {
       "id": "barilochense",
       "url": "https://www.barilochense.com/agenda-cultural",
-      "count": 64
+      "count": 72
     },
     {
       "id": "opina",
@@ -23,43 +23,13 @@
       "count": 11
     }
   ],
-  "fetchedAt": "2026-09-09T14:55:27.915Z",
+  "fetchedAt": "2026-09-10T14:42:37.107Z",
   "window": {
-    "from": "2026-09-09",
-    "to": "2026-09-22",
+    "from": "2026-09-10",
+    "to": "2026-09-23",
     "days": 14
   },
   "events": [
-    {
-      "date": "2026-09-09",
-      "dateLabel": "Miércoles 9 Septiembre, 2026",
-      "title": "Cine: El amor que permanece",
-      "category": "Cine",
-      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/bibliotecasarmiento/cine-el-amor-que-permanece-2026-08-31-41-01",
-      "blurb": "Cine: El amor que permanece",
-      "cancelled": false,
-      "source": "barilochense"
-    },
-    {
-      "date": "2026-09-09",
-      "dateLabel": "Miércoles 9 Septiembre, 2026",
-      "title": "FATI SALGADO MUSICA BRASILERA",
-      "category": "Música",
-      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/fati-salgado-musica-brasilera-2026-08-31-36-19",
-      "blurb": "FATI SALGADO MUSICA BRASILERA",
-      "cancelled": false,
-      "source": "barilochense"
-    },
-    {
-      "date": "2026-09-09",
-      "dateLabel": "Miércoles 9 Septiembre, 2026",
-      "title": "JUANA PIRES cuarteto",
-      "category": "Música",
-      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/juana-pires-cuarteto-2026-09-07-58-35",
-      "blurb": "JUANA PIRES cuarteto",
-      "cancelled": false,
-      "source": "barilochense"
-    },
     {
       "date": "2026-09-10",
       "dateLabel": "Jueves 10 Septiembre, 2026",
@@ -87,6 +57,16 @@
       "category": "Música",
       "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/ciclo-de-jazz-fioroni-ongarato-pena-2026-09-02-08-24",
       "blurb": "CICLO DE JAZZ - FIORONI, ONGARATO & PENA",
+      "cancelled": false,
+      "source": "barilochense"
+    },
+    {
+      "date": "2026-09-10",
+      "dateLabel": "Jueves 10 Septiembre, 2026",
+      "title": "ESTEPA FESTIVAL FOTO-GRÁFICO - PROGRAMACIÓN JUEVES 10",
+      "category": "Fotografía",
+      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/estepa-festival-foto-grfico-programacin-jueves-10-2026-09-10-28-30",
+      "blurb": "ESTEPA FESTIVAL FOTO-GRÁFICO - PROGRAMACIÓN JUEVES 10",
       "cancelled": false,
       "source": "barilochense"
     },
@@ -151,6 +131,26 @@
       "source": "barilochense"
     },
     {
+      "date": "2026-09-10",
+      "dateLabel": "Jueves 10 Septiembre, 2026",
+      "title": "TRÍO DE JAZZ: DELLA GASPERA -RIGATUSO -ZENZ",
+      "category": "Música",
+      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/tro-de-jazz-della-gaspera-rigatuso-zenz-2026-09-10-44-27",
+      "blurb": "TRÍO DE JAZZ: DELLA GASPERA -RIGATUSO -ZENZ",
+      "cancelled": false,
+      "source": "barilochense"
+    },
+    {
+      "date": "2026-09-10",
+      "dateLabel": "Jueves 10 Septiembre, 2026",
+      "title": "Velada Musical interpretando a Silvio Rodrígez",
+      "category": "Música",
+      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/velada-musical-interpretando-a-silvio-rodrgez-2026-09-10-36-02",
+      "blurb": "Velada Musical interpretando a Silvio Rodrígez",
+      "cancelled": false,
+      "source": "barilochense"
+    },
+    {
       "date": "2026-09-11",
       "dateLabel": "Viernes 11 Septiembre, 2026",
       "title": "¡KIRIBA CUMPLE 3 AÑOS!",
@@ -187,6 +187,16 @@
       "category": "Cine",
       "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/cine-en-el-oeste/cine-en-el-oeste-comboio-noturno-para-lisboa-night-train-to-lisbon-2026-09-08-45-00",
       "blurb": "Cine en el Oeste: Comboio Noturno para Lisboa (Night Train to Lisbon)",
+      "cancelled": false,
+      "source": "barilochense"
+    },
+    {
+      "date": "2026-09-11",
+      "dateLabel": "Viernes 11 Septiembre, 2026",
+      "title": "ESTEPA FESTIVAL FOTO-GRÁFICO - PROGRAMACIÓN VIERNES 11",
+      "category": "Fotografía",
+      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/estepa-festival-foto-grfico-programacin-viernes-11-2026-09-10-30-04",
+      "blurb": "ESTEPA FESTIVAL FOTO-GRÁFICO - PROGRAMACIÓN VIERNES 11",
       "cancelled": false,
       "source": "barilochense"
     },
@@ -293,6 +303,16 @@
     {
       "date": "2026-09-12",
       "dateLabel": "Sábado 12 Septiembre, 2026",
+      "title": "ESTEPA FESTIVAL FOTO-GRÁFICO - PROGRAMACIÓN SABADO 12",
+      "category": "Fotografía",
+      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/-2026-09-10-31-49",
+      "blurb": "ESTEPA FESTIVAL FOTO-GRÁFICO - PROGRAMACIÓN SABADO 12",
+      "cancelled": false,
+      "source": "barilochense"
+    },
+    {
+      "date": "2026-09-12",
+      "dateLabel": "Sábado 12 Septiembre, 2026",
       "title": "FEDERICO SIMONETTI: SOLO POLITICA",
       "category": "Otros",
       "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/casa-macacha/federico-simonetti-solo-politica-2026-08-12-17-37",
@@ -323,6 +343,16 @@
     {
       "date": "2026-09-12",
       "dateLabel": "Sábado 12 Septiembre, 2026",
+      "title": "PIANO TRÍO JAZZ: ONGARATO - PENA -FIORONI",
+      "category": "Música",
+      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/piano-tro-jazz-ongarato-pena-fioroni-2026-09-10-45-29",
+      "blurb": "PIANO TRÍO JAZZ: ONGARATO - PENA -FIORONI",
+      "cancelled": false,
+      "source": "barilochense"
+    },
+    {
+      "date": "2026-09-12",
+      "dateLabel": "Sábado 12 Septiembre, 2026",
       "title": "SI TE HE VISTO, SÍ ME ACUERDO",
       "category": "Teatro",
       "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/la-obra/si-te-he-visto-s-me-acuerdo-2026-08-28-00-48",
@@ -337,6 +367,16 @@
       "category": "Títeres",
       "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/aime-paine/titeres-sobre-las-nubes-2026-09-09-53-46",
       "blurb": "Titeres sobre las nubes",
+      "cancelled": false,
+      "source": "barilochense"
+    },
+    {
+      "date": "2026-09-12",
+      "dateLabel": "Sábado 12 Septiembre, 2026",
+      "title": "YESICA PEÑA Show de cumbia y cuarteto",
+      "category": "Música",
+      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/yesica-pea-show-de-cumbia-y-cuarteto-2026-09-10-46-28",
+      "blurb": "YESICA PEÑA Show de cumbia y cuarteto",
       "cancelled": false,
       "source": "barilochense"
     },
@@ -367,6 +407,26 @@
       "category": "Música",
       "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/camping-musical/el-ensamble-bach-bariloche-presenta-un-nuevo-concierto-explicado-dedicado-a-johann-sebastian-bach-2026-07-30-42-18",
       "blurb": "El Ensamble Bach Bariloche presenta un nuevo",
+      "cancelled": false,
+      "source": "barilochense"
+    },
+    {
+      "date": "2026-09-13",
+      "dateLabel": "Domingo 13 Septiembre, 2026",
+      "title": "EL REJUNTE FOLKLORE",
+      "category": "Música",
+      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/el-rejunte-folklore-2026-09-10-50-12",
+      "blurb": "EL REJUNTE FOLKLORE",
+      "cancelled": false,
+      "source": "barilochense"
+    },
+    {
+      "date": "2026-09-13",
+      "dateLabel": "Domingo 13 Septiembre, 2026",
+      "title": "ESTEPA FESTIVAL FOTO-GRÁFICO - PROGRAMACIÓN DOMINGO 13",
+      "category": "Fotografía",
+      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/estepa-festival-foto-grfico-programacin-domingo-13-2026-09-10-33-16",
+      "blurb": "ESTEPA FESTIVAL FOTO-GRÁFICO - PROGRAMACIÓN DOMINGO 13",
       "cancelled": false,
       "source": "barilochense"
     },
@@ -417,6 +477,16 @@
       "category": "Infantiles",
       "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/el-negro/de-paisanos-y-paisanas-2026-09-09-55-54",
       "blurb": "De paisanos y paisanas",
+      "cancelled": false,
+      "source": "barilochense"
+    },
+    {
+      "date": "2026-09-16",
+      "dateLabel": "Miércoles 16 Septiembre, 2026",
+      "title": "La nave Proyecta: Nino",
+      "category": "Cine",
+      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/bibliotecasarmiento/la-nave-proyecta-nino-2026-09-10-54-37",
+      "blurb": "La nave Proyecta: Nino",
       "cancelled": false,
       "source": "barilochense"
     },
@@ -503,6 +573,16 @@
     {
       "date": "2026-09-19",
       "dateLabel": "Sábado 19 Septiembre, 2026",
+      "title": "Marcelo Nemirovsky presenta “LA TIERRA DEL CANELO",
+      "category": "Fotografía",
+      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/casa-macacha/marcelo-nemirovsky-presenta-la-tierra-del-canelo-2026-09-10-07-08",
+      "blurb": "Marcelo Nemirovsky presenta “LA TIERRA DEL CANELO",
+      "cancelled": false,
+      "source": "barilochense"
+    },
+    {
+      "date": "2026-09-19",
+      "dateLabel": "Sábado 19 Septiembre, 2026",
       "title": "푶푱푶푺 푻푹푰푺푻푬푺 푴푰푹푨푫푨 푵푨푽푨푱푨 #04",
       "category": "Fiestas y Festivales",
       "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/-04-2026-08-18-13-19",
@@ -511,5 +591,5 @@
       "source": "barilochense"
     }
   ],
-  "allCount": 98
+  "allCount": 106
 }
