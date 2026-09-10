@@ -1,0 +1,27 @@
+{
+  "id": "story-daily-2026-09-10",
+  "locale": "es",
+  "format": "video",
+  "hasAudio": true,
+  "musicTrack": "upbeat-indie-pop.mp3",
+  "musicSource": "fallback",
+  "copySource": "fallback",
+  "mode": "promo-libres",
+  "energy": "vivaz",
+  "layout": "cinema-bar",
+  "pace": "lively",
+  "usesWeather": false,
+  "availability": {
+    "nights": 8,
+    "start": "2026-09-10",
+    "end": "2026-09-18"
+  },
+  "photo": "galeria/instagrameables/denoche-5889.jpg",
+  "theme": "noche",
+  "weather": null,
+  "weatherBadge": null,
+  "title": "Fachada iluminada",
+  "subtitle": "Luz cálida, vista al verde y silencio de verdad: la cabaña es el plan.",
+  "eyebrow": "Cabaña al Bosque · jueves, 10 sept",
+  "cta": "Reservá → link en bio"
+}
