@@ -1,0 +1,27 @@
+{
+  "id": "story-daily-2026-09-11",
+  "locale": "es",
+  "format": "video",
+  "hasAudio": true,
+  "musicTrack": "upbeat-indie-pop.mp3",
+  "musicSource": "fallback",
+  "copySource": "fallback",
+  "mode": "promo-libres",
+  "energy": "hook",
+  "layout": "classic",
+  "pace": "lively",
+  "usesWeather": true,
+  "availability": {
+    "nights": 7,
+    "start": "2026-09-11",
+    "end": "2026-09-18"
+  },
+  "photo": "galeria/instagrameables/bano-banera.jpg",
+  "theme": "cabaña",
+  "weather": "2° máx · -2° mín · Nevadas dispersas",
+  "weatherBadge": "vie, 11 sept · 2° máx · -2° mín · Nevadas dispersas",
+  "title": "Quedan noches con nieve",
+  "subtitle": "11 sept – 17 sept libres. Bañera con vista y nieve afuera — reservá desde el link en bio.",
+  "eyebrow": "Cabaña al Bosque · viernes, 11 sept",
+  "cta": "Reservá → link en bio"
+}

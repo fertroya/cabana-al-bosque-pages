@@ -1,0 +1,27 @@
+{
+  "id": "story-daily-2026-09-11-en",
+  "locale": "en",
+  "format": "video",
+  "hasAudio": true,
+  "musicTrack": "upbeat-indie-pop.mp3",
+  "musicSource": "fallback",
+  "copySource": "fallback",
+  "mode": "promo-libres",
+  "energy": "hook",
+  "layout": "classic",
+  "pace": "lively",
+  "usesWeather": false,
+  "availability": {
+    "nights": 7,
+    "start": "2026-09-11",
+    "end": "2026-09-18"
+  },
+  "photo": "galeria/instagrameables/bano-banera.jpg",
+  "theme": "cabaña",
+  "weather": null,
+  "weatherBadge": null,
+  "title": "Snowy nights still free",
+  "subtitle": "Sep 11 – Sep 17 open. Tub with a view, snow outside — book via the link in bio.",
+  "eyebrow": "Cabaña al Bosque · Friday, Sep 11",
+  "cta": "Book → link in bio"
+}
