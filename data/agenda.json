@@ -5,7 +5,7 @@
     {
       "id": "barilochense",
       "url": "https://www.barilochense.com/agenda-cultural",
-      "count": 72
+      "count": 62
     },
     {
       "id": "opina",
@@ -23,133 +23,13 @@
       "count": 11
     }
   ],
-  "fetchedAt": "2026-09-10T14:42:37.107Z",
+  "fetchedAt": "2026-09-11T14:43:25.497Z",
   "window": {
-    "from": "2026-09-10",
-    "to": "2026-09-23",
+    "from": "2026-09-11",
+    "to": "2026-09-24",
     "days": 14
   },
   "events": [
-    {
-      "date": "2026-09-10",
-      "dateLabel": "Jueves 10 Septiembre, 2026",
-      "title": "¡Vuelve el Cine Italiano a Bariloche!",
-      "category": "Cine",
-      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/vuelve-el-cine-italiano-a-bariloche-2026-09-02-13-46",
-      "blurb": "¡Vuelve el Cine Italiano a Bariloche!",
-      "cancelled": false,
-      "source": "barilochense"
-    },
-    {
-      "date": "2026-09-10",
-      "dateLabel": "Jueves 10 Septiembre, 2026",
-      "title": "Camilo Eque",
-      "category": "Música",
-      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/bibliotecasarmiento/camilo-eque-2026-08-21-09-47",
-      "blurb": "Camilo Eque",
-      "cancelled": false,
-      "source": "barilochense"
-    },
-    {
-      "date": "2026-09-10",
-      "dateLabel": "Jueves 10 Septiembre, 2026",
-      "title": "CICLO DE JAZZ - FIORONI, ONGARATO & PENA",
-      "category": "Música",
-      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/ciclo-de-jazz-fioroni-ongarato-pena-2026-09-02-08-24",
-      "blurb": "CICLO DE JAZZ - FIORONI, ONGARATO & PENA",
-      "cancelled": false,
-      "source": "barilochense"
-    },
-    {
-      "date": "2026-09-10",
-      "dateLabel": "Jueves 10 Septiembre, 2026",
-      "title": "ESTEPA FESTIVAL FOTO-GRÁFICO - PROGRAMACIÓN JUEVES 10",
-      "category": "Fotografía",
-      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/estepa-festival-foto-grfico-programacin-jueves-10-2026-09-10-28-30",
-      "blurb": "ESTEPA FESTIVAL FOTO-GRÁFICO - PROGRAMACIÓN JUEVES 10",
-      "cancelled": false,
-      "source": "barilochense"
-    },
-    {
-      "date": "2026-09-10",
-      "dateLabel": "Jueves 10 Septiembre, 2026",
-      "title": "GROOVY * REBELS + BARRIENTOS * BROTHERS",
-      "category": "Música",
-      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/groovy-rebels-barrientos-brothers-2026-09-07-05-38",
-      "blurb": "GROOVY * REBELS + BARRIENTOS * BROTHERS",
-      "cancelled": false,
-      "source": "barilochense"
-    },
-    {
-      "date": "2026-09-10",
-      "dateLabel": "Jueves 10 Septiembre, 2026",
-      "title": "JOAQUÍN DEL MUNDO GIRA SUR",
-      "category": "Música",
-      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/joaqun-del-mundo-gira-sur-2026-09-07-03-58",
-      "blurb": "JOAQUÍN DEL MUNDO GIRA SUR",
-      "cancelled": false,
-      "source": "barilochense"
-    },
-    {
-      "date": "2026-09-10",
-      "dateLabel": "Jueves 10 Septiembre, 2026",
-      "title": "MÚSICA CON IDEAS: MARCELO SACCOMAΝΝΟ",
-      "category": "Música",
-      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/msica-con-ideas-marcelo-saccoma-2026-09-07-01-30",
-      "blurb": "MÚSICA CON IDEAS: MARCELO SACCOMAΝΝΟ",
-      "cancelled": false,
-      "source": "barilochense"
-    },
-    {
-      "date": "2026-09-10",
-      "dateLabel": "Jueves 10 Septiembre, 2026",
-      "title": "Taller intensivo de acuarela “Paisajes en acuarela y las sombras de la nieve”",
-      "category": "Cursos y talleres",
-      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/la-biblio/taller-intensivo-de-acuarela-paisajes-en-acuarela-y-las-sombras-de-la-nieve-2026-08-22-15-58",
-      "blurb": "Taller intensivo de acuarela “Paisajes en acuarela y las sombras de la nieve”",
-      "cancelled": false,
-      "source": "barilochense"
-    },
-    {
-      "date": "2026-09-10",
-      "dateLabel": "Jueves 10 Septiembre, 2026",
-      "title": "TENTADAS Stand Up",
-      "category": "Otros",
-      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/casa-macacha/tentadas-stand-up-2026-08-31-42-52",
-      "blurb": "TENTADAS Stand Up",
-      "cancelled": false,
-      "source": "barilochense"
-    },
-    {
-      "date": "2026-09-10",
-      "dateLabel": "Jueves 10 Septiembre, 2026",
-      "title": "TRICICLO JAZZ ROCK",
-      "category": "Música",
-      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/triciclo-jazz-rock-2026-09-09-32-29",
-      "blurb": "TRICICLO JAZZ ROCK",
-      "cancelled": false,
-      "source": "barilochense"
-    },
-    {
-      "date": "2026-09-10",
-      "dateLabel": "Jueves 10 Septiembre, 2026",
-      "title": "TRÍO DE JAZZ: DELLA GASPERA -RIGATUSO -ZENZ",
-      "category": "Música",
-      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/tro-de-jazz-della-gaspera-rigatuso-zenz-2026-09-10-44-27",
-      "blurb": "TRÍO DE JAZZ: DELLA GASPERA -RIGATUSO -ZENZ",
-      "cancelled": false,
-      "source": "barilochense"
-    },
-    {
-      "date": "2026-09-10",
-      "dateLabel": "Jueves 10 Septiembre, 2026",
-      "title": "Velada Musical interpretando a Silvio Rodrígez",
-      "category": "Música",
-      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/velada-musical-interpretando-a-silvio-rodrgez-2026-09-10-36-02",
-      "blurb": "Velada Musical interpretando a Silvio Rodrígez",
-      "cancelled": false,
-      "source": "barilochense"
-    },
     {
       "date": "2026-09-11",
       "dateLabel": "Viernes 11 Septiembre, 2026",
@@ -531,6 +411,26 @@
       "source": "barilochense"
     },
     {
+      "date": "2026-09-18",
+      "dateLabel": "Viernes 18 Septiembre, 2026",
+      "title": "✨Franco en pedazos ✨",
+      "category": "Teatro",
+      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/el-negro/franco-en-pedazos-2026-09-11-37-40",
+      "blurb": "✨Franco en pedazos ✨",
+      "cancelled": false,
+      "source": "barilochense"
+    },
+    {
+      "date": "2026-09-19",
+      "dateLabel": "Sábado 19 Septiembre, 2026",
+      "title": "“LA TIERRA DEL CANELO, Bitácora desordenada de mis viajes por Chiloé”",
+      "category": "Fotografía",
+      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/casa-macacha/la-tierra-del-canelo-bitcora-desordenada-de-mis-viajes-por-chilo-2026-09-11-21-24",
+      "blurb": "“LA TIERRA DEL CANELO, Bitácora desordenada de mis viajes por Chiloé”",
+      "cancelled": false,
+      "source": "barilochense"
+    },
+    {
       "date": "2026-09-19",
       "dateLabel": "Sábado 19 Septiembre, 2026",
       "title": "Belén Alvarez",
@@ -591,5 +491,5 @@
       "source": "barilochense"
     }
   ],
-  "allCount": 106
+  "allCount": 96
 }
