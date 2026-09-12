@@ -5,7 +5,7 @@
     {
       "id": "barilochense",
       "url": "https://www.barilochense.com/agenda-cultural",
-      "count": 62
+      "count": 59
     },
     {
       "id": "opina",
@@ -23,133 +23,13 @@
       "count": 11
     }
   ],
-  "fetchedAt": "2026-09-11T14:43:25.497Z",
+  "fetchedAt": "2026-09-12T13:48:47.575Z",
   "window": {
-    "from": "2026-09-11",
-    "to": "2026-09-24",
+    "from": "2026-09-12",
+    "to": "2026-09-25",
     "days": 14
   },
   "events": [
-    {
-      "date": "2026-09-11",
-      "dateLabel": "Viernes 11 Septiembre, 2026",
-      "title": "¡KIRIBA CUMPLE 3 AÑOS!",
-      "category": "Música",
-      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/kiriba-cumple-3-aos-2026-09-08-57-00",
-      "blurb": "¡KIRIBA CUMPLE 3 AÑOS!",
-      "cancelled": false,
-      "source": "barilochense"
-    },
-    {
-      "date": "2026-09-11",
-      "dateLabel": "Viernes 11 Septiembre, 2026",
-      "title": "Atipico Dúo ATIPICA TARDE DE TANGOS",
-      "category": "Tango",
-      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/atipico-do-atipica-tarde-de-tangos-2026-09-08-59-41",
-      "blurb": "Atipico Dúo ATIPICA TARDE DE TANGOS",
-      "cancelled": false,
-      "source": "barilochense"
-    },
-    {
-      "date": "2026-09-11",
-      "dateLabel": "Viernes 11 Septiembre, 2026",
-      "title": "CARUCHA GIMENEZ & LA BLUETONIC - BLUES & ROCK",
-      "category": "Música",
-      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/carucha-gimenez-la-bluetonic-blues-rock-2026-09-08-01-22",
-      "blurb": "CARUCHA GIMENEZ & LA BLUETONIC - BLUES & ROCK",
-      "cancelled": false,
-      "source": "barilochense"
-    },
-    {
-      "date": "2026-09-11",
-      "dateLabel": "Viernes 11 Septiembre, 2026",
-      "title": "Cine en el Oeste: Comboio Noturno para Lisboa (Night Train to Lisbon)",
-      "category": "Cine",
-      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/cine-en-el-oeste/cine-en-el-oeste-comboio-noturno-para-lisboa-night-train-to-lisbon-2026-09-08-45-00",
-      "blurb": "Cine en el Oeste: Comboio Noturno para Lisboa (Night Train to Lisbon)",
-      "cancelled": false,
-      "source": "barilochense"
-    },
-    {
-      "date": "2026-09-11",
-      "dateLabel": "Viernes 11 Septiembre, 2026",
-      "title": "ESTEPA FESTIVAL FOTO-GRÁFICO - PROGRAMACIÓN VIERNES 11",
-      "category": "Fotografía",
-      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/estepa-festival-foto-grfico-programacin-viernes-11-2026-09-10-30-04",
-      "blurb": "ESTEPA FESTIVAL FOTO-GRÁFICO - PROGRAMACIÓN VIERNES 11",
-      "cancelled": false,
-      "source": "barilochense"
-    },
-    {
-      "date": "2026-09-11",
-      "dateLabel": "Viernes 11 Septiembre, 2026",
-      "title": "GABY GALES Y EMI ZAMORA BINGO MUSICAL",
-      "category": "Música",
-      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/gaby-gales-y-emi-zamora-bingo-musical-2026-09-08-52-52",
-      "blurb": "GABY GALES Y EMI ZAMORA BINGO MUSICAL",
-      "cancelled": false,
-      "source": "barilochense"
-    },
-    {
-      "date": "2026-09-11",
-      "dateLabel": "Viernes 11 Septiembre, 2026",
-      "title": "LUISMI VS RICKY MARTIN",
-      "category": "Música",
-      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/ne-ne-agenda/luismi-vs-ricky-martin-2026-09-08-04-28",
-      "blurb": "LUISMI VS RICKY MARTIN",
-      "cancelled": false,
-      "source": "barilochense"
-    },
-    {
-      "date": "2026-09-11",
-      "dateLabel": "Viernes 11 Septiembre, 2026",
-      "title": "MERCENARIOS VUELVE AL ESCENARIO",
-      "category": "Música",
-      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/mercenarios-vuelve-al-escenario-2026-09-09-34-10",
-      "blurb": "MERCENARIOS VUELVE AL ESCENARIO",
-      "cancelled": false,
-      "source": "barilochense"
-    },
-    {
-      "date": "2026-09-11",
-      "dateLabel": "Viernes 11 Septiembre, 2026",
-      "title": "Piensa en retamas, el nuevo libro de Graciela Cros",
-      "category": "Literatura",
-      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/la-biblio/piensa-en-retamas-el-nuevo-libro-de-graciela-cros-2026-09-07-11-05",
-      "blurb": "Piensa en retamas, el nuevo libro de Graciela Cros",
-      "cancelled": false,
-      "source": "barilochense"
-    },
-    {
-      "date": "2026-09-11",
-      "dateLabel": "Viernes 11 Septiembre, 2026",
-      "title": "POGITO FEST",
-      "category": "Música",
-      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/paico/pogito-fest-2026-09-08-53-10",
-      "blurb": "POGITO FEST",
-      "cancelled": false,
-      "source": "barilochense"
-    },
-    {
-      "date": "2026-09-11",
-      "dateLabel": "Viernes 11 Septiembre, 2026",
-      "title": "Se viene la 3ª PEÑA MAESTRA!",
-      "category": "Fiestas y Festivales",
-      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/casa-macacha/se-viene-la-3-pea-maestra-2026-09-03-16-06",
-      "blurb": "Se viene la 3ª PEÑA MAESTRA!",
-      "cancelled": false,
-      "source": "barilochense"
-    },
-    {
-      "date": "2026-09-11",
-      "dateLabel": "Viernes 11 Septiembre, 2026",
-      "title": "❤️‍Septiembre en el negro ❤️‍",
-      "category": "Teatro",
-      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/el-negro/septiembre-en-el-negro-2026-09-09-51-39",
-      "blurb": "❤️‍Septiembre en el negro ❤️‍",
-      "cancelled": false,
-      "source": "barilochense"
-    },
     {
       "date": "2026-09-12",
       "dateLabel": "Sábado 12 Septiembre, 2026",
@@ -177,26 +57,6 @@
       "category": "Música",
       "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/bibliotecasarmiento/el-alambique-2026-09-04-30-39",
       "blurb": "El Alambique",
-      "cancelled": false,
-      "source": "barilochense"
-    },
-    {
-      "date": "2026-09-12",
-      "dateLabel": "Sábado 12 Septiembre, 2026",
-      "title": "ESTEPA FESTIVAL FOTO-GRÁFICO - PROGRAMACIÓN SABADO 12",
-      "category": "Fotografía",
-      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/-2026-09-10-31-49",
-      "blurb": "ESTEPA FESTIVAL FOTO-GRÁFICO - PROGRAMACIÓN SABADO 12",
-      "cancelled": false,
-      "source": "barilochense"
-    },
-    {
-      "date": "2026-09-12",
-      "dateLabel": "Sábado 12 Septiembre, 2026",
-      "title": "FEDERICO SIMONETTI: SOLO POLITICA",
-      "category": "Otros",
-      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/casa-macacha/federico-simonetti-solo-politica-2026-08-12-17-37",
-      "blurb": "FEDERICO SIMONETTI: SOLO POLITICA",
       "cancelled": false,
       "source": "barilochense"
     },
@@ -371,6 +231,26 @@
       "source": "barilochense"
     },
     {
+      "date": "2026-09-16",
+      "dateLabel": "Miércoles 16 Septiembre, 2026",
+      "title": " Alba Carmona y Jesús Guerrero: “Ofrenda” + solistas de la Filarmónica de Río Negro",
+      "category": "Música",
+      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/fimba/-alba-carmona-y-jess-guerrero-ofrenda-solistas-de-la-filarmnica-de-ro-negro-2026-09-12-28-11",
+      "blurb": " Alba Carmona y Jesús Guerrero: “Ofrenda” + solistas de la Filarmónica de Río Negro",
+      "cancelled": false,
+      "source": "barilochense"
+    },
+    {
+      "date": "2026-09-16",
+      "dateLabel": "Miércoles 16 Septiembre, 2026",
+      "title": " Orquesta Infantil Argentina",
+      "category": "Música",
+      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/fimba/-orquesta-infantil-argentina-2026-09-12-27-03",
+      "blurb": " Orquesta Infantil Argentina",
+      "cancelled": false,
+      "source": "barilochense"
+    },
+    {
       "date": "2026-09-17",
       "dateLabel": "Jueves 17 Septiembre, 2026",
       "title": "¡Javier Calamaro llega a Bariloche!",
@@ -391,12 +271,82 @@
       "source": "barilochense"
     },
     {
+      "date": "2026-09-17",
+      "dateLabel": "Jueves 17 Septiembre, 2026",
+      "title": "流 DANIEL RUGGIERO LLEGA A FIMBA ",
+      "category": "Música",
+      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/fimba/-daniel-ruggiero-llega-a-fimba-2026-09-12-30-19",
+      "blurb": "流 DANIEL RUGGIERO LLEGA A FIMBA ",
+      "cancelled": false,
+      "source": "barilochense"
+    },
+    {
+      "date": "2026-09-17",
+      "dateLabel": "Jueves 17 Septiembre, 2026",
+      "title": " SHOWCASE MERCADO DE MÚSICA PATAGÓNICO ✨",
+      "category": "Música",
+      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/fimba/-showcase-mercado-de-msica-patagnico-2026-09-12-29-49",
+      "blurb": " SHOWCASE MERCADO DE MÚSICA PATAGÓNICO ✨",
+      "cancelled": false,
+      "source": "barilochense"
+    },
+    {
+      "date": "2026-09-17",
+      "dateLabel": "Jueves 17 Septiembre, 2026",
+      "title": "✨ HAMILTON DE HOLANDA LLEGA A FIMBA ",
+      "category": "Música",
+      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/fimba/-hamilton-de-holanda-llega-a-fimba-2026-09-12-28-59",
+      "blurb": "✨ HAMILTON DE HOLANDA LLEGA A FIMBA ",
+      "cancelled": false,
+      "source": "barilochense"
+    },
+    {
+      "date": "2026-09-18",
+      "dateLabel": "Viernes 18 Septiembre, 2026",
+      "title": "✨ CAMARADA TANGO QUARTET",
+      "category": "Música",
+      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/fimba/-camarada-tango-quartet-2026-09-12-32-20",
+      "blurb": "✨ CAMARADA TANGO QUARTET",
+      "cancelled": false,
+      "source": "barilochense"
+    },
+    {
+      "date": "2026-09-18",
+      "dateLabel": "Viernes 18 Septiembre, 2026",
+      "title": "✨ THE LEAGUE OF CRAFTY GUITARISTS",
+      "category": "Música",
+      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/fimba/-the-league-of-crafty-guitarists-2026-09-12-31-33",
+      "blurb": "✨ THE LEAGUE OF CRAFTY GUITARISTS",
+      "cancelled": false,
+      "source": "barilochense"
+    },
+    {
+      "date": "2026-09-18",
+      "dateLabel": "Viernes 18 Septiembre, 2026",
+      "title": "Camerata Juvenil Municipal Bariloche",
+      "category": "Música",
+      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/fimba/camerata-juvenil-municipal-bariloche-2026-09-12-33-14",
+      "blurb": "Camerata Juvenil Municipal Bariloche",
+      "cancelled": false,
+      "source": "barilochense"
+    },
+    {
       "date": "2026-09-18",
       "dateLabel": "Viernes 18 Septiembre, 2026",
       "title": "Coral Melipal e invitados",
       "category": "Música",
       "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/bibliotecasarmiento/coral-melipal-e-invitados-2026-09-07-12-38",
       "blurb": "Coral Melipal e invitados",
+      "cancelled": false,
+      "source": "barilochense"
+    },
+    {
+      "date": "2026-09-18",
+      "dateLabel": "Viernes 18 Septiembre, 2026",
+      "title": "Coro Polifónico Nacional",
+      "category": "Música",
+      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/fimba/coro-polifnico-nacional-2026-09-12-34-08",
+      "blurb": "Coro Polifónico Nacional",
       "cancelled": false,
       "source": "barilochense"
     },
@@ -491,5 +441,5 @@
       "source": "barilochense"
     }
   ],
-  "allCount": 96
+  "allCount": 93
 }
