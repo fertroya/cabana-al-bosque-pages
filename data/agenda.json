@@ -5,7 +5,7 @@
     {
       "id": "barilochense",
       "url": "https://www.barilochense.com/agenda-cultural",
-      "count": 59
+      "count": 57
     },
     {
       "id": "opina",
@@ -23,103 +23,13 @@
       "count": 11
     }
   ],
-  "fetchedAt": "2026-09-12T13:48:47.575Z",
+  "fetchedAt": "2026-09-13T14:44:32.650Z",
   "window": {
-    "from": "2026-09-12",
-    "to": "2026-09-25",
+    "from": "2026-09-13",
+    "to": "2026-09-26",
     "days": 14
   },
   "events": [
-    {
-      "date": "2026-09-12",
-      "dateLabel": "Sábado 12 Septiembre, 2026",
-      "title": "“Dúo La Banca Coto” + FEBO",
-      "category": "Música",
-      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/la-biblio/do-la-banca-coto-febo-2026-09-08-06-06",
-      "blurb": "“Dúo La Banca Coto” + FEBO",
-      "cancelled": false,
-      "source": "barilochense"
-    },
-    {
-      "date": "2026-09-12",
-      "dateLabel": "Sábado 12 Septiembre, 2026",
-      "title": "Bariludens. Noche de juegos",
-      "category": "Otros",
-      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/moma/bariludens.-noche-de-juegos-2026-09-07-23-35",
-      "blurb": "Bariludens. Noche de juegos",
-      "cancelled": false,
-      "source": "barilochense"
-    },
-    {
-      "date": "2026-09-12",
-      "dateLabel": "Sábado 12 Septiembre, 2026",
-      "title": "El Alambique",
-      "category": "Música",
-      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/bibliotecasarmiento/el-alambique-2026-09-04-30-39",
-      "blurb": "El Alambique",
-      "cancelled": false,
-      "source": "barilochense"
-    },
-    {
-      "date": "2026-09-12",
-      "dateLabel": "Sábado 12 Septiembre, 2026",
-      "title": "NORBERTO RODRÍGUEZ en Bariloche",
-      "category": "Música",
-      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/norberto-rodrguez-en-bariloche-2026-08-22-00-46",
-      "blurb": "NORBERTO RODRÍGUEZ en Bariloche",
-      "cancelled": false,
-      "source": "barilochense"
-    },
-    {
-      "date": "2026-09-12",
-      "dateLabel": "Sábado 12 Septiembre, 2026",
-      "title": "PELUSA EN EL PUPO 15 AÑOS",
-      "category": "Música",
-      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/pelusa-en-el-pupo-15-aos-2026-08-25-00-19",
-      "blurb": "PELUSA EN EL PUPO 15 AÑOS",
-      "cancelled": false,
-      "source": "barilochense"
-    },
-    {
-      "date": "2026-09-12",
-      "dateLabel": "Sábado 12 Septiembre, 2026",
-      "title": "PIANO TRÍO JAZZ: ONGARATO - PENA -FIORONI",
-      "category": "Música",
-      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/piano-tro-jazz-ongarato-pena-fioroni-2026-09-10-45-29",
-      "blurb": "PIANO TRÍO JAZZ: ONGARATO - PENA -FIORONI",
-      "cancelled": false,
-      "source": "barilochense"
-    },
-    {
-      "date": "2026-09-12",
-      "dateLabel": "Sábado 12 Septiembre, 2026",
-      "title": "SI TE HE VISTO, SÍ ME ACUERDO",
-      "category": "Teatro",
-      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/la-obra/si-te-he-visto-s-me-acuerdo-2026-08-28-00-48",
-      "blurb": "SI TE HE VISTO, SÍ ME ACUERDO",
-      "cancelled": false,
-      "source": "barilochense"
-    },
-    {
-      "date": "2026-09-12",
-      "dateLabel": "Sábado 12 Septiembre, 2026",
-      "title": "Titeres sobre las nubes",
-      "category": "Títeres",
-      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/aime-paine/titeres-sobre-las-nubes-2026-09-09-53-46",
-      "blurb": "Titeres sobre las nubes",
-      "cancelled": false,
-      "source": "barilochense"
-    },
-    {
-      "date": "2026-09-12",
-      "dateLabel": "Sábado 12 Septiembre, 2026",
-      "title": "YESICA PEÑA Show de cumbia y cuarteto",
-      "category": "Música",
-      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/yesica-pea-show-de-cumbia-y-cuarteto-2026-09-10-46-28",
-      "blurb": "YESICA PEÑA Show de cumbia y cuarteto",
-      "cancelled": false,
-      "source": "barilochense"
-    },
     {
       "date": "2026-09-13",
       "dateLabel": "Domingo 13 Septiembre, 2026",
@@ -157,16 +67,6 @@
       "category": "Música",
       "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/el-rejunte-folklore-2026-09-10-50-12",
       "blurb": "EL REJUNTE FOLKLORE",
-      "cancelled": false,
-      "source": "barilochense"
-    },
-    {
-      "date": "2026-09-13",
-      "dateLabel": "Domingo 13 Septiembre, 2026",
-      "title": "ESTEPA FESTIVAL FOTO-GRÁFICO - PROGRAMACIÓN DOMINGO 13",
-      "category": "Fotografía",
-      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/estepa-festival-foto-grfico-programacin-domingo-13-2026-09-10-33-16",
-      "blurb": "ESTEPA FESTIVAL FOTO-GRÁFICO - PROGRAMACIÓN DOMINGO 13",
       "cancelled": false,
       "source": "barilochense"
     },
@@ -217,6 +117,16 @@
       "category": "Infantiles",
       "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/el-negro/de-paisanos-y-paisanas-2026-09-09-55-54",
       "blurb": "De paisanos y paisanas",
+      "cancelled": false,
+      "source": "barilochense"
+    },
+    {
+      "date": "2026-09-16",
+      "dateLabel": "Miércoles 16 Septiembre, 2026",
+      "title": "ARDE TROYA PRESENTA: CUATRO SILLAS",
+      "category": "Teatro",
+      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/arde-troya-presenta-cuatro-sillas-2026-09-13-28-56",
+      "blurb": "ARDE TROYA PRESENTA: CUATRO SILLAS",
       "cancelled": false,
       "source": "barilochense"
     },
@@ -433,13 +343,93 @@
     {
       "date": "2026-09-19",
       "dateLabel": "Sábado 19 Septiembre, 2026",
+      "title": "Mercado de Música Patagónico",
+      "category": "Música",
+      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/fimba/mercado-de-msica-patagnico-2026-09-13-23-56",
+      "blurb": "Mercado de Música Patagónico",
+      "cancelled": false,
+      "source": "barilochense"
+    },
+    {
+      "date": "2026-09-19",
+      "dateLabel": "Sábado 19 Septiembre, 2026",
+      "title": "Orquesta Filarmónica de Río Negro + Coro Polifónico Nacional + Cecilia Eguiarte (México)",
+      "category": "Música",
+      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/fimba/orquesta-filarmnica-de-ro-negro-coro-polifnico-nacional-cecilia-eguiarte-mxico-2026-09-13-26-38",
+      "blurb": "Orquesta Filarmónica de Río Negro + Coro Polifónico Nacional + Cecilia Eguiarte (México)",
+      "cancelled": false,
+      "source": "barilochense"
+    },
+    {
+      "date": "2026-09-19",
+      "dateLabel": "Sábado 19 Septiembre, 2026",
+      "title": "Raúl Traver Castelló y David Benites: ¡UN VIAJE POR LOS GRANDES CLÁSICOS FRANCESES!",
+      "category": "Música",
+      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/fimba/ral-traver-castell-y-david-benites-un-viaje-por-los-grandes-clsicos-franceses-2026-09-13-19-34",
+      "blurb": "Raúl Traver Castelló y David Benites: ¡UN VIAJE POR LOS GRANDES CLÁSICOS FRANCESES!",
+      "cancelled": false,
+      "source": "barilochense"
+    },
+    {
+      "date": "2026-09-19",
+      "dateLabel": "Sábado 19 Septiembre, 2026",
       "title": "푶푱푶푺 푻푹푰푺푻푬푺 푴푰푹푨푫푨 푵푨푽푨푱푨 #04",
       "category": "Fiestas y Festivales",
       "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/-04-2026-08-18-13-19",
       "blurb": "푶푱푶푺 푻푹푰푺푻푬푺 푴푰푹푨푫푨 푵푨푽푨푱푨 #04",
       "cancelled": false,
       "source": "barilochense"
+    },
+    {
+      "date": "2026-09-19",
+      "dateLabel": "Sábado 19 Septiembre, 2026",
+      "title": "流 Chango Spasiuk UNA TRAYECTORIA QUE HIZO HISTORIA",
+      "category": "Música",
+      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/fimba/-chango-spasiuk-una-trayectoria-que-hizo-historia-2026-09-13-21-50",
+      "blurb": "流 Chango Spasiuk UNA TRAYECTORIA QUE HIZO HISTORIA",
+      "cancelled": false,
+      "source": "barilochense"
+    },
+    {
+      "date": "2026-09-19",
+      "dateLabel": "Sábado 19 Septiembre, 2026",
+      "title": " Sol Liebeskind✨ UNA VOZ SIN FRONTERAS. UN VIAJE POR LOS SONIDOS DEL MUNDO. ",
+      "category": "Música",
+      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/fimba/-sol-liebeskind-una-voz-sin-fronteras.-un-viaje-por-los-sonidos-del-mundo.-2026-09-13-22-54",
+      "blurb": " Sol Liebeskind✨ UNA VOZ SIN FRONTERAS. UN VIAJE POR LOS SONIDOS DEL MUNDO. ",
+      "cancelled": false,
+      "source": "barilochense"
+    },
+    {
+      "date": "2026-09-19",
+      "dateLabel": "Sábado 19 Septiembre, 2026",
+      "title": " Guillo Espel Cuarteto presenta: “Papel Máquina”",
+      "category": "Música",
+      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/fimba/-guillo-espel-cuarteto-presenta-papel-mquina-2026-09-13-24-43",
+      "blurb": " Guillo Espel Cuarteto presenta: “Papel Máquina”",
+      "cancelled": false,
+      "source": "barilochense"
+    },
+    {
+      "date": "2026-09-19",
+      "dateLabel": "Sábado 19 Septiembre, 2026",
+      "title": " INVAP 50 años · Concierto homenaje",
+      "category": "Música",
+      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/fimba/-invap-50-aos-concierto-homenaje-2026-09-13-20-47",
+      "blurb": " INVAP 50 años · Concierto homenaje",
+      "cancelled": false,
+      "source": "barilochense"
+    },
+    {
+      "date": "2026-09-26",
+      "dateLabel": "Sábado 26 Septiembre, 2026",
+      "title": "A 400 años de su muerte, Gabriel Schebor rinde homenaje a John Dowland en un concierto de laúd",
+      "category": "Música",
+      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/camping-musical/a-400-aos-de-su-muerte-gabriel-schebor-rinde-homenaje-a-john-dowland-en-un-concierto-de-lad-2026-07-30-46-30",
+      "blurb": "A 400 años de su muerte, Gabriel Schebor rinde homenaje a John Dowland en un concierto de laúd",
+      "cancelled": false,
+      "source": "barilochense"
     }
   ],
-  "allCount": 93
+  "allCount": 91
 }
