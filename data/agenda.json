@@ -5,7 +5,7 @@
     {
       "id": "barilochense",
       "url": "https://www.barilochense.com/agenda-cultural",
-      "count": 56
+      "count": 64
     },
     {
       "id": "opina",
@@ -23,10 +23,10 @@
       "count": 11
     }
   ],
-  "fetchedAt": "2026-09-14T16:42:32.928Z",
+  "fetchedAt": "2026-09-15T15:20:45.025Z",
   "window": {
-    "from": "2026-09-14",
-    "to": "2026-09-27",
+    "from": "2026-09-15",
+    "to": "2026-09-28",
     "days": 14
   },
   "events": [
@@ -43,10 +43,30 @@
     {
       "date": "2026-09-16",
       "dateLabel": "Miércoles 16 Septiembre, 2026",
+      "title": "FATI SALGADO MUSICA BRASILERA",
+      "category": "Música",
+      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/fati-salgado-musica-brasilera-2026-08-31-36-19",
+      "blurb": "FATI SALGADO MUSICA BRASILERA",
+      "cancelled": false,
+      "source": "barilochense"
+    },
+    {
+      "date": "2026-09-16",
+      "dateLabel": "Miércoles 16 Septiembre, 2026",
       "title": "La nave Proyecta: Nino",
       "category": "Cine",
       "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/bibliotecasarmiento/la-nave-proyecta-nino-2026-09-10-54-37",
       "blurb": "La nave Proyecta: Nino",
+      "cancelled": false,
+      "source": "barilochense"
+    },
+    {
+      "date": "2026-09-16",
+      "dateLabel": "Miércoles 16 Septiembre, 2026",
+      "title": "Rola Gitana + Rumbé + La Gypsy",
+      "category": "Música",
+      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/rola-gitana-rumb-la-gypsy-2026-09-15-05-12",
+      "blurb": "Rola Gitana + Rumbé + La Gypsy",
       "cancelled": false,
       "source": "barilochense"
     },
@@ -183,6 +203,26 @@
     {
       "date": "2026-09-18",
       "dateLabel": "Viernes 18 Septiembre, 2026",
+      "title": "Cine en el Oeste: Stella. A Life.",
+      "category": "Cine",
+      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/cine-en-el-oeste/cine-en-el-oeste-stella.-a-life.-2026-09-15-55-04",
+      "blurb": "Cine en el Oeste: Stella. A Life.",
+      "cancelled": false,
+      "source": "barilochense"
+    },
+    {
+      "date": "2026-09-18",
+      "dateLabel": "Viernes 18 Septiembre, 2026",
+      "title": "Concierto en el marco del FIMBA",
+      "category": "Música",
+      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/iglesia-catedral/concierto-en-el-marco-del-fimba-2026-09-15-32-34",
+      "blurb": "Concierto en el marco del FIMBA",
+      "cancelled": false,
+      "source": "barilochense"
+    },
+    {
+      "date": "2026-09-18",
+      "dateLabel": "Viernes 18 Septiembre, 2026",
       "title": "Coral Melipal e invitados",
       "category": "Música",
       "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/bibliotecasarmiento/coral-melipal-e-invitados-2026-09-07-12-38",
@@ -213,6 +253,16 @@
     {
       "date": "2026-09-18",
       "dateLabel": "Viernes 18 Septiembre, 2026",
+      "title": "SENTIDO MARGARITA",
+      "category": "Música",
+      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/-2026-09-15-06-13",
+      "blurb": "SENTIDO MARGARITA",
+      "cancelled": false,
+      "source": "barilochense"
+    },
+    {
+      "date": "2026-09-18",
+      "dateLabel": "Viernes 18 Septiembre, 2026",
       "title": "✨Franco en pedazos ✨",
       "category": "Teatro",
       "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/el-negro/franco-en-pedazos-2026-09-11-37-40",
@@ -237,6 +287,16 @@
       "category": "Música",
       "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/beln-alvarez-2026-09-08-54-14",
       "blurb": "Belén Alvarez",
+      "cancelled": false,
+      "source": "barilochense"
+    },
+    {
+      "date": "2026-09-19",
+      "dateLabel": "Sábado 19 Septiembre, 2026",
+      "title": "Concierto en el marco del FIMBA",
+      "category": "Música",
+      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/iglesia-catedral/concierto-en-el-marco-del-fimba-2026-09-15-36-26",
+      "blurb": "Concierto en el marco del FIMBA",
       "cancelled": false,
       "source": "barilochense"
     },
@@ -383,6 +443,26 @@
     {
       "date": "2026-09-20",
       "dateLabel": "Domingo 20 Septiembre, 2026",
+      "title": "Invisible",
+      "category": "Teatro",
+      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/bibliotecasarmiento/invisible-2026-09-15-10-12",
+      "blurb": "Invisible",
+      "cancelled": false,
+      "source": "barilochense"
+    },
+    {
+      "date": "2026-09-20",
+      "dateLabel": "Domingo 20 Septiembre, 2026",
+      "title": "Lala Graffigna “la cosecha de la rosa sonia: esa rosa rosa jaspeadita “",
+      "category": "Música",
+      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/la-biblio/lala-graffigna-la-cosecha-de-la-rosa-sonia-esa-rosa-rosa-jaspeadita-2026-09-15-52-48",
+      "blurb": "Lala Graffigna “la cosecha de la rosa sonia: esa rosa rosa jaspeadita “",
+      "cancelled": false,
+      "source": "barilochense"
+    },
+    {
+      "date": "2026-09-20",
+      "dateLabel": "Domingo 20 Septiembre, 2026",
       "title": "Niños y Jóvenes Cantores de Bariloche",
       "category": "Música",
       "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/fimba/nios-y-jvenes-cantores-de-bariloche-2026-09-14-01-12",
@@ -421,5 +501,5 @@
       "source": "barilochense"
     }
   ],
-  "allCount": 90
+  "allCount": 98
 }
