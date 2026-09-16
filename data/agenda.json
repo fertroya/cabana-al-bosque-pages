@@ -5,7 +5,7 @@
     {
       "id": "barilochense",
       "url": "https://www.barilochense.com/agenda-cultural",
-      "count": 64
+      "count": 74
     },
     {
       "id": "opina",
@@ -23,10 +23,10 @@
       "count": 11
     }
   ],
-  "fetchedAt": "2026-09-15T15:20:45.025Z",
+  "fetchedAt": "2026-09-16T15:12:59.681Z",
   "window": {
-    "from": "2026-09-15",
-    "to": "2026-09-28",
+    "from": "2026-09-16",
+    "to": "2026-09-29",
     "days": 14
   },
   "events": [
@@ -37,6 +37,16 @@
       "category": "Teatro",
       "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/arde-troya-presenta-cuatro-sillas-2026-09-13-28-56",
       "blurb": "ARDE TROYA PRESENTA: CUATRO SILLAS",
+      "cancelled": false,
+      "source": "barilochense"
+    },
+    {
+      "date": "2026-09-16",
+      "dateLabel": "Miércoles 16 Septiembre, 2026",
+      "title": "CUARTETO DE JAZZ: AMSTEIN - GONZÁLEZ - ONGARATO - FREIDENBERG",
+      "category": "Música",
+      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/cuarteto-de-jazz-amstein-gonzlez-ongarato-freidenberg-2026-09-16-20-04",
+      "blurb": "CUARTETO DE JAZZ: AMSTEIN - GONZÁLEZ - ONGARATO - FREIDENBERG",
       "cancelled": false,
       "source": "barilochense"
     },
@@ -77,16 +87,6 @@
       "category": "Artes Visuales",
       "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/aime-paine/taller-de-dibujo-y-pintura-2026-09-14-18-17",
       "blurb": "Taller de Dibujo y Pintura",
-      "cancelled": false,
-      "source": "barilochense"
-    },
-    {
-      "date": "2026-09-16",
-      "dateLabel": "Miércoles 16 Septiembre, 2026",
-      "title": "Talleres en la biblio",
-      "category": "Cursos y talleres",
-      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/aime-paine/talleres-en-la-biblio-2026-09-14-12-15",
-      "blurb": "Talleres en la biblio",
       "cancelled": false,
       "source": "barilochense"
     },
@@ -143,6 +143,46 @@
     {
       "date": "2026-09-17",
       "dateLabel": "Jueves 17 Septiembre, 2026",
+      "title": "PimparriDos: PIM PAM PUM y AGUERRIDOS",
+      "category": "Teatro",
+      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/pimparridos-pim-pam-pum-y-aguerridos-2026-09-16-23-42",
+      "blurb": "PimparriDos: PIM PAM PUM y AGUERRIDOS",
+      "cancelled": false,
+      "source": "barilochense"
+    },
+    {
+      "date": "2026-09-17",
+      "dateLabel": "Jueves 17 Septiembre, 2026",
+      "title": "STAND UP SIN BARRERAS: SOLE MACCHI",
+      "category": "Otros",
+      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/stand-up-sin-barreras-sole-macchi-2026-09-16-22-16",
+      "blurb": "STAND UP SIN BARRERAS: SOLE MACCHI",
+      "cancelled": false,
+      "source": "barilochense"
+    },
+    {
+      "date": "2026-09-17",
+      "dateLabel": "Jueves 17 Septiembre, 2026",
+      "title": "THE TONIGHTS",
+      "category": "Música",
+      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/the-tonights-2026-09-16-29-49",
+      "blurb": "THE TONIGHTS",
+      "cancelled": false,
+      "source": "barilochense"
+    },
+    {
+      "date": "2026-09-17",
+      "dateLabel": "Jueves 17 Septiembre, 2026",
+      "title": "TRÍO DE JAZZ: DELLA GASPERA - RIGATUSO - ZENZ",
+      "category": "Música",
+      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/tro-de-jazz-della-gaspera-rigatuso-zenz-2026-09-16-21-05",
+      "blurb": "TRÍO DE JAZZ: DELLA GASPERA - RIGATUSO - ZENZ",
+      "cancelled": false,
+      "source": "barilochense"
+    },
+    {
+      "date": "2026-09-17",
+      "dateLabel": "Jueves 17 Septiembre, 2026",
       "title": "流 DANIEL RUGGIERO LLEGA A FIMBA ",
       "category": "Música",
       "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/fimba/-daniel-ruggiero-llega-a-fimba-2026-09-12-30-19",
@@ -193,10 +233,30 @@
     {
       "date": "2026-09-18",
       "dateLabel": "Viernes 18 Septiembre, 2026",
+      "title": "Aniversario La Funk Me Up",
+      "category": "Música",
+      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/aniversario-la-funk-me-up-2026-09-16-33-36",
+      "blurb": "Aniversario La Funk Me Up",
+      "cancelled": false,
+      "source": "barilochense"
+    },
+    {
+      "date": "2026-09-18",
+      "dateLabel": "Viernes 18 Septiembre, 2026",
       "title": "Camerata Juvenil Municipal Bariloche",
       "category": "Música",
       "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/fimba/camerata-juvenil-municipal-bariloche-2026-09-12-33-14",
       "blurb": "Camerata Juvenil Municipal Bariloche",
+      "cancelled": false,
+      "source": "barilochense"
+    },
+    {
+      "date": "2026-09-18",
+      "dateLabel": "Viernes 18 Septiembre, 2026",
+      "title": "Ciclo Música en las Venas presenta: “Ánimu” (2024) Cine Documental",
+      "category": "Cine",
+      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/la-biblio/ciclo-msica-en-las-venas-presenta-nimu-2024-cine-documental-2026-09-16-40-08",
+      "blurb": "Ciclo Música en las Venas presenta: “Ánimu” (2024) Cine Documental",
       "cancelled": false,
       "source": "barilochense"
     },
@@ -257,6 +317,16 @@
       "category": "Música",
       "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/-2026-09-15-06-13",
       "blurb": "SENTIDO MARGARITA",
+      "cancelled": false,
+      "source": "barilochense"
+    },
+    {
+      "date": "2026-09-18",
+      "dateLabel": "Viernes 18 Septiembre, 2026",
+      "title": "STELLA - VÍCTIMA Y CULPABLE",
+      "category": "Cine",
+      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/-2026-09-16-27-57",
+      "blurb": "STELLA - VÍCTIMA Y CULPABLE",
       "cancelled": false,
       "source": "barilochense"
     },
@@ -327,6 +397,16 @@
       "category": "Música",
       "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/la-obra/lejos-neptuno-rock-abductivo-2026-09-08-43-43",
       "blurb": "LEJOS NEPTUNO Rock Abductivo",
+      "cancelled": false,
+      "source": "barilochense"
+    },
+    {
+      "date": "2026-09-19",
+      "dateLabel": "Sábado 19 Septiembre, 2026",
+      "title": "LOS CACHORROS",
+      "category": "Música",
+      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/los-cachorros-2026-09-16-34-41",
+      "blurb": "LOS CACHORROS",
       "cancelled": false,
       "source": "barilochense"
     },
@@ -453,6 +533,16 @@
     {
       "date": "2026-09-20",
       "dateLabel": "Domingo 20 Septiembre, 2026",
+      "title": "La vereda donde vive el gato: comedia con títeres para toda la familia.",
+      "category": "Títeres",
+      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/casa-macacha/la-vereda-donde-vive-el-gato-comedia-con-tteres-para-toda-la-familia.-2026-09-16-42-00",
+      "blurb": "La vereda donde vive el gato: comedia con títeres para toda la familia.",
+      "cancelled": false,
+      "source": "barilochense"
+    },
+    {
+      "date": "2026-09-20",
+      "dateLabel": "Domingo 20 Septiembre, 2026",
       "title": "Lala Graffigna “la cosecha de la rosa sonia: esa rosa rosa jaspeadita “",
       "category": "Música",
       "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/la-biblio/lala-graffigna-la-cosecha-de-la-rosa-sonia-esa-rosa-rosa-jaspeadita-2026-09-15-52-48",
@@ -501,5 +591,5 @@
       "source": "barilochense"
     }
   ],
-  "allCount": 98
+  "allCount": 108
 }
