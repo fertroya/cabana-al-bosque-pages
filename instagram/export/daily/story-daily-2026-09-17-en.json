@@ -1,0 +1,27 @@
+{
+  "id": "story-daily-2026-09-17-en",
+  "locale": "en",
+  "format": "video",
+  "hasAudio": true,
+  "musicTrack": "modern-rising-house.mp3",
+  "musicSource": "fallback",
+  "copySource": "fallback",
+  "mode": "promo-libres",
+  "energy": "hook",
+  "layout": "cinema-bar",
+  "pace": "lively",
+  "usesWeather": false,
+  "availability": {
+    "nights": 7,
+    "start": "2026-09-20",
+    "end": "2026-09-27"
+  },
+  "photo": "galeria/instagrameables/hogar2.jpg",
+  "theme": "cabaña",
+  "weather": null,
+  "weatherBadge": null,
+  "title": "August still has room",
+  "subtitle": "Sep 20 – Sep 26 we're free. If you were looking for unhurried Patagonia, this is it — link in bio.",
+  "eyebrow": "A gap opened up",
+  "cta": "Book → link in bio"
+}
