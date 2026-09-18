@@ -5,12 +5,12 @@
     {
       "id": "barilochense",
       "url": "https://www.barilochense.com/agenda-cultural",
-      "count": 67
+      "count": 69
     },
     {
       "id": "opina",
-      "url": "https://www.barilocheopina.com/noticias/2026/07/13/90670-vacaciones-de-invierno-en-bariloche-una-semana-repleta-de-actividades-culturales",
-      "count": 44
+      "url": "https://www.barilocheopina.com/noticias/2026/07/25/91306-agenda-cultural-todos-los-talleres-espectaculos-y-actividades-del-27-de-julio-al-2-de-agosto",
+      "count": 20
     },
     {
       "id": "turismo",
@@ -23,7 +23,7 @@
       "count": 11
     }
   ],
-  "fetchedAt": "2026-09-18T13:34:31.611Z",
+  "fetchedAt": "2026-09-18T14:42:20.154Z",
   "window": {
     "from": "2026-09-18",
     "to": "2026-10-01",
@@ -511,6 +511,16 @@
       "source": "barilochense"
     },
     {
+      "date": "2026-09-26",
+      "dateLabel": "Sábado 26 Septiembre, 2026",
+      "title": "MOREIRA Puesta en abismo",
+      "category": "Teatro",
+      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/la-obra/moreira-puesta-en-abismo-2026-09-18-21-25",
+      "blurb": "MOREIRA Puesta en abismo",
+      "cancelled": false,
+      "source": "barilochense"
+    },
+    {
       "date": "2026-09-30",
       "dateLabel": "Miércoles 30 Septiembre, 2026",
       "title": "Primavera Danza",
@@ -521,5 +531,5 @@
       "source": "barilochense"
     }
   ],
-  "allCount": 125
+  "allCount": 103
 }
