@@ -4,8 +4,8 @@
   "format": "video",
   "hasAudio": true,
   "musicTrack": "upbeat-indie-pop.mp3",
-  "musicSource": "fallback",
-  "copySource": "fallback",
+  "musicSource": "ollama",
+  "copySource": "ollama",
   "mode": "promo-libres",
   "energy": "vivaz",
   "layout": "classic",
@@ -20,8 +20,8 @@
   "theme": "exterior",
   "weather": null,
   "weatherBadge": null,
-  "title": "August still has room",
-  "subtitle": "Sep 20 – Sep 26 we're free. If you were looking for unhurried Patagonia, this is it — link in bio.",
-  "eyebrow": "A gap opened up",
+  "title": "Grab your coffee and head outdoors",
+  "subtitle": "Experience the snow-covered patio in Bariloche from Sep 20 to Sep 26. Book your stay via the link in our bio.",
+  "eyebrow": "Cabaña al Bosque · Friday, Sep 18",
   "cta": "Book → link in bio"
 }

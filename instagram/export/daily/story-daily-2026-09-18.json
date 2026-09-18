@@ -4,8 +4,8 @@
   "format": "video",
   "hasAudio": true,
   "musicTrack": "upbeat-indie-pop.mp3",
-  "musicSource": "fallback",
-  "copySource": "fallback",
+  "musicSource": "ollama",
+  "copySource": "ollama",
   "mode": "promo-libres",
   "energy": "vivaz",
   "layout": "classic",
@@ -20,8 +20,8 @@
   "theme": "exterior",
   "weather": null,
   "weatherBadge": null,
-  "title": "Mesa nevada en el bosque",
-  "subtitle": "Patio, pinos y aire libre: la escapada sigue apenas abrís la puerta.",
-  "eyebrow": "Cabaña al Bosque · viernes, 18 sept",
+  "title": "Tomate un mate con nieve en el patio",
+  "subtitle": "Escapate a Bariloche del 20 al 26 de septiembre. Reservá tu lugar para disfrutar la Patagonia desde acá.",
+  "eyebrow": "Cabaña al Bosque · viernes 18 sept",
   "cta": "Reservá → link en bio"
 }
