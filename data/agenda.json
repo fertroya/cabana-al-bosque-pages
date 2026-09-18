@@ -5,12 +5,12 @@
     {
       "id": "barilochense",
       "url": "https://www.barilochense.com/agenda-cultural",
-      "count": 74
+      "count": 67
     },
     {
       "id": "opina",
-      "url": "https://www.barilocheopina.com/noticias/2026/07/25/91306-agenda-cultural-todos-los-talleres-espectaculos-y-actividades-del-27-de-julio-al-2-de-agosto",
-      "count": 20
+      "url": "https://www.barilocheopina.com/noticias/2026/07/13/90670-vacaciones-de-invierno-en-bariloche-una-semana-repleta-de-actividades-culturales",
+      "count": 44
     },
     {
       "id": "turismo",
@@ -20,136 +20,16 @@
     {
       "id": "informa",
       "url": "https://barilocheinforma.gob.ar/walter-cortes-presento-una-fiesta-de-la-nieve-que-recupera-las-tradiciones-y-celebra-la-identidad-de-bariloche/",
-      "error": "fetch failed"
+      "count": 11
     }
   ],
-  "fetchedAt": "2026-09-17T15:22:35.409Z",
+  "fetchedAt": "2026-09-18T13:34:31.611Z",
   "window": {
-    "from": "2026-09-17",
-    "to": "2026-09-30",
+    "from": "2026-09-18",
+    "to": "2026-10-01",
     "days": 14
   },
   "events": [
-    {
-      "date": "2026-09-17",
-      "dateLabel": "Jueves 17 Septiembre, 2026",
-      "title": "¡Javier Calamaro llega a Bariloche!",
-      "category": "Música",
-      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/ne-ne-agenda/javier-calamaro-llega-a-bariloche-2026-09-04-25-19",
-      "blurb": "¡Javier Calamaro llega a Bariloche!",
-      "cancelled": false,
-      "source": "barilochense"
-    },
-    {
-      "date": "2026-09-17",
-      "dateLabel": "Jueves 17 Septiembre, 2026",
-      "title": "¡Vuelve el Cine Italiano a Bariloche!",
-      "category": "Cine",
-      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/vuelve-el-cine-italiano-a-bariloche-2026-09-02-13-46",
-      "blurb": "¡Vuelve el Cine Italiano a Bariloche!",
-      "cancelled": false,
-      "source": "barilochense"
-    },
-    {
-      "date": "2026-09-17",
-      "dateLabel": "Jueves 17 Septiembre, 2026",
-      "title": "Cine y Ciencia presenta “HAPPY PEOPLE” de Werner Herzog y Dmitry Vasyukov.",
-      "category": "Cine",
-      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/casa-macacha/cine-y-ciencia-presenta-happy-people-de-werner-herzog-y-dmitry-vasyukov.-2026-09-09-58-00",
-      "blurb": "Cine y Ciencia presenta “HAPPY PEOPLE” de Werner Herzog y Dmitry Vasyukov.",
-      "cancelled": false,
-      "source": "barilochense"
-    },
-    {
-      "date": "2026-09-17",
-      "dateLabel": "Jueves 17 Septiembre, 2026",
-      "title": "cineclub Aime Paine",
-      "category": "Cine",
-      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/aime-paine/cineclub-aime-paine-2026-09-14-23-18",
-      "blurb": "cineclub Aime Paine",
-      "cancelled": false,
-      "source": "barilochense"
-    },
-    {
-      "date": "2026-09-17",
-      "dateLabel": "Jueves 17 Septiembre, 2026",
-      "title": "JAM DE IMPROVISACIÓN TEATRAL",
-      "category": "Música",
-      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/jam-de-improvisacin-teatral-2026-09-17-04-56",
-      "blurb": "JAM DE IMPROVISACIÓN TEATRAL",
-      "cancelled": false,
-      "source": "barilochense"
-    },
-    {
-      "date": "2026-09-17",
-      "dateLabel": "Jueves 17 Septiembre, 2026",
-      "title": "PimparriDos: PIM PAM PUM y AGUERRIDOS",
-      "category": "Teatro",
-      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/pimparridos-pim-pam-pum-y-aguerridos-2026-09-16-23-42",
-      "blurb": "PimparriDos: PIM PAM PUM y AGUERRIDOS",
-      "cancelled": false,
-      "source": "barilochense"
-    },
-    {
-      "date": "2026-09-17",
-      "dateLabel": "Jueves 17 Septiembre, 2026",
-      "title": "STAND UP SIN BARRERAS: SOLE MACCHI",
-      "category": "Otros",
-      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/stand-up-sin-barreras-sole-macchi-2026-09-16-22-16",
-      "blurb": "STAND UP SIN BARRERAS: SOLE MACCHI",
-      "cancelled": false,
-      "source": "barilochense"
-    },
-    {
-      "date": "2026-09-17",
-      "dateLabel": "Jueves 17 Septiembre, 2026",
-      "title": "THE TONIGHTS",
-      "category": "Música",
-      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/the-tonights-2026-09-16-29-49",
-      "blurb": "THE TONIGHTS",
-      "cancelled": false,
-      "source": "barilochense"
-    },
-    {
-      "date": "2026-09-17",
-      "dateLabel": "Jueves 17 Septiembre, 2026",
-      "title": "TRÍO DE JAZZ: DELLA GASPERA - RIGATUSO - ZENZ",
-      "category": "Música",
-      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/tro-de-jazz-della-gaspera-rigatuso-zenz-2026-09-16-21-05",
-      "blurb": "TRÍO DE JAZZ: DELLA GASPERA - RIGATUSO - ZENZ",
-      "cancelled": false,
-      "source": "barilochense"
-    },
-    {
-      "date": "2026-09-17",
-      "dateLabel": "Jueves 17 Septiembre, 2026",
-      "title": "流 DANIEL RUGGIERO LLEGA A FIMBA ",
-      "category": "Música",
-      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/fimba/-daniel-ruggiero-llega-a-fimba-2026-09-12-30-19",
-      "blurb": "流 DANIEL RUGGIERO LLEGA A FIMBA ",
-      "cancelled": false,
-      "source": "barilochense"
-    },
-    {
-      "date": "2026-09-17",
-      "dateLabel": "Jueves 17 Septiembre, 2026",
-      "title": " SHOWCASE MERCADO DE MÚSICA PATAGÓNICO ✨",
-      "category": "Música",
-      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/fimba/-showcase-mercado-de-msica-patagnico-2026-09-12-29-49",
-      "blurb": " SHOWCASE MERCADO DE MÚSICA PATAGÓNICO ✨",
-      "cancelled": false,
-      "source": "barilochense"
-    },
-    {
-      "date": "2026-09-17",
-      "dateLabel": "Jueves 17 Septiembre, 2026",
-      "title": "✨ HAMILTON DE HOLANDA LLEGA A FIMBA ",
-      "category": "Música",
-      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/fimba/-hamilton-de-holanda-llega-a-fimba-2026-09-12-28-59",
-      "blurb": "✨ HAMILTON DE HOLANDA LLEGA A FIMBA ",
-      "cancelled": false,
-      "source": "barilochense"
-    },
     {
       "date": "2026-09-18",
       "dateLabel": "Viernes 18 Septiembre, 2026",
@@ -343,6 +223,16 @@
     {
       "date": "2026-09-19",
       "dateLabel": "Sábado 19 Septiembre, 2026",
+      "title": "JAM DE FRESTYLE",
+      "category": "Música",
+      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/-2026-09-18-26-34",
+      "blurb": "JAM DE FRESTYLE",
+      "cancelled": false,
+      "source": "barilochense"
+    },
+    {
+      "date": "2026-09-19",
+      "dateLabel": "Sábado 19 Septiembre, 2026",
       "title": "LA VUELTA historias de un Clown",
       "category": "Teatro",
       "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/la-vuelta-historias-de-un-clown-2026-09-04-10-00",
@@ -423,6 +313,26 @@
     {
       "date": "2026-09-19",
       "dateLabel": "Sábado 19 Septiembre, 2026",
+      "title": "PEÑA MAURO CORNELIO LA FUSIONERA",
+      "category": "Música",
+      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/pea-mauro-cornelio-la-fusionera-2026-09-18-29-24",
+      "blurb": "PEÑA MAURO CORNELIO LA FUSIONERA",
+      "cancelled": false,
+      "source": "barilochense"
+    },
+    {
+      "date": "2026-09-19",
+      "dateLabel": "Sábado 19 Septiembre, 2026",
+      "title": "PIANO TRÍO JAZZ: ONGARATO - PENA - FIORONI",
+      "category": "Música",
+      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/piano-tro-jazz-ongarato-pena-fioroni-2026-09-18-24-04",
+      "blurb": "PIANO TRÍO JAZZ: ONGARATO - PENA - FIORONI",
+      "cancelled": false,
+      "source": "barilochense"
+    },
+    {
+      "date": "2026-09-19",
+      "dateLabel": "Sábado 19 Septiembre, 2026",
       "title": "Raúl Traver Castelló y David Benites: ¡UN VIAJE POR LOS GRANDES CLÁSICOS FRANCESES!",
       "category": "Música",
       "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/fimba/ral-traver-castell-y-david-benites-un-viaje-por-los-grandes-clsicos-franceses-2026-09-13-19-34",
@@ -437,6 +347,16 @@
       "category": "Música",
       "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/rola-gitana-flamenco-fusion-2026-09-17-11-57",
       "blurb": "Rola Gitana FLAMENCO FUSION",
+      "cancelled": false,
+      "source": "barilochense"
+    },
+    {
+      "date": "2026-09-19",
+      "dateLabel": "Sábado 19 Septiembre, 2026",
+      "title": "Showcases del MMP 2026 en el marco del FIMBA - Sábado 19",
+      "category": "Música",
+      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/sea-producccion/-2026-09-18-14-38",
+      "blurb": "Showcases del MMP 2026 en el marco del FIMBA - Sábado 19",
       "cancelled": false,
       "source": "barilochense"
     },
@@ -563,6 +483,16 @@
     {
       "date": "2026-09-20",
       "dateLabel": "Domingo 20 Septiembre, 2026",
+      "title": "Showcases del MMP 2026 en el marco del FIMBA - Sábado 20",
+      "category": "Música",
+      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/sea-producccion/showcases-del-mmp-2026-en-el-marco-del-fimba-sbado-20-2026-09-18-16-58",
+      "blurb": "Showcases del MMP 2026 en el marco del FIMBA - Sábado 20",
+      "cancelled": false,
+      "source": "barilochense"
+    },
+    {
+      "date": "2026-09-20",
+      "dateLabel": "Domingo 20 Septiembre, 2026",
       "title": "Sietevidas, la gatopera",
       "category": "Infantiles",
       "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/bibliotecasarmiento/sietevidas-la-gatopera-2026-09-14-13-45",
@@ -591,5 +521,5 @@
       "source": "barilochense"
     }
   ],
-  "allCount": 97
+  "allCount": 125
 }
