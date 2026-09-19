@@ -1,0 +1,27 @@
+{
+  "id": "story-daily-2026-09-19",
+  "locale": "es",
+  "format": "video",
+  "hasAudio": true,
+  "musicTrack": "modern-dance-pop.mp3",
+  "musicSource": "fallback",
+  "copySource": "fallback",
+  "mode": "promo-libres",
+  "energy": "hook",
+  "layout": "editorial-left",
+  "pace": "lively",
+  "usesWeather": false,
+  "availability": {
+    "nights": 81,
+    "start": "2026-10-04",
+    "end": "2026-12-24"
+  },
+  "photo": "galeria/instagrameables/img-4468.jpg",
+  "theme": "cabaña",
+  "weather": null,
+  "weatherBadge": null,
+  "title": "Bosque desde la cabaña",
+  "subtitle": "Luz cálida, vista al verde y silencio de verdad: la cabaña es el plan.",
+  "eyebrow": "Cabaña al Bosque · sábado, 19 sept",
+  "cta": "Reservá → link en bio"
+}
