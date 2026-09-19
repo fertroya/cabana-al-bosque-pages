@@ -5,7 +5,7 @@
     {
       "id": "barilochense",
       "url": "https://www.barilochense.com/agenda-cultural",
-      "count": 69
+      "count": 60
     },
     {
       "id": "opina",
@@ -20,156 +20,16 @@
     {
       "id": "informa",
       "url": "https://barilocheinforma.gob.ar/walter-cortes-presento-una-fiesta-de-la-nieve-que-recupera-las-tradiciones-y-celebra-la-identidad-de-bariloche/",
-      "count": 11
+      "error": "fetch failed"
     }
   ],
-  "fetchedAt": "2026-09-18T14:42:20.154Z",
+  "fetchedAt": "2026-09-19T14:03:03.812Z",
   "window": {
-    "from": "2026-09-18",
-    "to": "2026-10-01",
+    "from": "2026-09-19",
+    "to": "2026-10-02",
     "days": 14
   },
   "events": [
-    {
-      "date": "2026-09-18",
-      "dateLabel": "Viernes 18 Septiembre, 2026",
-      "title": "✨ CAMARADA TANGO QUARTET",
-      "category": "Música",
-      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/fimba/-camarada-tango-quartet-2026-09-12-32-20",
-      "blurb": "✨ CAMARADA TANGO QUARTET",
-      "cancelled": false,
-      "source": "barilochense"
-    },
-    {
-      "date": "2026-09-18",
-      "dateLabel": "Viernes 18 Septiembre, 2026",
-      "title": "✨ THE LEAGUE OF CRAFTY GUITARISTS",
-      "category": "Música",
-      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/fimba/-the-league-of-crafty-guitarists-2026-09-12-31-33",
-      "blurb": "✨ THE LEAGUE OF CRAFTY GUITARISTS",
-      "cancelled": false,
-      "source": "barilochense"
-    },
-    {
-      "date": "2026-09-18",
-      "dateLabel": "Viernes 18 Septiembre, 2026",
-      "title": "Aniversario La Funk Me Up",
-      "category": "Música",
-      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/aniversario-la-funk-me-up-2026-09-16-33-36",
-      "blurb": "Aniversario La Funk Me Up",
-      "cancelled": false,
-      "source": "barilochense"
-    },
-    {
-      "date": "2026-09-18",
-      "dateLabel": "Viernes 18 Septiembre, 2026",
-      "title": "Camerata Juvenil Municipal Bariloche",
-      "category": "Música",
-      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/fimba/camerata-juvenil-municipal-bariloche-2026-09-12-33-14",
-      "blurb": "Camerata Juvenil Municipal Bariloche",
-      "cancelled": false,
-      "source": "barilochense"
-    },
-    {
-      "date": "2026-09-18",
-      "dateLabel": "Viernes 18 Septiembre, 2026",
-      "title": "Ciclo Música en las Venas presenta: “Ánimu” (2024) Cine Documental",
-      "category": "Cine",
-      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/la-biblio/ciclo-msica-en-las-venas-presenta-nimu-2024-cine-documental-2026-09-16-40-08",
-      "blurb": "Ciclo Música en las Venas presenta: “Ánimu” (2024) Cine Documental",
-      "cancelled": false,
-      "source": "barilochense"
-    },
-    {
-      "date": "2026-09-18",
-      "dateLabel": "Viernes 18 Septiembre, 2026",
-      "title": "Cine en el Oeste: Stella. A Life.",
-      "category": "Cine",
-      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/cine-en-el-oeste/cine-en-el-oeste-stella.-a-life.-2026-09-15-55-04",
-      "blurb": "Cine en el Oeste: Stella. A Life.",
-      "cancelled": false,
-      "source": "barilochense"
-    },
-    {
-      "date": "2026-09-18",
-      "dateLabel": "Viernes 18 Septiembre, 2026",
-      "title": "Concierto en el marco del FIMBA",
-      "category": "Música",
-      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/iglesia-catedral/concierto-en-el-marco-del-fimba-2026-09-15-32-34",
-      "blurb": "Concierto en el marco del FIMBA",
-      "cancelled": false,
-      "source": "barilochense"
-    },
-    {
-      "date": "2026-09-18",
-      "dateLabel": "Viernes 18 Septiembre, 2026",
-      "title": "Coral Melipal e invitados",
-      "category": "Música",
-      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/bibliotecasarmiento/coral-melipal-e-invitados-2026-09-07-12-38",
-      "blurb": "Coral Melipal e invitados",
-      "cancelled": false,
-      "source": "barilochense"
-    },
-    {
-      "date": "2026-09-18",
-      "dateLabel": "Viernes 18 Septiembre, 2026",
-      "title": "Coro Polifónico Nacional",
-      "category": "Música",
-      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/fimba/coro-polifnico-nacional-2026-09-12-34-08",
-      "blurb": "Coro Polifónico Nacional",
-      "cancelled": false,
-      "source": "barilochense"
-    },
-    {
-      "date": "2026-09-18",
-      "dateLabel": "Viernes 18 Septiembre, 2026",
-      "title": "IMPROACCIÓN: HUMOR NO DECLARADO",
-      "category": "Teatro",
-      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/impro-accion-humor-no-declarado-2026-09-17-08-44",
-      "blurb": "IMPROACCIÓN: HUMOR NO DECLARADO",
-      "cancelled": false,
-      "source": "barilochense"
-    },
-    {
-      "date": "2026-09-18",
-      "dateLabel": "Viernes 18 Septiembre, 2026",
-      "title": "Rata Blanca",
-      "category": "Música",
-      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/rata-blanca-2026-07-25-48-28",
-      "blurb": "Rata Blanca",
-      "cancelled": false,
-      "source": "barilochense"
-    },
-    {
-      "date": "2026-09-18",
-      "dateLabel": "Viernes 18 Septiembre, 2026",
-      "title": "SENTIDO MARGARITA",
-      "category": "Música",
-      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/-2026-09-15-06-13",
-      "blurb": "SENTIDO MARGARITA",
-      "cancelled": false,
-      "source": "barilochense"
-    },
-    {
-      "date": "2026-09-18",
-      "dateLabel": "Viernes 18 Septiembre, 2026",
-      "title": "STELLA - VÍCTIMA Y CULPABLE",
-      "category": "Cine",
-      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/-2026-09-16-27-57",
-      "blurb": "STELLA - VÍCTIMA Y CULPABLE",
-      "cancelled": false,
-      "source": "barilochense"
-    },
-    {
-      "date": "2026-09-18",
-      "dateLabel": "Viernes 18 Septiembre, 2026",
-      "title": "✨Franco en pedazos ✨",
-      "category": "Teatro",
-      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/el-negro/franco-en-pedazos-2026-09-11-37-40",
-      "blurb": "✨Franco en pedazos ✨",
-      "cancelled": false,
-      "source": "barilochense"
-    },
     {
       "date": "2026-09-19",
       "dateLabel": "Sábado 19 Septiembre, 2026",
@@ -247,16 +107,6 @@
       "category": "Música",
       "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/la-obra/lejos-neptuno-rock-abductivo-2026-09-08-43-43",
       "blurb": "LEJOS NEPTUNO Rock Abductivo",
-      "cancelled": false,
-      "source": "barilochense"
-    },
-    {
-      "date": "2026-09-19",
-      "dateLabel": "Sábado 19 Septiembre, 2026",
-      "title": "LOS CACHORROS",
-      "category": "Música",
-      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/los-cachorros-2026-09-16-34-41",
-      "blurb": "LOS CACHORROS",
       "cancelled": false,
       "source": "barilochense"
     },
@@ -353,10 +203,10 @@
     {
       "date": "2026-09-19",
       "dateLabel": "Sábado 19 Septiembre, 2026",
-      "title": "Showcases del MMP 2026 en el marco del FIMBA - Sábado 19",
-      "category": "Música",
-      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/sea-producccion/-2026-09-18-14-38",
-      "blurb": "Showcases del MMP 2026 en el marco del FIMBA - Sábado 19",
+      "title": "Títeres en la biblio",
+      "category": "Títeres",
+      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/aime-paine/-ro-de-tteres-en-la-biblioteca-ayudemos-a-la-abuelita-y-nube-a-llegar-al-mar.-el-programa-incluye-musica-popular-en-vivo-con-la-sonoridad-del-handpan-y-el-bandonen-les-esperamos-este-sbado-199-a-las-1630-en-nuestra-querida-biblioteca-aime-paine.-2026-09-1",
+      "blurb": "Títeres en la biblio",
       "cancelled": false,
       "source": "barilochense"
     },
@@ -501,6 +351,26 @@
       "source": "barilochense"
     },
     {
+      "date": "2026-09-24",
+      "dateLabel": "Jueves 24 Septiembre, 2026",
+      "title": "ciclo de cine las tetas filmicas",
+      "category": "Cine",
+      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/aime-paine/ciclo-de-cine-las-tetas-filmicas-2026-09-19-02-51",
+      "blurb": "ciclo de cine las tetas filmicas",
+      "cancelled": false,
+      "source": "barilochense"
+    },
+    {
+      "date": "2026-09-25",
+      "dateLabel": "Viernes 25 Septiembre, 2026",
+      "title": "ABRAPAMPA",
+      "category": "Música",
+      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/casa-macacha/abrapampa-2026-09-19-38-07",
+      "blurb": "ABRAPAMPA",
+      "cancelled": false,
+      "source": "barilochense"
+    },
+    {
       "date": "2026-09-26",
       "dateLabel": "Sábado 26 Septiembre, 2026",
       "title": "A 400 años de su muerte, Gabriel Schebor rinde homenaje a John Dowland en un concierto de laúd",
@@ -529,7 +399,17 @@
       "blurb": "Primavera Danza",
       "cancelled": false,
       "source": "barilochense"
+    },
+    {
+      "date": "2026-10-02",
+      "dateLabel": "Viernes 2 Octubre, 2026",
+      "title": "MUSTAFUNK GIRA PATAGONICA",
+      "category": "Música",
+      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/ne-ne-agenda/mustafunk-gira-patagonica-2026-08-06-42-24",
+      "blurb": "MUSTAFUNK GIRA PATAGONICA",
+      "cancelled": false,
+      "source": "barilochense"
     }
   ],
-  "allCount": 103
+  "allCount": 83
 }
