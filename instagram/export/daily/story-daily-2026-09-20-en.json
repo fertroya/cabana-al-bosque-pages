@@ -1,0 +1,27 @@
+{
+  "id": "story-daily-2026-09-20-en",
+  "locale": "en",
+  "format": "video",
+  "hasAudio": true,
+  "musicTrack": "modern-tech-house.mp3",
+  "musicSource": "fallback",
+  "copySource": "fallback",
+  "mode": "promo-libres",
+  "energy": "vivaz",
+  "layout": "classic",
+  "pace": "lively",
+  "usesWeather": true,
+  "availability": {
+    "nights": 81,
+    "start": "2026-10-04",
+    "end": "2026-12-24"
+  },
+  "photo": "galeria/instagrameables/ventana-esquina-montana.jpg",
+  "theme": "cabaña",
+  "weather": "5° máx · 2° mín · Nevada",
+  "weatherBadge": "Sun, Sep 20 · 5° high · 2° low · Snow",
+  "title": "Snowy nights still free",
+  "subtitle": "Oct 4 – Dec 23 open. Cozy inside, snow outside — book via the link in bio.",
+  "eyebrow": "Cabaña al Bosque · Sunday, Sep 20",
+  "cta": "Book → link in bio"
+}
