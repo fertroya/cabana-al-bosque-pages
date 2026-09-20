@@ -5,7 +5,7 @@
     {
       "id": "barilochense",
       "url": "https://www.barilochense.com/agenda-cultural",
-      "count": 60
+      "count": 40
     },
     {
       "id": "opina",
@@ -20,246 +20,16 @@
     {
       "id": "informa",
       "url": "https://barilocheinforma.gob.ar/walter-cortes-presento-una-fiesta-de-la-nieve-que-recupera-las-tradiciones-y-celebra-la-identidad-de-bariloche/",
-      "error": "fetch failed"
+      "count": 11
     }
   ],
-  "fetchedAt": "2026-09-19T14:03:03.812Z",
+  "fetchedAt": "2026-09-20T14:23:30.842Z",
   "window": {
-    "from": "2026-09-19",
-    "to": "2026-10-02",
+    "from": "2026-09-20",
+    "to": "2026-10-03",
     "days": 14
   },
   "events": [
-    {
-      "date": "2026-09-19",
-      "dateLabel": "Sábado 19 Septiembre, 2026",
-      "title": "“LA TIERRA DEL CANELO, Bitácora desordenada de mis viajes por Chiloé”",
-      "category": "Fotografía",
-      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/casa-macacha/la-tierra-del-canelo-bitcora-desordenada-de-mis-viajes-por-chilo-2026-09-11-21-24",
-      "blurb": "“LA TIERRA DEL CANELO, Bitácora desordenada de mis viajes por Chiloé”",
-      "cancelled": false,
-      "source": "barilochense"
-    },
-    {
-      "date": "2026-09-19",
-      "dateLabel": "Sábado 19 Septiembre, 2026",
-      "title": "AMOR AMOR",
-      "category": "Música",
-      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/amor-amor-2026-09-17-13-24",
-      "blurb": "AMOR AMOR",
-      "cancelled": false,
-      "source": "barilochense"
-    },
-    {
-      "date": "2026-09-19",
-      "dateLabel": "Sábado 19 Septiembre, 2026",
-      "title": "Belén Alvarez",
-      "category": "Música",
-      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/beln-alvarez-2026-09-08-54-14",
-      "blurb": "Belén Alvarez",
-      "cancelled": false,
-      "source": "barilochense"
-    },
-    {
-      "date": "2026-09-19",
-      "dateLabel": "Sábado 19 Septiembre, 2026",
-      "title": "Concierto en el marco del FIMBA",
-      "category": "Música",
-      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/iglesia-catedral/concierto-en-el-marco-del-fimba-2026-09-15-36-26",
-      "blurb": "Concierto en el marco del FIMBA",
-      "cancelled": false,
-      "source": "barilochense"
-    },
-    {
-      "date": "2026-09-19",
-      "dateLabel": "Sábado 19 Septiembre, 2026",
-      "title": "FIESTA VIEJAS LOCAS",
-      "category": "Música",
-      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/fiesta-viejas-locas-2026-08-19-15-59",
-      "blurb": "FIESTA VIEJAS LOCAS",
-      "cancelled": false,
-      "source": "barilochense"
-    },
-    {
-      "date": "2026-09-19",
-      "dateLabel": "Sábado 19 Septiembre, 2026",
-      "title": "JAM DE FRESTYLE",
-      "category": "Música",
-      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/-2026-09-18-26-34",
-      "blurb": "JAM DE FRESTYLE",
-      "cancelled": false,
-      "source": "barilochense"
-    },
-    {
-      "date": "2026-09-19",
-      "dateLabel": "Sábado 19 Septiembre, 2026",
-      "title": "LA VUELTA historias de un Clown",
-      "category": "Teatro",
-      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/la-vuelta-historias-de-un-clown-2026-09-04-10-00",
-      "blurb": "LA VUELTA historias de un Clown",
-      "cancelled": false,
-      "source": "barilochense"
-    },
-    {
-      "date": "2026-09-19",
-      "dateLabel": "Sábado 19 Septiembre, 2026",
-      "title": "LEJOS NEPTUNO Rock Abductivo",
-      "category": "Música",
-      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/la-obra/lejos-neptuno-rock-abductivo-2026-09-08-43-43",
-      "blurb": "LEJOS NEPTUNO Rock Abductivo",
-      "cancelled": false,
-      "source": "barilochense"
-    },
-    {
-      "date": "2026-09-19",
-      "dateLabel": "Sábado 19 Septiembre, 2026",
-      "title": "Marcelo Nemirovsky presenta “LA TIERRA DEL CANELO",
-      "category": "Fotografía",
-      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/casa-macacha/marcelo-nemirovsky-presenta-la-tierra-del-canelo-2026-09-10-07-08",
-      "blurb": "Marcelo Nemirovsky presenta “LA TIERRA DEL CANELO",
-      "cancelled": false,
-      "source": "barilochense"
-    },
-    {
-      "date": "2026-09-19",
-      "dateLabel": "Sábado 19 Septiembre, 2026",
-      "title": "Mercado de Música Patagónico",
-      "category": "Música",
-      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/fimba/mercado-de-msica-patagnico-2026-09-13-23-56",
-      "blurb": "Mercado de Música Patagónico",
-      "cancelled": false,
-      "source": "barilochense"
-    },
-    {
-      "date": "2026-09-19",
-      "dateLabel": "Sábado 19 Septiembre, 2026",
-      "title": "MICHI Y ROCKY Una historia que deja huellas",
-      "category": "Teatro",
-      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/michi-y-rocky-una-historia-que-deja-huellas-2026-09-17-16-07",
-      "blurb": "MICHI Y ROCKY Una historia que deja huellas",
-      "cancelled": false,
-      "source": "barilochense"
-    },
-    {
-      "date": "2026-09-19",
-      "dateLabel": "Sábado 19 Septiembre, 2026",
-      "title": "NOCHE DE FOLCLORE Y CHAMAME: La Gringa y El Chino",
-      "category": "Música",
-      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/noche-de-folclore-y-chamame-la-gringa-y-el-chino-2026-09-17-18-37",
-      "blurb": "NOCHE DE FOLCLORE Y CHAMAME: La Gringa y El Chino",
-      "cancelled": false,
-      "source": "barilochense"
-    },
-    {
-      "date": "2026-09-19",
-      "dateLabel": "Sábado 19 Septiembre, 2026",
-      "title": "Orquesta Filarmónica de Río Negro + Coro Polifónico Nacional + Cecilia Eguiarte (México)",
-      "category": "Música",
-      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/fimba/orquesta-filarmnica-de-ro-negro-coro-polifnico-nacional-cecilia-eguiarte-mxico-2026-09-13-26-38",
-      "blurb": "Orquesta Filarmónica de Río Negro + Coro Polifónico Nacional + Cecilia Eguiarte (México)",
-      "cancelled": false,
-      "source": "barilochense"
-    },
-    {
-      "date": "2026-09-19",
-      "dateLabel": "Sábado 19 Septiembre, 2026",
-      "title": "PEÑA MAURO CORNELIO LA FUSIONERA",
-      "category": "Música",
-      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/pea-mauro-cornelio-la-fusionera-2026-09-18-29-24",
-      "blurb": "PEÑA MAURO CORNELIO LA FUSIONERA",
-      "cancelled": false,
-      "source": "barilochense"
-    },
-    {
-      "date": "2026-09-19",
-      "dateLabel": "Sábado 19 Septiembre, 2026",
-      "title": "PIANO TRÍO JAZZ: ONGARATO - PENA - FIORONI",
-      "category": "Música",
-      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/piano-tro-jazz-ongarato-pena-fioroni-2026-09-18-24-04",
-      "blurb": "PIANO TRÍO JAZZ: ONGARATO - PENA - FIORONI",
-      "cancelled": false,
-      "source": "barilochense"
-    },
-    {
-      "date": "2026-09-19",
-      "dateLabel": "Sábado 19 Septiembre, 2026",
-      "title": "Raúl Traver Castelló y David Benites: ¡UN VIAJE POR LOS GRANDES CLÁSICOS FRANCESES!",
-      "category": "Música",
-      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/fimba/ral-traver-castell-y-david-benites-un-viaje-por-los-grandes-clsicos-franceses-2026-09-13-19-34",
-      "blurb": "Raúl Traver Castelló y David Benites: ¡UN VIAJE POR LOS GRANDES CLÁSICOS FRANCESES!",
-      "cancelled": false,
-      "source": "barilochense"
-    },
-    {
-      "date": "2026-09-19",
-      "dateLabel": "Sábado 19 Septiembre, 2026",
-      "title": "Rola Gitana FLAMENCO FUSION",
-      "category": "Música",
-      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/rola-gitana-flamenco-fusion-2026-09-17-11-57",
-      "blurb": "Rola Gitana FLAMENCO FUSION",
-      "cancelled": false,
-      "source": "barilochense"
-    },
-    {
-      "date": "2026-09-19",
-      "dateLabel": "Sábado 19 Septiembre, 2026",
-      "title": "Títeres en la biblio",
-      "category": "Títeres",
-      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/aime-paine/-ro-de-tteres-en-la-biblioteca-ayudemos-a-la-abuelita-y-nube-a-llegar-al-mar.-el-programa-incluye-musica-popular-en-vivo-con-la-sonoridad-del-handpan-y-el-bandonen-les-esperamos-este-sbado-199-a-las-1630-en-nuestra-querida-biblioteca-aime-paine.-2026-09-1",
-      "blurb": "Títeres en la biblio",
-      "cancelled": false,
-      "source": "barilochense"
-    },
-    {
-      "date": "2026-09-19",
-      "dateLabel": "Sábado 19 Septiembre, 2026",
-      "title": "푶푱푶푺 푻푹푰푺푻푬푺 푴푰푹푨푫푨 푵푨푽푨푱푨 #04",
-      "category": "Fiestas y Festivales",
-      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/-04-2026-08-18-13-19",
-      "blurb": "푶푱푶푺 푻푹푰푺푻푬푺 푴푰푹푨푫푨 푵푨푽푨푱푨 #04",
-      "cancelled": false,
-      "source": "barilochense"
-    },
-    {
-      "date": "2026-09-19",
-      "dateLabel": "Sábado 19 Septiembre, 2026",
-      "title": "流 Chango Spasiuk UNA TRAYECTORIA QUE HIZO HISTORIA",
-      "category": "Música",
-      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/fimba/-chango-spasiuk-una-trayectoria-que-hizo-historia-2026-09-13-21-50",
-      "blurb": "流 Chango Spasiuk UNA TRAYECTORIA QUE HIZO HISTORIA",
-      "cancelled": false,
-      "source": "barilochense"
-    },
-    {
-      "date": "2026-09-19",
-      "dateLabel": "Sábado 19 Septiembre, 2026",
-      "title": " Sol Liebeskind✨ UNA VOZ SIN FRONTERAS. UN VIAJE POR LOS SONIDOS DEL MUNDO. ",
-      "category": "Música",
-      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/fimba/-sol-liebeskind-una-voz-sin-fronteras.-un-viaje-por-los-sonidos-del-mundo.-2026-09-13-22-54",
-      "blurb": " Sol Liebeskind✨ UNA VOZ SIN FRONTERAS. UN VIAJE POR LOS SONIDOS DEL MUNDO. ",
-      "cancelled": false,
-      "source": "barilochense"
-    },
-    {
-      "date": "2026-09-19",
-      "dateLabel": "Sábado 19 Septiembre, 2026",
-      "title": " Guillo Espel Cuarteto presenta: “Papel Máquina”",
-      "category": "Música",
-      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/fimba/-guillo-espel-cuarteto-presenta-papel-mquina-2026-09-13-24-43",
-      "blurb": " Guillo Espel Cuarteto presenta: “Papel Máquina”",
-      "cancelled": false,
-      "source": "barilochense"
-    },
-    {
-      "date": "2026-09-19",
-      "dateLabel": "Sábado 19 Septiembre, 2026",
-      "title": " INVAP 50 años · Concierto homenaje",
-      "category": "Música",
-      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/fimba/-invap-50-aos-concierto-homenaje-2026-09-13-20-47",
-      "blurb": " INVAP 50 años · Concierto homenaje",
-      "cancelled": false,
-      "source": "barilochense"
-    },
     {
       "date": "2026-09-20",
       "dateLabel": "Domingo 20 Septiembre, 2026",
@@ -277,6 +47,16 @@
       "category": "Música",
       "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/fimba/daniela-salinas-y-lilia-salsano-piazzolla-a-dos-pianos-2026-09-14-02-20",
       "blurb": "Daniela Salinas y Lilia Salsano: ✨¡PIAZZOLLA, A DOS PIANOS!",
+      "cancelled": false,
+      "source": "barilochense"
+    },
+    {
+      "date": "2026-09-20",
+      "dateLabel": "Domingo 20 Septiembre, 2026",
+      "title": "DÚO SENTIDOS",
+      "category": "Música",
+      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/do-sentidos-2026-09-20-33-50",
+      "blurb": "DÚO SENTIDOS",
       "cancelled": false,
       "source": "barilochense"
     },
@@ -333,20 +113,30 @@
     {
       "date": "2026-09-20",
       "dateLabel": "Domingo 20 Septiembre, 2026",
-      "title": "Showcases del MMP 2026 en el marco del FIMBA - Sábado 20",
-      "category": "Música",
-      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/sea-producccion/showcases-del-mmp-2026-en-el-marco-del-fimba-sbado-20-2026-09-18-16-58",
-      "blurb": "Showcases del MMP 2026 en el marco del FIMBA - Sábado 20",
-      "cancelled": false,
-      "source": "barilochense"
-    },
-    {
-      "date": "2026-09-20",
-      "dateLabel": "Domingo 20 Septiembre, 2026",
       "title": "Sietevidas, la gatopera",
       "category": "Infantiles",
       "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/bibliotecasarmiento/sietevidas-la-gatopera-2026-09-14-13-45",
       "blurb": "Sietevidas, la gatopera",
+      "cancelled": false,
+      "source": "barilochense"
+    },
+    {
+      "date": "2026-09-21",
+      "dateLabel": "Lunes 21 Septiembre, 2026",
+      "title": "FAB 2026 Cronograma de proyecciones - Lunes 21",
+      "category": "Cine",
+      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/fab-2026-cronograma-de-proyecciones-lunes-21-2026-09-20-37-53",
+      "blurb": "FAB 2026 Cronograma de proyecciones - Lunes 21",
+      "cancelled": false,
+      "source": "barilochense"
+    },
+    {
+      "date": "2026-09-23",
+      "dateLabel": "Miércoles 23 Septiembre, 2026",
+      "title": "FAB 2026 Cronograma de actividades - Miércoles 23",
+      "category": "Cine",
+      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/fab-2026-cronograma-de-actividades-mircoles-23-2026-09-20-40-55",
+      "blurb": "FAB 2026 Cronograma de actividades - Miércoles 23",
       "cancelled": false,
       "source": "barilochense"
     },
@@ -357,6 +147,16 @@
       "category": "Cine",
       "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/aime-paine/ciclo-de-cine-las-tetas-filmicas-2026-09-19-02-51",
       "blurb": "ciclo de cine las tetas filmicas",
+      "cancelled": false,
+      "source": "barilochense"
+    },
+    {
+      "date": "2026-09-24",
+      "dateLabel": "Jueves 24 Septiembre, 2026",
+      "title": "Juzgar divide",
+      "category": "Charlas",
+      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/casa-macacha/juzgar-divide-2026-09-20-29-20",
+      "blurb": "Juzgar divide",
       "cancelled": false,
       "source": "barilochense"
     },
@@ -409,7 +209,17 @@
       "blurb": "MUSTAFUNK GIRA PATAGONICA",
       "cancelled": false,
       "source": "barilochense"
+    },
+    {
+      "date": "2026-10-03",
+      "dateLabel": "Sábado 3 Octubre, 2026",
+      "title": "AVE FENIX EN BARILOCHE",
+      "category": "Música",
+      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/-2026-08-19-20-42",
+      "blurb": "AVE FENIX EN BARILOCHE",
+      "cancelled": false,
+      "source": "barilochense"
     }
   ],
-  "allCount": 83
+  "allCount": 74
 }
