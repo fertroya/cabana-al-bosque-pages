@@ -5,7 +5,7 @@
     {
       "id": "barilochense",
       "url": "https://www.barilochense.com/agenda-cultural",
-      "count": 31
+      "count": 45
     },
     {
       "id": "opina",
@@ -23,7 +23,7 @@
       "count": 11
     }
   ],
-  "fetchedAt": "2026-09-21T12:00:50.475Z",
+  "fetchedAt": "2026-09-21T16:42:45.772Z",
   "window": {
     "from": "2026-09-21",
     "to": "2026-10-04",
@@ -41,6 +41,16 @@
       "source": "barilochense"
     },
     {
+      "date": "2026-09-22",
+      "dateLabel": "Martes 22 Septiembre, 2026",
+      "title": "FAB 2026 Cronograma de proyecciones - Martes 22",
+      "category": "Cine",
+      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/fab-2026-cronograma-de-proyecciones-martes-22-2026-09-21-18-16",
+      "blurb": "FAB 2026 Cronograma de proyecciones - Martes 22",
+      "cancelled": false,
+      "source": "barilochense"
+    },
+    {
       "date": "2026-09-23",
       "dateLabel": "Miércoles 23 Septiembre, 2026",
       "title": "FAB 2026 Cronograma de actividades - Miércoles 23",
@@ -51,12 +61,72 @@
       "source": "barilochense"
     },
     {
+      "date": "2026-09-23",
+      "dateLabel": "Miércoles 23 Septiembre, 2026",
+      "title": "FAB 2026 Cronograma de proyecciones - Miércoles 23",
+      "category": "Cine",
+      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/fab-2026-cronograma-de-proyecciones-mircoles-23-2026-09-21-20-31",
+      "blurb": "FAB 2026 Cronograma de proyecciones - Miércoles 23",
+      "cancelled": false,
+      "source": "barilochense"
+    },
+    {
+      "date": "2026-09-23",
+      "dateLabel": "Miércoles 23 Septiembre, 2026",
+      "title": "FATI SALGADO MUSICA BRASILERA",
+      "category": "Música",
+      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/fati-salgado-musica-brasilera-2026-08-31-36-19",
+      "blurb": "FATI SALGADO MUSICA BRASILERA",
+      "cancelled": false,
+      "source": "barilochense"
+    },
+    {
+      "date": "2026-09-24",
+      "dateLabel": "Jueves 24 Septiembre, 2026",
+      "title": "¡Vuelve el Cine Italiano a Bariloche!",
+      "category": "Cine",
+      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/vuelve-el-cine-italiano-a-bariloche-2026-09-02-13-46",
+      "blurb": "¡Vuelve el Cine Italiano a Bariloche!",
+      "cancelled": false,
+      "source": "barilochense"
+    },
+    {
       "date": "2026-09-24",
       "dateLabel": "Jueves 24 Septiembre, 2026",
       "title": "ciclo de cine las tetas filmicas",
       "category": "Cine",
       "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/aime-paine/ciclo-de-cine-las-tetas-filmicas-2026-09-19-02-51",
       "blurb": "ciclo de cine las tetas filmicas",
+      "cancelled": false,
+      "source": "barilochense"
+    },
+    {
+      "date": "2026-09-24",
+      "dateLabel": "Jueves 24 Septiembre, 2026",
+      "title": "CICLO DE JAZZ - FIORONI, ONGARATO & PENA",
+      "category": "Música",
+      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/ciclo-de-jazz-fioroni-ongarato-pena-2026-09-02-08-24",
+      "blurb": "CICLO DE JAZZ - FIORONI, ONGARATO & PENA",
+      "cancelled": false,
+      "source": "barilochense"
+    },
+    {
+      "date": "2026-09-24",
+      "dateLabel": "Jueves 24 Septiembre, 2026",
+      "title": "FAB 2026 Cronograma de actividades - Jueves 24",
+      "category": "Otros",
+      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/fab-2026-cronograma-de-actividades-jueves-24-2026-09-21-30-56",
+      "blurb": "FAB 2026 Cronograma de actividades - Jueves 24",
+      "cancelled": false,
+      "source": "barilochense"
+    },
+    {
+      "date": "2026-09-24",
+      "dateLabel": "Jueves 24 Septiembre, 2026",
+      "title": "FAB 2026 Cronograma de proyecciones - Jueves 24",
+      "category": "Cine",
+      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/fab-2026-cronograma-de-proyecciones-jueves-24-2026-09-21-22-24",
+      "blurb": "FAB 2026 Cronograma de proyecciones - Jueves 24",
       "cancelled": false,
       "source": "barilochense"
     },
@@ -81,6 +151,26 @@
       "source": "barilochense"
     },
     {
+      "date": "2026-09-25",
+      "dateLabel": "Viernes 25 Septiembre, 2026",
+      "title": "FAB 2026 Cronograma de actividades - Viernes 25",
+      "category": "Otros",
+      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/fab-2026-cronograma-de-actividades-viernes-25-2026-09-21-32-33",
+      "blurb": "FAB 2026 Cronograma de actividades - Viernes 25",
+      "cancelled": false,
+      "source": "barilochense"
+    },
+    {
+      "date": "2026-09-25",
+      "dateLabel": "Viernes 25 Septiembre, 2026",
+      "title": "FAB 2026 Cronograma de proyecciones - Viernes 25",
+      "category": "Cine",
+      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/fab-2026-cronograma-de-proyecciones-viernes-25-2026-09-21-25-31",
+      "blurb": "FAB 2026 Cronograma de proyecciones - Viernes 25",
+      "cancelled": false,
+      "source": "barilochense"
+    },
+    {
       "date": "2026-09-26",
       "dateLabel": "Sábado 26 Septiembre, 2026",
       "title": "A 400 años de su muerte, Gabriel Schebor rinde homenaje a John Dowland en un concierto de laúd",
@@ -93,10 +183,60 @@
     {
       "date": "2026-09-26",
       "dateLabel": "Sábado 26 Septiembre, 2026",
+      "title": "FAB 2026 Cronograma de actividades - Sábado 26",
+      "category": "Otros",
+      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/fab-2026-cronograma-de-actividades-sbado-26-2026-09-21-34-12",
+      "blurb": "FAB 2026 Cronograma de actividades - Sábado 26",
+      "cancelled": false,
+      "source": "barilochense"
+    },
+    {
+      "date": "2026-09-26",
+      "dateLabel": "Sábado 26 Septiembre, 2026",
+      "title": "FAB 2026 Cronograma de proyecciones - Sábado 26",
+      "category": "Cine",
+      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/fab-2026-cronograma-de-proyecciones-sbado-26-2026-09-21-28-18",
+      "blurb": "FAB 2026 Cronograma de proyecciones - Sábado 26",
+      "cancelled": false,
+      "source": "barilochense"
+    },
+    {
+      "date": "2026-09-26",
+      "dateLabel": "Sábado 26 Septiembre, 2026",
+      "title": "MADERA MINERAL + Nico Simari",
+      "category": "Música",
+      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/casa-macacha/madera-mineral-nico-simari-2026-09-21-37-35",
+      "blurb": "MADERA MINERAL + Nico Simari",
+      "cancelled": false,
+      "source": "barilochense"
+    },
+    {
+      "date": "2026-09-26",
+      "dateLabel": "Sábado 26 Septiembre, 2026",
       "title": "MOREIRA Puesta en abismo",
       "category": "Teatro",
       "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/la-obra/moreira-puesta-en-abismo-2026-09-18-21-25",
       "blurb": "MOREIRA Puesta en abismo",
+      "cancelled": false,
+      "source": "barilochense"
+    },
+    {
+      "date": "2026-09-26",
+      "dateLabel": "Sábado 26 Septiembre, 2026",
+      "title": "Santiago Torres PRESENTA: Chamamé con verdulera",
+      "category": "Música",
+      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/santiago-torres-presenta-chamam-con-verdulera-2026-09-21-08-30",
+      "blurb": "Santiago Torres PRESENTA: Chamamé con verdulera",
+      "cancelled": false,
+      "source": "barilochense"
+    },
+    {
+      "date": "2026-09-27",
+      "dateLabel": "Domingo 27 Septiembre, 2026",
+      "title": "FAB 2026 Cronograma de proyecciones - Domingo 27",
+      "category": "Cine",
+      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/fab-2026-cronograma-de-proyecciones-domingo-27-2026-09-21-29-11",
+      "blurb": "FAB 2026 Cronograma de proyecciones - Domingo 27",
       "cancelled": false,
       "source": "barilochense"
     },
@@ -131,5 +271,5 @@
       "source": "barilochense"
     }
   ],
-  "allCount": 65
+  "allCount": 79
 }
