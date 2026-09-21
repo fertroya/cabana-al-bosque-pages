@@ -5,7 +5,7 @@
     {
       "id": "barilochense",
       "url": "https://www.barilochense.com/agenda-cultural",
-      "count": 40
+      "count": 31
     },
     {
       "id": "opina",
@@ -23,103 +23,13 @@
       "count": 11
     }
   ],
-  "fetchedAt": "2026-09-20T14:23:30.842Z",
+  "fetchedAt": "2026-09-21T12:00:50.475Z",
   "window": {
-    "from": "2026-09-20",
-    "to": "2026-10-03",
+    "from": "2026-09-21",
+    "to": "2026-10-04",
     "days": 14
   },
   "events": [
-    {
-      "date": "2026-09-20",
-      "dateLabel": "Domingo 20 Septiembre, 2026",
-      "title": "Bob Marley Sinfónico",
-      "category": "Música",
-      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/fimba/bob-marley-sinfnico-2026-09-14-00-10",
-      "blurb": "Bob Marley Sinfónico",
-      "cancelled": false,
-      "source": "barilochense"
-    },
-    {
-      "date": "2026-09-20",
-      "dateLabel": "Domingo 20 Septiembre, 2026",
-      "title": "Daniela Salinas y Lilia Salsano: ✨¡PIAZZOLLA, A DOS PIANOS!",
-      "category": "Música",
-      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/fimba/daniela-salinas-y-lilia-salsano-piazzolla-a-dos-pianos-2026-09-14-02-20",
-      "blurb": "Daniela Salinas y Lilia Salsano: ✨¡PIAZZOLLA, A DOS PIANOS!",
-      "cancelled": false,
-      "source": "barilochense"
-    },
-    {
-      "date": "2026-09-20",
-      "dateLabel": "Domingo 20 Septiembre, 2026",
-      "title": "DÚO SENTIDOS",
-      "category": "Música",
-      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/do-sentidos-2026-09-20-33-50",
-      "blurb": "DÚO SENTIDOS",
-      "cancelled": false,
-      "source": "barilochense"
-    },
-    {
-      "date": "2026-09-20",
-      "dateLabel": "Domingo 20 Septiembre, 2026",
-      "title": "Invisible",
-      "category": "Teatro",
-      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/bibliotecasarmiento/invisible-2026-09-15-10-12",
-      "blurb": "Invisible",
-      "cancelled": false,
-      "source": "barilochense"
-    },
-    {
-      "date": "2026-09-20",
-      "dateLabel": "Domingo 20 Septiembre, 2026",
-      "title": "La vereda donde vive el gato: comedia con títeres para toda la familia.",
-      "category": "Títeres",
-      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/casa-macacha/la-vereda-donde-vive-el-gato-comedia-con-tteres-para-toda-la-familia.-2026-09-16-42-00",
-      "blurb": "La vereda donde vive el gato: comedia con títeres para toda la familia.",
-      "cancelled": false,
-      "source": "barilochense"
-    },
-    {
-      "date": "2026-09-20",
-      "dateLabel": "Domingo 20 Septiembre, 2026",
-      "title": "Lala Graffigna “la cosecha de la rosa sonia: esa rosa rosa jaspeadita “",
-      "category": "Música",
-      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/la-biblio/lala-graffigna-la-cosecha-de-la-rosa-sonia-esa-rosa-rosa-jaspeadita-2026-09-15-52-48",
-      "blurb": "Lala Graffigna “la cosecha de la rosa sonia: esa rosa rosa jaspeadita “",
-      "cancelled": false,
-      "source": "barilochense"
-    },
-    {
-      "date": "2026-09-20",
-      "dateLabel": "Domingo 20 Septiembre, 2026",
-      "title": "Niños y Jóvenes Cantores de Bariloche",
-      "category": "Música",
-      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/fimba/nios-y-jvenes-cantores-de-bariloche-2026-09-14-01-12",
-      "blurb": "Niños y Jóvenes Cantores de Bariloche",
-      "cancelled": false,
-      "source": "barilochense"
-    },
-    {
-      "date": "2026-09-20",
-      "dateLabel": "Domingo 20 Septiembre, 2026",
-      "title": "QUARTETO ATLAS · BRASIL",
-      "category": "Música",
-      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/fimba/quarteto-atlas-brasil-2026-09-14-58-49",
-      "blurb": "QUARTETO ATLAS · BRASIL",
-      "cancelled": false,
-      "source": "barilochense"
-    },
-    {
-      "date": "2026-09-20",
-      "dateLabel": "Domingo 20 Septiembre, 2026",
-      "title": "Sietevidas, la gatopera",
-      "category": "Infantiles",
-      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/bibliotecasarmiento/sietevidas-la-gatopera-2026-09-14-13-45",
-      "blurb": "Sietevidas, la gatopera",
-      "cancelled": false,
-      "source": "barilochense"
-    },
     {
       "date": "2026-09-21",
       "dateLabel": "Lunes 21 Septiembre, 2026",
@@ -221,5 +131,5 @@
       "source": "barilochense"
     }
   ],
-  "allCount": 74
+  "allCount": 65
 }
