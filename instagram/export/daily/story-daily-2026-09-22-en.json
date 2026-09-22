@@ -1,0 +1,27 @@
+{
+  "id": "story-daily-2026-09-22-en",
+  "locale": "en",
+  "format": "video",
+  "hasAudio": true,
+  "musicTrack": "modern-future-bass.mp3",
+  "musicSource": "fallback",
+  "copySource": "fallback",
+  "mode": "promo-libres",
+  "energy": "vivaz",
+  "layout": "frosted-card",
+  "pace": "lively",
+  "usesWeather": false,
+  "availability": {
+    "nights": 81,
+    "start": "2026-10-04",
+    "end": "2026-12-24"
+  },
+  "photo": "galeria/instagrameables/hogar-invierno.jpg",
+  "theme": "cabaña",
+  "weather": null,
+  "weatherBadge": null,
+  "title": "White Patagonia, open dates",
+  "subtitle": "Oct 4 – Dec 23 open. Fireplace inside, snow on the pines — book via the link in bio.",
+  "eyebrow": "Cabaña al Bosque · Tuesday, Sep 22",
+  "cta": "Book → link in bio"
+}
