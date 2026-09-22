@@ -5,7 +5,7 @@
     {
       "id": "barilochense",
       "url": "https://www.barilochense.com/agenda-cultural",
-      "count": 45
+      "count": 47
     },
     {
       "id": "opina",
@@ -23,23 +23,13 @@
       "count": 11
     }
   ],
-  "fetchedAt": "2026-09-21T16:42:45.772Z",
+  "fetchedAt": "2026-09-22T15:16:54.659Z",
   "window": {
-    "from": "2026-09-21",
-    "to": "2026-10-04",
+    "from": "2026-09-22",
+    "to": "2026-10-05",
     "days": 14
   },
   "events": [
-    {
-      "date": "2026-09-21",
-      "dateLabel": "Lunes 21 Septiembre, 2026",
-      "title": "FAB 2026 Cronograma de proyecciones - Lunes 21",
-      "category": "Cine",
-      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/fab-2026-cronograma-de-proyecciones-lunes-21-2026-09-20-37-53",
-      "blurb": "FAB 2026 Cronograma de proyecciones - Lunes 21",
-      "cancelled": false,
-      "source": "barilochense"
-    },
     {
       "date": "2026-09-22",
       "dateLabel": "Martes 22 Septiembre, 2026",
@@ -87,6 +77,16 @@
       "category": "Cine",
       "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/vuelve-el-cine-italiano-a-bariloche-2026-09-02-13-46",
       "blurb": "¡Vuelve el Cine Italiano a Bariloche!",
+      "cancelled": false,
+      "source": "barilochense"
+    },
+    {
+      "date": "2026-09-24",
+      "dateLabel": "Jueves 24 Septiembre, 2026",
+      "title": "“Iberah” - Cine Comedia Fantástica",
+      "category": "Cine",
+      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/la-biblio/iberah-cine-comedia-fantstica-2026-09-22-26-59",
+      "blurb": "“Iberah” - Cine Comedia Fantástica",
       "cancelled": false,
       "source": "barilochense"
     },
@@ -171,6 +171,16 @@
       "source": "barilochense"
     },
     {
+      "date": "2026-09-25",
+      "dateLabel": "Viernes 25 Septiembre, 2026",
+      "title": "INFLUENCIA Canciones de Charly se presenta en Emuna Bar",
+      "category": "Música",
+      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/b-shows/influencia-canciones-de-charly-se-presenta-en-emuna-bar-2026-09-22-33-51",
+      "blurb": "INFLUENCIA Canciones de Charly se presenta en Emuna Bar",
+      "cancelled": false,
+      "source": "barilochense"
+    },
+    {
       "date": "2026-09-26",
       "dateLabel": "Sábado 26 Septiembre, 2026",
       "title": "A 400 años de su muerte, Gabriel Schebor rinde homenaje a John Dowland en un concierto de laúd",
@@ -241,6 +251,16 @@
       "source": "barilochense"
     },
     {
+      "date": "2026-09-27",
+      "dateLabel": "Domingo 27 Septiembre, 2026",
+      "title": "MATINÉ PARA 5TO, 6TO Y 7MO! ",
+      "category": "Fiestas y Festivales",
+      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/casa-macacha/matin-para-5to-6to-y-7mo-2026-09-22-29-19",
+      "blurb": "MATINÉ PARA 5TO, 6TO Y 7MO! ",
+      "cancelled": false,
+      "source": "barilochense"
+    },
+    {
       "date": "2026-09-30",
       "dateLabel": "Miércoles 30 Septiembre, 2026",
       "title": "Primavera Danza",
@@ -271,5 +291,5 @@
       "source": "barilochense"
     }
   ],
-  "allCount": 79
+  "allCount": 81
 }
