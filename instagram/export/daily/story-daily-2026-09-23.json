@@ -1,0 +1,27 @@
+{
+  "id": "story-daily-2026-09-23",
+  "locale": "es",
+  "format": "video",
+  "hasAudio": true,
+  "musicTrack": "modern-pop-pulse.mp3",
+  "musicSource": "fallback",
+  "copySource": "fallback",
+  "mode": "promo-libres",
+  "energy": "hook",
+  "layout": "top-focus",
+  "pace": "lively",
+  "usesWeather": false,
+  "availability": {
+    "nights": 81,
+    "start": "2026-10-04",
+    "end": "2026-12-24"
+  },
+  "photo": "galeria/instagrameables/ventana-montana-nieve.jpg",
+  "theme": "cabaña",
+  "weather": null,
+  "weatherBadge": null,
+  "title": "Ventana con vista a la montaña",
+  "subtitle": "Luz cálida, vista al verde y silencio de verdad: la cabaña es el plan.",
+  "eyebrow": "Cabaña al Bosque · miércoles, 23 sept",
+  "cta": "Reservá → link en bio"
+}

@@ -1,0 +1,27 @@
+{
+  "id": "story-daily-2026-09-23-en",
+  "locale": "en",
+  "format": "video",
+  "hasAudio": true,
+  "musicTrack": "modern-pop-pulse.mp3",
+  "musicSource": "fallback",
+  "copySource": "fallback",
+  "mode": "promo-libres",
+  "energy": "hook",
+  "layout": "top-focus",
+  "pace": "lively",
+  "usesWeather": false,
+  "availability": {
+    "nights": 81,
+    "start": "2026-10-04",
+    "end": "2026-12-24"
+  },
+  "photo": "galeria/instagrameables/ventana-montana-nieve.jpg",
+  "theme": "cabaña",
+  "weather": null,
+  "weatherBadge": null,
+  "title": "The living room is already tidy",
+  "subtitle": "Oct 4 – Dec 23 open. Pines, Bariloche 20' away — book via the link in bio.",
+  "eyebrow": "Picture arriving",
+  "cta": "Book → link in bio"
+}
