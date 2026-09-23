@@ -5,7 +5,7 @@
     {
       "id": "barilochense",
       "url": "https://www.barilochense.com/agenda-cultural",
-      "count": 47
+      "count": 70
     },
     {
       "id": "opina",
@@ -23,23 +23,13 @@
       "count": 11
     }
   ],
-  "fetchedAt": "2026-09-22T15:16:54.659Z",
+  "fetchedAt": "2026-09-23T15:14:12.852Z",
   "window": {
-    "from": "2026-09-22",
-    "to": "2026-10-05",
+    "from": "2026-09-23",
+    "to": "2026-10-06",
     "days": 14
   },
   "events": [
-    {
-      "date": "2026-09-22",
-      "dateLabel": "Martes 22 Septiembre, 2026",
-      "title": "FAB 2026 Cronograma de proyecciones - Martes 22",
-      "category": "Cine",
-      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/fab-2026-cronograma-de-proyecciones-martes-22-2026-09-21-18-16",
-      "blurb": "FAB 2026 Cronograma de proyecciones - Martes 22",
-      "cancelled": false,
-      "source": "barilochense"
-    },
     {
       "date": "2026-09-23",
       "dateLabel": "Miércoles 23 Septiembre, 2026",
@@ -93,6 +83,16 @@
     {
       "date": "2026-09-24",
       "dateLabel": "Jueves 24 Septiembre, 2026",
+      "title": "“Mala reputación” - Cine documental",
+      "category": "Cine",
+      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/la-biblio/mala-reputacin-cine-documental-2026-09-23-32-34",
+      "blurb": "“Mala reputación” - Cine documental",
+      "cancelled": false,
+      "source": "barilochense"
+    },
+    {
+      "date": "2026-09-24",
+      "dateLabel": "Jueves 24 Septiembre, 2026",
       "title": "ciclo de cine las tetas filmicas",
       "category": "Cine",
       "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/aime-paine/ciclo-de-cine-las-tetas-filmicas-2026-09-19-02-51",
@@ -107,6 +107,16 @@
       "category": "Música",
       "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/ciclo-de-jazz-fioroni-ongarato-pena-2026-09-02-08-24",
       "blurb": "CICLO DE JAZZ - FIORONI, ONGARATO & PENA",
+      "cancelled": false,
+      "source": "barilochense"
+    },
+    {
+      "date": "2026-09-24",
+      "dateLabel": "Jueves 24 Septiembre, 2026",
+      "title": "EL COMBO SABROSÓNICO",
+      "category": "Música",
+      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/el-combo-sabrosnico-2026-09-23-20-45",
+      "blurb": "EL COMBO SABROSÓNICO",
       "cancelled": false,
       "source": "barilochense"
     },
@@ -133,6 +143,16 @@
     {
       "date": "2026-09-24",
       "dateLabel": "Jueves 24 Septiembre, 2026",
+      "title": "JUANA PIRES & ARIEL ZAMONSKY",
+      "category": "Música",
+      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/juana-pires-ariel-zamonsky-2026-09-23-17-27",
+      "blurb": "JUANA PIRES & ARIEL ZAMONSKY",
+      "cancelled": false,
+      "source": "barilochense"
+    },
+    {
+      "date": "2026-09-24",
+      "dateLabel": "Jueves 24 Septiembre, 2026",
       "title": "Juzgar divide",
       "category": "Charlas",
       "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/casa-macacha/juzgar-divide-2026-09-20-29-20",
@@ -143,10 +163,50 @@
     {
       "date": "2026-09-25",
       "dateLabel": "Viernes 25 Septiembre, 2026",
+      "title": "“3000 km en bicicleta” - Cine Documental",
+      "category": "Cine",
+      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/la-biblio/3000-km-en-bicicleta-cine-documental-2026-09-23-34-09",
+      "blurb": "“3000 km en bicicleta” - Cine Documental",
+      "cancelled": false,
+      "source": "barilochense"
+    },
+    {
+      "date": "2026-09-25",
+      "dateLabel": "Viernes 25 Septiembre, 2026",
+      "title": "“Los caminantes de la calle” - Cine Thriller Policial",
+      "category": "Cine",
+      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/la-biblio/los-caminantes-de-la-calle-cine-thriller-policial-2026-09-23-34-46",
+      "blurb": "“Los caminantes de la calle” - Cine Thriller Policial",
+      "cancelled": false,
+      "source": "barilochense"
+    },
+    {
+      "date": "2026-09-25",
+      "dateLabel": "Viernes 25 Septiembre, 2026",
       "title": "ABRAPAMPA",
       "category": "Música",
       "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/casa-macacha/abrapampa-2026-09-19-38-07",
       "blurb": "ABRAPAMPA",
+      "cancelled": false,
+      "source": "barilochense"
+    },
+    {
+      "date": "2026-09-25",
+      "dateLabel": "Viernes 25 Septiembre, 2026",
+      "title": "BUENAMADERA",
+      "category": "Música",
+      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/buenamadera-2026-09-23-24-41",
+      "blurb": "BUENAMADERA",
+      "cancelled": false,
+      "source": "barilochense"
+    },
+    {
+      "date": "2026-09-25",
+      "dateLabel": "Viernes 25 Septiembre, 2026",
+      "title": "Cine en el Oeste: J'accuse",
+      "category": "Cine",
+      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/cine-en-el-oeste/cine-en-el-oeste-jaccuse-2026-09-23-40-53",
+      "blurb": "Cine en el Oeste: J'accuse",
       "cancelled": false,
       "source": "barilochense"
     },
@@ -177,6 +237,16 @@
       "category": "Música",
       "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/b-shows/influencia-canciones-de-charly-se-presenta-en-emuna-bar-2026-09-22-33-51",
       "blurb": "INFLUENCIA Canciones de Charly se presenta en Emuna Bar",
+      "cancelled": false,
+      "source": "barilochense"
+    },
+    {
+      "date": "2026-09-25",
+      "dateLabel": "Viernes 25 Septiembre, 2026",
+      "title": "MERCENARIOS: FIESTA DE LOS 80'",
+      "category": "Música",
+      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/mercenarios-fiesta-de-los-80-2026-09-23-19-36",
+      "blurb": "MERCENARIOS: FIESTA DE LOS 80'",
       "cancelled": false,
       "source": "barilochense"
     },
@@ -241,6 +311,16 @@
       "source": "barilochense"
     },
     {
+      "date": "2026-09-26",
+      "dateLabel": "Sábado 26 Septiembre, 2026",
+      "title": "ZIBERIA YARIA",
+      "category": "Música",
+      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/ziberia-yaria-2026-09-23-23-07",
+      "blurb": "ZIBERIA YARIA",
+      "cancelled": false,
+      "source": "barilochense"
+    },
+    {
       "date": "2026-09-27",
       "dateLabel": "Domingo 27 Septiembre, 2026",
       "title": "FAB 2026 Cronograma de proyecciones - Domingo 27",
@@ -291,5 +371,5 @@
       "source": "barilochense"
     }
   ],
-  "allCount": 81
+  "allCount": 104
 }
