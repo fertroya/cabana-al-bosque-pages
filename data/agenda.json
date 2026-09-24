@@ -5,7 +5,7 @@
     {
       "id": "barilochense",
       "url": "https://www.barilochense.com/agenda-cultural",
-      "count": 70
+      "count": 74
     },
     {
       "id": "opina",
@@ -23,43 +23,13 @@
       "count": 11
     }
   ],
-  "fetchedAt": "2026-09-23T15:14:12.852Z",
+  "fetchedAt": "2026-09-24T15:36:42.625Z",
   "window": {
-    "from": "2026-09-23",
-    "to": "2026-10-06",
+    "from": "2026-09-24",
+    "to": "2026-10-07",
     "days": 14
   },
   "events": [
-    {
-      "date": "2026-09-23",
-      "dateLabel": "Miércoles 23 Septiembre, 2026",
-      "title": "FAB 2026 Cronograma de actividades - Miércoles 23",
-      "category": "Cine",
-      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/fab-2026-cronograma-de-actividades-mircoles-23-2026-09-20-40-55",
-      "blurb": "FAB 2026 Cronograma de actividades - Miércoles 23",
-      "cancelled": false,
-      "source": "barilochense"
-    },
-    {
-      "date": "2026-09-23",
-      "dateLabel": "Miércoles 23 Septiembre, 2026",
-      "title": "FAB 2026 Cronograma de proyecciones - Miércoles 23",
-      "category": "Cine",
-      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/fab-2026-cronograma-de-proyecciones-mircoles-23-2026-09-21-20-31",
-      "blurb": "FAB 2026 Cronograma de proyecciones - Miércoles 23",
-      "cancelled": false,
-      "source": "barilochense"
-    },
-    {
-      "date": "2026-09-23",
-      "dateLabel": "Miércoles 23 Septiembre, 2026",
-      "title": "FATI SALGADO MUSICA BRASILERA",
-      "category": "Música",
-      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/fati-salgado-musica-brasilera-2026-08-31-36-19",
-      "blurb": "FATI SALGADO MUSICA BRASILERA",
-      "cancelled": false,
-      "source": "barilochense"
-    },
     {
       "date": "2026-09-24",
       "dateLabel": "Jueves 24 Septiembre, 2026",
@@ -123,16 +93,6 @@
     {
       "date": "2026-09-24",
       "dateLabel": "Jueves 24 Septiembre, 2026",
-      "title": "FAB 2026 Cronograma de actividades - Jueves 24",
-      "category": "Otros",
-      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/fab-2026-cronograma-de-actividades-jueves-24-2026-09-21-30-56",
-      "blurb": "FAB 2026 Cronograma de actividades - Jueves 24",
-      "cancelled": false,
-      "source": "barilochense"
-    },
-    {
-      "date": "2026-09-24",
-      "dateLabel": "Jueves 24 Septiembre, 2026",
       "title": "FAB 2026 Cronograma de proyecciones - Jueves 24",
       "category": "Cine",
       "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/fab-2026-cronograma-de-proyecciones-jueves-24-2026-09-21-22-24",
@@ -157,6 +117,26 @@
       "category": "Charlas",
       "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/casa-macacha/juzgar-divide-2026-09-20-29-20",
       "blurb": "Juzgar divide",
+      "cancelled": false,
+      "source": "barilochense"
+    },
+    {
+      "date": "2026-09-24",
+      "dateLabel": "Jueves 24 Septiembre, 2026",
+      "title": "TRÍO DE JAZZ: AGUSTIN DELLA GASPERA - JOSHUA ZENZ - FACUNDO RIGATUSO",
+      "category": "Música",
+      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/tro-de-jazz-agustin-della-gaspera-joshua-zenz-facundo-rigatuso-2026-09-24-52-00",
+      "blurb": "TRÍO DE JAZZ: AGUSTIN DELLA GASPERA - JOSHUA ZENZ - FACUNDO RIGATUSO",
+      "cancelled": false,
+      "source": "barilochense"
+    },
+    {
+      "date": "2026-09-24",
+      "dateLabel": "Jueves 24 Septiembre, 2026",
+      "title": "WINCOFONES",
+      "category": "Música",
+      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/-2026-09-24-04-20",
+      "blurb": "WINCOFONES",
       "cancelled": false,
       "source": "barilochense"
     },
@@ -207,6 +187,16 @@
       "category": "Cine",
       "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/cine-en-el-oeste/cine-en-el-oeste-jaccuse-2026-09-23-40-53",
       "blurb": "Cine en el Oeste: J'accuse",
+      "cancelled": false,
+      "source": "barilochense"
+    },
+    {
+      "date": "2026-09-25",
+      "dateLabel": "Viernes 25 Septiembre, 2026",
+      "title": "EMILIANO ZAMORA",
+      "category": "Música",
+      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/emiliano-zamora-2026-09-24-06-16",
+      "blurb": "EMILIANO ZAMORA",
       "cancelled": false,
       "source": "barilochense"
     },
@@ -283,6 +273,36 @@
     {
       "date": "2026-09-26",
       "dateLabel": "Sábado 26 Septiembre, 2026",
+      "title": "FORTUNE - TRIBUTO A CREEDENCE",
+      "category": "Música",
+      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/fortune-tributo-a-creedence-2026-09-24-54-57",
+      "blurb": "FORTUNE - TRIBUTO A CREEDENCE",
+      "cancelled": false,
+      "source": "barilochense"
+    },
+    {
+      "date": "2026-09-26",
+      "dateLabel": "Sábado 26 Septiembre, 2026",
+      "title": "LA FUSIONERA",
+      "category": "Música",
+      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/la-fusionera-2026-09-24-53-18",
+      "blurb": "LA FUSIONERA",
+      "cancelled": false,
+      "source": "barilochense"
+    },
+    {
+      "date": "2026-09-26",
+      "dateLabel": "Sábado 26 Septiembre, 2026",
+      "title": "Lou Hernandez y Seba Boetto",
+      "category": "Música",
+      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/lou-hernandez-y-seba-boetto-2026-09-24-53-54",
+      "blurb": "Lou Hernandez y Seba Boetto",
+      "cancelled": false,
+      "source": "barilochense"
+    },
+    {
+      "date": "2026-09-26",
+      "dateLabel": "Sábado 26 Septiembre, 2026",
       "title": "MADERA MINERAL + Nico Simari",
       "category": "Música",
       "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/casa-macacha/madera-mineral-nico-simari-2026-09-21-37-35",
@@ -303,10 +323,30 @@
     {
       "date": "2026-09-26",
       "dateLabel": "Sábado 26 Septiembre, 2026",
+      "title": "Primavera y Biodiversidad en Patagonia",
+      "category": "Charlas",
+      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/primavera-y-biodiversidad-en-patagonia-2026-09-23-36-23",
+      "blurb": "Primavera y Biodiversidad en Patagonia",
+      "cancelled": false,
+      "source": "barilochense"
+    },
+    {
+      "date": "2026-09-26",
+      "dateLabel": "Sábado 26 Septiembre, 2026",
       "title": "Santiago Torres PRESENTA: Chamamé con verdulera",
       "category": "Música",
       "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/santiago-torres-presenta-chamam-con-verdulera-2026-09-21-08-30",
       "blurb": "Santiago Torres PRESENTA: Chamamé con verdulera",
+      "cancelled": false,
+      "source": "barilochense"
+    },
+    {
+      "date": "2026-09-26",
+      "dateLabel": "Sábado 26 Septiembre, 2026",
+      "title": "TROPICO PAMPA",
+      "category": "Música",
+      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/tropico-pampa-2026-09-24-57-00",
+      "blurb": "TROPICO PAMPA",
       "cancelled": false,
       "source": "barilochense"
     },
@@ -371,5 +411,5 @@
       "source": "barilochense"
     }
   ],
-  "allCount": 104
+  "allCount": 108
 }
