@@ -5,7 +5,7 @@
     {
       "id": "barilochense",
       "url": "https://www.barilochense.com/agenda-cultural",
-      "count": 74
+      "count": 67
     },
     {
       "id": "opina",
@@ -23,123 +23,13 @@
       "count": 11
     }
   ],
-  "fetchedAt": "2026-09-24T15:36:42.625Z",
+  "fetchedAt": "2026-09-25T15:41:07.568Z",
   "window": {
-    "from": "2026-09-24",
-    "to": "2026-10-07",
+    "from": "2026-09-25",
+    "to": "2026-10-08",
     "days": 14
   },
   "events": [
-    {
-      "date": "2026-09-24",
-      "dateLabel": "Jueves 24 Septiembre, 2026",
-      "title": "¡Vuelve el Cine Italiano a Bariloche!",
-      "category": "Cine",
-      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/vuelve-el-cine-italiano-a-bariloche-2026-09-02-13-46",
-      "blurb": "¡Vuelve el Cine Italiano a Bariloche!",
-      "cancelled": false,
-      "source": "barilochense"
-    },
-    {
-      "date": "2026-09-24",
-      "dateLabel": "Jueves 24 Septiembre, 2026",
-      "title": "“Iberah” - Cine Comedia Fantástica",
-      "category": "Cine",
-      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/la-biblio/iberah-cine-comedia-fantstica-2026-09-22-26-59",
-      "blurb": "“Iberah” - Cine Comedia Fantástica",
-      "cancelled": false,
-      "source": "barilochense"
-    },
-    {
-      "date": "2026-09-24",
-      "dateLabel": "Jueves 24 Septiembre, 2026",
-      "title": "“Mala reputación” - Cine documental",
-      "category": "Cine",
-      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/la-biblio/mala-reputacin-cine-documental-2026-09-23-32-34",
-      "blurb": "“Mala reputación” - Cine documental",
-      "cancelled": false,
-      "source": "barilochense"
-    },
-    {
-      "date": "2026-09-24",
-      "dateLabel": "Jueves 24 Septiembre, 2026",
-      "title": "ciclo de cine las tetas filmicas",
-      "category": "Cine",
-      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/aime-paine/ciclo-de-cine-las-tetas-filmicas-2026-09-19-02-51",
-      "blurb": "ciclo de cine las tetas filmicas",
-      "cancelled": false,
-      "source": "barilochense"
-    },
-    {
-      "date": "2026-09-24",
-      "dateLabel": "Jueves 24 Septiembre, 2026",
-      "title": "CICLO DE JAZZ - FIORONI, ONGARATO & PENA",
-      "category": "Música",
-      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/ciclo-de-jazz-fioroni-ongarato-pena-2026-09-02-08-24",
-      "blurb": "CICLO DE JAZZ - FIORONI, ONGARATO & PENA",
-      "cancelled": false,
-      "source": "barilochense"
-    },
-    {
-      "date": "2026-09-24",
-      "dateLabel": "Jueves 24 Septiembre, 2026",
-      "title": "EL COMBO SABROSÓNICO",
-      "category": "Música",
-      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/el-combo-sabrosnico-2026-09-23-20-45",
-      "blurb": "EL COMBO SABROSÓNICO",
-      "cancelled": false,
-      "source": "barilochense"
-    },
-    {
-      "date": "2026-09-24",
-      "dateLabel": "Jueves 24 Septiembre, 2026",
-      "title": "FAB 2026 Cronograma de proyecciones - Jueves 24",
-      "category": "Cine",
-      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/fab-2026-cronograma-de-proyecciones-jueves-24-2026-09-21-22-24",
-      "blurb": "FAB 2026 Cronograma de proyecciones - Jueves 24",
-      "cancelled": false,
-      "source": "barilochense"
-    },
-    {
-      "date": "2026-09-24",
-      "dateLabel": "Jueves 24 Septiembre, 2026",
-      "title": "JUANA PIRES & ARIEL ZAMONSKY",
-      "category": "Música",
-      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/juana-pires-ariel-zamonsky-2026-09-23-17-27",
-      "blurb": "JUANA PIRES & ARIEL ZAMONSKY",
-      "cancelled": false,
-      "source": "barilochense"
-    },
-    {
-      "date": "2026-09-24",
-      "dateLabel": "Jueves 24 Septiembre, 2026",
-      "title": "Juzgar divide",
-      "category": "Charlas",
-      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/casa-macacha/juzgar-divide-2026-09-20-29-20",
-      "blurb": "Juzgar divide",
-      "cancelled": false,
-      "source": "barilochense"
-    },
-    {
-      "date": "2026-09-24",
-      "dateLabel": "Jueves 24 Septiembre, 2026",
-      "title": "TRÍO DE JAZZ: AGUSTIN DELLA GASPERA - JOSHUA ZENZ - FACUNDO RIGATUSO",
-      "category": "Música",
-      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/tro-de-jazz-agustin-della-gaspera-joshua-zenz-facundo-rigatuso-2026-09-24-52-00",
-      "blurb": "TRÍO DE JAZZ: AGUSTIN DELLA GASPERA - JOSHUA ZENZ - FACUNDO RIGATUSO",
-      "cancelled": false,
-      "source": "barilochense"
-    },
-    {
-      "date": "2026-09-24",
-      "dateLabel": "Jueves 24 Septiembre, 2026",
-      "title": "WINCOFONES",
-      "category": "Música",
-      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/-2026-09-24-04-20",
-      "blurb": "WINCOFONES",
-      "cancelled": false,
-      "source": "barilochense"
-    },
     {
       "date": "2026-09-25",
       "dateLabel": "Viernes 25 Septiembre, 2026",
@@ -203,16 +93,6 @@
     {
       "date": "2026-09-25",
       "dateLabel": "Viernes 25 Septiembre, 2026",
-      "title": "FAB 2026 Cronograma de actividades - Viernes 25",
-      "category": "Otros",
-      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/fab-2026-cronograma-de-actividades-viernes-25-2026-09-21-32-33",
-      "blurb": "FAB 2026 Cronograma de actividades - Viernes 25",
-      "cancelled": false,
-      "source": "barilochense"
-    },
-    {
-      "date": "2026-09-25",
-      "dateLabel": "Viernes 25 Septiembre, 2026",
       "title": "FAB 2026 Cronograma de proyecciones - Viernes 25",
       "category": "Cine",
       "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/fab-2026-cronograma-de-proyecciones-viernes-25-2026-09-21-25-31",
@@ -233,10 +113,10 @@
     {
       "date": "2026-09-25",
       "dateLabel": "Viernes 25 Septiembre, 2026",
-      "title": "MERCENARIOS: FIESTA DE LOS 80'",
+      "title": "LA JULIA FLORES y JUAMPI GONZALEZ - DESPUÉS DEL DRAMA",
       "category": "Música",
-      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/mercenarios-fiesta-de-los-80-2026-09-23-19-36",
-      "blurb": "MERCENARIOS: FIESTA DE LOS 80'",
+      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/la-julia-flores-y-juampi-gonzalez-despus-del-drama-2026-09-25-18-34",
+      "blurb": "LA JULIA FLORES y JUAMPI GONZALEZ - DESPUÉS DEL DRAMA",
       "cancelled": false,
       "source": "barilochense"
     },
@@ -247,6 +127,16 @@
       "category": "Música",
       "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/camping-musical/a-400-aos-de-su-muerte-gabriel-schebor-rinde-homenaje-a-john-dowland-en-un-concierto-de-lad-2026-07-30-46-30",
       "blurb": "A 400 años de su muerte, Gabriel Schebor rinde homenaje a John Dowland en un concierto de laúd",
+      "cancelled": false,
+      "source": "barilochense"
+    },
+    {
+      "date": "2026-09-26",
+      "dateLabel": "Sábado 26 Septiembre, 2026",
+      "title": "Ciclo Brújula 17ª Edición",
+      "category": "Música",
+      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/el-negro/ciclo-brjula-17-edicin-2026-09-25-14-53",
+      "blurb": "Ciclo Brújula 17ª Edición",
       "cancelled": false,
       "source": "barilochense"
     },
@@ -287,6 +177,16 @@
       "category": "Música",
       "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/la-fusionera-2026-09-24-53-18",
       "blurb": "LA FUSIONERA",
+      "cancelled": false,
+      "source": "barilochense"
+    },
+    {
+      "date": "2026-09-26",
+      "dateLabel": "Sábado 26 Septiembre, 2026",
+      "title": "LA JULIA FLORES y JUAMPI GONZALEZ - DESPUÉS DEL DRAMA",
+      "category": "Música",
+      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/la-julia-flores-y-juampi-gonzalez-despus-del-drama-2026-09-25-20-08",
+      "blurb": "LA JULIA FLORES y JUAMPI GONZALEZ - DESPUÉS DEL DRAMA",
       "cancelled": false,
       "source": "barilochense"
     },
@@ -381,12 +281,32 @@
       "source": "barilochense"
     },
     {
+      "date": "2026-09-28",
+      "dateLabel": "Lunes 28 Septiembre, 2026",
+      "title": "Cre-arte invita a su tradicional FERIA DE PLANTAS",
+      "category": "Ferias",
+      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/cre-arte/cre-arte-invita-a-su-tradicional-feria-de-plantas-2026-09-25-58-45",
+      "blurb": "Cre-arte invita a su tradicional FERIA DE PLANTAS",
+      "cancelled": false,
+      "source": "barilochense"
+    },
+    {
       "date": "2026-09-30",
       "dateLabel": "Miércoles 30 Septiembre, 2026",
       "title": "Primavera Danza",
       "category": "Danza",
       "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/bibliotecasarmiento/primavera-danza-2026-09-17-33-35",
       "blurb": "Primavera Danza",
+      "cancelled": false,
+      "source": "barilochense"
+    },
+    {
+      "date": "2026-10-01",
+      "dateLabel": "Jueves 1 Octubre, 2026",
+      "title": "Show de tango: La forfai",
+      "category": "Tango",
+      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/bibliotecasarmiento/show-de-tango-la-forfai-2026-09-25-22-37",
+      "blurb": "Show de tango: La forfai",
       "cancelled": false,
       "source": "barilochense"
     },
@@ -409,7 +329,47 @@
       "blurb": "AVE FENIX EN BARILOCHE",
       "cancelled": false,
       "source": "barilochense"
+    },
+    {
+      "date": "2026-10-03",
+      "dateLabel": "Sábado 3 Octubre, 2026",
+      "title": "Ciclo Puertas de Cre-arte presenta Refugio",
+      "category": "Música",
+      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/cre-arte/ciclo-puertas-de-cre-arte-presenta-refugio-2026-09-25-35-30",
+      "blurb": "Ciclo Puertas de Cre-arte presenta Refugio",
+      "cancelled": false,
+      "source": "barilochense"
+    },
+    {
+      "date": "2026-10-08",
+      "dateLabel": "Jueves 8 Octubre, 2026",
+      "title": "52° 35 'S; 69° 14 'W - Nevadas Escénicas 2026",
+      "category": "Teatro",
+      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/nevadas-de-teatro/52-35-s-69-14-w-nevadas-escnicas-2026-2026-09-23-55-41",
+      "blurb": "52° 35 'S; 69° 14 'W - Nevadas Escénicas 2026",
+      "cancelled": false,
+      "source": "barilochense"
+    },
+    {
+      "date": "2026-10-08",
+      "dateLabel": "Jueves 8 Octubre, 2026",
+      "title": "CRIMINAL - Nevadas Escénicas 2026",
+      "category": "Teatro",
+      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/nevadas-de-teatro/criminal-2026-09-23-50-44",
+      "blurb": "CRIMINAL - Nevadas Escénicas 2026",
+      "cancelled": false,
+      "source": "barilochense"
+    },
+    {
+      "date": "2026-10-08",
+      "dateLabel": "Jueves 8 Octubre, 2026",
+      "title": "HARINERA, TE GANARÁS EL PAN CON EL SUDOR DE TU FRENTE - Nevadas Escénicas 2026",
+      "category": "Teatro",
+      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/nevadas-de-teatro/harinera-te-ganars-el-pan-con-el-sudor-de-tu-frente-nevadas-escnicas-2026-2026-09-23-56-35",
+      "blurb": "HARINERA, TE GANARÁS EL PAN CON EL SUDOR DE TU FRENTE - Nevadas Escénicas 2026",
+      "cancelled": false,
+      "source": "barilochense"
     }
   ],
-  "allCount": 108
+  "allCount": 101
 }
