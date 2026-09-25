@@ -1,0 +1,27 @@
+{
+  "id": "story-daily-2026-09-25-en",
+  "locale": "en",
+  "format": "video",
+  "hasAudio": true,
+  "musicTrack": "upbeat-indie-pop.mp3",
+  "musicSource": "fallback",
+  "copySource": "fallback",
+  "mode": "promo-libres",
+  "energy": "hook",
+  "layout": "classic",
+  "pace": "lively",
+  "usesWeather": true,
+  "availability": {
+    "nights": 81,
+    "start": "2026-10-04",
+    "end": "2026-12-24"
+  },
+  "photo": "galeria/instagrameables/dormitorio-listo.jpg",
+  "theme": "cabaña",
+  "weather": "9° máx · 3° mín · Nevadas dispersas",
+  "weatherBadge": "Fri, Sep 25 · 9° high · 3° low · Snow showers",
+  "title": "Winter with room left",
+  "subtitle": "Oct 4 – Dec 23 open. Cozy inside, snow outside — book via the link in bio.",
+  "eyebrow": "Cabaña al Bosque · Friday, Sep 25",
+  "cta": "Book → link in bio"
+}
