@@ -1,0 +1,23 @@
+{
+  "id": "story-balc-2026-09-25",
+  "date": "2026-09-25",
+  "locale": "es",
+  "image": "balc/feria-balc-2.jpg",
+  "eyebrow": "Feria · Centro Cívico",
+  "title": "9–12 oct frente al lago",
+  "subtitle": "Productores, cocineros y emprendedores en el Cívico. Dormís lejos del ruido — entradas BALC incluidas.",
+  "cta": "Reservá → link en bio",
+  "layout": "classic",
+  "pace": "lively",
+  "energy": "hook",
+  "mode": "promo-balc",
+  "durationMs": 12000,
+  "musicTrack": "modern-pop-pulse.mp3",
+  "musicSource": "ollama",
+  "musicVolume": 0.52,
+  "format": "video",
+  "publicPath": "daily/story-balc-2026-09-25.mp4",
+  "campaign": "balc-2026",
+  "day": 4,
+  "key": "feria"
+}
