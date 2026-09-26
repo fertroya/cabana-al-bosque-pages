@@ -1,0 +1,27 @@
+{
+  "id": "story-daily-2026-09-26-en",
+  "locale": "en",
+  "format": "video",
+  "hasAudio": true,
+  "musicTrack": "modern-dance-pop.mp3",
+  "musicSource": "fallback",
+  "copySource": "balc",
+  "mode": "promo-balc",
+  "energy": "hook",
+  "layout": "editorial-left",
+  "pace": "lively",
+  "usesWeather": false,
+  "availability": {
+    "nights": 81,
+    "start": "2026-10-04",
+    "end": "2026-12-24"
+  },
+  "photo": "balc/tarjeta-de-beneficios-balc.jpg",
+  "theme": "gastronomia",
+  "weather": null,
+  "weatherBadge": null,
+  "title": "BALC tickets on us",
+  "subtitle": "Stay with us during the event and the tickets are free. Nights still open — link in bio.",
+  "eyebrow": "Our guests",
+  "cta": "Book → link in bio"
+}

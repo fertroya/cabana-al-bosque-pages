@@ -1,0 +1,27 @@
+{
+  "id": "story-daily-2026-09-26",
+  "locale": "es",
+  "format": "video",
+  "hasAudio": true,
+  "musicTrack": "modern-dance-pop.mp3",
+  "musicSource": "fallback",
+  "copySource": "balc",
+  "mode": "promo-balc",
+  "energy": "hook",
+  "layout": "editorial-left",
+  "pace": "lively",
+  "usesWeather": false,
+  "availability": {
+    "nights": 81,
+    "start": "2026-10-04",
+    "end": "2026-12-24"
+  },
+  "photo": "balc/tarjeta-de-beneficios-balc.jpg",
+  "theme": "gastronomia",
+  "weather": null,
+  "weatherBadge": null,
+  "title": "BALC sin pagar entrada",
+  "subtitle": "Si te hospedás con nosotros durante el evento, las entradas van de regalo. Quedan noches — bio.",
+  "eyebrow": "Huéspedes Cabaña al Bosque",
+  "cta": "Reservá → link en bio"
+}
