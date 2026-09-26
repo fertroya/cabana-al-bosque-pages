@@ -5,7 +5,7 @@
     {
       "id": "barilochense",
       "url": "https://www.barilochense.com/agenda-cultural",
-      "count": 67
+      "count": 63
     },
     {
       "id": "opina",
@@ -23,103 +23,13 @@
       "count": 11
     }
   ],
-  "fetchedAt": "2026-09-25T15:41:07.568Z",
+  "fetchedAt": "2026-09-26T14:48:56.990Z",
   "window": {
-    "from": "2026-09-25",
-    "to": "2026-10-08",
+    "from": "2026-09-26",
+    "to": "2026-10-09",
     "days": 14
   },
   "events": [
-    {
-      "date": "2026-09-25",
-      "dateLabel": "Viernes 25 Septiembre, 2026",
-      "title": "“3000 km en bicicleta” - Cine Documental",
-      "category": "Cine",
-      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/la-biblio/3000-km-en-bicicleta-cine-documental-2026-09-23-34-09",
-      "blurb": "“3000 km en bicicleta” - Cine Documental",
-      "cancelled": false,
-      "source": "barilochense"
-    },
-    {
-      "date": "2026-09-25",
-      "dateLabel": "Viernes 25 Septiembre, 2026",
-      "title": "“Los caminantes de la calle” - Cine Thriller Policial",
-      "category": "Cine",
-      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/la-biblio/los-caminantes-de-la-calle-cine-thriller-policial-2026-09-23-34-46",
-      "blurb": "“Los caminantes de la calle” - Cine Thriller Policial",
-      "cancelled": false,
-      "source": "barilochense"
-    },
-    {
-      "date": "2026-09-25",
-      "dateLabel": "Viernes 25 Septiembre, 2026",
-      "title": "ABRAPAMPA",
-      "category": "Música",
-      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/casa-macacha/abrapampa-2026-09-19-38-07",
-      "blurb": "ABRAPAMPA",
-      "cancelled": false,
-      "source": "barilochense"
-    },
-    {
-      "date": "2026-09-25",
-      "dateLabel": "Viernes 25 Septiembre, 2026",
-      "title": "BUENAMADERA",
-      "category": "Música",
-      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/buenamadera-2026-09-23-24-41",
-      "blurb": "BUENAMADERA",
-      "cancelled": false,
-      "source": "barilochense"
-    },
-    {
-      "date": "2026-09-25",
-      "dateLabel": "Viernes 25 Septiembre, 2026",
-      "title": "Cine en el Oeste: J'accuse",
-      "category": "Cine",
-      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/cine-en-el-oeste/cine-en-el-oeste-jaccuse-2026-09-23-40-53",
-      "blurb": "Cine en el Oeste: J'accuse",
-      "cancelled": false,
-      "source": "barilochense"
-    },
-    {
-      "date": "2026-09-25",
-      "dateLabel": "Viernes 25 Septiembre, 2026",
-      "title": "EMILIANO ZAMORA",
-      "category": "Música",
-      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/emiliano-zamora-2026-09-24-06-16",
-      "blurb": "EMILIANO ZAMORA",
-      "cancelled": false,
-      "source": "barilochense"
-    },
-    {
-      "date": "2026-09-25",
-      "dateLabel": "Viernes 25 Septiembre, 2026",
-      "title": "FAB 2026 Cronograma de proyecciones - Viernes 25",
-      "category": "Cine",
-      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/fab-2026-cronograma-de-proyecciones-viernes-25-2026-09-21-25-31",
-      "blurb": "FAB 2026 Cronograma de proyecciones - Viernes 25",
-      "cancelled": false,
-      "source": "barilochense"
-    },
-    {
-      "date": "2026-09-25",
-      "dateLabel": "Viernes 25 Septiembre, 2026",
-      "title": "INFLUENCIA Canciones de Charly se presenta en Emuna Bar",
-      "category": "Música",
-      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/b-shows/influencia-canciones-de-charly-se-presenta-en-emuna-bar-2026-09-22-33-51",
-      "blurb": "INFLUENCIA Canciones de Charly se presenta en Emuna Bar",
-      "cancelled": false,
-      "source": "barilochense"
-    },
-    {
-      "date": "2026-09-25",
-      "dateLabel": "Viernes 25 Septiembre, 2026",
-      "title": "LA JULIA FLORES y JUAMPI GONZALEZ - DESPUÉS DEL DRAMA",
-      "category": "Música",
-      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/la-julia-flores-y-juampi-gonzalez-despus-del-drama-2026-09-25-18-34",
-      "blurb": "LA JULIA FLORES y JUAMPI GONZALEZ - DESPUÉS DEL DRAMA",
-      "cancelled": false,
-      "source": "barilochense"
-    },
     {
       "date": "2026-09-26",
       "dateLabel": "Sábado 26 Septiembre, 2026",
@@ -143,16 +53,6 @@
     {
       "date": "2026-09-26",
       "dateLabel": "Sábado 26 Septiembre, 2026",
-      "title": "FAB 2026 Cronograma de actividades - Sábado 26",
-      "category": "Otros",
-      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/fab-2026-cronograma-de-actividades-sbado-26-2026-09-21-34-12",
-      "blurb": "FAB 2026 Cronograma de actividades - Sábado 26",
-      "cancelled": false,
-      "source": "barilochense"
-    },
-    {
-      "date": "2026-09-26",
-      "dateLabel": "Sábado 26 Septiembre, 2026",
       "title": "FAB 2026 Cronograma de proyecciones - Sábado 26",
       "category": "Cine",
       "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/fab-2026-cronograma-de-proyecciones-sbado-26-2026-09-21-28-18",
@@ -167,6 +67,16 @@
       "category": "Música",
       "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/fortune-tributo-a-creedence-2026-09-24-54-57",
       "blurb": "FORTUNE - TRIBUTO A CREEDENCE",
+      "cancelled": false,
+      "source": "barilochense"
+    },
+    {
+      "date": "2026-09-26",
+      "dateLabel": "Sábado 26 Septiembre, 2026",
+      "title": "INCOMPARABLES",
+      "category": "Música",
+      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/incomparables-2026-09-26-14-58",
+      "blurb": "INCOMPARABLES",
       "cancelled": false,
       "source": "barilochense"
     },
@@ -223,6 +133,16 @@
     {
       "date": "2026-09-26",
       "dateLabel": "Sábado 26 Septiembre, 2026",
+      "title": "PELUSA EN EL PUPO 15 AÑOS",
+      "category": "Música",
+      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/pelusa-en-el-pupo-15-aos-2026-09-26-10-34",
+      "blurb": "PELUSA EN EL PUPO 15 AÑOS",
+      "cancelled": false,
+      "source": "barilochense"
+    },
+    {
+      "date": "2026-09-26",
+      "dateLabel": "Sábado 26 Septiembre, 2026",
       "title": "Primavera y Biodiversidad en Patagonia",
       "category": "Charlas",
       "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/primavera-y-biodiversidad-en-patagonia-2026-09-23-36-23",
@@ -263,6 +183,16 @@
     {
       "date": "2026-09-27",
       "dateLabel": "Domingo 27 Septiembre, 2026",
+      "title": "DOMINGO PEÑERO con DAMY ARTEAGA",
+      "category": "Música",
+      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/domingo-peero-con-damy-arteaga-2026-09-26-12-51",
+      "blurb": "DOMINGO PEÑERO con DAMY ARTEAGA",
+      "cancelled": false,
+      "source": "barilochense"
+    },
+    {
+      "date": "2026-09-27",
+      "dateLabel": "Domingo 27 Septiembre, 2026",
       "title": "FAB 2026 Cronograma de proyecciones - Domingo 27",
       "category": "Cine",
       "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/fab-2026-cronograma-de-proyecciones-domingo-27-2026-09-21-29-11",
@@ -287,6 +217,16 @@
       "category": "Ferias",
       "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/cre-arte/cre-arte-invita-a-su-tradicional-feria-de-plantas-2026-09-25-58-45",
       "blurb": "Cre-arte invita a su tradicional FERIA DE PLANTAS",
+      "cancelled": false,
+      "source": "barilochense"
+    },
+    {
+      "date": "2026-09-29",
+      "dateLabel": "Martes 29 Septiembre, 2026",
+      "title": "ESTEPA EL LUGAR MENOS PENSADO DE MARIANO BENITO",
+      "category": "Cine",
+      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/estepa-el-lugar-menos-pensado-de-mariano-benito-2026-09-26-17-15",
+      "blurb": "ESTEPA EL LUGAR MENOS PENSADO DE MARIANO BENITO",
       "cancelled": false,
       "source": "barilochense"
     },
@@ -317,6 +257,16 @@
       "category": "Música",
       "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/ne-ne-agenda/mustafunk-gira-patagonica-2026-08-06-42-24",
       "blurb": "MUSTAFUNK GIRA PATAGONICA",
+      "cancelled": false,
+      "source": "barilochense"
+    },
+    {
+      "date": "2026-10-02",
+      "dateLabel": "Viernes 2 Octubre, 2026",
+      "title": "Sentido Margarita: Romper la brújula de siempre",
+      "category": "Música",
+      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/bibliotecasarmiento/sentido-margarita-romper-la-brjula-de-siempre-2026-09-26-22-07",
+      "blurb": "Sentido Margarita: Romper la brújula de siempre",
       "cancelled": false,
       "source": "barilochense"
     },
@@ -369,7 +319,37 @@
       "blurb": "HARINERA, TE GANARÁS EL PAN CON EL SUDOR DE TU FRENTE - Nevadas Escénicas 2026",
       "cancelled": false,
       "source": "barilochense"
+    },
+    {
+      "date": "2026-10-09",
+      "dateLabel": "Viernes 9 Octubre, 2026",
+      "title": "BOTÁNICO, MELODRAMA SILVESTRE - Nevadas Escénicas 2026",
+      "category": "Teatro",
+      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/nevadas-de-teatro/botnico-melodrama-silvestre-nevadas-escnicas-2026-2026-09-23-53-30",
+      "blurb": "BOTÁNICO, MELODRAMA SILVESTRE - Nevadas Escénicas 2026",
+      "cancelled": false,
+      "source": "barilochense"
+    },
+    {
+      "date": "2026-10-09",
+      "dateLabel": "Viernes 9 Octubre, 2026",
+      "title": "EL CAMINO DE MUM - Nevadas Escénicas 2026",
+      "category": "Teatro",
+      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/nevadas-de-teatro/el-camino-de-mum-nevadas-escnicas-2026-2026-09-23-57-43",
+      "blurb": "EL CAMINO DE MUM - Nevadas Escénicas 2026",
+      "cancelled": false,
+      "source": "barilochense"
+    },
+    {
+      "date": "2026-10-09",
+      "dateLabel": "Viernes 9 Octubre, 2026",
+      "title": "TE ESTABA ESPERANDO - Nevadas Escénicas 2026",
+      "category": "Teatro",
+      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/nevadas-de-teatro/te-estaba-esperando-nevadas-escnicas-2026-2026-09-23-54-29",
+      "blurb": "TE ESTABA ESPERANDO - Nevadas Escénicas 2026",
+      "cancelled": false,
+      "source": "barilochense"
     }
   ],
-  "allCount": 101
+  "allCount": 97
 }
