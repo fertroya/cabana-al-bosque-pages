@@ -5,7 +5,7 @@
     {
       "id": "barilochense",
       "url": "https://www.barilochense.com/agenda-cultural",
-      "count": 63
+      "count": 50
     },
     {
       "id": "opina",
@@ -23,163 +23,13 @@
       "count": 11
     }
   ],
-  "fetchedAt": "2026-09-26T14:48:56.990Z",
+  "fetchedAt": "2026-09-27T15:27:51.005Z",
   "window": {
-    "from": "2026-09-26",
-    "to": "2026-10-09",
+    "from": "2026-09-27",
+    "to": "2026-10-10",
     "days": 14
   },
   "events": [
-    {
-      "date": "2026-09-26",
-      "dateLabel": "Sábado 26 Septiembre, 2026",
-      "title": "A 400 años de su muerte, Gabriel Schebor rinde homenaje a John Dowland en un concierto de laúd",
-      "category": "Música",
-      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/camping-musical/a-400-aos-de-su-muerte-gabriel-schebor-rinde-homenaje-a-john-dowland-en-un-concierto-de-lad-2026-07-30-46-30",
-      "blurb": "A 400 años de su muerte, Gabriel Schebor rinde homenaje a John Dowland en un concierto de laúd",
-      "cancelled": false,
-      "source": "barilochense"
-    },
-    {
-      "date": "2026-09-26",
-      "dateLabel": "Sábado 26 Septiembre, 2026",
-      "title": "Ciclo Brújula 17ª Edición",
-      "category": "Música",
-      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/el-negro/ciclo-brjula-17-edicin-2026-09-25-14-53",
-      "blurb": "Ciclo Brújula 17ª Edición",
-      "cancelled": false,
-      "source": "barilochense"
-    },
-    {
-      "date": "2026-09-26",
-      "dateLabel": "Sábado 26 Septiembre, 2026",
-      "title": "FAB 2026 Cronograma de proyecciones - Sábado 26",
-      "category": "Cine",
-      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/fab-2026-cronograma-de-proyecciones-sbado-26-2026-09-21-28-18",
-      "blurb": "FAB 2026 Cronograma de proyecciones - Sábado 26",
-      "cancelled": false,
-      "source": "barilochense"
-    },
-    {
-      "date": "2026-09-26",
-      "dateLabel": "Sábado 26 Septiembre, 2026",
-      "title": "FORTUNE - TRIBUTO A CREEDENCE",
-      "category": "Música",
-      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/fortune-tributo-a-creedence-2026-09-24-54-57",
-      "blurb": "FORTUNE - TRIBUTO A CREEDENCE",
-      "cancelled": false,
-      "source": "barilochense"
-    },
-    {
-      "date": "2026-09-26",
-      "dateLabel": "Sábado 26 Septiembre, 2026",
-      "title": "INCOMPARABLES",
-      "category": "Música",
-      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/incomparables-2026-09-26-14-58",
-      "blurb": "INCOMPARABLES",
-      "cancelled": false,
-      "source": "barilochense"
-    },
-    {
-      "date": "2026-09-26",
-      "dateLabel": "Sábado 26 Septiembre, 2026",
-      "title": "LA FUSIONERA",
-      "category": "Música",
-      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/la-fusionera-2026-09-24-53-18",
-      "blurb": "LA FUSIONERA",
-      "cancelled": false,
-      "source": "barilochense"
-    },
-    {
-      "date": "2026-09-26",
-      "dateLabel": "Sábado 26 Septiembre, 2026",
-      "title": "LA JULIA FLORES y JUAMPI GONZALEZ - DESPUÉS DEL DRAMA",
-      "category": "Música",
-      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/la-julia-flores-y-juampi-gonzalez-despus-del-drama-2026-09-25-20-08",
-      "blurb": "LA JULIA FLORES y JUAMPI GONZALEZ - DESPUÉS DEL DRAMA",
-      "cancelled": false,
-      "source": "barilochense"
-    },
-    {
-      "date": "2026-09-26",
-      "dateLabel": "Sábado 26 Septiembre, 2026",
-      "title": "Lou Hernandez y Seba Boetto",
-      "category": "Música",
-      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/lou-hernandez-y-seba-boetto-2026-09-24-53-54",
-      "blurb": "Lou Hernandez y Seba Boetto",
-      "cancelled": false,
-      "source": "barilochense"
-    },
-    {
-      "date": "2026-09-26",
-      "dateLabel": "Sábado 26 Septiembre, 2026",
-      "title": "MADERA MINERAL + Nico Simari",
-      "category": "Música",
-      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/casa-macacha/madera-mineral-nico-simari-2026-09-21-37-35",
-      "blurb": "MADERA MINERAL + Nico Simari",
-      "cancelled": false,
-      "source": "barilochense"
-    },
-    {
-      "date": "2026-09-26",
-      "dateLabel": "Sábado 26 Septiembre, 2026",
-      "title": "MOREIRA Puesta en abismo",
-      "category": "Teatro",
-      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/la-obra/moreira-puesta-en-abismo-2026-09-18-21-25",
-      "blurb": "MOREIRA Puesta en abismo",
-      "cancelled": false,
-      "source": "barilochense"
-    },
-    {
-      "date": "2026-09-26",
-      "dateLabel": "Sábado 26 Septiembre, 2026",
-      "title": "PELUSA EN EL PUPO 15 AÑOS",
-      "category": "Música",
-      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/pelusa-en-el-pupo-15-aos-2026-09-26-10-34",
-      "blurb": "PELUSA EN EL PUPO 15 AÑOS",
-      "cancelled": false,
-      "source": "barilochense"
-    },
-    {
-      "date": "2026-09-26",
-      "dateLabel": "Sábado 26 Septiembre, 2026",
-      "title": "Primavera y Biodiversidad en Patagonia",
-      "category": "Charlas",
-      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/primavera-y-biodiversidad-en-patagonia-2026-09-23-36-23",
-      "blurb": "Primavera y Biodiversidad en Patagonia",
-      "cancelled": false,
-      "source": "barilochense"
-    },
-    {
-      "date": "2026-09-26",
-      "dateLabel": "Sábado 26 Septiembre, 2026",
-      "title": "Santiago Torres PRESENTA: Chamamé con verdulera",
-      "category": "Música",
-      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/santiago-torres-presenta-chamam-con-verdulera-2026-09-21-08-30",
-      "blurb": "Santiago Torres PRESENTA: Chamamé con verdulera",
-      "cancelled": false,
-      "source": "barilochense"
-    },
-    {
-      "date": "2026-09-26",
-      "dateLabel": "Sábado 26 Septiembre, 2026",
-      "title": "TROPICO PAMPA",
-      "category": "Música",
-      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/tropico-pampa-2026-09-24-57-00",
-      "blurb": "TROPICO PAMPA",
-      "cancelled": false,
-      "source": "barilochense"
-    },
-    {
-      "date": "2026-09-26",
-      "dateLabel": "Sábado 26 Septiembre, 2026",
-      "title": "ZIBERIA YARIA",
-      "category": "Música",
-      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/ziberia-yaria-2026-09-23-23-07",
-      "blurb": "ZIBERIA YARIA",
-      "cancelled": false,
-      "source": "barilochense"
-    },
     {
       "date": "2026-09-27",
       "dateLabel": "Domingo 27 Septiembre, 2026",
@@ -343,13 +193,53 @@
     {
       "date": "2026-10-09",
       "dateLabel": "Viernes 9 Octubre, 2026",
+      "title": "TANGO ALQUIMIA - Viaje al Rio de la Plata",
+      "category": "Tango",
+      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/tango-alquimia-viaje-al-rio-de-la-plata-2026-09-27-52-53",
+      "blurb": "TANGO ALQUIMIA - Viaje al Rio de la Plata",
+      "cancelled": false,
+      "source": "barilochense"
+    },
+    {
+      "date": "2026-10-09",
+      "dateLabel": "Viernes 9 Octubre, 2026",
       "title": "TE ESTABA ESPERANDO - Nevadas Escénicas 2026",
       "category": "Teatro",
       "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/nevadas-de-teatro/te-estaba-esperando-nevadas-escnicas-2026-2026-09-23-54-29",
       "blurb": "TE ESTABA ESPERANDO - Nevadas Escénicas 2026",
       "cancelled": false,
       "source": "barilochense"
+    },
+    {
+      "date": "2026-10-10",
+      "dateLabel": "Sábado 10 Octubre, 2026",
+      "title": "ALEERSE - Nevadas Escénicas 2026",
+      "category": "Danza",
+      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/nevadas-de-teatro/aleerse-2026-09-23-49-12",
+      "blurb": "ALEERSE - Nevadas Escénicas 2026",
+      "cancelled": false,
+      "source": "barilochense"
+    },
+    {
+      "date": "2026-10-10",
+      "dateLabel": "Sábado 10 Octubre, 2026",
+      "title": "EL AMOR HA MUERTO - Nevadas Escénicas 2026",
+      "category": "Teatro",
+      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/nevadas-de-teatro/el-amor-ha-muerto-nevadas-escnicas-2026-2026-09-23-52-30",
+      "blurb": "EL AMOR HA MUERTO - Nevadas Escénicas 2026",
+      "cancelled": false,
+      "source": "barilochense"
+    },
+    {
+      "date": "2026-10-10",
+      "dateLabel": "Sábado 10 Octubre, 2026",
+      "title": "LOS MONSTRUOS VAN DEBAJO DE LA CAMA - Nevadas Escénicas 2026",
+      "category": "Teatro",
+      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/nevadas-de-teatro/los-monstruos-van-debajo-de-la-cama-nevadas-escnicas-2026-2026-09-23-03-05",
+      "blurb": "LOS MONSTRUOS VAN DEBAJO DE LA CAMA - Nevadas Escénicas 2026",
+      "cancelled": false,
+      "source": "barilochense"
     }
   ],
-  "allCount": 97
+  "allCount": 84
 }
