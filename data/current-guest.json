@@ -1,8 +1,15 @@
 {
   "date": "2026-09-27",
+<<<<<<< HEAD
   "firstName": "RODRIGUEZ",
   "checkIn": "2026-09-27",
   "checkOut": "2026-10-04",
   "fetchedAt": "2026-09-27T15:27:51.911Z",
+=======
+  "firstName": "Fede",
+  "checkIn": "2026-09-27",
+  "checkOut": "2026-10-04",
+  "fetchedAt": "2026-09-27T22:22:50.988Z",
+>>>>>>> 62dd1e4 (Show Fede on Tu Estadía instead of the surname from iCal.)
   "reason": "single"
 }
