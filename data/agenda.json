@@ -5,7 +5,7 @@
     {
       "id": "barilochense",
       "url": "https://www.barilochense.com/agenda-cultural",
-      "count": 50
+      "count": 49
     },
     {
       "id": "opina",
@@ -23,53 +23,13 @@
       "count": 11
     }
   ],
-  "fetchedAt": "2026-09-27T15:27:51.005Z",
+  "fetchedAt": "2026-09-28T18:19:00.019Z",
   "window": {
-    "from": "2026-09-27",
-    "to": "2026-10-10",
+    "from": "2026-09-28",
+    "to": "2026-10-11",
     "days": 14
   },
   "events": [
-    {
-      "date": "2026-09-27",
-      "dateLabel": "Domingo 27 Septiembre, 2026",
-      "title": "DOMINGO PEÑERO con DAMY ARTEAGA",
-      "category": "Música",
-      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/domingo-peero-con-damy-arteaga-2026-09-26-12-51",
-      "blurb": "DOMINGO PEÑERO con DAMY ARTEAGA",
-      "cancelled": false,
-      "source": "barilochense"
-    },
-    {
-      "date": "2026-09-27",
-      "dateLabel": "Domingo 27 Septiembre, 2026",
-      "title": "FAB 2026 Cronograma de proyecciones - Domingo 27",
-      "category": "Cine",
-      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/fab-2026-cronograma-de-proyecciones-domingo-27-2026-09-21-29-11",
-      "blurb": "FAB 2026 Cronograma de proyecciones - Domingo 27",
-      "cancelled": false,
-      "source": "barilochense"
-    },
-    {
-      "date": "2026-09-27",
-      "dateLabel": "Domingo 27 Septiembre, 2026",
-      "title": "MATINÉ PARA 5TO, 6TO Y 7MO! ",
-      "category": "Fiestas y Festivales",
-      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/casa-macacha/matin-para-5to-6to-y-7mo-2026-09-22-29-19",
-      "blurb": "MATINÉ PARA 5TO, 6TO Y 7MO! ",
-      "cancelled": false,
-      "source": "barilochense"
-    },
-    {
-      "date": "2026-09-28",
-      "dateLabel": "Lunes 28 Septiembre, 2026",
-      "title": "Cre-arte invita a su tradicional FERIA DE PLANTAS",
-      "category": "Ferias",
-      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/cre-arte/cre-arte-invita-a-su-tradicional-feria-de-plantas-2026-09-25-58-45",
-      "blurb": "Cre-arte invita a su tradicional FERIA DE PLANTAS",
-      "cancelled": false,
-      "source": "barilochense"
-    },
     {
       "date": "2026-09-29",
       "dateLabel": "Martes 29 Septiembre, 2026",
@@ -83,10 +43,30 @@
     {
       "date": "2026-09-30",
       "dateLabel": "Miércoles 30 Septiembre, 2026",
+      "title": "FATI SALGADO MUSICA BRASILERA",
+      "category": "Música",
+      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/fati-salgado-musica-brasilera-2026-08-31-36-19",
+      "blurb": "FATI SALGADO MUSICA BRASILERA",
+      "cancelled": false,
+      "source": "barilochense"
+    },
+    {
+      "date": "2026-09-30",
+      "dateLabel": "Miércoles 30 Septiembre, 2026",
       "title": "Primavera Danza",
       "category": "Danza",
       "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/bibliotecasarmiento/primavera-danza-2026-09-17-33-35",
       "blurb": "Primavera Danza",
+      "cancelled": false,
+      "source": "barilochense"
+    },
+    {
+      "date": "2026-10-01",
+      "dateLabel": "Jueves 1 Octubre, 2026",
+      "title": "¡Vuelve el Cine Italiano a Bariloche!",
+      "category": "Cine",
+      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/vuelve-el-cine-italiano-a-bariloche-2026-09-02-13-46",
+      "blurb": "¡Vuelve el Cine Italiano a Bariloche!",
       "cancelled": false,
       "source": "barilochense"
     },
@@ -183,6 +163,16 @@
     {
       "date": "2026-10-09",
       "dateLabel": "Viernes 9 Octubre, 2026",
+      "title": "Cardomanso",
+      "category": "Música",
+      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/bibliotecasarmiento/cardomanso-2026-09-28-19-15",
+      "blurb": "Cardomanso",
+      "cancelled": false,
+      "source": "barilochense"
+    },
+    {
+      "date": "2026-10-09",
+      "dateLabel": "Viernes 9 Octubre, 2026",
       "title": "EL CAMINO DE MUM - Nevadas Escénicas 2026",
       "category": "Teatro",
       "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/nevadas-de-teatro/el-camino-de-mum-nevadas-escnicas-2026-2026-09-23-57-43",
@@ -239,7 +229,57 @@
       "blurb": "LOS MONSTRUOS VAN DEBAJO DE LA CAMA - Nevadas Escénicas 2026",
       "cancelled": false,
       "source": "barilochense"
+    },
+    {
+      "date": "2026-10-11",
+      "dateLabel": "Domingo 11 Octubre, 2026",
+      "title": "Amor Vacante",
+      "category": "Música",
+      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/ne-ne-agenda/amor-vacante-2026-09-16-37-32",
+      "blurb": "Amor Vacante",
+      "cancelled": false,
+      "source": "barilochense"
+    },
+    {
+      "date": "2026-10-11",
+      "dateLabel": "Domingo 11 Octubre, 2026",
+      "title": "LA BENDICIÓN - Nevadas Escénicas 2026",
+      "category": "Teatro",
+      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/nevadas-de-teatro/la-bendicin-nevadas-escnicas-2026-2026-09-23-00-12",
+      "blurb": "LA BENDICIÓN - Nevadas Escénicas 2026",
+      "cancelled": false,
+      "source": "barilochense"
+    },
+    {
+      "date": "2026-10-11",
+      "dateLabel": "Domingo 11 Octubre, 2026",
+      "title": "LAS ÚLTIMAS PALABRAS - Nevadas Escénicas 2026",
+      "category": "Teatro",
+      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/nevadas-de-teatro/las-ltimas-palabras-2026-09-23-58-47",
+      "blurb": "LAS ÚLTIMAS PALABRAS - Nevadas Escénicas 2026",
+      "cancelled": false,
+      "source": "barilochense"
+    },
+    {
+      "date": "2026-10-11",
+      "dateLabel": "Domingo 11 Octubre, 2026",
+      "title": "MTV HITZ llega a Bariloche",
+      "category": "Música",
+      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/mtv-hitz-llega-a-bariloche-2026-08-10-35-22",
+      "blurb": "MTV HITZ llega a Bariloche",
+      "cancelled": false,
+      "source": "barilochense"
+    },
+    {
+      "date": "2026-10-11",
+      "dateLabel": "Domingo 11 Octubre, 2026",
+      "title": "SUAVECITA - Nevadas Escénicas 2026",
+      "category": "Teatro",
+      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/nevadas-de-teatro/suavecita-nevadas-escnicas-2026-2026-09-23-07-11",
+      "blurb": "SUAVECITA - Nevadas Escénicas 2026",
+      "cancelled": false,
+      "source": "barilochense"
     }
   ],
-  "allCount": 84
+  "allCount": 83
 }
