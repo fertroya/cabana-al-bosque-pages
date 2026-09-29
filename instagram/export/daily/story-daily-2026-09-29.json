@@ -1,0 +1,27 @@
+{
+  "id": "story-daily-2026-09-29",
+  "locale": "es",
+  "format": "video",
+  "hasAudio": true,
+  "musicTrack": "modern-future-bass.mp3",
+  "musicSource": "fallback",
+  "copySource": "balc",
+  "mode": "promo-balc",
+  "energy": "hook",
+  "layout": "frosted-card",
+  "pace": "lively",
+  "usesWeather": false,
+  "availability": {
+    "nights": 81,
+    "start": "2026-10-04",
+    "end": "2026-12-24"
+  },
+  "photo": "balc/defustaciones.jpg",
+  "theme": "gastronomia",
+  "weather": null,
+  "weatherBadge": null,
+  "title": "Sabores de la región, gratis",
+  "subtitle": "Probá productos patagónicos en la semana BALC. Nosotros ponemos la cabaña y las entradas — bio.",
+  "eyebrow": "Catas & degustaciones",
+  "cta": "Reservá → link en bio"
+}
