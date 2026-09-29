@@ -5,7 +5,7 @@
     {
       "id": "barilochense",
       "url": "https://www.barilochense.com/agenda-cultural",
-      "count": 49
+      "count": 64
     },
     {
       "id": "opina",
@@ -23,10 +23,10 @@
       "count": 11
     }
   ],
-  "fetchedAt": "2026-09-28T18:19:00.019Z",
+  "fetchedAt": "2026-09-29T16:41:54.175Z",
   "window": {
-    "from": "2026-09-28",
-    "to": "2026-10-11",
+    "from": "2026-09-29",
+    "to": "2026-10-12",
     "days": 14
   },
   "events": [
@@ -61,6 +61,16 @@
       "source": "barilochense"
     },
     {
+      "date": "2026-09-30",
+      "dateLabel": "Miércoles 30 Septiembre, 2026",
+      "title": "RolaGitana FLAMENCO FUSION",
+      "category": "Música",
+      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/rolagitana-flamenco-fusion-2026-09-29-28-01",
+      "blurb": "RolaGitana FLAMENCO FUSION",
+      "cancelled": false,
+      "source": "barilochense"
+    },
+    {
       "date": "2026-10-01",
       "dateLabel": "Jueves 1 Octubre, 2026",
       "title": "¡Vuelve el Cine Italiano a Bariloche!",
@@ -73,10 +83,70 @@
     {
       "date": "2026-10-01",
       "dateLabel": "Jueves 1 Octubre, 2026",
+      "title": "CICLO DE JAZZ - FIORONI, ONGARATO & PENA",
+      "category": "Música",
+      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/ciclo-de-jazz-fioroni-ongarato-pena-2026-09-02-08-24",
+      "blurb": "CICLO DE JAZZ - FIORONI, ONGARATO & PENA",
+      "cancelled": false,
+      "source": "barilochense"
+    },
+    {
+      "date": "2026-10-01",
+      "dateLabel": "Jueves 1 Octubre, 2026",
+      "title": "JAM DE IMPRO",
+      "category": "Teatro",
+      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/jam-de-impro-2026-09-29-26-24",
+      "blurb": "JAM DE IMPRO",
+      "cancelled": false,
+      "source": "barilochense"
+    },
+    {
+      "date": "2026-10-01",
+      "dateLabel": "Jueves 1 Octubre, 2026",
+      "title": "Sesiones Acústicas de MÚSICA CON IDEAS: COMPAÑÍA DE CUERDAS",
+      "category": "Música",
+      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/sesiones-acsticas-de-msica-con-ideas-compaa-de-cuerdas-2026-09-29-27-14",
+      "blurb": "Sesiones Acústicas de MÚSICA CON IDEAS: COMPAÑÍA DE CUERDAS",
+      "cancelled": false,
+      "source": "barilochense"
+    },
+    {
+      "date": "2026-10-01",
+      "dateLabel": "Jueves 1 Octubre, 2026",
       "title": "Show de tango: La forfai",
       "category": "Tango",
       "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/bibliotecasarmiento/show-de-tango-la-forfai-2026-09-25-22-37",
       "blurb": "Show de tango: La forfai",
+      "cancelled": false,
+      "source": "barilochense"
+    },
+    {
+      "date": "2026-10-02",
+      "dateLabel": "Viernes 2 Octubre, 2026",
+      "title": "Capitán Buscapina",
+      "category": "Música",
+      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/casa-macacha/capitn-buscapina-2026-09-29-47-21",
+      "blurb": "Capitán Buscapina",
+      "cancelled": false,
+      "source": "barilochense"
+    },
+    {
+      "date": "2026-10-02",
+      "dateLabel": "Viernes 2 Octubre, 2026",
+      "title": "Cine en el Oeste: La passion de Dodin Bouffantaka",
+      "category": "Cine",
+      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/cine-en-el-oeste/cine-en-el-oeste-la-passion-de-dodin-bouffantaka-2026-09-29-10-56",
+      "blurb": "Cine en el Oeste: La passion de Dodin Bouffantaka",
+      "cancelled": false,
+      "source": "barilochense"
+    },
+    {
+      "date": "2026-10-02",
+      "dateLabel": "Viernes 2 Octubre, 2026",
+      "title": "INFLUENCIA CANCIONES DE CHARLY GARCIA",
+      "category": "Música",
+      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/-2026-09-29-35-43",
+      "blurb": "INFLUENCIA CANCIONES DE CHARLY GARCIA",
       "cancelled": false,
       "source": "barilochense"
     },
@@ -101,6 +171,26 @@
       "source": "barilochense"
     },
     {
+      "date": "2026-10-02",
+      "dateLabel": "Viernes 2 Octubre, 2026",
+      "title": "TALLER DE BANDONEÓN Y CLÍNICA ORQUESTAL DE TANGO",
+      "category": "Cursos y talleres",
+      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/taller-de-bandonen-y-clnica-orquestal-de-tango-2026-09-29-15-36",
+      "blurb": "TALLER DE BANDONEÓN Y CLÍNICA ORQUESTAL DE TANGO",
+      "cancelled": false,
+      "source": "barilochense"
+    },
+    {
+      "date": "2026-10-02",
+      "dateLabel": "Viernes 2 Octubre, 2026",
+      "title": "Un paseo por la fontana rosa. Obras de micro teatro",
+      "category": "Teatro",
+      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/moma/un-paseo-por-la-fontana-rosa-2026-09-28-41-38",
+      "blurb": "Un paseo por la fontana rosa. Obras de micro teatro",
+      "cancelled": false,
+      "source": "barilochense"
+    },
+    {
       "date": "2026-10-03",
       "dateLabel": "Sábado 3 Octubre, 2026",
       "title": "AVE FENIX EN BARILOCHE",
@@ -117,6 +207,46 @@
       "category": "Música",
       "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/cre-arte/ciclo-puertas-de-cre-arte-presenta-refugio-2026-09-25-35-30",
       "blurb": "Ciclo Puertas de Cre-arte presenta Refugio",
+      "cancelled": false,
+      "source": "barilochense"
+    },
+    {
+      "date": "2026-10-03",
+      "dateLabel": "Sábado 3 Octubre, 2026",
+      "title": "HOMENAJE A TROILO – NUEVA FUNCIÓN",
+      "category": "Música",
+      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/homenaje-a-troilo-nueva-funcin-2026-09-29-17-15",
+      "blurb": "HOMENAJE A TROILO – NUEVA FUNCIÓN",
+      "cancelled": false,
+      "source": "barilochense"
+    },
+    {
+      "date": "2026-10-03",
+      "dateLabel": "Sábado 3 Octubre, 2026",
+      "title": "ORQUESTA TÍPICA PATAGONIA TANGO",
+      "category": "Música",
+      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/orquesta-tpica-patagonia-tango-2026-09-29-19-59",
+      "blurb": "ORQUESTA TÍPICA PATAGONIA TANGO",
+      "cancelled": false,
+      "source": "barilochense"
+    },
+    {
+      "date": "2026-10-03",
+      "dateLabel": "Sábado 3 Octubre, 2026",
+      "title": "Rocket ROCK MÚSICA EN VIVO",
+      "category": "Música",
+      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/rocket-rock-msica-en-vivo-2026-09-29-38-03",
+      "blurb": "Rocket ROCK MÚSICA EN VIVO",
+      "cancelled": false,
+      "source": "barilochense"
+    },
+    {
+      "date": "2026-10-04",
+      "dateLabel": "Domingo 4 Octubre, 2026",
+      "title": "ENCUENTRO PRIMAVERA",
+      "category": "Expo",
+      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/la-biblio/encuentro-primavera-2026-09-29-44-12",
+      "blurb": "ENCUENTRO PRIMAVERA",
       "cancelled": false,
       "source": "barilochense"
     },
@@ -281,5 +411,5 @@
       "source": "barilochense"
     }
   ],
-  "allCount": 83
+  "allCount": 98
 }
