@@ -5,7 +5,7 @@
     {
       "id": "barilochense",
       "url": "https://www.barilochense.com/agenda-cultural",
-      "count": 64
+      "count": 74
     },
     {
       "id": "opina",
@@ -23,23 +23,13 @@
       "count": 11
     }
   ],
-  "fetchedAt": "2026-09-29T16:41:54.175Z",
+  "fetchedAt": "2026-09-30T16:33:30.361Z",
   "window": {
-    "from": "2026-09-29",
-    "to": "2026-10-12",
+    "from": "2026-09-30",
+    "to": "2026-10-13",
     "days": 14
   },
   "events": [
-    {
-      "date": "2026-09-29",
-      "dateLabel": "Martes 29 Septiembre, 2026",
-      "title": "ESTEPA EL LUGAR MENOS PENSADO DE MARIANO BENITO",
-      "category": "Cine",
-      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/estepa-el-lugar-menos-pensado-de-mariano-benito-2026-09-26-17-15",
-      "blurb": "ESTEPA EL LUGAR MENOS PENSADO DE MARIANO BENITO",
-      "cancelled": false,
-      "source": "barilochense"
-    },
     {
       "date": "2026-09-30",
       "dateLabel": "Miércoles 30 Septiembre, 2026",
@@ -123,6 +113,16 @@
     {
       "date": "2026-10-02",
       "dateLabel": "Viernes 2 Octubre, 2026",
+      "title": "ALFONSINA & GUSTAVO: CAFÉ DO BRASIL VOL.2",
+      "category": "Música",
+      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/-2026-09-30-14-40",
+      "blurb": "ALFONSINA & GUSTAVO: CAFÉ DO BRASIL VOL.2",
+      "cancelled": false,
+      "source": "barilochense"
+    },
+    {
+      "date": "2026-10-02",
+      "dateLabel": "Viernes 2 Octubre, 2026",
       "title": "Capitán Buscapina",
       "category": "Música",
       "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/casa-macacha/capitn-buscapina-2026-09-29-47-21",
@@ -143,12 +143,12 @@
     {
       "date": "2026-10-02",
       "dateLabel": "Viernes 2 Octubre, 2026",
-      "title": "INFLUENCIA CANCIONES DE CHARLY GARCIA",
+      "title": "INFLUENCIA Canciones de Charly Vuelve a Medioevo",
       "category": "Música",
       "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/-2026-09-29-35-43",
-      "blurb": "INFLUENCIA CANCIONES DE CHARLY GARCIA",
+      "blurb": "INFLUENCIA Canciones de Charly Vuelve a Medioevo",
       "cancelled": false,
-      "source": "barilochense"
+      "source": "barilochense+barilochense"
     },
     {
       "date": "2026-10-02",
@@ -191,6 +191,16 @@
       "source": "barilochense"
     },
     {
+      "date": "2026-10-02",
+      "dateLabel": "Viernes 2 Octubre, 2026",
+      "title": "ENCUENTRO CORAL Primavera atómica - Viernes 2",
+      "category": "Música",
+      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/encuentro-coral-primavera-atmica-viernes-2-2026-09-30-10-46",
+      "blurb": "ENCUENTRO CORAL Primavera atómica - Viernes 2",
+      "cancelled": false,
+      "source": "barilochense"
+    },
+    {
       "date": "2026-10-03",
       "dateLabel": "Sábado 3 Octubre, 2026",
       "title": "AVE FENIX EN BARILOCHE",
@@ -207,6 +217,26 @@
       "category": "Música",
       "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/cre-arte/ciclo-puertas-de-cre-arte-presenta-refugio-2026-09-25-35-30",
       "blurb": "Ciclo Puertas de Cre-arte presenta Refugio",
+      "cancelled": false,
+      "source": "barilochense"
+    },
+    {
+      "date": "2026-10-03",
+      "dateLabel": "Sábado 3 Octubre, 2026",
+      "title": "Clú Social Murga Canción",
+      "category": "Música",
+      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/casa-macacha/cl-social-murga-cancin-2026-09-30-22-52",
+      "blurb": "Clú Social Murga Canción",
+      "cancelled": false,
+      "source": "barilochense"
+    },
+    {
+      "date": "2026-10-03",
+      "dateLabel": "Sábado 3 Octubre, 2026",
+      "title": "Hombre vivo",
+      "category": "Música",
+      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/hombre-vivo-2026-09-30-20-13",
+      "blurb": "Hombre vivo",
       "cancelled": false,
       "source": "barilochense"
     },
@@ -241,12 +271,42 @@
       "source": "barilochense"
     },
     {
+      "date": "2026-10-03",
+      "dateLabel": "Sábado 3 Octubre, 2026",
+      "title": "ENCUENTRO CORAL Primavera atómica - Sábado 3",
+      "category": "Música",
+      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/encuentro-coral-primavera-atmica-sbado-3-2026-09-30-12-11",
+      "blurb": "ENCUENTRO CORAL Primavera atómica - Sábado 3",
+      "cancelled": false,
+      "source": "barilochense"
+    },
+    {
       "date": "2026-10-04",
       "dateLabel": "Domingo 4 Octubre, 2026",
       "title": "ENCUENTRO PRIMAVERA",
       "category": "Expo",
       "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/la-biblio/encuentro-primavera-2026-09-29-44-12",
       "blurb": "ENCUENTRO PRIMAVERA",
+      "cancelled": false,
+      "source": "barilochense"
+    },
+    {
+      "date": "2026-10-04",
+      "dateLabel": "Domingo 4 Octubre, 2026",
+      "title": "Influencia - Canciones de Charly por 1° vez en Inefable",
+      "category": "Música",
+      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/b-shows/influencia-canciones-de-charly-por-1-vez-en-inefable-2026-09-29-36-50",
+      "blurb": "Influencia - Canciones de Charly por 1° vez en Inefable",
+      "cancelled": false,
+      "source": "barilochense"
+    },
+    {
+      "date": "2026-10-04",
+      "dateLabel": "Domingo 4 Octubre, 2026",
+      "title": "Títeres en la biblio",
+      "category": "Títeres",
+      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/aime-paine/tteres-en-la-biblio-2026-09-29-51-37",
+      "blurb": "Títeres en la biblio",
       "cancelled": false,
       "source": "barilochense"
     },
@@ -277,6 +337,16 @@
       "category": "Teatro",
       "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/nevadas-de-teatro/harinera-te-ganars-el-pan-con-el-sudor-de-tu-frente-nevadas-escnicas-2026-2026-09-23-56-35",
       "blurb": "HARINERA, TE GANARÁS EL PAN CON EL SUDOR DE TU FRENTE - Nevadas Escénicas 2026",
+      "cancelled": false,
+      "source": "barilochense"
+    },
+    {
+      "date": "2026-10-08",
+      "dateLabel": "Jueves 8 Octubre, 2026",
+      "title": "Tango Alquimia",
+      "category": "Tango",
+      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/bibliotecasarmiento/tango-alquimia-2026-09-30-33-17",
+      "blurb": "Tango Alquimia",
       "cancelled": false,
       "source": "barilochense"
     },
@@ -409,7 +479,17 @@
       "blurb": "SUAVECITA - Nevadas Escénicas 2026",
       "cancelled": false,
       "source": "barilochense"
+    },
+    {
+      "date": "2026-10-13",
+      "dateLabel": "Martes 13 Octubre, 2026",
+      "title": "ARIEL JUANA DUO DE JAZZ",
+      "category": "Música",
+      "url": "https://www.barilochense.com/espacios-de-shows-y-espectaculos/agenda/ariel-juana-duo-de-jazz-2026-09-30-18-04",
+      "blurb": "ARIEL JUANA DUO DE JAZZ",
+      "cancelled": false,
+      "source": "barilochense"
     }
   ],
-  "allCount": 98
+  "allCount": 107
 }
