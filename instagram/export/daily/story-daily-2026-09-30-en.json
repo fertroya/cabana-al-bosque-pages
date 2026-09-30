@@ -1,0 +1,27 @@
+{
+  "id": "story-daily-2026-09-30-en",
+  "locale": "en",
+  "format": "video",
+  "hasAudio": true,
+  "musicTrack": "modern-pop-pulse.mp3",
+  "musicSource": "fallback",
+  "copySource": "balc",
+  "mode": "promo-balc",
+  "energy": "hook",
+  "layout": "top-focus",
+  "pace": "lively",
+  "usesWeather": false,
+  "availability": {
+    "nights": 81,
+    "start": "2026-10-04",
+    "end": "2026-12-24"
+  },
+  "photo": "balc/balc-para-los-mas-chicos.jpg",
+  "theme": "gastronomia",
+  "weather": null,
+  "weatherBadge": null,
+  "title": "A family plan",
+  "subtitle": "Shows for kids plus two bedrooms with real space. Free tickets — link in bio.",
+  "eyebrow": "BALC for kids",
+  "cta": "Book → link in bio"
+}
