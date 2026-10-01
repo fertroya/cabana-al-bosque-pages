@@ -1,0 +1,27 @@
+{
+  "id": "story-daily-2026-10-01-en",
+  "locale": "en",
+  "format": "video",
+  "hasAudio": true,
+  "musicTrack": "modern-rising-house.mp3",
+  "musicSource": "fallback",
+  "copySource": "balc",
+  "mode": "promo-balc",
+  "energy": "hook",
+  "layout": "cinema-bar",
+  "pace": "lively",
+  "usesWeather": false,
+  "availability": {
+    "nights": 81,
+    "start": "2026-10-04",
+    "end": "2026-12-24"
+  },
+  "photo": "balc/bg-video-balc-2026.jpg",
+  "theme": "gastronomia",
+  "weather": null,
+  "weatherBadge": null,
+  "title": "BALC is close",
+  "subtitle": "Oct 5–12. Book now: open dates and tickets included for guests — link in bio.",
+  "eyebrow": "Countdown",
+  "cta": "Book → link in bio"
+}
