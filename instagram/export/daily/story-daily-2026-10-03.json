@@ -1,0 +1,27 @@
+{
+  "id": "story-daily-2026-10-03",
+  "locale": "es",
+  "format": "video",
+  "hasAudio": true,
+  "musicTrack": "modern-dance-pop.mp3",
+  "musicSource": "fallback",
+  "copySource": "balc",
+  "mode": "promo-balc",
+  "energy": "hook",
+  "layout": "editorial-left",
+  "pace": "lively",
+  "usesWeather": false,
+  "availability": {
+    "nights": 81,
+    "start": "2026-10-04",
+    "end": "2026-12-24"
+  },
+  "photo": "balc/img-destacada-balc.jpg",
+  "theme": "gastronomia",
+  "weather": null,
+  "weatherBadge": null,
+  "title": "Más de 90 menús especiales",
+  "subtitle": "Restaurantes, bares y cervecerías a precio promo. Base en la cabaña + entradas BALC de regalo — mirá el bio.",
+  "eyebrow": "Circuito gastronómico",
+  "cta": "Reservá → link en bio"
+}
