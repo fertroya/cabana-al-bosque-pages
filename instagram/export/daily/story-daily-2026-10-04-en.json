@@ -1,0 +1,27 @@
+{
+  "id": "story-daily-2026-10-04-en",
+  "locale": "en",
+  "format": "video",
+  "hasAudio": true,
+  "musicTrack": "modern-tech-house.mp3",
+  "musicSource": "fallback",
+  "copySource": "balc",
+  "mode": "promo-balc",
+  "energy": "hook",
+  "layout": "classic",
+  "pace": "lively",
+  "usesWeather": false,
+  "availability": {
+    "nights": 81,
+    "start": "2026-10-04",
+    "end": "2026-12-24"
+  },
+  "photo": "balc/bariloche-lago.jpg",
+  "theme": "gastronomia",
+  "weather": null,
+  "weatherBadge": null,
+  "title": "Right when we're open",
+  "subtitle": "BALC week lines up with open nights at the cabin. Free tickets if you book with us — link in bio.",
+  "eyebrow": "October 5–12",
+  "cta": "Book → link in bio"
+}
