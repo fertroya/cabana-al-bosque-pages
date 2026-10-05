@@ -1,0 +1,27 @@
+{
+  "id": "story-daily-2026-10-05-en",
+  "locale": "en",
+  "format": "video",
+  "hasAudio": true,
+  "musicTrack": "modern-trap-electro.mp3",
+  "musicSource": "fallback",
+  "copySource": "balc",
+  "mode": "promo-balc",
+  "energy": "hook",
+  "layout": "editorial-left",
+  "pace": "lively",
+  "usesWeather": false,
+  "availability": {
+    "nights": 80,
+    "start": "2026-10-05",
+    "end": "2026-12-24"
+  },
+  "photo": "balc/feria-balc-2.jpg",
+  "theme": "gastronomia",
+  "weather": null,
+  "weatherBadge": null,
+  "title": "Oct 9–12 by the lake",
+  "subtitle": "Producers and chefs at the Civic Center. You sleep away from the noise — BALC tickets included.",
+  "eyebrow": "Fair · Civic Center",
+  "cta": "Book → link in bio"
+}
