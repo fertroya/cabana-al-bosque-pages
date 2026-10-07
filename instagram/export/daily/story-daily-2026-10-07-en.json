@@ -1,0 +1,27 @@
+{
+  "id": "story-daily-2026-10-07-en",
+  "locale": "en",
+  "format": "video",
+  "hasAudio": true,
+  "musicTrack": "modern-pop-pulse.mp3",
+  "musicSource": "fallback",
+  "copySource": "balc",
+  "mode": "promo-balc",
+  "energy": "hook",
+  "layout": "top-focus",
+  "pace": "lively",
+  "usesWeather": false,
+  "availability": {
+    "nights": 78,
+    "start": "2026-10-07",
+    "end": "2026-12-24"
+  },
+  "photo": "balc/cocineros-2026.jpg",
+  "theme": "gastronomia",
+  "weather": null,
+  "weatherBadge": null,
+  "title": "Dinners that won't repeat",
+  "subtitle": "Local chefs plus guests from Argentina, Brazil and Chile. Then back to the fireplace — tickets included.",
+  "eyebrow": "Pop-ups & chefs",
+  "cta": "Book → link in bio"
+}
