@@ -1,0 +1,27 @@
+{
+  "id": "story-daily-2026-10-08",
+  "locale": "es",
+  "format": "video",
+  "hasAudio": true,
+  "musicTrack": "modern-rising-house.mp3",
+  "musicSource": "fallback",
+  "copySource": "balc",
+  "mode": "promo-balc",
+  "energy": "hook",
+  "layout": "cinema-bar",
+  "pace": "lively",
+  "usesWeather": false,
+  "availability": {
+    "nights": 77,
+    "start": "2026-10-08",
+    "end": "2026-12-24"
+  },
+  "photo": "balc/clases-magistrales.jpg",
+  "theme": "gastronomia",
+  "weather": null,
+  "weatherBadge": null,
+  "title": "Aprendé en la Feria BALC",
+  "subtitle": "Clases magistrales en el escenario principal. Base cómoda a 20′ del centro — link en bio.",
+  "eyebrow": "Clases de cocina",
+  "cta": "Reservá → link en bio"
+}
