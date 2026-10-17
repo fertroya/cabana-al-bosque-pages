@@ -1,0 +1,27 @@
+{
+  "id": "story-daily-2026-10-17-en",
+  "locale": "en",
+  "format": "video",
+  "hasAudio": true,
+  "musicTrack": "modern-dance-pop.mp3",
+  "musicSource": "fallback",
+  "copySource": "fallback",
+  "mode": "promo-libres",
+  "energy": "hook",
+  "layout": "editorial-left",
+  "pace": "lively",
+  "usesWeather": false,
+  "availability": {
+    "nights": 68,
+    "start": "2026-10-17",
+    "end": "2026-12-24"
+  },
+  "photo": "galeria/instagrameables/img-9284.jpg",
+  "theme": "cabaña",
+  "weather": null,
+  "weatherBadge": null,
+  "title": "Nights like these don't last",
+  "subtitle": "Oct 17 – Dec 23. The same cabin guests rate 9.9 on Booking — reserve via the link in bio.",
+  "eyebrow": "9.9 on Booking",
+  "cta": "Book → link in bio"
+}
