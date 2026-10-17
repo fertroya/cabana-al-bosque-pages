@@ -20,15 +20,15 @@
     {
       "id": "informa",
       "url": "https://barilocheinforma.gob.ar/walter-cortes-presento-una-fiesta-de-la-nieve-que-recupera-las-tradiciones-y-celebra-la-identidad-de-bariloche/",
-      "count": 11
+      "error": "fetch failed"
     }
   ],
-  "fetchedAt": "2026-10-16T15:04:34.680Z",
+  "fetchedAt": "2026-10-17T13:59:54.519Z",
   "window": {
-    "from": "2026-10-16",
-    "to": "2026-10-29",
+    "from": "2026-10-17",
+    "to": "2026-10-30",
     "days": 14
   },
   "events": [],
-  "allCount": 34
+  "allCount": 23
 }
