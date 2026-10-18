@@ -1,0 +1,27 @@
+{
+  "id": "story-daily-2026-10-18",
+  "locale": "es",
+  "format": "video",
+  "hasAudio": true,
+  "musicTrack": "modern-tech-house.mp3",
+  "musicSource": "fallback",
+  "copySource": "fallback",
+  "mode": "promo-libres",
+  "energy": "vivaz",
+  "layout": "classic",
+  "pace": "lively",
+  "usesWeather": false,
+  "availability": {
+    "nights": 67,
+    "start": "2026-10-18",
+    "end": "2026-12-24"
+  },
+  "photo": "galeria/instagrameables/img-9313.jpg",
+  "theme": "cabaña",
+  "weather": null,
+  "weatherBadge": null,
+  "title": "Barra de desayuno",
+  "subtitle": "Luz cálida, vista al verde y silencio de verdad: la cabaña es el plan.",
+  "eyebrow": "Cabaña al Bosque · domingo, 18 oct",
+  "cta": "Reservá → link en bio"
+}
