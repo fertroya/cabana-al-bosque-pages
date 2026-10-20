@@ -13,22 +13,17 @@
       "count": 20
     },
     {
-      "id": "turismo",
-      "url": "https://barilocheturismo.gob.ar/es/eventos",
-      "count": 3
-    },
-    {
       "id": "informa",
       "url": "https://barilocheinforma.gob.ar/walter-cortes-presento-una-fiesta-de-la-nieve-que-recupera-las-tradiciones-y-celebra-la-identidad-de-bariloche/",
       "count": 11
     }
   ],
-  "fetchedAt": "2026-10-19T17:16:07.682Z",
+  "fetchedAt": "2026-10-20T15:29:18.066Z",
   "window": {
-    "from": "2026-10-19",
-    "to": "2026-11-01",
+    "from": "2026-10-20",
+    "to": "2026-11-02",
     "days": 14
   },
   "events": [],
-  "allCount": 34
+  "allCount": 31
 }
