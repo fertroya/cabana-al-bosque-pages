@@ -1,0 +1,27 @@
+{
+  "id": "story-daily-2026-10-22",
+  "locale": "es",
+  "format": "video",
+  "hasAudio": true,
+  "musicTrack": "modern-rising-house.mp3",
+  "musicSource": "fallback",
+  "copySource": "fallback",
+  "mode": "promo-libres",
+  "energy": "vivaz",
+  "layout": "cinema-bar",
+  "pace": "lively",
+  "usesWeather": false,
+  "availability": {
+    "nights": 63,
+    "start": "2026-10-22",
+    "end": "2026-12-24"
+  },
+  "photo": "galeria/instagrameables/denoche-7851.jpg",
+  "theme": "noche",
+  "weather": null,
+  "weatherBadge": null,
+  "title": "Noche en la hamaca",
+  "subtitle": "Luz cálida, vista al verde y silencio de verdad: la cabaña es el plan.",
+  "eyebrow": "Cabaña al Bosque · jueves, 22 oct",
+  "cta": "Reservá → link en bio"
+}
