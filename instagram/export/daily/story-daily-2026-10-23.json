@@ -1,0 +1,27 @@
+{
+  "id": "story-daily-2026-10-23",
+  "locale": "es",
+  "format": "video",
+  "hasAudio": true,
+  "musicTrack": "upbeat-indie-pop.mp3",
+  "musicSource": "fallback",
+  "copySource": "fallback",
+  "mode": "promo-libres",
+  "energy": "hook",
+  "layout": "classic",
+  "pace": "lively",
+  "usesWeather": false,
+  "availability": {
+    "nights": 62,
+    "start": "2026-10-23",
+    "end": "2026-12-24"
+  },
+  "photo": "galeria/instagrameables/bano-banera.jpg",
+  "theme": "cabaña",
+  "weather": null,
+  "weatherBadge": null,
+  "title": "Baño con bañera y vista al bosque",
+  "subtitle": "Bañera, luz suave y la vista quieta del otro lado del vidrio — sin apuro.",
+  "eyebrow": "Cabaña al Bosque · viernes, 23 oct",
+  "cta": "Reservá → link en bio"
+}
