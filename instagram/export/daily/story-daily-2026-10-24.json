@@ -1,0 +1,27 @@
+{
+  "id": "story-daily-2026-10-24",
+  "locale": "es",
+  "format": "video",
+  "hasAudio": true,
+  "musicTrack": "modern-dance-pop.mp3",
+  "musicSource": "fallback",
+  "copySource": "fallback",
+  "mode": "promo-libres",
+  "energy": "vivaz",
+  "layout": "editorial-left",
+  "pace": "lively",
+  "usesWeather": false,
+  "availability": {
+    "nights": 61,
+    "start": "2026-10-24",
+    "end": "2026-12-24"
+  },
+  "photo": "galeria/instagrameables/img-9293.jpg",
+  "theme": "cabaña",
+  "weather": null,
+  "weatherBadge": null,
+  "title": "Despertar con vista a los pinos",
+  "subtitle": "Cama, ventana y pinos afuera: despertás con el verde del otro lado del vidrio.",
+  "eyebrow": "Cabaña al Bosque · sábado, 24 oct",
+  "cta": "Reservá → link en bio"
+}
