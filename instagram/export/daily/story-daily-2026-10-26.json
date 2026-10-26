@@ -1,0 +1,27 @@
+{
+  "id": "story-daily-2026-10-26",
+  "locale": "es",
+  "format": "video",
+  "hasAudio": true,
+  "musicTrack": "modern-trap-electro.mp3",
+  "musicSource": "fallback",
+  "copySource": "fallback",
+  "mode": "promo-libres",
+  "energy": "vivaz",
+  "layout": "editorial-left",
+  "pace": "lively",
+  "usesWeather": false,
+  "availability": {
+    "nights": 59,
+    "start": "2026-10-26",
+    "end": "2026-12-24"
+  },
+  "photo": "galeria/instagrameables/ventana-esquina-montana.jpg",
+  "theme": "cabaña",
+  "weather": null,
+  "weatherBadge": null,
+  "title": "Esquina con vista al cerro nevado",
+  "subtitle": "Luz cálida, vista al verde y silencio de verdad: la cabaña es el plan.",
+  "eyebrow": "Cabaña al Bosque · lunes, 26 oct",
+  "cta": "Reservá → link en bio"
+}
