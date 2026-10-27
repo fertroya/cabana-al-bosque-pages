@@ -1,0 +1,27 @@
+{
+  "id": "story-daily-2026-10-27-en",
+  "locale": "en",
+  "format": "video",
+  "hasAudio": true,
+  "musicTrack": "modern-future-bass.mp3",
+  "musicSource": "fallback",
+  "copySource": "fallback",
+  "mode": "promo-libres",
+  "energy": "hook",
+  "layout": "frosted-card",
+  "pace": "lively",
+  "usesWeather": false,
+  "availability": {
+    "nights": 58,
+    "start": "2026-10-27",
+    "end": "2026-12-24"
+  },
+  "photo": "galeria/instagrameables/img-9253.jpg",
+  "theme": "cabaña",
+  "weather": null,
+  "weatherBadge": null,
+  "title": "October still has room",
+  "subtitle": "Oct 27 – Dec 23 we're free. If you were looking for unhurried Patagonia, this is it — link in bio.",
+  "eyebrow": "A gap opened up",
+  "cta": "Book → link in bio"
+}

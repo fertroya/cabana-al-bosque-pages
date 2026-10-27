@@ -1,0 +1,27 @@
+{
+  "id": "story-daily-2026-10-27",
+  "locale": "es",
+  "format": "video",
+  "hasAudio": true,
+  "musicTrack": "modern-future-bass.mp3",
+  "musicSource": "fallback",
+  "copySource": "fallback",
+  "mode": "promo-libres",
+  "energy": "hook",
+  "layout": "frosted-card",
+  "pace": "lively",
+  "usesWeather": false,
+  "availability": {
+    "nights": 58,
+    "start": "2026-10-27",
+    "end": "2026-12-24"
+  },
+  "photo": "galeria/instagrameables/img-9253.jpg",
+  "theme": "cabaña",
+  "weather": null,
+  "weatherBadge": null,
+  "title": "Despertar con vista al cerro",
+  "subtitle": "Cama, ventana y pinos afuera: despertás con el verde del otro lado del vidrio.",
+  "eyebrow": "Cabaña al Bosque · martes, 27 oct",
+  "cta": "Reservá → link en bio"
+}
