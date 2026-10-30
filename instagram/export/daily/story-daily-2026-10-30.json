@@ -1,0 +1,27 @@
+{
+  "id": "story-daily-2026-10-30",
+  "locale": "es",
+  "format": "video",
+  "hasAudio": true,
+  "musicTrack": "upbeat-indie-pop.mp3",
+  "musicSource": "fallback",
+  "copySource": "fallback",
+  "mode": "promo-libres",
+  "energy": "vivaz",
+  "layout": "classic",
+  "pace": "lively",
+  "usesWeather": false,
+  "availability": {
+    "nights": 55,
+    "start": "2026-10-30",
+    "end": "2026-12-24"
+  },
+  "photo": "galeria/instagrameables/hogar-invierno.jpg",
+  "theme": "cabaña",
+  "weather": null,
+  "weatherBadge": null,
+  "title": "Living en invierno",
+  "subtitle": "Luz cálida, vista al verde y silencio de verdad: la cabaña es el plan.",
+  "eyebrow": "Cabaña al Bosque · viernes, 30 oct",
+  "cta": "Reservá → link en bio"
+}
