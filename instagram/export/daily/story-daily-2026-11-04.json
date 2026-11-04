@@ -1,0 +1,27 @@
+{
+  "id": "story-daily-2026-11-04",
+  "locale": "es",
+  "format": "video",
+  "hasAudio": true,
+  "musicTrack": "modern-pop-pulse.mp3",
+  "musicSource": "fallback",
+  "copySource": "fallback",
+  "mode": "promo-libres",
+  "energy": "vivaz",
+  "layout": "top-focus",
+  "pace": "lively",
+  "usesWeather": false,
+  "availability": {
+    "nights": 50,
+    "start": "2026-11-04",
+    "end": "2026-12-24"
+  },
+  "photo": "galeria/instagrameables/img-9284.jpg",
+  "theme": "cabaña",
+  "weather": null,
+  "weatherBadge": null,
+  "title": "Escritorio y escalera",
+  "subtitle": "Luz cálida, vista al verde y silencio de verdad: la cabaña es el plan.",
+  "eyebrow": "Cabaña al Bosque · miércoles, 4 nov",
+  "cta": "Reservá → link en bio"
+}
