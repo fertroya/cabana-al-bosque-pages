@@ -1,0 +1,27 @@
+{
+  "id": "story-daily-2026-11-09-en",
+  "locale": "en",
+  "format": "video",
+  "hasAudio": true,
+  "musicTrack": "modern-pop-pulse.mp3",
+  "musicSource": "fallback",
+  "copySource": "fallback",
+  "mode": "promo-libres",
+  "energy": "hook",
+  "layout": "editorial-left",
+  "pace": "lively",
+  "usesWeather": false,
+  "availability": {
+    "nights": 45,
+    "start": "2026-11-09",
+    "end": "2026-12-24"
+  },
+  "photo": "galeria/instagrameables/img-9313.jpg",
+  "theme": "cabaña",
+  "weather": null,
+  "weatherBadge": null,
+  "title": "The kitchen is already set",
+  "subtitle": "Nov 9 – Dec 23 open. Kitchen ready, Bariloche 20' away — book via the link in bio.",
+  "eyebrow": "Picture arriving",
+  "cta": "Book → link in bio"
+}
