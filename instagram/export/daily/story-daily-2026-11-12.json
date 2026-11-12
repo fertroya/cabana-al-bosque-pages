@@ -1,0 +1,27 @@
+{
+  "id": "story-daily-2026-11-12",
+  "locale": "es",
+  "format": "video",
+  "hasAudio": true,
+  "musicTrack": "modern-pop-pulse.mp3",
+  "musicSource": "fallback",
+  "copySource": "fallback",
+  "mode": "promo-libres",
+  "energy": "vivaz",
+  "layout": "cinema-bar",
+  "pace": "lively",
+  "usesWeather": false,
+  "availability": {
+    "nights": 42,
+    "start": "2026-11-12",
+    "end": "2026-12-24"
+  },
+  "photo": "galeria/instagrameables/img-9253.jpg",
+  "theme": "cabaña",
+  "weather": null,
+  "weatherBadge": null,
+  "title": "Despertar con vista al cerro",
+  "subtitle": "Cama, ventana y pinos afuera: despertás con el verde del otro lado del vidrio.",
+  "eyebrow": "Cabaña al Bosque · jueves, 12 nov",
+  "cta": "Reservá → link en bio"
+}
