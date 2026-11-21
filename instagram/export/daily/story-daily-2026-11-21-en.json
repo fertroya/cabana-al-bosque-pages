@@ -1,0 +1,27 @@
+{
+  "id": "story-daily-2026-11-21-en",
+  "locale": "en",
+  "format": "video",
+  "hasAudio": true,
+  "musicTrack": "modern-pop-pulse.mp3",
+  "musicSource": "fallback",
+  "copySource": "fallback",
+  "mode": "promo-libres",
+  "energy": "hook",
+  "layout": "editorial-left",
+  "pace": "lively",
+  "usesWeather": false,
+  "availability": {
+    "nights": 33,
+    "start": "2026-11-21",
+    "end": "2026-12-24"
+  },
+  "photo": "galeria/instagrameables/hogar-invierno.jpg",
+  "theme": "cabaña",
+  "weather": null,
+  "weatherBadge": null,
+  "title": "The living room is already tidy",
+  "subtitle": "Nov 21 – Dec 23 open. Fireplace, pines, Bariloche 20' away — book via the link in bio.",
+  "eyebrow": "Picture arriving",
+  "cta": "Book → link in bio"
+}
