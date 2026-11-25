@@ -1,0 +1,27 @@
+{
+  "id": "story-daily-2026-11-25",
+  "locale": "es",
+  "format": "video",
+  "hasAudio": true,
+  "musicTrack": "modern-pop-pulse.mp3",
+  "musicSource": "fallback",
+  "copySource": "fallback",
+  "mode": "promo-libres",
+  "energy": "hook",
+  "layout": "top-focus",
+  "pace": "lively",
+  "usesWeather": false,
+  "availability": {
+    "nights": 29,
+    "start": "2026-11-25",
+    "end": "2026-12-24"
+  },
+  "photo": "galeria/instagrameables/dormitorio-listo.jpg",
+  "theme": "cabaña",
+  "weather": null,
+  "weatherBadge": null,
+  "title": "Dormitorio listo para huéspedes",
+  "subtitle": "Cama, ventana y pinos afuera: despertás con el verde del otro lado del vidrio.",
+  "eyebrow": "Cabaña al Bosque · miércoles, 25 nov",
+  "cta": "Reservá → link en bio"
+}
